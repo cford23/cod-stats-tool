@@ -8,7 +8,14 @@
         {% extends "template.html" %}
         {% block content %}
 
-        <p>This is where to display stats.</p>
+        <p>This is where to view stats.</p>
+
+        <div class="results">
+            <h1>Query results</h1>
+            {% for table in tables %}
+                {{ table|safe }}
+            {% endfor %}
+        </div>
 
         {% endblock %}
     </body>

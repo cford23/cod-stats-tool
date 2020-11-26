@@ -9,10 +9,6 @@
         {% block content %}
 
         <p>This is where to record stats.</p>
-        {% for table in tables %}
-            {{ titles[loop.index] }}
-            {{ table|safe }}
-        {% endfor %}
 
         {% endblock %}
     </body>
