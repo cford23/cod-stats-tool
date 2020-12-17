@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-class Schema:
+class CoDStats:
 
     def __init__(self):
         self.matches = pd.read_csv("data/matches.csv")
@@ -9,3 +9,13 @@ class Schema:
 
     def getTeamMatches(self, team):
         return self.matches[(self.matches['Team 1'] == team) | (self.matches['Team 2'] == team)]
+
+    def getTeamOppMatches(self, team, opponent):
+        return self.matches[((self.matches['Team 1'] == team) & (self.matches['Team 2'] == opponent)) |
+                            ((self.matches['Team 2'] == team) & (self.matches['Team 1'] == opponent))]
+
+    def getAllMatches(self):
+        return self.matches
+
+    def getTeamWins(self, team):
+        return self.matches[self.matches['Winner'] == team]
