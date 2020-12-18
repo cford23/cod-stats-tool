@@ -16,7 +16,12 @@ def viewStats():
     if request.method == "POST":
         team = request.form.get("team")
         opponent = request.form.get("opponent")
-        results = CoDStats().getTeamOppMatches(team, opponent)
+        if team != "All" and opponent == "All":
+            results = CoDStats().getTeamMatches(team)
+        elif team != "All" and opponent != "All":
+            results = CoDStats().getTeamOppMatches(team, opponent)
+        else:
+            results = CoDStats().getAllMatches()
     else:
         results = CoDStats().getAllMatches()
     return render_template("viewStats.html", tables=[results.to_html(classes="data")])

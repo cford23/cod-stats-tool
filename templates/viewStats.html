@@ -11,13 +11,45 @@
         <p>This is where to view stats.</p>
 
         <form action='{{ url_for("viewStats") }}' method="post">
-            <input type="text" id="team" name="team" placeholder="Team">
-            <input type="text" id="opponent" name="opponent" placeholder="Opponent">
+            Team
+            <select id="team" name="team">
+                <option value="All">All</option>
+                <option value="Atlanta FaZe">Atlanta FaZe</option>
+                <option value="Chicago Huntsmen">Chicago Huntsmen</option>
+                <option value="Dallas Empire">Dallas Empire</option>
+                <option value="Florida Mutineers">Florida Mutineers</option>
+                <option value="London Royal Ravens">London Royal Ravens</option>
+                <option value="Los Angeles Guerrillas">Los Angeles Guerrillas</option>
+                <option value="Minnesota Rokkr">Minnesota Rokkr</option>
+                <option value="New York Subliners">New York Subliners</option>
+                <option value="OpTic Gaming Los Angeles">OpTic Gaming Los Angeles</option>
+                <option value="Paris Legion">Paris Legion</option>
+                <option value="Seattle Surge">Seattle Surge</option>
+                <option value="Toronto Ultra">Toronto Ultra</option>
+            </select>
+            Opponent
+            <select id="opponent" name="opponent">
+                <option value="All">All</option>
+                <option value="Atlanta FaZe">Atlanta FaZe</option>
+                <option value="Chicago Huntsmen">Chicago Huntsmen</option>
+                <option value="Dallas Empire">Dallas Empire</option>
+                <option value="Florida Mutineers">Florida Mutineers</option>
+                <option value="London Royal Ravens">London Royal Ravens</option>
+                <option value="Los Angeles Guerrillas">Los Angeles Guerrillas</option>
+                <option value="Minnesota Rokkr">Minnesota Rokkr</option>
+                <option value="New York Subliners">New York Subliners</option>
+                <option value="OpTic Gaming Los Angeles">OpTic Gaming Los Angeles</option>
+                <option value="Paris Legion">Paris Legion</option>
+                <option value="Seattle Surge">Seattle Surge</option>
+                <option value="Toronto Ultra">Toronto Ultra</option>
+            </select>
             <button type="submit">Search</button>
         </form>
 
+
+
         <div class="results">
-            <h1>Query results</h1>
+            <h1>Match query results</h1>
             {% for table in tables %}
                 {{ table|safe }}
             {% endfor %}

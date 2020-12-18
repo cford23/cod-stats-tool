@@ -14,6 +14,11 @@ class CoDStats:
         return self.matches[((self.matches['Team 1'] == team) & (self.matches['Team 2'] == opponent)) |
                             ((self.matches['Team 2'] == team) & (self.matches['Team 1'] == opponent))]
 
+    def getOverallRecord(self, team):
+        wins = 1
+        losses = 2
+        return wins, losses
+
     def getAllMatches(self):
         return self.matches
 
