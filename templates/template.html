@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
         <title>Flask Parent Template</title>
@@ -18,15 +17,29 @@
                             <a href="{{ url_for('statsEntry') }}">Stats Entry</a>
                         </li>
                         <li>
-                            <a href="{{ url_for('viewStats') }}">View Stats</a>
+                            <a href="{{ url_for('viewMatches') }}">View Matches</a>
+                        </li>
+                        <li>
+                            <a href="{{ url_for('viewMaps') }}">View Maps</a>
+                        </li>
+                        <li>
+                            <a href="{{ url_for('viewPlayers') }}">View Players</a>
+                        </li>
+                        <li>
+                            <a href="{{ url_for('matchupPreview') }}">Matchup Preview</a>
+                        </li>
+                        <li>
+                            <a href="{{ url_for('mapPreview') }}">Map Preview</a>
                         </li>
                     </ul>
                 </nav></strong>
             </div>
         </header>
 
-        {% block content %}
-        {% endblock %}
+        <center>
+            {% block content %}
+            {% endblock %}
+        </center>
 
-    </body>
+        </body>
 </html>

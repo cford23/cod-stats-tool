@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>CoD Stats Tool - Display Stats</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                width: 85%;
+            }
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: center;
+                padding: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        {% extends "template.html" %}
+        {% block content %}
+
+        <br>
+        <form action='{{ url_for("mapPreview") }}' method="post">
+            Team 1
+            <select id="team1" name="team1">
+                {% for team in stats.teams %}
+                    <option value="{{ team }}">{{ team }}</option>
+                {% endfor %}
+            </select>
+            Team 2
+            <select id="team2" name="team2">
+                {% for team in stats.teams %}
+                    <option value="{{ team }}">{{ team }}</option>
+                {% endfor %}
+            </select>
+            <br><br>
+            Map 1
+            <select id="map1" name="map1">
+                {% for map in stats.modeMaps[0] %}
+                    <option value="{{ map }}">{{ map }}</option>
+                {% endfor %}
+            </select>
+            Map 2
+            <select id="map2" name="map2">
+                {% for map in stats.modeMaps[1] %}
+                    <option value="{{ map }}">{{ map }}</option>
+                {% endfor %}
+            </select>
+            Map 3
+            <select id="map3" name="map3">
+                {% for map in stats.modeMaps[2] %}
+                    <option value="{{ map }}">{{ map }}</option>
+                {% endfor %}
+            </select>
+            Map 4
+            <select id="map4" name="map4">
+                {% for map in stats.modeMaps[0] %}
+                    <option value="{{ map }}">{{ map }}</option>
+                {% endfor %}
+            </select>
+            Map 5
+            <select id="map5" name="map5">
+                {% for map in stats.modeMaps[1] %}
+                    <option value="{{ map }}">{{ map }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Search</button>
+        </form>
+
+        <h2>Map Preview</h2>
+        <h3>{{ team1.name }} vs {{ team2.name }}</h3>
+
+        <table>
+            <tr>
+                <th colspan="2"></th>
+                <th colspan="2">{{ team1.name }}</th>
+                <th colspan="2">Head to Head</th>
+                <th colspan="2">{{ team2.name }}</th>
+            </tr>
+            <tr>
+                <th>Mode</th>
+                <th>Map</th>
+                <th>Wins</th>
+                <th>Losses</th>
+                <th>Team 1 Wins</th>
+                <th>Team 2 Wins</th>
+                <th>Wins</th>
+                <th>Losses</th>
+            </tr>
+            <tr>
+                <td>{{ stats.modes[0] }}</td>
+                <td>{{ maps[0] }}</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>{{ stats.modes[1] }}</td>
+                <td>{{ maps[1] }}</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>{{ stats.modes[2] }}</td>
+                <td>{{ maps[2] }}</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>{{ stats.modes[0] }}</td>
+                <td>{{ maps[3] }}</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>{{ stats.modes[1] }}</td>
+                <td>{{ maps[4] }}</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+        </table>
+
+        {% endblock %}
+    </body>
+</html>

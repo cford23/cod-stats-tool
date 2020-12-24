@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>CoD Stats Tool - Display Stats</title>
+    </head>
+    <body>
+        {% extends "template.html" %}
+        {% block content %}
+
+        <br>
+        <form action='{{ url_for("viewPlayers") }}' method="post">
+            Player
+            <select id="player" name="player">
+                {% for player in players %}
+                    <option value="{{ player }}">{{ player }}</option>
+                {% endfor %}
+            </select>
+
+            Team <!-- Fill with unique team values -->
+            <select id="team" name="team">
+                <option value="Current Team">Current Team</option>
+                <option value="Former Team">Former Team</option>
+            </select>
+
+            Event <!-- Doesn't have Event column so can't test this -->
+            <select id="event" name="event">
+                <option value="Event 1">Event 1</option>
+                <option value="Event 2">Event 2</option>
+            </select>
+
+            Mode <!-- Get unique modes from maps so code is more dynamic -->
+            <select id="mode" name="mode">
+                <option value="All">All</option>
+                <option value="Hardpoint">Hardpoint</option>
+                <option value="Search and Destroy">Search and Destroy</option>
+                <option value="Domination">Domination</option>
+            </select>
+            <button type="submit">Search</button>
+        </form>
+
+        <h2>Player Stats for {{ player }}</h2>
+        <h4>Kills: {{ kills }}</h4>
+        <h4>Deaths: {{ deaths }}</h4>
+        <h4>K/D: {{ kd }}</h4>
+
+        {% endblock %}
+    </body>
+</html>
