@@ -8,7 +8,25 @@
         {% extends "template.html" %}
         {% block content %}
 
-        <p>This is the home page for the CoD Stats Tool.</p>
+        <div id="tab-descriptions">
+            <h2>View Matches</h2>
+            <p>Filter matches by Team, Opponent, and/or Event. If Opponent is specified (value is not All) but a Team isn't specified, then all match results will be displayed regardless of if Event is specified.</p>
+            <h2>View Maps</h2>
+            <p>Filter match maps by Team, Opponent, Event, Mode, and/or Map.</p>
+            <h2>View Players</h2>
+            <p>Filter player results by Player and Team, Opponent, Event, Mode, and/or Map.</p>
+            <p>NOTE: To filter player data based on Team and/or Event, search with 'All' first. After that, the player's teams and events will display in their respective dropdown.</p>
+            <h2>Matchup Preview</h2>
+            <p>Compare records of two teams for Overall Record, Map Record, and records for each game mode. Head To Head contains records between the two selected teams for the previously listed records.</p>
+            <h2>Map Preview</h2>
+            <p>Compare records of two teams for a given mode and map combination. Wins and Losses are for that mode and map while Head To Head displays record for that mode and map against the specified team.</p>
+            <h2>Leaderboards</h2>
+            <h4>Team Leaderboard</h4>
+            <p>Displays Match Win Percent, Map Win Percent, and Team K/D for each team and ranks them among other teams. Can be sorted by Opponent and Event, and Mode and Map if the leaderboard is either Map Win Percent or Team K/D.</p>
+            <h4>Player Leaderboard</h4>
+            <p>Displays a variety of stats for a player and compared to other players. Can sort by Team, Opponent, Event, Mode, and Map.</p>
+            <p>NOTE: Not all player data has been recorded. Current data recorded includes Launch Weekend through Dallas Home Series. If sorting by event, selecting an event not in this range will result in an empty list.</p>
+        </div>
 
         {% endblock %}
     </body>

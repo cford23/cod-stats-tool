@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>CoD Stats Tool - Display Stats</title>
+        <title>CoD Stats Tool - Matchup Preview</title>
         <style>
             table {
                 border-collapse: collapse;
@@ -18,26 +18,24 @@
     <body>
         {% extends "template.html" %}
         {% block content %}
-
         <br>
         <form action='{{ url_for("matchupPreview") }}' method="post">
             Team 1
             <select id="team1" name="team1">
                 {% for team in stats.teams %}
-                    <option value="{{ team }}">{{ team }}</option>
+                    <option value="{{ team }}" {% if selectedItems[0] == team %} selected {% endif %}>{{ team }}</option>
                 {% endfor %}
             </select>
             Team 2
             <select id="team2" name="team2">
                 {% for team in stats.teams %}
-                    <option value="{{ team }}">{{ team }}</option>
+                    <option value="{{ team }}" {% if selectedItems[1] == team %} selected {% endif %}>{{ team }}</option>
                 {% endfor %}
             </select>
             <button type="submit">Search</button>
         </form>
 
         <h2>Matchup Preview</h2>
-        <h3>{{ team1.name }} vs {{ team2.name }}</h3>
 
         <table>
             <tr>
@@ -59,8 +57,8 @@
                 <td>Overall Record</td>
                 <td>{{ team1.wins }}</td>
                 <td>{{ team1.losses }}</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ results[team1.name][0] }}</td>
+                <td>{{ results[team2.name][0] }}</td>
                 <td>{{ team2.wins }}</td>
                 <td>{{ team2.losses }}</td>
             </tr>
@@ -68,8 +66,8 @@
                 <td>Map Record</td>
                 <td>{{ team1.mapWins }}</td>
                 <td>{{ team1.mapLosses }}</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ results[team1.name][1] }}</td>
+                <td>{{ results[team2.name][1] }}</td>
                 <td>{{ team2.mapWins }}</td>
                 <td>{{ team2.mapLosses }}</td>
             </tr>
@@ -77,8 +75,8 @@
                 <td>{{ stats.modes[0] }}</td>
                 <td>{{ team1.modeWins[0] }}</td>
                 <td>{{ team1.modeLosses[0] }}</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ results[team1.name][2] }}</td>
+                <td>{{ results[team2.name][2] }}</td>
                 <td>{{ team2.modeWins[0] }}</td>
                 <td>{{ team2.modeLosses[0] }}</td>
             </tr>
@@ -86,8 +84,8 @@
                 <td>{{ stats.modes[1] }}</td>
                 <td>{{ team1.modeWins[1] }}</td>
                 <td>{{ team1.modeLosses[1] }}</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ results[team1.name][3] }}</td>
+                <td>{{ results[team2.name][3] }}</td>
                 <td>{{ team2.modeWins[1] }}</td>
                 <td>{{ team2.modeLosses[1] }}</td>
             </tr>
@@ -95,8 +93,8 @@
                 <td>{{ stats.modes[2] }}</td>
                 <td>{{ team1.modeWins[2] }}</td>
                 <td>{{ team1.modeLosses[2] }}</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ results[team1.name][4] }}</td>
+                <td>{{ results[team2.name][4] }}</td>
                 <td>{{ team2.modeWins[2] }}</td>
                 <td>{{ team2.modeLosses[2] }}</td>
             </tr>

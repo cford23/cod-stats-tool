@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>CoD Stats Tool - Display Stats</title>
+        <title>CoD Stats Tool - Map Preview</title>
         <style>
             table {
                 border-collapse: collapse;
@@ -24,51 +24,50 @@
             Team 1
             <select id="team1" name="team1">
                 {% for team in stats.teams %}
-                    <option value="{{ team }}">{{ team }}</option>
+                    <option value="{{ team }}" {% if selectedItems[0] == team %} selected {% endif %}>{{ team }}</option>
                 {% endfor %}
             </select>
             Team 2
             <select id="team2" name="team2">
                 {% for team in stats.teams %}
-                    <option value="{{ team }}">{{ team }}</option>
+                    <option value="{{ team }}" {% if selectedItems[1] == team %} selected {% endif %}>{{ team }}</option>
                 {% endfor %}
             </select>
-            <br><br>
+            <br>
             Map 1
             <select id="map1" name="map1">
                 {% for map in stats.modeMaps[0] %}
-                    <option value="{{ map }}">{{ map }}</option>
+                    <option value="{{ map }}" {% if selectedItems[2][0] == map %} selected {% endif %}>{{ map }}</option>
                 {% endfor %}
             </select>
             Map 2
             <select id="map2" name="map2">
                 {% for map in stats.modeMaps[1] %}
-                    <option value="{{ map }}">{{ map }}</option>
+                    <option value="{{ map }}" {% if selectedItems[2][1] == map %} selected {% endif %}>{{ map }}</option>
                 {% endfor %}
             </select>
             Map 3
             <select id="map3" name="map3">
                 {% for map in stats.modeMaps[2] %}
-                    <option value="{{ map }}">{{ map }}</option>
+                    <option value="{{ map }}" {% if selectedItems[2][2] == map %} selected {% endif %}>{{ map }}</option>
                 {% endfor %}
             </select>
             Map 4
             <select id="map4" name="map4">
                 {% for map in stats.modeMaps[0] %}
-                    <option value="{{ map }}">{{ map }}</option>
+                    <option value="{{ map }}" {% if selectedItems[2][3] == map %} selected {% endif %}>{{ map }}</option>
                 {% endfor %}
             </select>
             Map 5
             <select id="map5" name="map5">
                 {% for map in stats.modeMaps[1] %}
-                    <option value="{{ map }}">{{ map }}</option>
+                    <option value="{{ map }}" {% if selectedItems[2][4] == map %} selected {% endif %}>{{ map }}</option>
                 {% endfor %}
             </select>
             <button type="submit">Search</button>
         </form>
 
         <h2>Map Preview</h2>
-        <h3>{{ team1.name }} vs {{ team2.name }}</h3>
 
         <table>
             <tr>
@@ -90,52 +89,52 @@
             <tr>
                 <td>{{ stats.modes[0] }}</td>
                 <td>{{ maps[0] }}</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ team1Records['wins'][0] }}</td>
+                <td>{{ team1Records['losses'][0] }}</td>
+                <td>{{ headToHead[team1.name][0] }}</td>
+                <td>{{ headToHead[team2.name][0] }}</td>
+                <td>{{ team2Records['wins'][0] }}</td>
+                <td>{{ team2Records['losses'][0] }}</td>
             </tr>
             <tr>
                 <td>{{ stats.modes[1] }}</td>
                 <td>{{ maps[1] }}</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ team1Records['wins'][1] }}</td>
+                <td>{{ team1Records['losses'][1] }}</td>
+                <td>{{ headToHead[team1.name][1] }}</td>
+                <td>{{ headToHead[team2.name][1] }}</td>
+                <td>{{ team2Records['wins'][1] }}</td>
+                <td>{{ team2Records['losses'][1] }}</td>
             </tr>
             <tr>
                 <td>{{ stats.modes[2] }}</td>
                 <td>{{ maps[2] }}</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ team1Records['wins'][2] }}</td>
+                <td>{{ team1Records['losses'][2] }}</td>
+                <td>{{ headToHead[team1.name][2] }}</td>
+                <td>{{ headToHead[team2.name][2] }}</td>
+                <td>{{ team2Records['wins'][2] }}</td>
+                <td>{{ team2Records['losses'][2] }}</td>
             </tr>
             <tr>
                 <td>{{ stats.modes[0] }}</td>
                 <td>{{ maps[3] }}</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ team1Records['wins'][3] }}</td>
+                <td>{{ team1Records['losses'][3] }}</td>
+                <td>{{ headToHead[team1.name][3] }}</td>
+                <td>{{ headToHead[team2.name][3] }}</td>
+                <td>{{ team2Records['wins'][3] }}</td>
+                <td>{{ team2Records['losses'][3] }}</td>
             </tr>
             <tr>
                 <td>{{ stats.modes[1] }}</td>
                 <td>{{ maps[4] }}</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
+                <td>{{ team1Records['wins'][4] }}</td>
+                <td>{{ team1Records['losses'][4] }}</td>
+                <td>{{ headToHead[team1.name][4] }}</td>
+                <td>{{ headToHead[team2.name][4] }}</td>
+                <td>{{ team2Records['wins'][4] }}</td>
+                <td>{{ team2Records['losses'][4] }}</td>
             </tr>
         </table>
 

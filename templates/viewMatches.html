@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>CoD Stats Tool - Display Stats</title>
+        <title>CoD Stats Tool - Matches</title>
     </head>
     <body>
         {% extends "template.html" %}
@@ -12,21 +12,33 @@
         <form action='{{ url_for("viewMatches") }}' method="post">
             Team
             <select id="team" name="team">
-                {% for team in teams %}
-                    <option value="{{ team }}">{{ team }}</option>
+                <option value="All" {% if selectedItems[0] =='' %} selected {% endif %}>All</option>
+                {% for team in stats.teams %}
+                    <option value="{{ team }}" {% if selectedItems[0] == team %} selected {% endif %}>{{ team }}</option>
                 {% endfor %}
             </select>
             Opponent
             <select id="opponent" name="opponent">
-                {% for team in teams %}
-                    <option value="{{ team }}">{{ team }}</option>
+                <option value="All" {% if selectedItems[1] =='' %} selected {% endif %}>All</option>
+                {% for team in stats.teams %}
+                    <option value="{{ team }}" {% if selectedItems[1] == team %} selected {% endif %}>{{ team }}</option>
+                {% endfor %}
+            </select>
+            Event
+            <select id="event" name="event">
+                <option value="All" {% if selectedItems[2] =='' %} selected {% endif %}>All</option>
+                {% for event in stats.events %}
+                    <option value="{{ event }}" {% if selectedItems[2] == event %} selected {% endif %}>{{ event }}</option>
                 {% endfor %}
             </select>
             <button type="submit">Search</button>
         </form>
 
         <div class="results">
-            <h1>Match query results</h1>
+            <h2>Match query results ({{ length }} {% if length == 1 %} result{% else %} results{% endif %})</h2>
+            {% if team in stats.teams %}
+                <h3>Wins: {{ wins }} &nbsp;&nbsp; Losses: {{ losses }}</h3>
+            {% endif %}
             {% for table in tables %}
                 {{ table|safe }}
             {% endfor %}

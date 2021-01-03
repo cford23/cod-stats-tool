@@ -1,187 +1,187 @@
 Match ID,Team 1,Team 2,Event,Round,Date,Team 1 Score,Team 2 Score,Winner
-1979,Chicago Huntsmen,Dallas Empire,Launch Weekend,None,1/24/20,3,1,Chicago Huntsmen
-1962,Seattle Surge,Florida Mutineers,Launch Weekend,None,1/24/20,2,3,Florida Mutineers
-1982,Los Angeles Guerrillas,Minnesota Rokkr,Launch Weekend,None,1/24/20,1,3,Minnesota Rokkr
-1936,New York Subliners,London Royal Ravens,Launch Weekend,None,1/25/20,0,3,London Royal Ravens
-1969,Seattle Surge,Toronto Ultra,Launch Weekend,None,1/25/20,2,3,Toronto Ultra
-1960,Los Angeles Guerrillas,Florida Mutineers,Launch Weekend,None,1/25/20,3,2,Los Angeles Guerrillas
-1932,Paris Legion,OpTic Gaming Los Angeles,Launch Weekend,None,1/25/20,3,2,Paris Legion
-1970,Dallas Empire,Atlanta FaZe,Launch Weekend,None,1/25/20,0,3,Atlanta FaZe
-1942,Paris Legion,London Royal Ravens,Launch Weekend,None,1/26/20,3,0,Paris Legion
-1934,Chicago Huntsmen,OpTic Gaming Los Angeles,Launch Weekend,None,1/26/20,3,0,Chicago Huntsmen
-1948,Atlanta FaZe,New York Subliners,Launch Weekend,None,1/26/20,3,1,Atlanta FaZe
-1965,Minnesota Rokkr,Toronto Ultra,Launch Weekend,None,1/26/20,3,1,Minnesota Rokkr
-2804,New York Subliners,Paris Legion,London 1,Winners Round 1,2/8/20,3,1,New York Subliners
-2802,Seattle Surge,Dallas Empire,London 1,Winners Round 1,2/8/20,0,3,Dallas Empire
-2803,Los Angeles Guerrillas,Chicago Huntsmen,London 1,Winners Round 1,2/8/20,0,3,Chicago Huntsmen
-2805,Toronto Ultra,London Royal Ravens,London 1,Winners Round 1,2/8/20,1,3,London Royal Ravens
-2846,Chicago Huntsmen,Dallas Empire,London 1,Qualifier,2/8/20,3,1,Chicago Huntsmen
-2858,London Royal Ravens,New York Subliners,London 1,Qualifier,2/8/20,3,2,London Royal Ravens
-2847,Los Angeles Guerrillas,Seattle Surge,London 1,Knockout 1,2/9/20,2,3,Seattle Surge
-2859,Toronto Ultra,Paris Legion,London 1,Knockout 1,2/9/20,1,3,Paris Legion
-2881,Seattle Surge,Dallas Empire,London 1,Knockout 2,2/9/20,1,3,Dallas Empire
-2883,Paris Legion,New York Subliners,London 1,Knockout 2,2/9/20,3,0,Paris Legion
-2887,Dallas Empire,London Royal Ravens,London 1,Semifinals,2/9/20,3,2,Dallas Empire
-2886,Paris Legion,Chicago Huntsmen,London 1,Semifinals,2/9/20,2,3,Chicago Huntsmen
-2888,Dallas Empire,Chicago Huntsmen,London 1,Finals,2/9/20,0,3,Chicago Huntsmen
-2891,Paris Legion,Minnesota Rokkr,Atlanta,Winners Round 1,2/22/20,1,3,Minnesota Rokkr
-2889,Florida Mutineers,London Royal Ravens,Atlanta,Winners Round 1,2/22/20,1,3,London Royal Ravens
-2892,Toronto Ultra,Chicago Huntsmen,Atlanta,Winners Round 1,2/22/20,2,3,Chicago Huntsmen
-2890,OpTic Gaming Los Angeles,Atlanta FaZe,Atlanta,Winners Round 1,2/22/20,0,3,Atlanta FaZe
-2983,Chicago Huntsmen,Minnesota Rokkr,Atlanta,Qualifier,2/22/20,3,1,Chicago Huntsmen
-2984,Toronto Ultra,Paris Legion,Atlanta,Knockout 1,2/22/20,1,3,Paris Legion
-3006,Atlanta FaZe,London Royal Ravens,Atlanta,Qualifier,2/22/20,3,1,Atlanta FaZe
-3007,OpTic Gaming Los Angeles,Florida Mutineers,Atlanta,Knockout 1,2/22/20,1,3,Florida Mutineers
-3030,Paris Legion,Minnesota Rokkr,Atlanta,Knockout 2,2/23/20,2,3,Minnesota Rokkr
-3041,Florida Mutineers,London Royal Ravens,Atlanta,Knockout 2,2/23/20,3,2,Florida Mutineers
-3050,Minnesota Rokkr,Atlanta FaZe,Atlanta,Semifinals,2/23/20,2,3,Atlanta FaZe
-3051,Florida Mutineers,Chicago Huntsmen,Atlanta,Semifinals,2/23/20,3,2,Florida Mutineers
-3054,Florida Mutineers,Atlanta FaZe,Atlanta,Finals,2/23/20,0,3,Atlanta FaZe
-3266,Florida Mutineers,Atlanta FaZe,Los Angeles,Winners Round 1,3/7/20,0,3,Atlanta FaZe
-3261,Seattle Surge,Minnesota Rokkr,Los Angeles,Winners Round 1,3/7/20,1,3,Minnesota Rokkr
-3267,New York Subliners,Dallas Empire,Los Angeles,Winners Round 1,3/7/20,1,3,Dallas Empire
-3262,OpTic Gaming Los Angeles,Los Angeles Guerrillas,Los Angeles,Winners Round 1,3/7/20,3,2,OpTic Gaming Los Angeles
-3268,Dallas Empire,Atlanta FaZe,Los Angeles,Qualifier,3/7/20,0,3,Atlanta FaZe
-3269,New York Subliners,Florida Mutineers,Los Angeles,Knockout 1,3/7/20,1,3,Florida Mutineers
-3263,OpTic Gaming Los Angeles,Minnesota Rokkr,Los Angeles,Qualifier,3/7/20,3,0,OpTic Gaming Los Angeles
-3264,Los Angeles Guerrillas,Seattle Surge,Los Angeles,Knockout 1,3/7/20,0,3,Seattle Surge
-3270,Florida Mutineers,Dallas Empire,Los Angeles,Knockout 2,3/8/20,0,3,Dallas Empire
-3265,Seattle Surge,Minnesota Rokkr,Los Angeles,Knockout 2,3/8/20,0,3,Minnesota Rokkr
-3267,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Semifinals,3/8/20,3,1,Dallas Empire
-3272,Minnesota Rokkr,Atlanta FaZe,Los Angeles,Semifinals,3/8/20,3,2,Minnesota Rokkr
-3273,Minnesota Rokkr,Dallas Empire,Los Angeles,Finals,3/8/20,2,3,Dallas Empire
-3279,Paris Legion,Seattle Surge,Dallas,Winners Round 1,4/10/20,3,2,Paris Legion
-3274,Toronto Ultra,Florida Mutineers,Dallas,Winners Round 1,4/10/20,3,2,Toronto Ultra
-3280,Minnesota Rokkr,Chicago Huntsmen,Dallas,Winners Round 1,4/10/20,0,3,Chicago Huntsmen
-3275,Los Angeles Guerrillas,Dallas Empire,Dallas,Winners Round 1,4/10/20,1,3,Dallas Empire
-3281,Chicago Huntsmen,Paris Legion,Dallas,Qualifier,4/11/20,3,1,Chicago Huntsmen
-3276,Dallas Empire,Toronto Ultra,Dallas,Qualifier,4/11/20,3,2,Dallas Empire
-3282,Minnesota Rokkr,Seattle Surge,Dallas,Knockout 1,4/11/20,3,2,Minnesota Rokkr
-3277,Los Angeles Guerrillas,Florida Mutineers,Dallas,Knockout 1,4/11/20,1,3,Florida Mutineers
-3283,Minnesota Rokkr,Paris Legion,Dallas,Knockout 2,4/11/20,3,1,Minnesota Rokkr
-3278,Florida Mutineers,Toronto Ultra,Dallas,Knockout 2,4/11/20,3,1,Florida Mutineers
-3284,Florida Mutineers,Chicago Huntsmen,Dallas,Semifinals,4/12/20,3,1,Florida Mutineers
-3285,Minnesota Rokkr,Dallas Empire,Dallas,Semifinals,4/12/20,3,1,Minnesota Rokkr
-3286,Minnesota Rokkr,Florida Mutineers,Dallas,Finals,4/12/20,1,3,Florida Mutineers
-3555,Atlanta FaZe,London Royal Ravens,Chicago,Winners Round 1,4/24/20,3,0,Atlanta FaZe
-3560,Los Angeles Guerrillas,Seattle Surge,Chicago,Winners Round 1,4/24/20,0,3,Seattle Surge
-3561,OpTic Gaming Los Angeles,Dallas Empire,Chicago,Winners Round 1,4/24/20,1,3,Dallas Empire
-3556,New York Subliners,Chicago Huntsmen,Chicago,Winners Round 1,4/24/20,3,2,New York Subliners
-3562,Dallas Empire,Seattle Surge,Chicago,Qualifier,4/25/20,3,1,Dallas Empire
-3557,New York Subliners,Atlanta FaZe,Chicago,Qualifier,4/25/20,2,3,Atlanta FaZe
-3563,OpTic Gaming Los Angeles,Los Angeles Guerrillas,Chicago,Knockout 1,4/25/20,1,3,Los Angeles Guerrillas
-3558,Chicago Huntsmen,London Royal Ravens,Chicago,Knockout 1,4/25/20,3,1,Chicago Huntsmen
-3564,Los Angeles Guerrillas,Seattle Surge,Chicago,Knockout 2,4/25/20,1,3,Seattle Surge
-3559,Chicago Huntsmen,New York Subliners,Chicago,Knockout 2,4/25/20,3,1,Chicago Huntsmen
-3565,Seattle Surge,Atlanta FaZe,Chicago,Semifinals,4/26/20,1,3,Atlanta FaZe
-3566,Dallas Empire,Chicago Huntsmen,Chicago,Semifinals,4/26/20,3,0,Dallas Empire
-3567,Dallas Empire,Atlanta FaZe,Chicago,Finals,4/26/20,3,1,Dallas Empire
-3573,Atlanta FaZe,Paris Legion,Florida,Winners Round 1,5/8/20,3,1,Atlanta FaZe
-3574,London Royal Ravens,OpTic Gaming Los Angeles,Florida,Winners Round 1,5/8/20,3,2,London Royal Ravens
-3568,New York Subliners,Toronto Ultra,Florida,Winners Round 1,5/8/20,1,3,Toronto Ultra
-3569,Minnesota Rokkr,Florida Mutineers,Florida,Winners Round 1,5/8/20,3,0,Minnesota Rokkr
-3575,London Royal Ravens,Atlanta FaZe,Florida,Qualifier,5/9/20,1,3,Atlanta FaZe
-3570,Minnesota Rokkr,Toronto Ultra,Florida,Qualifier,5/9/20,1,3,Toronto Ultra
-3576,OpTic Gaming Los Angeles,Paris Legion,Florida,Knockout 1,5/9/20,3,0,OpTic Gaming Los Angeles
-3571,Florida Mutineers,New York Subliners,Florida,Knockout 1,5/9/20,0,3,New York Subliners
-3577,OpTic Gaming Los Angeles,London Royal Ravens,Florida,Knockout 2,5/9/20,3,0,OpTic Gaming Los Angeles
-3572,New York Subliners,Minnesota Rokkr,Florida,Knockout 2,5/9/20,3,0,New York Subliners
-3578,OpTic Gaming Los Angeles,Toronto Ultra,Florida,Semifinals,5/10/20,3,2,OpTic Gaming Los Angeles
-3579,New York Subliners,Atlanta FaZe,Florida,Semifinals,5/10/20,2,3,Atlanta FaZe
-3580,Atlanta FaZe,OpTic Gaming Los Angeles,Florida,Finals,5/10/20,3,1,Atlanta FaZe
-3586,Chicago Huntsmen,Paris Legion,Seattle,Winners Round 1,5/22/20,3,1,Chicago Huntsmen
-3581,Los Angeles Guerrillas,London Royal Ravens,Seattle,Winners Round 1,5/22/20,2,3,London Royal Ravens
-3587,OpTic Gaming Los Angeles,Minnesota Rokkr,Seattle,Winners Round 1,5/22/20,2,3,Minnesota Rokkr
-3582,New York Subliners,Seattle Surge,Seattle,Winners Round 1,5/22/20,3,1,New York Subliners
-3588,Minnesota Rokkr,Chicago Huntsmen,Seattle,Qualifier,5/23/20,0,3,Chicago Huntsmen
-3583,New York Subliners,London Royal Ravens,Seattle,Qualifier,5/23/20,0,3,London Royal Ravens
-3589,OpTic Gaming Los Angeles,Paris Legion,Seattle,Knockout 1,5/23/20,3,1,OpTic Gaming Los Angeles
-3584,Seattle Surge,Los Angeles Guerrillas,Seattle,Knockout 1,5/23/20,1,3,Los Angeles Guerrillas
-3590,OpTic Gaming Los Angeles,Minnesota Rokkr,Seattle,Knockout 2,5/23/20,3,0,OpTic Gaming Los Angeles
-3585,Los Angeles Guerrillas,New York Subliners,Seattle,Knockout 2,5/23/20,1,3,New York Subliners
-3591,OpTic Gaming Los Angeles,London Royal Ravens,Seattle,Semifinals,5/24/20,2,3,London Royal Ravens
-3592,New York Subliners,Chicago Huntsmen,Seattle,Semifinals,5/24/20,1,3,Chicago Huntsmen
-3593,Chicago Huntsmen,London Royal Ravens,Seattle,Finals,5/24/20,3,1,Chicago Huntsmen
-3599,Toronto Ultra,Los Angeles Guerrillas,Minnesota,Winners Round 1,6/12/20,2,3,Los Angeles Guerrillas
-3594,Atlanta FaZe,Seattle Surge,Minnesota,Winners Round 1,6/12/20,3,2,Atlanta FaZe
-3600,Florida Mutineers,Chicago Huntsmen,Minnesota,Winners Round 1,6/12/20,3,2,Florida Mutineers
-3595,Dallas Empire,Minnesota Rokkr,Minnesota,Winners Round 1,6/12/20,3,1,Dallas Empire
-3601,Florida Mutineers,Los Angeles Guerrillas,Minnesota,Qualifier,6/13/20,3,1,Florida Mutineers
-3596,Dallas Empire,Atlanta FaZe,Minnesota,Qualifier,6/13/20,2,3,Atlanta FaZe
-3602,Chicago Huntsmen,Toronto Ultra,Minnesota,Knockout 1,6/13/20,3,0,Chicago Huntsmen
-3597,Minnesota Rokkr,Seattle Surge,Minnesota,Knockout 1,6/13/20,2,3,Seattle Surge
-3603,Chicago Huntsmen,Los Angeles Guerrillas,Minnesota,Knockout 2,6/13/20,2,3,Los Angeles Guerrillas
-3598,Seattle Surge,Dallas Empire,Minnesota,Knockout 2,6/13/20,0,3,Dallas Empire
-3604,Los Angeles Guerrillas,Atlanta FaZe,Minnesota,Semifinals,6/14/20,2,3,Atlanta FaZe
-3605,Florida Mutineers,Dallas Empire,Minnesota,Semifinals,6/14/20,3,2,Florida Mutineers
-3606,Florida Mutineers,Atlanta FaZe,Minnesota,Finals,6/14/20,3,1,Florida Mutineers
-3607,Florida Mutineers,Paris Legion,Paris,Winners Round 1,6/19/20,3,0,Florida Mutineers
-3608,Dallas Empire,London Royal Ravens,Paris,Winners Round 1,6/19/20,3,2,Dallas Empire
-3612,OpTic Gaming Los Angeles,New York Subliners,Paris,Winners Round 1,6/19/20,1,3,New York Subliners
-3613,Toronto Ultra,Atlanta FaZe,Paris,Winners Round 1,6/19/20,2,3,Atlanta FaZe
-3614,Atlanta FaZe,New York Subliners,Paris,Qualifier,6/20/20,3,2,Atlanta FaZe
-3609,Dallas Empire,Florida Mutineers,Paris,Qualifier,6/20/20,1,3,Florida Mutineers
-3615,Toronto Ultra,OpTic Gaming Los Angeles,Paris,Knockout 1,6/20/20,3,0,Toronto Ultra
-3610,London Royal Ravens,Paris Legion,Paris,Knockout 1,6/20/20,3,1,London Royal Ravens
-3616,Toronto Ultra,New York Subliners,Paris,Knockout 2,6/20/20,1,3,New York Subliners
-3611,London Royal Ravens,Dallas Empire,Paris,Knockout 2,6/20/20,0,3,Dallas Empire
-3617,New York Subliners,Florida Mutineers,Paris,Semifinals,6/21/20,2,3,Florida Mutineers
-3618,Dallas Empire,Atlanta FaZe,Paris,Semifinals,6/21/20,2,3,Atlanta FaZe
-3619,Atlanta FaZe,Florida Mutineers,Paris,Finals,6/21/20,0,3,Florida Mutineers
-3620,Toronto Ultra,Paris Legion,New York,Winners Round 1,7/10/20,3,1,Toronto Ultra
-3625,Chicago Huntsmen,London Royal Ravens,New York,Winners Round 1,7/10/20,3,1,Chicago Huntsmen
-3621,Los Angeles Guerrillas,Atlanta FaZe,New York,Winners Round 1,7/10/20,1,3,Atlanta FaZe
-3626,Minnesota Rokkr,New York Subliners,New York,Winners Round 1,7/10/20,1,3,New York Subliners
-3622,Atlanta FaZe,Toronto Ultra,New York,Qualifier,7/11/20,2,3,Toronto Ultra
-3627,New York Subliners,Chicago Huntsmen,New York,Qualifier,7/11/20,2,3,Chicago Huntsmen
-3623,Los Angeles Guerrillas,Paris Legion,New York,Knockout 1,7/11/20,0,3,Paris Legion
-3628,Minnesota Rokkr,London Royal Ravens,New York,Knockout 1,7/11/20,2,3,London Royal Ravens
-3624,Paris Legion,Atlanta FaZe,New York,Knockout 2,7/11/20,0,3,Atlanta FaZe
-3629,London Royal Ravens,New York Subliners,New York,Knockout 2,7/11/20,1,3,New York Subliners
-3630,Atlanta FaZe,Chicago Huntsmen,New York,Semifinals,7/12/20,0,3,Chicago Huntsmen
-3631,New York Subliners,Toronto Ultra,New York,Semifinals,7/12/20,3,0,New York Subliners
-3632,New York Subliners,Chicago Huntsmen,New York,Finals,7/12/20,3,0,New York Subliners
-3651,Dallas Empire,Paris Legion,London 2,Winners Round 1,7/17/20,3,1,Dallas Empire
-3646,Seattle Surge,London Royal Ravens,London 2,Winners Round 1,7/17/20,1,3,London Royal Ravens
-3652,Los Angeles Guerrillas,New York Subliners,London 2,Winners Round 1,7/17/20,0,3,New York Subliners
-3647,Florida Mutineers,OpTic Gaming Los Angeles,London 2,Winners Round 1,7/17/20,3,2,Florida Mutineers
-3653,New York Subliners,Dallas Empire,London 2,Qualifier,7/18/20,0,3,Dallas Empire
-3648,Florida Mutineers,London Royal Ravens,London 2,Qualifier,7/18/20,2,3,London Royal Ravens
-3654,Los Angeles Guerrillas,Paris Legion,London 2,Knockout 1,7/18/20,1,3,Paris Legion
-3649,OpTic Gaming Los Angeles,Seattle Surge,London 2,Knockout 1,7/18/20,3,1,OpTic Gaming Los Angeles
-3655,Paris Legion,New York Subliners,London 2,Knockout 2,7/18/20,3,0,Paris Legion
-3650,OpTic Gaming Los Angeles,Florida Mutineers,London 2,Knockout 2,7/18/20,1,3,Florida Mutineers
-3656,Paris Legion,London Royal Ravens,London 2,Semifinals,7/19/20,3,2,Paris Legion
-3657,Florida Mutineers,Dallas Empire,London 2,Semifinals,7/19/20,0,3,Dallas Empire
-3658,Dallas Empire,Paris Legion,London 2,Finals,7/19/20,3,0,Dallas Empire
-3638,Minnesota Rokkr,Atlanta FaZe,Toronto,Winners Round 1,7/24/20,0,3,Atlanta FaZe
-3639,Dallas Empire,Florida Mutineers,Toronto,Winners Round 1,7/24/20,3,2,Dallas Empire
-3633,Seattle Surge,Chicago Huntsmen,Toronto,Winners Round 1,7/24/20,1,3,Chicago Huntsmen
-3634,OpTic Gaming Los Angeles,Toronto Ultra,Toronto,Winners Round 1,7/24/20,2,3,Toronto Ultra
-3640,Dallas Empire,Atlanta FaZe,Toronto,Qualifier,7/25/20,0,3,Atlanta FaZe
-3635,Toronto Ultra,Chicago Huntsmen,Toronto,Qualifier,7/25/20,3,2,Toronto Ultra
-3641,Florida Mutineers,Minnesota Rokkr,Toronto,Knockout 1,7/25/20,3,1,Florida Mutineers
-3636,OpTic Gaming Los Angeles,Seattle Surge,Toronto,Knockout 1,7/25/20,3,0,OpTic Gaming Los Angeles
-3642,Florida Mutineers,Dallas Empire,Toronto,Knockout 2,7/25/20,0,3,Dallas Empire
-3637,OpTic Gaming Los Angeles,Chicago Huntsmen,Toronto,Knockout 2,7/25/20,3,1,OpTic Gaming Los Angeles
-3643,Toronto Ultra,Dallas Empire,Toronto,Semifinals,7/26/20,3,1,Toronto Ultra
-3644,OpTic Gaming Los Angeles,Atlanta FaZe,Toronto,Semifinals,7/26/20,0,3,Atlanta FaZe
-3645,Atlanta FaZe,Toronto Ultra,Toronto,Finals,7/26/20,2,3,Toronto Ultra
-3828,Paris Legion,Seattle Surge,Playoffs,Elimination Round 1,8/19/20,3,0,Paris Legion
-3826,OpTic Gaming Los Angeles,Los Angeles Guerrillas,Playoffs,Elimination Round 1,8/19/20,3,2,OpTic Gaming Los Angeles
-3818,Toronto Ultra,London Royal Ravens,Playoffs,Winners Round 1,8/20/20,3,1,Toronto Ultra
-3816,Minnesota Rokkr,New York Subliners,Playoffs,Winners Round 1,8/20/20,1,3,New York Subliners
-3820,New York Subliners,Chicago Huntsmen,Playoffs,Winners Round 2,8/21/20,2,3,Chicago Huntsmen
-3821,Toronto Ultra,Florida Mutineers,Playoffs,Winners Round 2,8/21/20,3,1,Toronto Ultra
-3830,Paris Legion,London Royal Ravens,Playoffs,Elimination Round 2,8/22/20,1,3,London Royal Ravens
-3829,Minnesota Rokkr,OpTic Gaming Los Angeles,Playoffs,Elimination Round 2,8/22/20,0,3,OpTic Gaming Los Angeles
-3824,Atlanta FaZe,Chicago Huntsmen,Playoffs,Winners Round 3,8/22/20,3,2,Atlanta FaZe
-3837,Toronto Ultra,Dallas Empire,Playoffs,Winners Round 3,8/22/20,2,3,Dallas Empire
-3832,London Royal Ravens,New York Subliners,Playoffs,Elimination Round 3,8/23/20,3,2,London Royal Ravens
-3831,OpTic Gaming Los Angeles,Florida Mutineers,Playoffs,Elimination Round 3,8/23/20,3,0,OpTic Gaming Los Angeles
-3835,London Royal Ravens,Toronto Ultra,Playoffs,Elimination Round 4,8/23/20,3,1,London Royal Ravens
-3833,OpTic Gaming Los Angeles,Chicago Huntsmen,Playoffs,Elimination Round 4,8/23/20,2,3,Chicago Huntsmen
-3834,London Royal Ravens,Chicago Huntsmen,Champs,Elimination Round 5,8/29/20,1,3,Chicago Huntsmen
-3823,Dallas Empire,Atlanta FaZe,Champs,Winners Finals,8/29/20,3,2,Dallas Empire
-3836,Chicago Huntsmen,Atlanta FaZe,Champs,Elimination Finals,8/29/20,1,3,Atlanta FaZe
-3838,Atlanta FaZe,Dallas Empire,Champs,Championship,8/30/20,1,5,Dallas Empire
+1979,Chicago Huntsmen,Dallas Empire,Launch Weekend,None,1/24/2020,3,1,Chicago Huntsmen
+1962,Seattle Surge,Florida Mutineers,Launch Weekend,None,1/24/2020,2,3,Florida Mutineers
+1982,Los Angeles Guerrillas,Minnesota Rokkr,Launch Weekend,None,1/24/2020,1,3,Minnesota Rokkr
+1936,New York Subliners,London Royal Ravens,Launch Weekend,None,1/25/2020,0,3,London Royal Ravens
+1969,Seattle Surge,Toronto Ultra,Launch Weekend,None,1/25/2020,2,3,Toronto Ultra
+1960,Los Angeles Guerrillas,Florida Mutineers,Launch Weekend,None,1/25/2020,3,2,Los Angeles Guerrillas
+1932,Paris Legion,OpTic Gaming Los Angeles,Launch Weekend,None,1/25/2020,3,2,Paris Legion
+1970,Dallas Empire,Atlanta FaZe,Launch Weekend,None,1/25/2020,0,3,Atlanta FaZe
+1942,Paris Legion,London Royal Ravens,Launch Weekend,None,1/26/2020,3,0,Paris Legion
+1934,Chicago Huntsmen,OpTic Gaming Los Angeles,Launch Weekend,None,1/26/2020,3,0,Chicago Huntsmen
+1948,Atlanta FaZe,New York Subliners,Launch Weekend,None,1/26/2020,3,1,Atlanta FaZe
+1965,Minnesota Rokkr,Toronto Ultra,Launch Weekend,None,1/26/2020,3,1,Minnesota Rokkr
+2804,New York Subliners,Paris Legion,London 1,Winners Round 1,2/8/2020,3,1,New York Subliners
+2802,Seattle Surge,Dallas Empire,London 1,Winners Round 1,2/8/2020,0,3,Dallas Empire
+2803,Los Angeles Guerrillas,Chicago Huntsmen,London 1,Winners Round 1,2/8/2020,0,3,Chicago Huntsmen
+2805,Toronto Ultra,London Royal Ravens,London 1,Winners Round 1,2/8/2020,1,3,London Royal Ravens
+2846,Chicago Huntsmen,Dallas Empire,London 1,Qualifier,2/8/2020,3,1,Chicago Huntsmen
+2858,London Royal Ravens,New York Subliners,London 1,Qualifier,2/8/2020,3,2,London Royal Ravens
+2847,Los Angeles Guerrillas,Seattle Surge,London 1,Knockout 1,2/9/2020,2,3,Seattle Surge
+2859,Toronto Ultra,Paris Legion,London 1,Knockout 1,2/9/2020,1,3,Paris Legion
+2881,Seattle Surge,Dallas Empire,London 1,Knockout 2,2/9/2020,1,3,Dallas Empire
+2883,Paris Legion,New York Subliners,London 1,Knockout 2,2/9/2020,3,0,Paris Legion
+2887,Dallas Empire,London Royal Ravens,London 1,Semifinals,2/9/2020,3,2,Dallas Empire
+2886,Paris Legion,Chicago Huntsmen,London 1,Semifinals,2/9/2020,2,3,Chicago Huntsmen
+2888,Dallas Empire,Chicago Huntsmen,London 1,Finals,2/9/2020,0,3,Chicago Huntsmen
+2891,Paris Legion,Minnesota Rokkr,Atlanta,Winners Round 1,2/22/2020,1,3,Minnesota Rokkr
+2889,Florida Mutineers,London Royal Ravens,Atlanta,Winners Round 1,2/22/2020,1,3,London Royal Ravens
+2892,Toronto Ultra,Chicago Huntsmen,Atlanta,Winners Round 1,2/22/2020,2,3,Chicago Huntsmen
+2890,OpTic Gaming Los Angeles,Atlanta FaZe,Atlanta,Winners Round 1,2/22/2020,0,3,Atlanta FaZe
+2983,Chicago Huntsmen,Minnesota Rokkr,Atlanta,Qualifier,2/22/2020,3,1,Chicago Huntsmen
+2984,Toronto Ultra,Paris Legion,Atlanta,Knockout 1,2/22/2020,1,3,Paris Legion
+3006,Atlanta FaZe,London Royal Ravens,Atlanta,Qualifier,2/22/2020,3,1,Atlanta FaZe
+3007,OpTic Gaming Los Angeles,Florida Mutineers,Atlanta,Knockout 1,2/22/2020,1,3,Florida Mutineers
+3030,Paris Legion,Minnesota Rokkr,Atlanta,Knockout 2,2/23/2020,2,3,Minnesota Rokkr
+3041,Florida Mutineers,London Royal Ravens,Atlanta,Knockout 2,2/23/2020,3,2,Florida Mutineers
+3050,Minnesota Rokkr,Atlanta FaZe,Atlanta,Semifinals,2/23/2020,2,3,Atlanta FaZe
+3051,Florida Mutineers,Chicago Huntsmen,Atlanta,Semifinals,2/23/2020,3,2,Florida Mutineers
+3054,Florida Mutineers,Atlanta FaZe,Atlanta,Finals,2/23/2020,0,3,Atlanta FaZe
+3266,Florida Mutineers,Atlanta FaZe,Los Angeles,Winners Round 1,3/7/2020,0,3,Atlanta FaZe
+3261,Seattle Surge,Minnesota Rokkr,Los Angeles,Winners Round 1,3/7/2020,1,3,Minnesota Rokkr
+3267,New York Subliners,Dallas Empire,Los Angeles,Winners Round 1,3/7/2020,1,3,Dallas Empire
+3262,OpTic Gaming Los Angeles,Los Angeles Guerrillas,Los Angeles,Winners Round 1,3/7/2020,3,2,OpTic Gaming Los Angeles
+3268,Dallas Empire,Atlanta FaZe,Los Angeles,Qualifier,3/7/2020,0,3,Atlanta FaZe
+3269,New York Subliners,Florida Mutineers,Los Angeles,Knockout 1,3/7/2020,1,3,Florida Mutineers
+3263,OpTic Gaming Los Angeles,Minnesota Rokkr,Los Angeles,Qualifier,3/7/2020,3,0,OpTic Gaming Los Angeles
+3264,Los Angeles Guerrillas,Seattle Surge,Los Angeles,Knockout 1,3/7/2020,0,3,Seattle Surge
+3270,Florida Mutineers,Dallas Empire,Los Angeles,Knockout 2,3/8/2020,0,3,Dallas Empire
+3265,Seattle Surge,Minnesota Rokkr,Los Angeles,Knockout 2,3/8/2020,0,3,Minnesota Rokkr
+3271,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Semifinals,3/8/2020,3,1,Dallas Empire
+3272,Minnesota Rokkr,Atlanta FaZe,Los Angeles,Semifinals,3/8/2020,3,2,Minnesota Rokkr
+3273,Minnesota Rokkr,Dallas Empire,Los Angeles,Finals,3/8/2020,2,3,Dallas Empire
+3279,Paris Legion,Seattle Surge,Dallas,Winners Round 1,4/10/2020,3,2,Paris Legion
+3274,Toronto Ultra,Florida Mutineers,Dallas,Winners Round 1,4/10/2020,3,2,Toronto Ultra
+3280,Minnesota Rokkr,Chicago Huntsmen,Dallas,Winners Round 1,4/10/2020,0,3,Chicago Huntsmen
+3275,Los Angeles Guerrillas,Dallas Empire,Dallas,Winners Round 1,4/10/2020,1,3,Dallas Empire
+3281,Chicago Huntsmen,Paris Legion,Dallas,Qualifier,4/11/2020,3,1,Chicago Huntsmen
+3276,Dallas Empire,Toronto Ultra,Dallas,Qualifier,4/11/2020,3,2,Dallas Empire
+3282,Minnesota Rokkr,Seattle Surge,Dallas,Knockout 1,4/11/2020,3,2,Minnesota Rokkr
+3277,Los Angeles Guerrillas,Florida Mutineers,Dallas,Knockout 1,4/11/2020,1,3,Florida Mutineers
+3283,Minnesota Rokkr,Paris Legion,Dallas,Knockout 2,4/11/2020,3,1,Minnesota Rokkr
+3278,Florida Mutineers,Toronto Ultra,Dallas,Knockout 2,4/11/2020,3,1,Florida Mutineers
+3284,Florida Mutineers,Chicago Huntsmen,Dallas,Semifinals,4/12/2020,3,1,Florida Mutineers
+3285,Minnesota Rokkr,Dallas Empire,Dallas,Semifinals,4/12/2020,3,1,Minnesota Rokkr
+3286,Minnesota Rokkr,Florida Mutineers,Dallas,Finals,4/12/2020,1,3,Florida Mutineers
+3555,Atlanta FaZe,London Royal Ravens,Chicago,Winners Round 1,4/24/2020,3,0,Atlanta FaZe
+3560,Los Angeles Guerrillas,Seattle Surge,Chicago,Winners Round 1,4/24/2020,0,3,Seattle Surge
+3561,OpTic Gaming Los Angeles,Dallas Empire,Chicago,Winners Round 1,4/24/2020,1,3,Dallas Empire
+3556,New York Subliners,Chicago Huntsmen,Chicago,Winners Round 1,4/24/2020,3,2,New York Subliners
+3562,Dallas Empire,Seattle Surge,Chicago,Qualifier,4/25/2020,3,1,Dallas Empire
+3557,New York Subliners,Atlanta FaZe,Chicago,Qualifier,4/25/2020,2,3,Atlanta FaZe
+3563,OpTic Gaming Los Angeles,Los Angeles Guerrillas,Chicago,Knockout 1,4/25/2020,1,3,Los Angeles Guerrillas
+3558,Chicago Huntsmen,London Royal Ravens,Chicago,Knockout 1,4/25/2020,3,1,Chicago Huntsmen
+3564,Los Angeles Guerrillas,Seattle Surge,Chicago,Knockout 2,4/25/2020,1,3,Seattle Surge
+3559,Chicago Huntsmen,New York Subliners,Chicago,Knockout 2,4/25/2020,3,1,Chicago Huntsmen
+3565,Seattle Surge,Atlanta FaZe,Chicago,Semifinals,4/26/2020,1,3,Atlanta FaZe
+3566,Dallas Empire,Chicago Huntsmen,Chicago,Semifinals,4/26/2020,3,0,Dallas Empire
+3567,Dallas Empire,Atlanta FaZe,Chicago,Finals,4/26/2020,3,1,Dallas Empire
+3573,Atlanta FaZe,Paris Legion,Florida,Winners Round 1,5/8/2020,3,1,Atlanta FaZe
+3574,London Royal Ravens,OpTic Gaming Los Angeles,Florida,Winners Round 1,5/8/2020,3,2,London Royal Ravens
+3568,New York Subliners,Toronto Ultra,Florida,Winners Round 1,5/8/2020,1,3,Toronto Ultra
+3569,Minnesota Rokkr,Florida Mutineers,Florida,Winners Round 1,5/8/2020,3,0,Minnesota Rokkr
+3575,London Royal Ravens,Atlanta FaZe,Florida,Qualifier,5/9/2020,1,3,Atlanta FaZe
+3570,Minnesota Rokkr,Toronto Ultra,Florida,Qualifier,5/9/2020,1,3,Toronto Ultra
+3576,OpTic Gaming Los Angeles,Paris Legion,Florida,Knockout 1,5/9/2020,3,0,OpTic Gaming Los Angeles
+3571,Florida Mutineers,New York Subliners,Florida,Knockout 1,5/9/2020,0,3,New York Subliners
+3577,OpTic Gaming Los Angeles,London Royal Ravens,Florida,Knockout 2,5/9/2020,3,0,OpTic Gaming Los Angeles
+3572,New York Subliners,Minnesota Rokkr,Florida,Knockout 2,5/9/2020,3,0,New York Subliners
+3578,OpTic Gaming Los Angeles,Toronto Ultra,Florida,Semifinals,5/10/2020,3,2,OpTic Gaming Los Angeles
+3579,New York Subliners,Atlanta FaZe,Florida,Semifinals,5/10/2020,2,3,Atlanta FaZe
+3580,Atlanta FaZe,OpTic Gaming Los Angeles,Florida,Finals,5/10/2020,3,1,Atlanta FaZe
+3586,Chicago Huntsmen,Paris Legion,Seattle,Winners Round 1,5/22/2020,3,1,Chicago Huntsmen
+3581,Los Angeles Guerrillas,London Royal Ravens,Seattle,Winners Round 1,5/22/2020,2,3,London Royal Ravens
+3587,OpTic Gaming Los Angeles,Minnesota Rokkr,Seattle,Winners Round 1,5/22/2020,2,3,Minnesota Rokkr
+3582,New York Subliners,Seattle Surge,Seattle,Winners Round 1,5/22/2020,3,1,New York Subliners
+3588,Minnesota Rokkr,Chicago Huntsmen,Seattle,Qualifier,5/23/2020,0,3,Chicago Huntsmen
+3583,New York Subliners,London Royal Ravens,Seattle,Qualifier,5/23/2020,0,3,London Royal Ravens
+3589,OpTic Gaming Los Angeles,Paris Legion,Seattle,Knockout 1,5/23/2020,3,1,OpTic Gaming Los Angeles
+3584,Seattle Surge,Los Angeles Guerrillas,Seattle,Knockout 1,5/23/2020,1,3,Los Angeles Guerrillas
+3590,OpTic Gaming Los Angeles,Minnesota Rokkr,Seattle,Knockout 2,5/23/2020,3,0,OpTic Gaming Los Angeles
+3585,Los Angeles Guerrillas,New York Subliners,Seattle,Knockout 2,5/23/2020,1,3,New York Subliners
+3591,OpTic Gaming Los Angeles,London Royal Ravens,Seattle,Semifinals,5/24/2020,2,3,London Royal Ravens
+3592,New York Subliners,Chicago Huntsmen,Seattle,Semifinals,5/24/2020,1,3,Chicago Huntsmen
+3593,Chicago Huntsmen,London Royal Ravens,Seattle,Finals,5/24/2020,3,1,Chicago Huntsmen
+3599,Toronto Ultra,Los Angeles Guerrillas,Minnesota,Winners Round 1,6/12/2020,2,3,Los Angeles Guerrillas
+3594,Atlanta FaZe,Seattle Surge,Minnesota,Winners Round 1,6/12/2020,3,2,Atlanta FaZe
+3600,Florida Mutineers,Chicago Huntsmen,Minnesota,Winners Round 1,6/12/2020,3,2,Florida Mutineers
+3595,Dallas Empire,Minnesota Rokkr,Minnesota,Winners Round 1,6/12/2020,3,1,Dallas Empire
+3601,Florida Mutineers,Los Angeles Guerrillas,Minnesota,Qualifier,6/13/2020,3,1,Florida Mutineers
+3596,Dallas Empire,Atlanta FaZe,Minnesota,Qualifier,6/13/2020,2,3,Atlanta FaZe
+3602,Chicago Huntsmen,Toronto Ultra,Minnesota,Knockout 1,6/13/2020,3,0,Chicago Huntsmen
+3597,Minnesota Rokkr,Seattle Surge,Minnesota,Knockout 1,6/13/2020,2,3,Seattle Surge
+3603,Chicago Huntsmen,Los Angeles Guerrillas,Minnesota,Knockout 2,6/13/2020,2,3,Los Angeles Guerrillas
+3598,Seattle Surge,Dallas Empire,Minnesota,Knockout 2,6/13/2020,0,3,Dallas Empire
+3604,Los Angeles Guerrillas,Atlanta FaZe,Minnesota,Semifinals,6/14/2020,2,3,Atlanta FaZe
+3605,Florida Mutineers,Dallas Empire,Minnesota,Semifinals,6/14/2020,3,2,Florida Mutineers
+3606,Florida Mutineers,Atlanta FaZe,Minnesota,Finals,6/14/2020,3,1,Florida Mutineers
+3607,Florida Mutineers,Paris Legion,Paris,Winners Round 1,6/19/2020,3,0,Florida Mutineers
+3608,Dallas Empire,London Royal Ravens,Paris,Winners Round 1,6/19/2020,3,2,Dallas Empire
+3612,OpTic Gaming Los Angeles,New York Subliners,Paris,Winners Round 1,6/19/2020,1,3,New York Subliners
+3613,Toronto Ultra,Atlanta FaZe,Paris,Winners Round 1,6/19/2020,2,3,Atlanta FaZe
+3614,Atlanta FaZe,New York Subliners,Paris,Qualifier,6/20/2020,3,2,Atlanta FaZe
+3609,Dallas Empire,Florida Mutineers,Paris,Qualifier,6/20/2020,1,3,Florida Mutineers
+3615,Toronto Ultra,OpTic Gaming Los Angeles,Paris,Knockout 1,6/20/2020,3,0,Toronto Ultra
+3610,London Royal Ravens,Paris Legion,Paris,Knockout 1,6/20/2020,3,1,London Royal Ravens
+3616,Toronto Ultra,New York Subliners,Paris,Knockout 2,6/20/2020,1,3,New York Subliners
+3611,London Royal Ravens,Dallas Empire,Paris,Knockout 2,6/20/2020,0,3,Dallas Empire
+3617,New York Subliners,Florida Mutineers,Paris,Semifinals,6/21/2020,2,3,Florida Mutineers
+3618,Dallas Empire,Atlanta FaZe,Paris,Semifinals,6/21/2020,2,3,Atlanta FaZe
+3619,Atlanta FaZe,Florida Mutineers,Paris,Finals,6/21/2020,0,3,Florida Mutineers
+3620,Toronto Ultra,Paris Legion,New York,Winners Round 1,7/10/2020,3,1,Toronto Ultra
+3625,Chicago Huntsmen,London Royal Ravens,New York,Winners Round 1,7/10/2020,3,1,Chicago Huntsmen
+3621,Los Angeles Guerrillas,Atlanta FaZe,New York,Winners Round 1,7/10/2020,1,3,Atlanta FaZe
+3626,Minnesota Rokkr,New York Subliners,New York,Winners Round 1,7/10/2020,1,3,New York Subliners
+3622,Atlanta FaZe,Toronto Ultra,New York,Qualifier,7/11/2020,2,3,Toronto Ultra
+3627,New York Subliners,Chicago Huntsmen,New York,Qualifier,7/11/2020,2,3,Chicago Huntsmen
+3623,Los Angeles Guerrillas,Paris Legion,New York,Knockout 1,7/11/2020,0,3,Paris Legion
+3628,Minnesota Rokkr,London Royal Ravens,New York,Knockout 1,7/11/2020,2,3,London Royal Ravens
+3624,Paris Legion,Atlanta FaZe,New York,Knockout 2,7/11/2020,0,3,Atlanta FaZe
+3629,London Royal Ravens,New York Subliners,New York,Knockout 2,7/11/2020,1,3,New York Subliners
+3630,Atlanta FaZe,Chicago Huntsmen,New York,Semifinals,7/12/2020,0,3,Chicago Huntsmen
+3631,New York Subliners,Toronto Ultra,New York,Semifinals,7/12/2020,3,0,New York Subliners
+3632,New York Subliners,Chicago Huntsmen,New York,Finals,7/12/2020,3,0,New York Subliners
+3651,Dallas Empire,Paris Legion,London 2,Winners Round 1,7/17/2020,3,1,Dallas Empire
+3646,Seattle Surge,London Royal Ravens,London 2,Winners Round 1,7/17/2020,1,3,London Royal Ravens
+3652,Los Angeles Guerrillas,New York Subliners,London 2,Winners Round 1,7/17/2020,0,3,New York Subliners
+3647,Florida Mutineers,OpTic Gaming Los Angeles,London 2,Winners Round 1,7/17/2020,3,2,Florida Mutineers
+3653,New York Subliners,Dallas Empire,London 2,Qualifier,7/18/2020,0,3,Dallas Empire
+3648,Florida Mutineers,London Royal Ravens,London 2,Qualifier,7/18/2020,2,3,London Royal Ravens
+3654,Los Angeles Guerrillas,Paris Legion,London 2,Knockout 1,7/18/2020,1,3,Paris Legion
+3649,OpTic Gaming Los Angeles,Seattle Surge,London 2,Knockout 1,7/18/2020,3,1,OpTic Gaming Los Angeles
+3655,Paris Legion,New York Subliners,London 2,Knockout 2,7/18/2020,3,0,Paris Legion
+3650,OpTic Gaming Los Angeles,Florida Mutineers,London 2,Knockout 2,7/18/2020,1,3,Florida Mutineers
+3656,Paris Legion,London Royal Ravens,London 2,Semifinals,7/19/2020,3,2,Paris Legion
+3657,Florida Mutineers,Dallas Empire,London 2,Semifinals,7/19/2020,0,3,Dallas Empire
+3658,Dallas Empire,Paris Legion,London 2,Finals,7/19/2020,3,0,Dallas Empire
+3638,Minnesota Rokkr,Atlanta FaZe,Toronto,Winners Round 1,7/24/2020,0,3,Atlanta FaZe
+3639,Dallas Empire,Florida Mutineers,Toronto,Winners Round 1,7/24/2020,3,2,Dallas Empire
+3633,Seattle Surge,Chicago Huntsmen,Toronto,Winners Round 1,7/24/2020,1,3,Chicago Huntsmen
+3634,OpTic Gaming Los Angeles,Toronto Ultra,Toronto,Winners Round 1,7/24/2020,2,3,Toronto Ultra
+3640,Dallas Empire,Atlanta FaZe,Toronto,Qualifier,7/25/2020,0,3,Atlanta FaZe
+3635,Toronto Ultra,Chicago Huntsmen,Toronto,Qualifier,7/25/2020,3,2,Toronto Ultra
+3641,Florida Mutineers,Minnesota Rokkr,Toronto,Knockout 1,7/25/2020,3,1,Florida Mutineers
+3636,OpTic Gaming Los Angeles,Seattle Surge,Toronto,Knockout 1,7/25/2020,3,0,OpTic Gaming Los Angeles
+3642,Florida Mutineers,Dallas Empire,Toronto,Knockout 2,7/25/2020,0,3,Dallas Empire
+3637,OpTic Gaming Los Angeles,Chicago Huntsmen,Toronto,Knockout 2,7/25/2020,3,1,OpTic Gaming Los Angeles
+3643,Toronto Ultra,Dallas Empire,Toronto,Semifinals,7/26/2020,3,1,Toronto Ultra
+3644,OpTic Gaming Los Angeles,Atlanta FaZe,Toronto,Semifinals,7/26/2020,0,3,Atlanta FaZe
+3645,Atlanta FaZe,Toronto Ultra,Toronto,Finals,7/26/2020,2,3,Toronto Ultra
+3828,Paris Legion,Seattle Surge,Playoffs,Elimination Round 1,8/19/2020,3,0,Paris Legion
+3826,OpTic Gaming Los Angeles,Los Angeles Guerrillas,Playoffs,Elimination Round 1,8/19/2020,3,2,OpTic Gaming Los Angeles
+3818,Toronto Ultra,London Royal Ravens,Playoffs,Winners Round 1,8/20/2020,3,1,Toronto Ultra
+3816,Minnesota Rokkr,New York Subliners,Playoffs,Winners Round 1,8/20/2020,1,3,New York Subliners
+3820,New York Subliners,Chicago Huntsmen,Playoffs,Winners Round 2,8/21/2020,2,3,Chicago Huntsmen
+3821,Toronto Ultra,Florida Mutineers,Playoffs,Winners Round 2,8/21/2020,3,1,Toronto Ultra
+3830,Paris Legion,London Royal Ravens,Playoffs,Elimination Round 2,8/22/2020,1,3,London Royal Ravens
+3829,Minnesota Rokkr,OpTic Gaming Los Angeles,Playoffs,Elimination Round 2,8/22/2020,0,3,OpTic Gaming Los Angeles
+3824,Atlanta FaZe,Chicago Huntsmen,Playoffs,Winners Round 3,8/22/2020,3,2,Atlanta FaZe
+3837,Toronto Ultra,Dallas Empire,Playoffs,Winners Round 3,8/22/2020,2,3,Dallas Empire
+3832,London Royal Ravens,New York Subliners,Playoffs,Elimination Round 3,8/23/2020,3,2,London Royal Ravens
+3831,OpTic Gaming Los Angeles,Florida Mutineers,Playoffs,Elimination Round 3,8/23/2020,3,0,OpTic Gaming Los Angeles
+3835,London Royal Ravens,Toronto Ultra,Playoffs,Elimination Round 4,8/23/2020,3,1,London Royal Ravens
+3833,OpTic Gaming Los Angeles,Chicago Huntsmen,Playoffs,Elimination Round 4,8/23/2020,2,3,Chicago Huntsmen
+3834,London Royal Ravens,Chicago Huntsmen,Champs,Elimination Round 5,8/29/2020,1,3,Chicago Huntsmen
+3823,Dallas Empire,Atlanta FaZe,Champs,Winners Finals,8/29/2020,3,2,Dallas Empire
+3836,Chicago Huntsmen,Atlanta FaZe,Champs,Elimination Finals,8/29/2020,1,3,Atlanta FaZe
+3838,Atlanta FaZe,Dallas Empire,Champs,Championship,8/30/2020,1,5,Dallas Empire

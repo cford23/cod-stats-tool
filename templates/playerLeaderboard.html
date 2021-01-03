@@ -2,25 +2,36 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>CoD Stats Tool - Players</title>
+        <title>CoD Stats Tool - Leaderboards</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                width: 50%;
+            }
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: center;
+                padding: 8px;
+            }
+        </style>
     </head>
     <body>
         {% extends "template.html" %}
         {% block content %}
 
         <br>
-        <form action='{{ url_for("viewPlayers") }}' method="post">
-            Player
-            <select id="player" name="player">
-                {% for player in stats.playerList %}
-                    <option value="{{ player }}" {% if selectedItems[0] == player %} selected {% endif %}>{{ player }}</option>
+        <form action='{{ url_for("playerLeaderboard") }}' method="post">
+            Type
+            <select id="type" name="type">
+                {% for type in types %}
+                    <option value="{{ type }}" {% if selectedItems[0] == type %} selected {% endif %}>{{ type }}</option>
                 {% endfor %}
             </select>
 
             Team
             <select id="team" name="team">
                 <option value="All" {% if selectedItems[1] =='' %} selected {% endif %}>All</option>
-                {% for team in playerTeams %}
+                {% for team in stats.teams %}
                     <option value="{{ team }}" {% if selectedItems[1] == team %} selected {% endif %}>{{ team }}</option>
                 {% endfor %}
             </select>
@@ -28,15 +39,15 @@
             Opponent
             <select id="opponent" name="opponent">
                 <option value="All" {% if selectedItems[2] =='' %} selected {% endif %}>All</option>
-                {% for opponent in stats.teams %}
-                    <option value="{{ opponent }}" {% if selectedItems[2] == opponent %} selected {% endif %}>{{ opponent }}</option>
+                {% for team in stats.teams %}
+                    <option value="{{ team }}" {% if selectedItems[2] == team %} selected {% endif %}>{{ team }}</option>
                 {% endfor %}
             </select>
 
             Event
             <select id="event" name="event">
                 <option value="All" {% if selectedItems[3] =='' %} selected {% endif %}>All</option>
-                {% for event in playerEvents %}
+                {% for event in stats.events %}
                     <option value="{{ event }}" {% if selectedItems[3] == event %} selected {% endif %}>{{ event }}</option>
                 {% endfor %}
             </select>
@@ -56,17 +67,31 @@
                     <option value="{{ map }}" {% if selectedItems[5] == map %} selected {% endif %}>{{ map }}</option>
                 {% endfor %}
             </select>
+
             <button type="submit">Search</button>
         </form>
+        <br>
 
-        <h2>Kills: {{ kills }} &nbsp;&nbsp; Deaths: {{ deaths }} &nbsp;&nbsp; K/D: {{ kd }} &nbsp;&nbsp; Map Wins: {{ mapRecord[0] }} &nbsp;&nbsp; Map Losses: {{ mapRecord[1] }}</h2>
-
-        <div class="results">
-            <h2>Player query results ({{ length }} {% if length == 1 %} result{% else %} results{% endif %})</h2>
-            {% for table in tables %}
-                {{ table|safe }}
-            {% endfor %}
-        </div>
+        {% if results is not none %}
+            <table>
+                <tr>
+                    <th>Rank</th>
+                    <th>Player</th>
+                    <th>{{ selectedItems[0] }}</th>
+                </tr>
+                {% for result in results %}
+                    <tr>
+                        <td>{{ loop.index }}</td>
+                        <td>{{ result }}</td>
+                        {% if type == 'K/D' %}
+                            <td>{{ "%.2f" % results[result] }}</td>
+                        {% else %}
+                            <td>{{ results[result] }}</td>
+                        {% endif %}
+                    </tr>
+                {% endfor %}
+            </table>
+        {% endif %}
 
         {% endblock %}
     </body>

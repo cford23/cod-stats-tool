@@ -3,43 +3,60 @@
         <meta charset="utf-8">
         <title>Flask Parent Template</title>
         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='/css/template.css') }}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     </head>
     <body>
-        <header>
-            <div class="container">
-                <h1 class="logo">Stats Tool for Call of Duty</h1>
-                <strong><nav>
-                    <ul class="menu">
-                        <li>
-                            <a href="{{ url_for('index') }}">Home</a>
-                        </li>
-                        <li>
-                            <a href="{{ url_for('statsEntry') }}">Stats Entry</a>
-                        </li>
-                        <li>
-                            <a href="{{ url_for('viewMatches') }}">View Matches</a>
-                        </li>
-                        <li>
-                            <a href="{{ url_for('viewMaps') }}">View Maps</a>
-                        </li>
-                        <li>
-                            <a href="{{ url_for('viewPlayers') }}">View Players</a>
-                        </li>
-                        <li>
-                            <a href="{{ url_for('matchupPreview') }}">Matchup Preview</a>
-                        </li>
-                        <li>
-                            <a href="{{ url_for('mapPreview') }}">Map Preview</a>
-                        </li>
-                    </ul>
-                </nav></strong>
+        <div id="page-container">
+            <div id="content-wrap">
+                <header>
+                    <div class="container">
+                        <h2 class="logo">Call of Duty League Stats Tool</h2>
+                        <strong><nav>
+                            <ul class="menu">
+                                <li>
+                                    <a href="{{ url_for('index') }}">Home</a>
+                                </li>
+                                <li>
+                                    <a href="{{ url_for('viewMatches') }}">View Matches</a>
+                                </li>
+                                <li>
+                                    <a href="{{ url_for('viewMaps') }}">View Maps</a>
+                                </li>
+                                <li>
+                                    <a href="{{ url_for('viewPlayers') }}">View Players</a>
+                                </li>
+                                <li>
+                                    <a href="{{ url_for('matchupPreview') }}">Matchup Preview</a>
+                                </li>
+                                <li>
+                                    <a href="{{ url_for('mapPreview') }}">Map Preview</a>
+                                </li>
+                                <li>
+                                    <div class="dropdown">
+                                        <button class="dropbtn">Leaderboards
+                                            <i class="fa fa-caret-down"></i>
+                                        </button>
+                                        <div class="dropdown-content">
+                                            <a href="{{ url_for('teamLeaderboard') }}">Team</a>
+                                            <a href="{{ url_for('playerLeaderboard') }}">Player</a>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </nav></strong>
+                    </div>
+                </header>
+
+                <center>
+                    {% block content %}
+                    {% endblock %}
+                </center>
             </div>
-        </header>
-
-        <center>
-            {% block content %}
-            {% endblock %}
-        </center>
-
-        </body>
+            <center>
+                <div id="footer">
+                    <p>Created by: Connor "Cocoa" Ford | Twitter: @connorford23/@DropShotStats</p>
+                </div>
+            </center>
+        </div>
+    </body>
 </html>
