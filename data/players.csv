@@ -4129,3 +4129,583 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Map Number,Player,Kills,Deaths,K/D,
 3593,412,Seattle,Chicago Huntsmen,London Royal Ravens,Hardpoint,Hackney Yard,4,Formal,25,19,1.32,6,Win
 3593,412,Seattle,Chicago Huntsmen,London Royal Ravens,Hardpoint,Hackney Yard,4,Prestinni,21,22,0.95,-1,Win
 3593,412,Seattle,Chicago Huntsmen,London Royal Ravens,Hardpoint,Hackney Yard,4,Scump,31,16,1.94,15,Win
+3599,413,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Rammaza,1,Bance,21,22,0.95,-1,Loss
+3599,413,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Rammaza,1,Cammy,19,25,0.76,-6,Loss
+3599,413,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Rammaza,1,Classic,14,22,0.64,-8,Loss
+3599,413,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Rammaza,1,Methodz,21,27,0.78,-6,Loss
+3599,413,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Rammaza,1,MeTTalZz,32,24,1.33,8,Loss
+3599,413,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Rammaza,1,AquA,20,22,0.91,-2,Win
+3599,413,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Rammaza,1,Blazt,27,16,1.69,11,Win
+3599,413,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Rammaza,1,Decemate,28,18,1.56,10,Win
+3599,413,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Rammaza,1,Saints,22,23,0.96,-1,Win
+3599,413,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Rammaza,1,Vivid,23,28,0.82,-5,Win
+3599,414,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Bance,8,7,1.14,1,Loss
+3599,414,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Cammy,6,8,0.75,-2,Loss
+3599,414,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Classic,5,7,0.71,-2,Loss
+3599,414,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Methodz,3,7,0.43,-4,Loss
+3599,414,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,MeTTalZz,4,6,0.67,-2,Loss
+3599,414,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Arklov Peak,2,AquA,3,6,0.5,-3,Win
+3599,414,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Arklov Peak,2,Blazt,6,4,1.5,2,Win
+3599,414,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Arklov Peak,2,Decemate,6,6,1,0,Win
+3599,414,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Arklov Peak,2,Saints,7,5,1.4,2,Win
+3599,414,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Arklov Peak,2,Vivid,13,5,2.6,8,Win
+3599,415,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Domination,Hackney Yard,3,Bance,17,16,1.06,1,Win
+3599,415,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Domination,Hackney Yard,3,Cammy,25,26,0.96,-1,Win
+3599,415,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Domination,Hackney Yard,3,Classic,25,20,1.25,5,Win
+3599,415,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Domination,Hackney Yard,3,Methodz,23,21,1.1,2,Win
+3599,415,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Domination,Hackney Yard,3,MeTTalZz,23,26,0.88,-3,Win
+3599,415,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Domination,Hackney Yard,3,AquA,24,24,1,0,Loss
+3599,415,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Domination,Hackney Yard,3,Blazt,22,17,1.29,5,Loss
+3599,415,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Domination,Hackney Yard,3,Decemate,18,21,0.86,-3,Loss
+3599,415,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Domination,Hackney Yard,3,Saints,21,22,0.95,-1,Loss
+3599,415,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Domination,Hackney Yard,3,Vivid,24,29,0.83,-5,Loss
+3599,416,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Bance,17,7,2.43,10,Win
+3599,416,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Cammy,32,18,1.78,14,Win
+3599,416,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Classic,23,17,1.35,6,Win
+3599,416,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Methodz,18,12,1.5,6,Win
+3599,416,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,MeTTalZz,22,19,1.16,3,Win
+3599,416,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Hackney Yard,4,AquA,15,24,0.63,-9,Loss
+3599,416,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Hackney Yard,4,Blazt,16,19,0.84,-3,Loss
+3599,416,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Hackney Yard,4,Decemate,17,22,0.77,-5,Loss
+3599,416,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Hackney Yard,4,Saints,13,21,0.62,-8,Loss
+3599,416,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Hackney Yard,4,Vivid,12,25,0.48,-13,Loss
+3599,417,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Bance,5,8,0.63,-3,Loss
+3599,417,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Cammy,5,8,0.63,-3,Loss
+3599,417,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Classic,9,6,1.5,3,Loss
+3599,417,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Methodz,4,8,0.5,-4,Loss
+3599,417,Minnesota,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,MeTTalZz,5,9,0.56,-4,Loss
+3599,417,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Gun Runner,5,AquA,13,4,3.25,9,Win
+3599,417,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Gun Runner,5,Blazt,4,6,0.67,-2,Win
+3599,417,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Gun Runner,5,Decemate,5,5,1,0,Win
+3599,417,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Gun Runner,5,Saints,11,5,2.2,6,Win
+3599,417,Minnesota,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Gun Runner,5,Vivid,6,8,0.75,-2,Win
+3594,418,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Azhir Cave,1,Apathy,19,27,0.7,-8,Win
+3594,418,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Azhir Cave,1,Octane,37,21,1.76,16,Win
+3594,418,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Azhir Cave,1,Pandur,27,25,1.08,2,Win
+3594,418,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Azhir Cave,1,Proto,19,20,0.95,-1,Win
+3594,418,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Azhir Cave,1,Slacked,23,20,1.15,3,Win
+3594,418,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Azhir Cave,1,aBeZy,24,28,0.86,-4,Loss
+3594,418,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Azhir Cave,1,Cellium,23,23,1,0,Loss
+3594,418,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Azhir Cave,1,MajorManiak,20,23,0.87,-3,Loss
+3594,418,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Azhir Cave,1,Priestahh,13,30,0.43,-17,Loss
+3594,418,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Azhir Cave,1,Simp,33,21,1.57,12,Loss
+3594,419,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,Azhir Cave,2,Apathy,6,7,0.86,-1,Win
+3594,419,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,Gun Runner,2,Octane,12,7,1.71,5,Win
+3594,419,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,Gun Runner,2,Pandur,7,7,1,0,Win
+3594,419,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,Gun Runner,2,Proto,10,8,1.25,2,Win
+3594,419,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,Gun Runner,2,Slacked,12,7,1.71,5,Win
+3594,419,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,Gun Runner,2,aBeZy,9,9,1,0,Loss
+3594,419,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,Gun Runner,2,Cellium,10,9,1.11,1,Loss
+3594,419,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,Gun Runner,2,MajorManiak,4,10,0.4,-6,Loss
+3594,419,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,Gun Runner,2,Priestahh,4,10,0.4,-6,Loss
+3594,419,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,Gun Runner,2,Simp,9,9,1,0,Loss
+3594,420,Minnesota,Seattle Surge,Atlanta FaZe,Domination,Gun Runner,3,Apathy,9,33,0.27,-24,Loss
+3594,420,Minnesota,Seattle Surge,Atlanta FaZe,Domination,Hackney Yard,3,Octane,25,23,1.09,2,Loss
+3594,420,Minnesota,Seattle Surge,Atlanta FaZe,Domination,Hackney Yard,3,Pandur,18,22,0.82,-4,Loss
+3594,420,Minnesota,Seattle Surge,Atlanta FaZe,Domination,Hackney Yard,3,Proto,19,26,0.73,-7,Loss
+3594,420,Minnesota,Seattle Surge,Atlanta FaZe,Domination,Hackney Yard,3,Slacked,14,22,0.64,-8,Loss
+3594,420,Minnesota,Atlanta FaZe,Seattle Surge,Domination,Hackney Yard,3,aBeZy,28,18,1.56,10,Win
+3594,420,Minnesota,Atlanta FaZe,Seattle Surge,Domination,Hackney Yard,3,Cellium,24,19,1.26,5,Win
+3594,420,Minnesota,Atlanta FaZe,Seattle Surge,Domination,Hackney Yard,3,MajorManiak,23,11,2.09,12,Win
+3594,420,Minnesota,Atlanta FaZe,Seattle Surge,Domination,Hackney Yard,3,Priestahh,29,20,1.45,9,Win
+3594,420,Minnesota,Atlanta FaZe,Seattle Surge,Domination,Hackney Yard,3,Simp,22,17,1.29,5,Win
+3594,421,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Hackney Yard,4,Apathy,29,28,1.04,1,Loss
+3594,421,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Gun Runner,4,Octane,37,24,1.54,13,Loss
+3594,421,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Gun Runner,4,Pandur,21,34,0.62,-13,Loss
+3594,421,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Gun Runner,4,Proto,22,25,0.88,-3,Loss
+3594,421,Minnesota,Seattle Surge,Atlanta FaZe,Hardpoint,Gun Runner,4,Slacked,27,30,0.9,-3,Loss
+3594,421,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Gun Runner,4,aBeZy,32,30,1.07,2,Win
+3594,421,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Gun Runner,4,Cellium,29,27,1.07,2,Win
+3594,421,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Gun Runner,4,MajorManiak,22,22,1,0,Win
+3594,421,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Gun Runner,4,Priestahh,26,31,0.84,-5,Win
+3594,421,Minnesota,Atlanta FaZe,Seattle Surge,Hardpoint,Gun Runner,4,Simp,32,26,1.23,6,Win
+3594,422,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,Gun Runner,5,Apathy,10,6,1.67,4,Loss
+3594,422,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,St. Petrograd,5,Octane,7,8,0.88,-1,Loss
+3594,422,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,St. Petrograd,5,Pandur,8,7,1.14,1,Loss
+3594,422,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,St. Petrograd,5,Proto,2,9,0.22,-7,Loss
+3594,422,Minnesota,Seattle Surge,Atlanta FaZe,Search and Destroy,St. Petrograd,5,Slacked,10,10,1,0,Loss
+3594,422,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,St. Petrograd,5,aBeZy,8,9,0.89,-1,Win
+3594,422,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,St. Petrograd,5,Cellium,8,6,1.33,2,Win
+3594,422,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,St. Petrograd,5,MajorManiak,7,9,0.78,-2,Win
+3594,422,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,St. Petrograd,5,Priestahh,8,8,1,0,Win
+3594,422,Minnesota,Atlanta FaZe,Seattle Surge,Search and Destroy,St. Petrograd,5,Simp,9,6,1.5,3,Win
+3600,423,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Gun Runner,1,Fero,28,33,0.85,-5,Loss
+3600,423,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Gun Runner,1,Frosty,27,35,0.77,-8,Loss
+3600,423,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Gun Runner,1,Havok,33,36,0.92,-3,Loss
+3600,423,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Gun Runner,1,Owakening,35,31,1.13,4,Loss
+3600,423,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Gun Runner,1,Skyz,27,28,0.96,-1,Loss
+3600,423,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Gun Runner,1,Arcitys,30,30,1,0,Win
+3600,423,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Gun Runner,1,Envoy,37,26,1.42,11,Win
+3600,423,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Gun Runner,1,Formal,32,25,1.28,7,Win
+3600,423,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Gun Runner,1,Prestinni,31,38,0.82,-7,Win
+3600,423,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Gun Runner,1,Scump,33,31,1.06,2,Win
+3600,424,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Fero,3,6,0.5,-3,Win
+3600,424,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Frosty,10,8,1.25,2,Win
+3600,424,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Havok,7,4,1.75,3,Win
+3600,424,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Owakening,10,8,1.25,2,Win
+3600,424,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Skyz,7,7,1,0,Win
+3600,424,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Arklov Peak,2,Arcitys,7,8,0.88,-1,Loss
+3600,424,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Arklov Peak,2,Envoy,7,7,1,0,Loss
+3600,424,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Arklov Peak,2,Formal,9,7,1.29,2,Loss
+3600,424,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Arklov Peak,2,Prestinni,9,8,1.13,1,Loss
+3600,424,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Arklov Peak,2,Scump,1,7,0.14,-6,Loss
+3600,425,Minnesota,Florida Mutineers,Chicago Huntsmen,Domination,Hackney Yard,3,Fero,13,23,0.57,-10,Win
+3600,425,Minnesota,Florida Mutineers,Chicago Huntsmen,Domination,Hackney Yard,3,Frosty,29,20,1.45,9,Win
+3600,425,Minnesota,Florida Mutineers,Chicago Huntsmen,Domination,Hackney Yard,3,Havok,24,21,1.14,3,Win
+3600,425,Minnesota,Florida Mutineers,Chicago Huntsmen,Domination,Hackney Yard,3,Owakening,18,19,0.95,-1,Win
+3600,425,Minnesota,Florida Mutineers,Chicago Huntsmen,Domination,Hackney Yard,3,Skyz,26,15,1.73,11,Win
+3600,425,Minnesota,Chicago Huntsmen,Florida Mutineers,Domination,Hackney Yard,3,Arcitys,23,21,1.1,2,Loss
+3600,425,Minnesota,Chicago Huntsmen,Florida Mutineers,Domination,Hackney Yard,3,Envoy,17,27,0.63,-10,Loss
+3600,425,Minnesota,Chicago Huntsmen,Florida Mutineers,Domination,Hackney Yard,3,Formal,14,18,0.78,-4,Loss
+3600,425,Minnesota,Chicago Huntsmen,Florida Mutineers,Domination,Hackney Yard,3,Prestinni,28,22,1.27,6,Loss
+3600,425,Minnesota,Chicago Huntsmen,Florida Mutineers,Domination,Hackney Yard,3,Scump,16,22,0.73,-6,Loss
+3600,426,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Rammaza,4,Fero,22,30,0.73,-8,Loss
+3600,426,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Rammaza,4,Frosty,28,31,0.9,-3,Loss
+3600,426,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Rammaza,4,Havok,26,23,1.13,3,Loss
+3600,426,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Rammaza,4,Owakening,29,30,0.97,-1,Loss
+3600,426,Minnesota,Florida Mutineers,Chicago Huntsmen,Hardpoint,Rammaza,4,Skyz,20,22,0.91,-2,Loss
+3600,426,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Rammaza,4,Arcitys,34,20,1.7,14,Win
+3600,426,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Rammaza,4,Envoy,23,28,0.82,-5,Win
+3600,426,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Rammaza,4,Formal,24,22,1.09,2,Win
+3600,426,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Rammaza,4,Prestinni,27,32,0.84,-5,Win
+3600,426,Minnesota,Chicago Huntsmen,Florida Mutineers,Hardpoint,Rammaza,4,Scump,28,23,1.22,5,Win
+3600,427,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Rammaza,5,Fero,8,8,1,0,Win
+3600,427,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Rammaza,5,Frosty,9,6,1.5,3,Win
+3600,427,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Rammaza,5,Havok,13,8,1.63,5,Win
+3600,427,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Rammaza,5,Owakening,1,8,0.13,-7,Win
+3600,427,Minnesota,Florida Mutineers,Chicago Huntsmen,Search and Destroy,Rammaza,5,Skyz,10,4,2.5,6,Win
+3600,427,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Rammaza,5,Arcitys,2,9,0.22,-7,Loss
+3600,427,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Rammaza,5,Envoy,12,7,1.71,5,Loss
+3600,427,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Rammaza,5,Formal,6,8,0.75,-2,Loss
+3600,427,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Rammaza,5,Prestinni,3,8,0.38,-5,Loss
+3600,427,Minnesota,Chicago Huntsmen,Florida Mutineers,Search and Destroy,Rammaza,5,Scump,11,9,1.22,2,Loss
+3595,428,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,Rammaza,1,Alexx,18,27,0.67,-9,Win
+3595,428,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,Rammaza,1,Asim,20,22,0.91,-2,Win
+3595,428,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,Rammaza,1,Assault,32,22,1.45,10,Win
+3595,428,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,Rammaza,1,GodRx,26,22,1.18,4,Win
+3595,428,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,Rammaza,1,SiLLY,18,26,0.69,-8,Win
+3595,428,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,Rammaza,1,Clayster,28,18,1.56,10,Loss
+3595,428,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,Rammaza,1,Crimsix,19,25,0.76,-6,Loss
+3595,428,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,Rammaza,1,Huke,26,23,1.13,3,Loss
+3595,428,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,Rammaza,1,iLLey,19,25,0.76,-6,Loss
+3595,428,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,Rammaza,1,Shotzzy,27,23,1.17,4,Loss
+3595,429,Minnesota,Minnesota Rokkr,Dallas Empire,Search and Destroy,St. Petrograd,2,Alexx,3,6,0.5,-3,Loss
+3595,429,Minnesota,Minnesota Rokkr,Dallas Empire,Search and Destroy,St. Petrograd,2,Asim,7,7,1,0,Loss
+3595,429,Minnesota,Minnesota Rokkr,Dallas Empire,Search and Destroy,St. Petrograd,2,Assault,3,8,0.38,-5,Loss
+3595,429,Minnesota,Minnesota Rokkr,Dallas Empire,Search and Destroy,St. Petrograd,2,GodRx,7,7,1,0,Loss
+3595,429,Minnesota,Minnesota Rokkr,Dallas Empire,Search and Destroy,St. Petrograd,2,SiLLY,7,6,1.17,1,Loss
+3595,429,Minnesota,Dallas Empire,Minnesota Rokkr,Search and Destroy,St. Petrograd,2,Clayster,7,4,1.75,3,Win
+3595,429,Minnesota,Dallas Empire,Minnesota Rokkr,Search and Destroy,St. Petrograd,2,Crimsix,6,5,1.2,1,Win
+3595,429,Minnesota,Dallas Empire,Minnesota Rokkr,Search and Destroy,St. Petrograd,2,Huke,3,6,0.5,-3,Win
+3595,429,Minnesota,Dallas Empire,Minnesota Rokkr,Search and Destroy,St. Petrograd,2,iLLey,7,7,1,0,Win
+3595,429,Minnesota,Dallas Empire,Minnesota Rokkr,Search and Destroy,St. Petrograd,2,Shotzzy,11,5,2.2,6,Win
+3595,430,Minnesota,Minnesota Rokkr,Dallas Empire,Domination,St. Petrograd,3,Alexx,12,20,0.6,-8,Loss
+3595,430,Minnesota,Minnesota Rokkr,Dallas Empire,Domination,St. Petrograd,3,Asim,18,21,0.86,-3,Loss
+3595,430,Minnesota,Minnesota Rokkr,Dallas Empire,Domination,St. Petrograd,3,Assault,16,20,0.8,-4,Loss
+3595,430,Minnesota,Minnesota Rokkr,Dallas Empire,Domination,St. Petrograd,3,GodRx,17,22,0.77,-5,Loss
+3595,430,Minnesota,Minnesota Rokkr,Dallas Empire,Domination,St. Petrograd,3,SiLLY,13,23,0.57,-10,Loss
+3595,430,Minnesota,Dallas Empire,Minnesota Rokkr,Domination,St. Petrograd,3,Clayster,19,15,1.27,4,Win
+3595,430,Minnesota,Dallas Empire,Minnesota Rokkr,Domination,St. Petrograd,3,Crimsix,17,15,1.13,2,Win
+3595,430,Minnesota,Dallas Empire,Minnesota Rokkr,Domination,St. Petrograd,3,Huke,23,16,1.44,7,Win
+3595,430,Minnesota,Dallas Empire,Minnesota Rokkr,Domination,St. Petrograd,3,iLLey,26,14,1.86,12,Win
+3595,430,Minnesota,Dallas Empire,Minnesota Rokkr,Domination,St. Petrograd,3,Shotzzy,21,16,1.31,5,Win
+3595,431,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,St. Petrograd,4,Alexx,12,25,0.48,-13,Loss
+3595,431,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,St. Petrograd,4,Asim,19,25,0.76,-6,Loss
+3595,431,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,St. Petrograd,4,Assault,30,27,1.11,3,Loss
+3595,431,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,St. Petrograd,4,GodRx,27,25,1.08,2,Loss
+3595,431,Minnesota,Minnesota Rokkr,Dallas Empire,Hardpoint,St. Petrograd,4,SiLLY,20,26,0.77,-6,Loss
+3595,431,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,St. Petrograd,4,Clayster,23,27,0.85,-4,Win
+3595,431,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,St. Petrograd,4,Crimsix,23,22,1.05,1,Win
+3595,431,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,St. Petrograd,4,Huke,37,19,1.95,18,Win
+3595,431,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,St. Petrograd,4,iLLey,22,25,0.88,-3,Win
+3595,431,Minnesota,Dallas Empire,Minnesota Rokkr,Hardpoint,St. Petrograd,4,Shotzzy,23,15,1.53,8,Win
+3601,432,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Fero,32,31,1.03,1,Win
+3601,432,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Frosty,24,30,0.8,-6,Win
+3601,432,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Havok,26,30,0.87,-4,Win
+3601,432,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Owakening,33,25,1.32,8,Win
+3601,432,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Skyz,29,21,1.38,8,Win
+3601,432,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Gun Runner,1,AquA,29,26,1.12,3,Loss
+3601,432,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Gun Runner,1,Blazt,27,25,1.08,2,Loss
+3601,432,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Gun Runner,1,Decemate,31,28,1.11,3,Loss
+3601,432,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Gun Runner,1,Saints,19,33,0.58,-14,Loss
+3601,432,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Gun Runner,1,Vivid,31,32,0.97,-1,Loss
+3601,433,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,Fero,10,9,1.11,1,Loss
+3601,433,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,Frosty,3,9,0.33,-6,Loss
+3601,433,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,Havok,7,9,0.78,-2,Loss
+3601,433,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,Owakening,10,7,1.43,3,Loss
+3601,433,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,Skyz,4,8,0.5,-4,Loss
+3601,433,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Piccadilly,2,AquA,10,5,2,5,Win
+3601,433,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Piccadilly,2,Blazt,9,9,1,0,Win
+3601,433,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Piccadilly,2,Decemate,5,9,0.56,-4,Win
+3601,433,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Piccadilly,2,Saints,3,6,0.5,-3,Win
+3601,433,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Piccadilly,2,Vivid,15,5,3,10,Win
+3601,434,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Domination,St. Petrograd,3,Fero,23,17,1.35,6,Win
+3601,434,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Domination,St. Petrograd,3,Frosty,21,17,1.24,4,Win
+3601,434,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Domination,St. Petrograd,3,Havok,27,24,1.13,3,Win
+3601,434,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Domination,St. Petrograd,3,Owakening,25,22,1.14,3,Win
+3601,434,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Domination,St. Petrograd,3,Skyz,12,8,1.5,4,Win
+3601,434,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Domination,St. Petrograd,3,AquA,16,24,0.67,-8,Loss
+3601,434,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Domination,St. Petrograd,3,Blazt,22,14,1.57,8,Loss
+3601,434,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Domination,St. Petrograd,3,Decemate,14,21,0.67,-7,Loss
+3601,434,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Domination,St. Petrograd,3,Saints,14,21,0.67,-7,Loss
+3601,434,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Domination,St. Petrograd,3,Vivid,22,28,0.79,-6,Loss
+3601,435,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Rammaza,4,Fero,23,22,1.05,1,Win
+3601,435,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Rammaza,4,Frosty,26,20,1.3,6,Win
+3601,435,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Rammaza,4,Havok,29,20,1.45,9,Win
+3601,435,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Rammaza,4,Owakening,32,19,1.68,13,Win
+3601,435,Minnesota,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Rammaza,4,Skyz,18,14,1.29,4,Win
+3601,435,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Rammaza,4,AquA,25,21,1.19,4,Loss
+3601,435,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Rammaza,4,Blazt,16,25,0.64,-9,Loss
+3601,435,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Rammaza,4,Decemate,18,26,0.69,-8,Loss
+3601,435,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Rammaza,4,Saints,16,26,0.62,-10,Loss
+3601,435,Minnesota,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Rammaza,4,Vivid,20,30,0.67,-10,Loss
+3596,436,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,Gun Runner,1,aBeZy,23,31,0.74,-8,Loss
+3596,436,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,Gun Runner,1,Cellium,25,29,0.86,-4,Loss
+3596,436,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,Gun Runner,1,MajorManiak,23,23,1,0,Loss
+3596,436,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,Gun Runner,1,Priestahh,23,29,0.79,-6,Loss
+3596,436,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,Gun Runner,1,Simp,18,27,0.67,-9,Loss
+3596,436,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,Gun Runner,1,Clayster,25,21,1.19,4,Win
+3596,436,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,Gun Runner,1,Crimsix,25,24,1.04,1,Win
+3596,436,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,Gun Runner,1,Huke,29,26,1.12,3,Win
+3596,436,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,Gun Runner,1,iLLey,30,23,1.3,7,Win
+3596,436,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,Gun Runner,1,Shotzzy,30,18,1.67,12,Win
+3596,437,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Rammaza,2,aBeZy,7,8,0.88,-1,Loss
+3596,437,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Rammaza,2,Cellium,2,9,0.22,-7,Loss
+3596,437,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Rammaza,2,MajorManiak,3,9,0.33,-6,Loss
+3596,437,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Rammaza,2,Priestahh,9,7,1.29,2,Loss
+3596,437,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Rammaza,2,Simp,9,6,1.5,3,Loss
+3596,437,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Rammaza,2,Clayster,11,5,2.2,6,Win
+3596,437,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Rammaza,2,Crimsix,5,5,1,0,Win
+3596,437,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Rammaza,2,Huke,7,6,1.17,1,Win
+3596,437,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Rammaza,2,iLLey,11,6,1.83,5,Win
+3596,437,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Rammaza,2,Shotzzy,5,8,0.63,-3,Win
+3596,438,Minnesota,Atlanta FaZe,Dallas Empire,Domination,St. Petrograd,3,aBeZy,18,14,1.29,4,Win
+3596,438,Minnesota,Atlanta FaZe,Dallas Empire,Domination,St. Petrograd,3,Cellium,22,17,1.29,5,Win
+3596,438,Minnesota,Atlanta FaZe,Dallas Empire,Domination,St. Petrograd,3,MajorManiak,21,17,1.24,4,Win
+3596,438,Minnesota,Atlanta FaZe,Dallas Empire,Domination,St. Petrograd,3,Priestahh,23,25,0.92,-2,Win
+3596,438,Minnesota,Atlanta FaZe,Dallas Empire,Domination,St. Petrograd,3,Simp,20,17,1.18,3,Win
+3596,438,Minnesota,Dallas Empire,Atlanta FaZe,Domination,St. Petrograd,3,Clayster,15,21,0.71,-6,Loss
+3596,438,Minnesota,Dallas Empire,Atlanta FaZe,Domination,St. Petrograd,3,Crimsix,19,19,1,0,Loss
+3596,438,Minnesota,Dallas Empire,Atlanta FaZe,Domination,St. Petrograd,3,Huke,24,20,1.2,4,Loss
+3596,438,Minnesota,Dallas Empire,Atlanta FaZe,Domination,St. Petrograd,3,iLLey,15,24,0.63,-9,Loss
+3596,438,Minnesota,Dallas Empire,Atlanta FaZe,Domination,St. Petrograd,3,Shotzzy,17,20,0.85,-3,Loss
+3596,439,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,St. Petrograd,4,aBeZy,21,26,0.81,-5,Win
+3596,439,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,St. Petrograd,4,Cellium,32,27,1.19,5,Win
+3596,439,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,St. Petrograd,4,MajorManiak,23,16,1.44,7,Win
+3596,439,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,St. Petrograd,4,Priestahh,26,24,1.08,2,Win
+3596,439,Minnesota,Atlanta FaZe,Dallas Empire,Hardpoint,St. Petrograd,4,Simp,30,22,1.36,8,Win
+3596,439,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,St. Petrograd,4,Clayster,25,29,0.86,-4,Loss
+3596,439,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,St. Petrograd,4,Crimsix,15,29,0.52,-14,Loss
+3596,439,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,St. Petrograd,4,Huke,28,24,1.17,4,Loss
+3596,439,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,St. Petrograd,4,iLLey,17,30,0.57,-13,Loss
+3596,439,Minnesota,Dallas Empire,Atlanta FaZe,Hardpoint,St. Petrograd,4,Shotzzy,30,21,1.43,9,Loss
+3596,440,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Piccadilly,5,aBeZy,4,6,0.67,-2,Win
+3596,440,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Piccadilly,5,Cellium,8,3,2.67,5,Win
+3596,440,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Piccadilly,5,MajorManiak,10,3,3.33,7,Win
+3596,440,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Piccadilly,5,Priestahh,7,7,1,0,Win
+3596,440,Minnesota,Atlanta FaZe,Dallas Empire,Search and Destroy,Piccadilly,5,Simp,8,3,2.67,5,Win
+3596,440,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Piccadilly,5,Clayster,3,8,0.38,-5,Loss
+3596,440,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Piccadilly,5,Crimsix,3,8,0.38,-5,Loss
+3596,440,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Piccadilly,5,Huke,3,7,0.43,-4,Loss
+3596,440,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Piccadilly,5,iLLey,7,7,1,0,Loss
+3596,440,Minnesota,Dallas Empire,Atlanta FaZe,Search and Destroy,Piccadilly,5,Shotzzy,6,7,0.86,-1,Loss
+3602,441,Minnesota,Toronto Ultra,Chicago Huntsmen,Hardpoint,Rammaza,1,Bance,31,34,0.91,-3,Loss
+3602,441,Minnesota,Toronto Ultra,Chicago Huntsmen,Hardpoint,Rammaza,1,Cammy,20,31,0.65,-11,Loss
+3602,441,Minnesota,Toronto Ultra,Chicago Huntsmen,Hardpoint,Rammaza,1,Classic,24,25,0.96,-1,Loss
+3602,441,Minnesota,Toronto Ultra,Chicago Huntsmen,Hardpoint,Rammaza,1,Methodz,16,23,0.7,-7,Loss
+3602,441,Minnesota,Toronto Ultra,Chicago Huntsmen,Hardpoint,Rammaza,1,MeTTalZz,29,26,1.12,3,Loss
+3602,441,Minnesota,Chicago Huntsmen,Toronto Ultra,Hardpoint,Rammaza,1,Arcitys,25,27,0.93,-2,Win
+3602,441,Minnesota,Chicago Huntsmen,Toronto Ultra,Hardpoint,Rammaza,1,Envoy,23,26,0.88,-3,Win
+3602,441,Minnesota,Chicago Huntsmen,Toronto Ultra,Hardpoint,Rammaza,1,Formal,35,21,1.67,14,Win
+3602,441,Minnesota,Chicago Huntsmen,Toronto Ultra,Hardpoint,Rammaza,1,Prestinni,25,24,1.04,1,Win
+3602,441,Minnesota,Chicago Huntsmen,Toronto Ultra,Hardpoint,Rammaza,1,Scump,31,22,1.41,9,Win
+3602,442,Minnesota,Toronto Ultra,Chicago Huntsmen,Search and Destroy,Rammaza,2,Bance,4,8,0.5,-4,Loss
+3602,442,Minnesota,Toronto Ultra,Chicago Huntsmen,Search and Destroy,Rammaza,2,Cammy,5,6,0.83,-1,Loss
+3602,442,Minnesota,Toronto Ultra,Chicago Huntsmen,Search and Destroy,Rammaza,2,Classic,1,8,0.13,-7,Loss
+3602,442,Minnesota,Toronto Ultra,Chicago Huntsmen,Search and Destroy,Rammaza,2,Methodz,5,7,0.71,-2,Loss
+3602,442,Minnesota,Toronto Ultra,Chicago Huntsmen,Search and Destroy,Rammaza,2,MeTTalZz,8,6,1.33,2,Loss
+3602,442,Minnesota,Chicago Huntsmen,Toronto Ultra,Search and Destroy,Rammaza,2,Arcitys,6,3,2,3,Win
+3602,442,Minnesota,Chicago Huntsmen,Toronto Ultra,Search and Destroy,Rammaza,2,Envoy,8,4,2,4,Win
+3602,442,Minnesota,Chicago Huntsmen,Toronto Ultra,Search and Destroy,Rammaza,2,Formal,8,4,2,4,Win
+3602,442,Minnesota,Chicago Huntsmen,Toronto Ultra,Search and Destroy,Rammaza,2,Prestinni,10,7,1.43,3,Win
+3602,442,Minnesota,Chicago Huntsmen,Toronto Ultra,Search and Destroy,Rammaza,2,Scump,3,5,0.6,-2,Win
+3602,443,Minnesota,Toronto Ultra,Chicago Huntsmen,Domination,Gun Runner,3,Bance,17,19,0.89,-2,Loss
+3602,443,Minnesota,Toronto Ultra,Chicago Huntsmen,Domination,Gun Runner,3,Cammy,18,24,0.75,-6,Loss
+3602,443,Minnesota,Toronto Ultra,Chicago Huntsmen,Domination,Gun Runner,3,Classic,13,17,0.76,-4,Loss
+3602,443,Minnesota,Toronto Ultra,Chicago Huntsmen,Domination,Gun Runner,3,Methodz,14,19,0.74,-5,Loss
+3602,443,Minnesota,Toronto Ultra,Chicago Huntsmen,Domination,Gun Runner,3,MeTTalZz,19,25,0.76,-6,Loss
+3602,443,Minnesota,Chicago Huntsmen,Toronto Ultra,Domination,Gun Runner,3,Arcitys,17,19,0.89,-2,Win
+3602,443,Minnesota,Chicago Huntsmen,Toronto Ultra,Domination,Gun Runner,3,Envoy,25,16,1.56,9,Win
+3602,443,Minnesota,Chicago Huntsmen,Toronto Ultra,Domination,Gun Runner,3,Formal,25,16,1.56,9,Win
+3602,443,Minnesota,Chicago Huntsmen,Toronto Ultra,Domination,Gun Runner,3,Prestinni,18,16,1.13,2,Win
+3602,443,Minnesota,Chicago Huntsmen,Toronto Ultra,Domination,Gun Runner,3,Scump,19,14,1.36,5,Win
+3597,444,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Azhir Cave,1,Apathy,24,26,0.92,-2,Loss
+3597,444,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Azhir Cave,1,Octane,29,20,1.45,9,Loss
+3597,444,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Azhir Cave,1,Pandur,25,25,1,0,Loss
+3597,444,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Azhir Cave,1,Proto,20,22,0.91,-2,Loss
+3597,444,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Azhir Cave,1,Slacked,23,26,0.88,-3,Loss
+3597,444,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Azhir Cave,1,Exceed,19,29,0.66,-10,Win
+3597,444,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Azhir Cave,1,Asim,24,25,0.96,-1,Win
+3597,444,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Azhir Cave,1,Assault,32,23,1.39,9,Win
+3597,444,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Azhir Cave,1,GodRx,22,20,1.1,2,Win
+3597,444,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Azhir Cave,1,SiLLY,22,24,0.92,-2,Win
+3597,445,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,Arklov Peak,2,Apathy,3,7,0.43,-4,Loss
+3597,445,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,Arklov Peak,2,Octane,0,8,0,-8,Loss
+3597,445,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,Arklov Peak,2,Pandur,7,7,1,0,Loss
+3597,445,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,Arklov Peak,2,Proto,9,8,1.13,1,Loss
+3597,445,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,Arklov Peak,2,Slacked,9,7,1.29,2,Loss
+3597,445,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,Arklov Peak,2,Exceed,3,7,0.43,-4,Win
+3597,445,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,Arklov Peak,2,Asim,11,6,1.83,5,Win
+3597,445,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,Arklov Peak,2,Assault,7,5,1.4,2,Win
+3597,445,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,Arklov Peak,2,GodRx,12,5,2.4,7,Win
+3597,445,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,Arklov Peak,2,SiLLY,4,5,0.8,-1,Win
+3597,446,Minnesota,Seattle Surge,Minnesota Rokkr,Domination,Gun Runner,3,Apathy,24,21,1.14,3,Win
+3597,446,Minnesota,Seattle Surge,Minnesota Rokkr,Domination,Gun Runner,3,Octane,15,17,0.88,-2,Win
+3597,446,Minnesota,Seattle Surge,Minnesota Rokkr,Domination,Gun Runner,3,Pandur,17,18,0.94,-1,Win
+3597,446,Minnesota,Seattle Surge,Minnesota Rokkr,Domination,Gun Runner,3,Proto,22,20,1.1,2,Win
+3597,446,Minnesota,Seattle Surge,Minnesota Rokkr,Domination,Gun Runner,3,Slacked,19,17,1.12,2,Win
+3597,446,Minnesota,Minnesota Rokkr,Seattle Surge,Domination,Gun Runner,3,Exceed,25,24,1.04,1,Loss
+3597,446,Minnesota,Minnesota Rokkr,Seattle Surge,Domination,Gun Runner,3,Asim,17,20,0.85,-3,Loss
+3597,446,Minnesota,Minnesota Rokkr,Seattle Surge,Domination,Gun Runner,3,Assault,18,13,1.38,5,Loss
+3597,446,Minnesota,Minnesota Rokkr,Seattle Surge,Domination,Gun Runner,3,GodRx,15,19,0.79,-4,Loss
+3597,446,Minnesota,Minnesota Rokkr,Seattle Surge,Domination,Gun Runner,3,SiLLY,18,21,0.86,-3,Loss
+3597,447,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Hackney Yard,4,Apathy,25,21,1.19,4,Win
+3597,447,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Hackney Yard,4,Octane,22,22,1,0,Win
+3597,447,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Hackney Yard,4,Pandur,25,22,1.14,3,Win
+3597,447,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Hackney Yard,4,Proto,19,15,1.27,4,Win
+3597,447,Minnesota,Seattle Surge,Minnesota Rokkr,Hardpoint,Hackney Yard,4,Slacked,25,21,1.19,4,Win
+3597,447,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Hackney Yard,4,Exceed,18,27,0.67,-9,Loss
+3597,447,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Hackney Yard,4,Asim,17,25,0.68,-8,Loss
+3597,447,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Hackney Yard,4,Assault,23,19,1.21,4,Loss
+3597,447,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Hackney Yard,4,GodRx,25,22,1.14,3,Loss
+3597,447,Minnesota,Minnesota Rokkr,Seattle Surge,Hardpoint,Hackney Yard,4,SiLLY,18,23,0.78,-5,Loss
+3597,448,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,St. Petrograd,5,Apathy,7,5,1.4,2,Win
+3597,448,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,St. Petrograd,5,Octane,8,4,2,4,Win
+3597,448,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,St. Petrograd,5,Pandur,10,3,3.33,7,Win
+3597,448,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,St. Petrograd,5,Proto,4,6,0.67,-2,Win
+3597,448,Minnesota,Seattle Surge,Minnesota Rokkr,Search and Destroy,St. Petrograd,5,Slacked,6,4,1.5,2,Win
+3597,448,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,St. Petrograd,5,Exceed,3,7,0.43,-4,Loss
+3597,448,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,St. Petrograd,5,Asim,3,8,0.38,-5,Loss
+3597,448,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,St. Petrograd,5,Assault,6,6,1,0,Loss
+3597,448,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,St. Petrograd,5,GodRx,6,7,0.86,-1,Loss
+3597,448,Minnesota,Minnesota Rokkr,Seattle Surge,Search and Destroy,St. Petrograd,5,SiLLY,4,7,0.57,-3,Loss
+3603,449,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Arcitys,33,28,1.18,5,Win
+3603,449,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Envoy,31,31,1,0,Win
+3603,449,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Formal,25,21,1.19,4,Win
+3603,449,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Prestinni,27,29,0.93,-2,Win
+3603,449,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Scump,29,22,1.32,7,Win
+3603,449,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Gun Runner,1,AquA,24,29,0.83,-5,Loss
+3603,449,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Gun Runner,1,Blazt,25,20,1.25,5,Loss
+3603,449,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Gun Runner,1,Decemate,26,31,0.84,-5,Loss
+3603,449,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Gun Runner,1,Saints,27,24,1.13,3,Loss
+3603,449,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Gun Runner,1,Vivid,29,41,0.71,-12,Loss
+3603,450,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Arcitys,4,6,0.67,-2,Loss
+3603,450,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Envoy,5,7,0.71,-2,Loss
+3603,450,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Formal,6,6,1,0,Loss
+3603,450,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Prestinni,1,7,0.14,-6,Loss
+3603,450,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Arklov Peak,2,Scump,4,7,0.57,-3,Loss
+3603,450,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,AquA,9,2,4.5,7,Win
+3603,450,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Blazt,11,4,2.75,7,Win
+3603,450,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Decemate,8,3,2.67,5,Win
+3603,450,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Saints,4,4,1,0,Win
+3603,450,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Arklov Peak,2,Vivid,1,7,0.14,-6,Win
+3603,451,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Domination,Hackney Yard,3,Arcitys,18,21,0.86,-3,Win
+3603,451,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Domination,Hackney Yard,3,Envoy,24,22,1.09,2,Win
+3603,451,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Domination,Hackney Yard,3,Formal,28,18,1.56,10,Win
+3603,451,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Domination,Hackney Yard,3,Prestinni,17,24,0.71,-7,Win
+3603,451,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Domination,Hackney Yard,3,Scump,24,14,1.71,10,Win
+3603,451,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Domination,Hackney Yard,3,AquA,16,20,0.8,-4,Loss
+3603,451,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Domination,Hackney Yard,3,Blazt,19,17,1.12,2,Loss
+3603,451,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Domination,Hackney Yard,3,Decemate,21,22,0.95,-1,Loss
+3603,451,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Domination,Hackney Yard,3,Saints,13,25,0.52,-12,Loss
+3603,451,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Domination,Hackney Yard,3,Vivid,30,26,1.15,4,Loss
+3603,452,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Arcitys,25,31,0.81,-6,Loss
+3603,452,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Envoy,24,30,0.8,-6,Loss
+3603,452,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Formal,35,23,1.52,12,Loss
+3603,452,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Prestinni,26,27,0.96,-1,Loss
+3603,452,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Scump,23,29,0.79,-6,Loss
+3603,452,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Hackney Yard,4,AquA,17,29,0.59,-12,Win
+3603,452,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Hackney Yard,4,Blazt,27,24,1.13,3,Win
+3603,452,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Hackney Yard,4,Decemate,36,24,1.5,12,Win
+3603,452,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Hackney Yard,4,Saints,33,29,1.14,4,Win
+3603,452,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Hardpoint,Hackney Yard,4,Vivid,27,27,1,0,Win
+3603,453,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Arcitys,5,10,0.5,-5,Loss
+3603,453,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Envoy,8,8,1,0,Loss
+3603,453,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Formal,6,8,0.75,-2,Loss
+3603,453,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Prestinni,2,10,0.2,-8,Loss
+3603,453,Minnesota,Chicago Huntsmen,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Scump,8,8,1,0,Loss
+3603,453,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Gun Runner,5,AquA,6,7,0.86,-1,Win
+3603,453,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Gun Runner,5,Blazt,4,6,0.67,-2,Win
+3603,453,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Gun Runner,5,Decemate,9,4,2.25,5,Win
+3603,453,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Gun Runner,5,Saints,12,4,3,8,Win
+3603,453,Minnesota,Los Angeles Guerrillas,Chicago Huntsmen,Search and Destroy,Gun Runner,5,Vivid,13,8,1.63,5,Win
+3598,454,Minnesota,Seattle Surge,Dallas Empire,Hardpoint,Gun Runner,1,Apathy,23,34,0.68,-11,Loss
+3598,454,Minnesota,Seattle Surge,Dallas Empire,Hardpoint,Gun Runner,1,Octane,24,22,1.09,2,Loss
+3598,454,Minnesota,Seattle Surge,Dallas Empire,Hardpoint,Gun Runner,1,Pandur,19,30,0.63,-11,Loss
+3598,454,Minnesota,Seattle Surge,Dallas Empire,Hardpoint,Gun Runner,1,Proto,21,31,0.68,-10,Loss
+3598,454,Minnesota,Seattle Surge,Dallas Empire,Hardpoint,Gun Runner,1,Slacked,23,28,0.82,-5,Loss
+3598,454,Minnesota,Dallas Empire,Seattle Surge,Hardpoint,Gun Runner,1,Clayster,27,21,1.29,6,Win
+3598,454,Minnesota,Dallas Empire,Seattle Surge,Hardpoint,Gun Runner,1,Crimsix,26,21,1.24,5,Win
+3598,454,Minnesota,Dallas Empire,Seattle Surge,Hardpoint,Gun Runner,1,Huke,29,24,1.21,5,Win
+3598,454,Minnesota,Dallas Empire,Seattle Surge,Hardpoint,Gun Runner,1,iLLey,30,24,1.25,6,Win
+3598,454,Minnesota,Dallas Empire,Seattle Surge,Hardpoint,Gun Runner,1,Shotzzy,33,20,1.65,13,Win
+3598,455,Minnesota,Seattle Surge,Dallas Empire,Search and Destroy,Gun Runner,2,Apathy,10,8,1.25,2,Loss
+3598,455,Minnesota,Seattle Surge,Dallas Empire,Search and Destroy,Gun Runner,2,Octane,6,8,0.75,-2,Loss
+3598,455,Minnesota,Seattle Surge,Dallas Empire,Search and Destroy,Gun Runner,2,Pandur,3,8,0.38,-5,Loss
+3598,455,Minnesota,Seattle Surge,Dallas Empire,Search and Destroy,Gun Runner,2,Proto,7,8,0.88,-1,Loss
+3598,455,Minnesota,Seattle Surge,Dallas Empire,Search and Destroy,Gun Runner,2,Slacked,9,6,1.5,3,Loss
+3598,455,Minnesota,Dallas Empire,Seattle Surge,Search and Destroy,Gun Runner,2,Clayster,6,6,1,0,Win
+3598,455,Minnesota,Dallas Empire,Seattle Surge,Search and Destroy,Gun Runner,2,Crimsix,10,5,2,5,Win
+3598,455,Minnesota,Dallas Empire,Seattle Surge,Search and Destroy,Gun Runner,2,Huke,8,9,0.89,-1,Win
+3598,455,Minnesota,Dallas Empire,Seattle Surge,Search and Destroy,Gun Runner,2,iLLey,8,9,0.89,-1,Win
+3598,455,Minnesota,Dallas Empire,Seattle Surge,Search and Destroy,Gun Runner,2,Shotzzy,6,6,1,0,Win
+3598,456,Minnesota,Seattle Surge,Dallas Empire,Domination,Hackney Yard,3,Apathy,26,24,1.08,2,Loss
+3598,456,Minnesota,Seattle Surge,Dallas Empire,Domination,Hackney Yard,3,Octane,16,25,0.64,-9,Loss
+3598,456,Minnesota,Seattle Surge,Dallas Empire,Domination,Hackney Yard,3,Pandur,15,20,0.75,-5,Loss
+3598,456,Minnesota,Seattle Surge,Dallas Empire,Domination,Hackney Yard,3,Proto,15,24,0.63,-9,Loss
+3598,456,Minnesota,Seattle Surge,Dallas Empire,Domination,Hackney Yard,3,Slacked,12,25,0.48,-13,Loss
+3598,456,Minnesota,Dallas Empire,Seattle Surge,Domination,Hackney Yard,3,Clayster,13,13,1,0,Win
+3598,456,Minnesota,Dallas Empire,Seattle Surge,Domination,Hackney Yard,3,Crimsix,25,20,1.25,5,Win
+3598,456,Minnesota,Dallas Empire,Seattle Surge,Domination,Hackney Yard,3,Huke,20,19,1.05,1,Win
+3598,456,Minnesota,Dallas Empire,Seattle Surge,Domination,Hackney Yard,3,iLLey,28,17,1.65,11,Win
+3598,456,Minnesota,Dallas Empire,Seattle Surge,Domination,Hackney Yard,3,Shotzzy,32,15,2.13,17,Win
+3604,457,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Gun Runner,1,AquA,30,33,0.91,-3,Win
+3604,457,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Gun Runner,1,Blazt,39,25,1.56,14,Win
+3604,457,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Gun Runner,1,Decemate,24,30,0.8,-6,Win
+3604,457,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Gun Runner,1,Saints,33,27,1.22,6,Win
+3604,457,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Gun Runner,1,Vivid,26,35,0.74,-9,Win
+3604,457,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,aBeZy,29,29,1,0,Loss
+3604,457,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Cellium,28,31,0.9,-3,Loss
+3604,457,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,MajorManiak,32,23,1.39,9,Loss
+3604,457,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Priestahh,27,36,0.75,-9,Loss
+3604,457,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Gun Runner,1,Simp,34,33,1.03,1,Loss
+3604,458,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Piccadilly,2,AquA,5,9,0.56,-4,Loss
+3604,458,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Piccadilly,2,Blazt,6,8,0.75,-2,Loss
+3604,458,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Piccadilly,2,Decemate,5,7,0.71,-2,Loss
+3604,458,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Piccadilly,2,Saints,6,8,0.75,-2,Loss
+3604,458,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Piccadilly,2,Vivid,12,8,1.5,4,Loss
+3604,458,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,aBeZy,10,8,1.25,2,Win
+3604,458,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,Cellium,12,5,2.4,7,Win
+3604,458,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,MajorManiak,3,7,0.43,-4,Win
+3604,458,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,Priestahh,7,8,0.88,-1,Win
+3604,458,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Piccadilly,2,Simp,8,6,1.33,2,Win
+3604,459,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Domination,Hackney Yard,3,AquA,26,17,1.53,9,Win
+3604,459,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Domination,Hackney Yard,3,Blazt,23,15,1.53,8,Win
+3604,459,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Domination,Hackney Yard,3,Decemate,33,20,1.65,13,Win
+3604,459,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Domination,Hackney Yard,3,Saints,20,17,1.18,3,Win
+3604,459,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Domination,Hackney Yard,3,Vivid,18,23,0.78,-5,Win
+3604,459,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Domination,Hackney Yard,3,aBeZy,20,25,0.8,-5,Loss
+3604,459,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Domination,Hackney Yard,3,Cellium,25,28,0.89,-3,Loss
+3604,459,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Domination,Hackney Yard,3,MajorManiak,15,18,0.83,-3,Loss
+3604,459,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Domination,Hackney Yard,3,Priestahh,14,25,0.56,-11,Loss
+3604,459,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Domination,Hackney Yard,3,Simp,18,24,0.75,-6,Loss
+3604,460,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Hackney Yard,4,AquA,11,21,0.52,-10,Loss
+3604,460,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Hackney Yard,4,Blazt,19,19,1,0,Loss
+3604,460,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Hackney Yard,4,Decemate,19,21,0.9,-2,Loss
+3604,460,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Hackney Yard,4,Saints,16,23,0.7,-7,Loss
+3604,460,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Hackney Yard,4,Vivid,18,31,0.58,-13,Loss
+3604,460,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,aBeZy,14,22,0.64,-8,Win
+3604,460,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Cellium,25,18,1.39,7,Win
+3604,460,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,MajorManiak,27,12,2.25,15,Win
+3604,460,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Priestahh,24,14,1.71,10,Win
+3604,460,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Hackney Yard,4,Simp,25,17,1.47,8,Win
+3604,461,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Gun Runner,5,AquA,4,8,0.5,-4,Loss
+3604,461,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Gun Runner,5,Blazt,7,9,0.78,-2,Loss
+3604,461,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Gun Runner,5,Decemate,8,7,1.14,1,Loss
+3604,461,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Gun Runner,5,Saints,3,8,0.38,-5,Loss
+3604,461,Minnesota,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Gun Runner,5,Vivid,9,6,1.5,3,Loss
+3604,461,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,aBeZy,6,8,0.75,-2,Win
+3604,461,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Cellium,8,7,1.14,1,Win
+3604,461,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,MajorManiak,6,6,1,0,Win
+3604,461,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Priestahh,11,4,2.75,7,Win
+3604,461,Minnesota,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Gun Runner,5,Simp,7,6,1.17,1,Win
+3605,462,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Gun Runner,1,Fero,30,28,1.07,2,Win
+3605,462,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Gun Runner,1,Frosty,22,23,0.96,-1,Win
+3605,462,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Gun Runner,1,Havok,37,27,1.37,10,Win
+3605,462,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Gun Runner,1,Owakening,35,24,1.46,11,Win
+3605,462,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Gun Runner,1,Skyz,17,17,1,0,Win
+3605,462,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Gun Runner,1,Clayster,18,24,0.75,-6,Loss
+3605,462,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Gun Runner,1,Crimsix,16,31,0.52,-15,Loss
+3605,462,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Gun Runner,1,Huke,30,28,1.07,2,Loss
+3605,462,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Gun Runner,1,iLLey,24,29,0.83,-5,Loss
+3605,462,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Gun Runner,1,Shotzzy,31,29,1.07,2,Loss
+3605,463,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Gun Runner,2,Fero,4,6,0.67,-2,Loss
+3605,463,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Gun Runner,2,Frosty,3,7,0.43,-4,Loss
+3605,463,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Gun Runner,2,Havok,5,6,0.83,-1,Loss
+3605,463,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Gun Runner,2,Owakening,4,7,0.57,-3,Loss
+3605,463,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Gun Runner,2,Skyz,4,6,0.67,-2,Loss
+3605,463,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Gun Runner,2,Clayster,5,5,1,0,Win
+3605,463,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Gun Runner,2,Crimsix,4,3,1.33,1,Win
+3605,463,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Gun Runner,2,Huke,4,4,1,0,Win
+3605,463,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Gun Runner,2,iLLey,10,4,2.5,6,Win
+3605,463,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Gun Runner,2,Shotzzy,9,4,2.25,5,Win
+3605,464,Minnesota,Florida Mutineers,Dallas Empire,Domination,Gun Runner,3,Fero,13,24,0.54,-11,Loss
+3605,464,Minnesota,Florida Mutineers,Dallas Empire,Domination,Gun Runner,3,Frosty,23,21,1.1,2,Loss
+3605,464,Minnesota,Florida Mutineers,Dallas Empire,Domination,Gun Runner,3,Havok,16,23,0.7,-7,Loss
+3605,464,Minnesota,Florida Mutineers,Dallas Empire,Domination,Gun Runner,3,Owakening,22,22,1,0,Loss
+3605,464,Minnesota,Florida Mutineers,Dallas Empire,Domination,Gun Runner,3,Skyz,22,14,1.57,8,Loss
+3605,464,Minnesota,Dallas Empire,Florida Mutineers,Domination,Gun Runner,3,Clayster,17,19,0.89,-2,Win
+3605,464,Minnesota,Dallas Empire,Florida Mutineers,Domination,Gun Runner,3,Crimsix,22,17,1.29,5,Win
+3605,464,Minnesota,Dallas Empire,Florida Mutineers,Domination,Gun Runner,3,Huke,17,20,0.85,-3,Win
+3605,464,Minnesota,Dallas Empire,Florida Mutineers,Domination,Gun Runner,3,iLLey,33,19,1.74,14,Win
+3605,464,Minnesota,Dallas Empire,Florida Mutineers,Domination,Gun Runner,3,Shotzzy,15,21,0.71,-6,Win
+3605,465,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Rammaza,4,Fero,16,21,0.76,-5,Win
+3605,465,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Rammaza,4,Frosty,24,28,0.86,-4,Win
+3605,465,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Rammaza,4,Havok,25,17,1.47,8,Win
+3605,465,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Rammaza,4,Owakening,19,19,1,0,Win
+3605,465,Minnesota,Florida Mutineers,Dallas Empire,Hardpoint,Rammaza,4,Skyz,28,12,2.33,16,Win
+3605,465,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Rammaza,4,Clayster,18,23,0.78,-5,Loss
+3605,465,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Rammaza,4,Crimsix,18,22,0.82,-4,Loss
+3605,465,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Rammaza,4,Huke,24,19,1.26,5,Loss
+3605,465,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Rammaza,4,iLLey,19,25,0.76,-6,Loss
+3605,465,Minnesota,Dallas Empire,Florida Mutineers,Hardpoint,Rammaza,4,Shotzzy,18,23,0.78,-5,Loss
+3605,466,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Rammaza,5,Fero,16,4,4,12,Win
+3605,466,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Rammaza,5,Frosty,3,8,0.38,-5,Win
+3605,466,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Rammaza,5,Havok,9,9,1,0,Win
+3605,466,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Rammaza,5,Owakening,6,10,0.6,-4,Win
+3605,466,Minnesota,Florida Mutineers,Dallas Empire,Search and Destroy,Rammaza,5,Skyz,9,8,1.13,1,Win
+3605,466,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Rammaza,5,Clayster,8,8,1,0,Loss
+3605,466,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Rammaza,5,Crimsix,14,8,1.75,6,Loss
+3605,466,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Rammaza,5,Huke,8,8,1,0,Loss
+3605,466,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Rammaza,5,iLLey,4,10,0.4,-6,Loss
+3605,466,Minnesota,Dallas Empire,Florida Mutineers,Search and Destroy,Rammaza,5,Shotzzy,5,9,0.56,-4,Loss
+3606,467,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Gun Runner,1,Fero,33,24,1.38,9,Win
+3606,467,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Gun Runner,1,Frosty,25,20,1.25,5,Win
+3606,467,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Gun Runner,1,Havok,22,23,0.96,-1,Win
+3606,467,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Gun Runner,1,Owakening,29,22,1.32,7,Win
+3606,467,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Gun Runner,1,Skyz,24,20,1.2,4,Win
+3606,467,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Gun Runner,1,aBeZy,20,29,0.69,-9,Loss
+3606,467,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Gun Runner,1,Cellium,20,29,0.69,-9,Loss
+3606,467,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Gun Runner,1,MajorManiak,19,23,0.83,-4,Loss
+3606,467,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Gun Runner,1,Priestahh,20,26,0.77,-6,Loss
+3606,467,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Gun Runner,1,Simp,30,26,1.15,4,Loss
+3606,468,Minnesota,Florida Mutineers,Atlanta FaZe,Search and Destroy,Arklov Peak,2,Fero,6,7,0.86,-1,Loss
+3606,468,Minnesota,Florida Mutineers,Atlanta FaZe,Search and Destroy,Arklov Peak,2,Frosty,3,6,0.5,-3,Loss
+3606,468,Minnesota,Florida Mutineers,Atlanta FaZe,Search and Destroy,Arklov Peak,2,Havok,1,6,0.17,-5,Loss
+3606,468,Minnesota,Florida Mutineers,Atlanta FaZe,Search and Destroy,Arklov Peak,2,Owakening,5,6,0.83,-1,Loss
+3606,468,Minnesota,Florida Mutineers,Atlanta FaZe,Search and Destroy,Arklov Peak,2,Skyz,3,6,0.5,-3,Loss
+3606,468,Minnesota,Atlanta FaZe,Florida Mutineers,Search and Destroy,Arklov Peak,2,aBeZy,13,4,3.25,9,Win
+3606,468,Minnesota,Atlanta FaZe,Florida Mutineers,Search and Destroy,Arklov Peak,2,Cellium,5,2,2.5,3,Win
+3606,468,Minnesota,Atlanta FaZe,Florida Mutineers,Search and Destroy,Arklov Peak,2,MajorManiak,5,3,1.67,2,Win
+3606,468,Minnesota,Atlanta FaZe,Florida Mutineers,Search and Destroy,Arklov Peak,2,Priestahh,1,7,0.14,-6,Win
+3606,468,Minnesota,Atlanta FaZe,Florida Mutineers,Search and Destroy,Arklov Peak,2,Simp,7,2,3.5,5,Win
+3606,469,Minnesota,Florida Mutineers,Atlanta FaZe,Domination,St. Petrograd,3,Fero,24,16,1.5,8,Win
+3606,469,Minnesota,Florida Mutineers,Atlanta FaZe,Domination,St. Petrograd,3,Frosty,15,17,0.88,-2,Win
+3606,469,Minnesota,Florida Mutineers,Atlanta FaZe,Domination,St. Petrograd,3,Havok,22,18,1.22,4,Win
+3606,469,Minnesota,Florida Mutineers,Atlanta FaZe,Domination,St. Petrograd,3,Owakening,24,18,1.33,6,Win
+3606,469,Minnesota,Florida Mutineers,Atlanta FaZe,Domination,St. Petrograd,3,Skyz,27,11,2.45,16,Win
+3606,469,Minnesota,Atlanta FaZe,Florida Mutineers,Domination,St. Petrograd,3,aBeZy,14,24,0.58,-10,Loss
+3606,469,Minnesota,Atlanta FaZe,Florida Mutineers,Domination,St. Petrograd,3,Cellium,21,23,0.91,-2,Loss
+3606,469,Minnesota,Atlanta FaZe,Florida Mutineers,Domination,St. Petrograd,3,MajorManiak,19,19,1,0,Loss
+3606,469,Minnesota,Atlanta FaZe,Florida Mutineers,Domination,St. Petrograd,3,Priestahh,12,26,0.46,-14,Loss
+3606,469,Minnesota,Atlanta FaZe,Florida Mutineers,Domination,St. Petrograd,3,Simp,14,20,0.7,-6,Loss
+3606,470,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Hackney Yard,4,Fero,38,32,1.19,6,Win
+3606,470,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Hackney Yard,4,Frosty,37,23,1.61,14,Win
+3606,470,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Hackney Yard,4,Havok,25,33,0.76,-8,Win
+3606,470,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Hackney Yard,4,Owakening,28,29,0.97,-1,Win
+3606,470,Minnesota,Florida Mutineers,Atlanta FaZe,Hardpoint,Hackney Yard,4,Skyz,33,22,1.5,11,Win
+3606,470,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Hackney Yard,4,aBeZy,33,36,0.92,-3,Loss
+3606,470,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Hackney Yard,4,Cellium,30,31,0.97,-1,Loss
+3606,470,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Hackney Yard,4,MajorManiak,31,26,1.19,5,Loss
+3606,470,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Hackney Yard,4,Priestahh,22,36,0.61,-14,Loss
+3606,470,Minnesota,Atlanta FaZe,Florida Mutineers,Hardpoint,Hackney Yard,4,Simp,23,32,0.72,-9,Loss

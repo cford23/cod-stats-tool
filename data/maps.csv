@@ -189,10 +189,10 @@ Match ID,Map ID,Team 1,Team 2,Event,Game Mode,Map,Map Number,Team 1 Score,Team 2
 3265,188,Seattle Surge,Minnesota Rokkr,Los Angeles,Hardpoint,Azhir Cave,1,117,250,Minnesota Rokkr,133
 3265,189,Seattle Surge,Minnesota Rokkr,Los Angeles,Search and Destroy,St. Petrograd,2,2,6,Minnesota Rokkr,4
 3265,190,Seattle Surge,Minnesota Rokkr,Los Angeles,Domination,Hackney Yard,3,154,160,Minnesota Rokkr,6
-3267,191,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Hardpoint,Gun Runner,1,172,250,OpTic Gaming Los Angeles,78
-3267,192,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Search and Destroy,Gun Runner,2,6,2,Dallas Empire,4
-3267,193,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Domination,Hackney Yard,3,160,156,Dallas Empire,4
-3267,194,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Hardpoint,Rammaza,4,250,204,Dallas Empire,46
+3271,191,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Hardpoint,Gun Runner,1,172,250,OpTic Gaming Los Angeles,78
+3271,192,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Search and Destroy,Gun Runner,2,6,2,Dallas Empire,4
+3271,193,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Domination,Hackney Yard,3,160,156,Dallas Empire,4
+3271,194,Dallas Empire,OpTic Gaming Los Angeles,Los Angeles,Hardpoint,Rammaza,4,250,204,Dallas Empire,46
 3272,195,Minnesota Rokkr,Atlanta FaZe,Los Angeles,Hardpoint,Azhir Cave,1,250,221,Minnesota Rokkr,29
 3272,196,Minnesota Rokkr,Atlanta FaZe,Los Angeles,Search and Destroy,Gun Runner,2,4,6,Atlanta FaZe,2
 3272,197,Minnesota Rokkr,Atlanta FaZe,Los Angeles,Domination,Hackney Yard,3,130,180,Atlanta FaZe,50
@@ -468,7 +468,7 @@ Match ID,Map ID,Team 1,Team 2,Event,Game Mode,Map,Map Number,Team 1 Score,Team 2
 3606,467,Florida Mutineers,Atlanta FaZe,Minnesota,Hardpoint,Gun Runner,1,250,146,Florida Mutineers,104
 3606,468,Florida Mutineers,Atlanta FaZe,Minnesota,Search and Destroy,Arklov Peak,2,1,6,Atlanta FaZe,5
 3606,469,Florida Mutineers,Atlanta FaZe,Minnesota,Domination,St. Petrograd,3,177,132,Florida Mutineers,45
-3606,470,Florida Mutineers,Atlanta FaZe,Minnesota,Hardpoint,Gun Runner,4,250,231,Florida Mutineers,19
+3606,470,Florida Mutineers,Atlanta FaZe,Minnesota,Hardpoint,Hackney Yard,4,250,231,Florida Mutineers,19
 3607,471,Florida Mutineers,Paris Legion,Paris,Hardpoint,Rammaza,1,250,148,Florida Mutineers,102
 3607,472,Florida Mutineers,Paris Legion,Paris,Search and Destroy,Rammaza,2,6,4,Florida Mutineers,2
 3607,473,Florida Mutineers,Paris Legion,Paris,Domination,Hackney Yard,3,160,139,Florida Mutineers,21
