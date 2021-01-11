@@ -11,39 +11,23 @@
                 <header>
                     <div class="container">
                         <h2 class="logo">Call of Duty League Stats Tool</h2>
-                        <strong><nav>
-                            <ul class="menu">
-                                <li>
-                                    <a href="{{ url_for('index') }}">Home</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url_for('viewMatches') }}">View Matches</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url_for('viewMaps') }}">View Maps</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url_for('viewPlayers') }}">View Players</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url_for('matchupPreview') }}">Matchup Preview</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url_for('mapPreview') }}">Map Preview</a>
-                                </li>
-                                <li>
-                                    <div class="dropdown">
-                                        <button class="dropbtn">Leaderboards
-                                            <i class="fa fa-caret-down"></i>
-                                        </button>
-                                        <div class="dropdown-content">
-                                            <a href="{{ url_for('teamLeaderboard') }}">Team</a>
-                                            <a href="{{ url_for('playerLeaderboard') }}">Player</a>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </nav></strong>
+                        <div class="navbar">
+                            <a href="{{ url_for('index') }}">Home</a>
+                            <a href="{{ url_for('viewMatches') }}">View Matches</a>
+                            <a href="{{ url_for('viewMaps') }}">View Maps</a>
+                            <a href="{{ url_for('viewPlayers') }}">View Players</a>
+                            <a href="{{ url_for('matchupPreview') }}">Matchup Preview</a>
+                            <a href="{{ url_for('mapPreview') }}">Map Preview</a>
+                            <div class="dropdown">
+                                <button class="dropbtn">Leaderboards
+                                    <i class="fa fa-caret-down"></i>
+                                </button>
+                                <div class="dropdown-content">
+                                    <a href="{{ url_for('teamLeaderboard') }}">Team</a>
+                                    <a href="{{ url_for('playerLeaderboard') }}">Player</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </header>
 
@@ -54,7 +38,7 @@
             </div>
             <center>
                 <div id="footer">
-                    <p>Created by: Connor "Cocoa" Ford | Twitter: @connorford23/@DropShotStats</p>
+                    <p>Created by: Cocoa | @DropShotStats</p>
                 </div>
             </center>
         </div>

@@ -7,13 +7,13 @@ class CoDStats:
         self.matches = pd.read_csv("data/matches.csv").set_index('Match ID')
         self.maps = pd.read_csv("data/maps.csv").set_index(['Match ID', 'Map ID'])
         self.players = pd.read_csv("data/players.csv").set_index(['Match ID', 'Map ID'])
-        self.modes = self.maps['Game Mode'].unique()
+        self.modes = self.maps['Mode'].unique()
         self.modeMaps = [0, 0, 0]
-        self.modeMaps[0] = self.maps[self.maps['Game Mode'] == self.modes[0]]['Map'].unique()
+        self.modeMaps[0] = self.maps[self.maps['Mode'] == self.modes[0]]['Map'].unique()
         self.modeMaps[0].sort()
-        self.modeMaps[1] = self.maps[self.maps['Game Mode'] == self.modes[1]]['Map'].unique()
+        self.modeMaps[1] = self.maps[self.maps['Mode'] == self.modes[1]]['Map'].unique()
         self.modeMaps[1].sort()
-        self.modeMaps[2] = self.maps[self.maps['Game Mode'] == self.modes[2]]['Map'].unique()
+        self.modeMaps[2] = self.maps[self.maps['Mode'] == self.modes[2]]['Map'].unique()
         self.modeMaps[2].sort()
         self.allMaps = self.maps['Map'].unique()
         self.allMaps.sort()
@@ -55,40 +55,40 @@ class CoDStats:
         losses = 0
         # team, opponent, event, mode, map
         if opponent != "All" and event != "All" and mode != "All" and map != "All":
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # team, opponent, event, mode
         if opponent != "All" and event != "All" and mode != "All" and map == "All":
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode))]
         # team, opponent, event, map
         if opponent != "All" and event != "All" and mode == "All" and map != "All":
             data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Map'] == map)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Map'] == map))]
         # team, opponent, mode, map
         if opponent != "All" and event == "All" and mode != "All" and map != "All":
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # team, event, mode, map
         if opponent == "All" and event != "All" and mode != "All" and map != "All":
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # team, opponent, event
         if opponent != "All" and event != "All" and mode == "All" and map == "All":
             data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event))]
         # team, opponent, mode
         if opponent != "All" and event == "All" and mode != "All" and map == "All":
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Game Mode'] == mode))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Mode'] == mode))]
         # team, opponent, map
         if opponent != "All" and event == "All" and mode == "All" and map != "All":
             data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Map'] == map)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Map'] == map))]
         # team, mode, map
         if opponent == "All" and event == "All" and mode != "All" and map != "All":
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # team, opponent
         if opponent != "All" and event == "All" and mode == "All" and map == "All":
             data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent)) |
@@ -99,8 +99,8 @@ class CoDStats:
                              ((self.maps['Team 2'] == team) & (self.maps['Event'] == event))]
         # team, mode
         if opponent == "All" and event == "All" and mode != "All" and map == "All":
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Game Mode'] == mode))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Mode'] == mode))]
         # team, map
         if opponent == "All" and event == "All" and mode == "All" and map != "All":
             data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Map'] == map)) |
@@ -148,11 +148,11 @@ class CoDStats:
 
     def getTeamModeRecord(self, team, event, mode):
         if event == 'All':
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Game Mode'] == mode))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Mode'] == mode))]
         else:
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode))]
         wins = data[data['Map Winner'] == team].shape[0]
         losses = data.shape[0] - wins
         return wins, losses
@@ -198,51 +198,51 @@ class CoDStats:
     def getMaps(self, team, opponent, event, mode, map):
         # team, opponent, event, mode, map
         if team != "All" and opponent != "All" and event != "All" and mode != "All" and map != "All":
-            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # team, opponent, event, mode
         if team != "All" and opponent != "All" and event != "All" and mode != "All" and map == "All":
-            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode))]
+            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode))]
         # team, opponent, event, map
         if team != "All" and opponent != "All" and event != "All" and mode == "All" and map != "All":
             return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Map'] == map)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Map'] == map))]
         # team, opponent, mode, map
         if team != "All" and opponent != "All" and event == "All" and mode != "All" and map != "All":
-            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # team, event, mode, map
         if team != "All" and opponent == "All" and event != "All" and mode != "All" and map != "All":
-            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # team, opponent, event
         if team != "All" and opponent != "All" and event != "All" and mode == "All" and map == "All":
             return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Event'] == event)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Event'] == event))]
         # team, opponent, mode
         if team != "All" and opponent != "All" and event == "All" and mode != "All" and map == "All":
-            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Game Mode'] == mode))]
+            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Mode'] == mode))]
         # team, opponent, map
         if team != "All" and opponent != "All" and event == "All" and mode == "All" and map != "All":
             return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent) & (self.maps['Map'] == map)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Team 1'] == opponent) & (self.maps['Map'] == map))]
         # team, event, mode
         if team != 'All' and opponent == 'All' and event != 'All' and mode != 'All' and map == 'All':
-            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode))]
+            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode))]
         # team, event, map
         if team != 'All' and opponent == 'All' and event != 'All' and mode == 'All' and map != 'All':
             return self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Map'] == map)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Map'] == map))]
         # team, mode, map
         if team != "All" and opponent == "All" and event == "All" and mode != "All" and map != "All":
-            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # event, mode, map
         if team == "All" and opponent == "All" and event != "All" and mode != "All" and map != "All":
-            return self.maps[(self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)]
+            return self.maps[(self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)]
         # team, opponent
         if team != "All" and opponent != "All" and event == "All" and mode == "All" and map == "All":
             return self.maps[((self.maps['Team 1'] == team) & (self.maps['Team 2'] == opponent)) |
@@ -253,21 +253,21 @@ class CoDStats:
                              ((self.maps['Team 2'] == team) & (self.maps['Event'] == event))]
         # team, mode
         if team != "All" and opponent == "All" and event == "All" and mode != "All" and map == "All":
-            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Game Mode'] == mode))]
+            return self.maps[((self.maps['Team 1'] == team) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Mode'] == mode))]
         # team, map
         if team != "All" and opponent == "All" and event == "All" and mode == "All" and map != "All":
             return self.maps[((self.maps['Team 1'] == team) & (self.maps['Map'] == map)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Map'] == map))]
         # event, mode
         if team == "All" and opponent == "All" and event != "All" and mode != "All" and map == "All":
-            return self.maps[(self.maps['Event'] == event) & (self.maps['Game Mode'] == mode)]
+            return self.maps[(self.maps['Event'] == event) & (self.maps['Mode'] == mode)]
         # event, map
         if team == "All" and opponent == "All" and event != "All" and mode == "All" and map != "All":
             return self.maps[(self.maps['Event'] == event) & (self.maps['Map'] == map)]
         # mode, map
         if team == "All" and opponent == "All" and event == "All" and mode != "All" and map != "All":
-            return self.maps[(self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)]
+            return self.maps[(self.maps['Mode'] == mode) & (self.maps['Map'] == map)]
         # team
         if team != "All" and opponent == "All" and event == "All" and mode == "All" and map == "All":
             return self.maps[(self.maps['Team 1'] == team) | (self.maps['Team 2'] == team)]
@@ -276,7 +276,7 @@ class CoDStats:
             return self.maps[self.maps['Event'] == event]
         # mode
         if team == "All" and opponent == "All" and event == "All" and mode != "All" and map == "All":
-            return self.maps[self.maps['Game Mode'] == mode]
+            return self.maps[self.maps['Mode'] == mode]
         # map
         if team == "All" and opponent == "All" and event == "All" and mode == "All" and map != "All":
             return self.maps[self.maps['Map'] == map]
@@ -441,8 +441,8 @@ class CoDStats:
 
             # modes
             for k in range(3):
-                output[team1][k + 2] = mapWins[(mapWins['Map Winner'] == team1) & (mapWins['Game Mode'] == self.modes[k])].shape[0]
-                output[team2][k + 2] = mapWins[(mapWins['Map Winner'] == team2) & (mapWins['Game Mode'] == self.modes[k])].shape[0]
+                output[team1][k + 2] = mapWins[(mapWins['Map Winner'] == team1) & (mapWins['Mode'] == self.modes[k])].shape[0]
+                output[team2][k + 2] = mapWins[(mapWins['Map Winner'] == team2) & (mapWins['Mode'] == self.modes[k])].shape[0]
 
         return output
 
@@ -473,8 +473,8 @@ class CoDStats:
             count = 0
             k = 0
             for map in maps:
-                dataSubset = self.maps[((self.maps['Team 1'] == team1) & (self.maps['Team 2'] == team2) & (self.maps['Game Mode'] == self.modes[count]) & (self.maps['Map'] == map)) |
-                                       ((self.maps['Team 2'] == team1) & (self.maps['Team 1'] == team2) & (self.maps['Game Mode'] == self.modes[count]) & (self.maps['Map'] == map))]
+                dataSubset = self.maps[((self.maps['Team 1'] == team1) & (self.maps['Team 2'] == team2) & (self.maps['Mode'] == self.modes[count]) & (self.maps['Map'] == map)) |
+                                       ((self.maps['Team 2'] == team1) & (self.maps['Team 1'] == team2) & (self.maps['Mode'] == self.modes[count]) & (self.maps['Map'] == map))]
                 try:
                     headToHead[team1][k] = dataSubset['Map Winner'].value_counts()[team1]
                 except KeyError:
@@ -491,28 +491,28 @@ class CoDStats:
     def getModeMapRecord(self, team, event, mode, map):
         # event, mode, map
         if event != 'All' and mode != 'All' and map != 'All':
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # event, mode
         if event != 'All' and mode != 'All' and map == 'All':
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode))]
         # event, map
         if event != 'All' and mode == 'All' and map != 'All':
             data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event) & (self.maps['Map'] == map)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Event'] == event) & (self.maps['Map'] == map))]
         # mode, map
         if event == 'All' and mode != 'All' and map != 'All':
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
         # event
         if event != 'All' and mode == 'All' and map == 'All':
             data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Event'] == event)) |
                              ((self.maps['Team 2'] == team) & (self.maps['Event'] == event))]
         # mode
         if event == 'All' and mode != 'All' and map == 'All':
-            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Game Mode'] == mode)) |
-                             ((self.maps['Team 2'] == team) & (self.maps['Game Mode'] == mode))]
+            data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Mode'] == mode)) |
+                             ((self.maps['Team 2'] == team) & (self.maps['Mode'] == mode))]
         # map
         if event == 'All' and mode == 'All' and map != 'All':
             data = self.maps[((self.maps['Team 1'] == team) & (self.maps['Map'] == map)) |
@@ -651,44 +651,44 @@ class CoDStats:
             else:
                 # opponent, event, mode, map
                 if opponent != 'All' and event != 'All' and mode != 'All' and map != 'All':
-                    data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                                     ((self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+                    data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                                     ((self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
                 # opponent, event, mode
                 elif opponent != 'All' and event != 'All' and mode != 'All':
-                    data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode)) |
-                                     ((self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Game Mode'] == mode))]
+                    data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode)) |
+                                     ((self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Mode'] == mode))]
                 # opponent, event, map
                 elif opponent != 'All' and event != 'All' and map != 'All':
                     data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Event'] == event) & (self.maps['Map'] == map)) |
                                      ((self.maps['Team 2'] == opponent) & (self.maps['Event'] == event) & (self.maps['Map'] == map))]
                 # opponent, mode, map
                 elif opponent != 'All' and mode != 'All' and map != 'All':
-                    data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)) |
-                                     ((self.maps['Team 2'] == opponent) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map))]
+                    data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)) |
+                                     ((self.maps['Team 2'] == opponent) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map))]
                 # event, mode, map
                 elif event != 'All' and mode != 'All' and map != 'All':
-                    data = self.maps[(self.maps['Event'] == event) & (self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)]
+                    data = self.maps[(self.maps['Event'] == event) & (self.maps['Mode'] == mode) & (self.maps['Map'] == map)]
                 # opponent, event
                 elif opponent != 'All' and event != 'All':
                     data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Event'] == event)) |
                                      ((self.maps['Team 2'] == opponent) & (self.maps['Event'] == event))]
                 # opponent, mode
                 elif opponent != 'All' and mode != 'All':
-                    data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Game Mode'] == mode)) |
-                                     ((self.maps['Team 2'] == opponent) & (self.maps['Game Mode'] == mode))]
+                    data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Mode'] == mode)) |
+                                     ((self.maps['Team 2'] == opponent) & (self.maps['Mode'] == mode))]
                 # opponent, map
                 elif opponent != 'All' and map != 'All':
                     data = self.maps[((self.maps['Team 1'] == opponent) & (self.maps['Map'] == map)) |
                                      ((self.maps['Team 2'] == opponent) & (self.maps['Map'] == map))]
                 # event, mode
                 elif event != 'All' and mode != 'All':
-                    data = self.maps[(self.maps['Event'] == event) & (self.maps['Game Mode'] == mode)]
+                    data = self.maps[(self.maps['Event'] == event) & (self.maps['Mode'] == mode)]
                 # event, map
                 elif event != 'All' and map != 'All':
                     data = self.maps[(self.maps['Event'] == event) & (self.maps['Map'] == map)]
                 # mode, map
                 elif mode != 'All' and map != 'All':
-                    data = self.maps[(self.maps['Game Mode'] == mode) & (self.maps['Map'] == map)]
+                    data = self.maps[(self.maps['Mode'] == mode) & (self.maps['Map'] == map)]
                 # opponent
                 elif opponent != 'All':
                     data = self.maps[(self.maps['Team 1'] == opponent) | (self.maps['Team 2'] == opponent)]
@@ -697,7 +697,7 @@ class CoDStats:
                     data = self.maps[self.maps['Event'] == event]
                 # mode
                 elif mode != 'All':
-                    data = self.maps[self.maps['Game Mode'] == mode]
+                    data = self.maps[self.maps['Mode'] == mode]
                 # map
                 elif map != 'All':
                     data = self.maps[self.maps['Map'] == map]
@@ -946,8 +946,8 @@ class Team:
             self.mapLosses = self.teamMapData.shape[0] - self.mapWins
 
             for k in range(3):
-                self.teamModeData = stats.maps[((stats.maps['Team 1'] == self.name) & (stats.maps['Game Mode'] == stats.modes[k])) |
-                                               ((stats.maps['Team 2'] == self.name) & (stats.maps['Game Mode'] == stats.modes[k]))]
+                self.teamModeData = stats.maps[((stats.maps['Team 1'] == self.name) & (stats.maps['Mode'] == stats.modes[k])) |
+                                               ((stats.maps['Team 2'] == self.name) & (stats.maps['Mode'] == stats.modes[k]))]
                 self.modeWins[k] = self.teamModeData[self.teamModeData['Map Winner'] == self.name].shape[0]
                 self.modeLosses[k] = self.teamModeData.shape[0] - self.modeWins[k]
 
