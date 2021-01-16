@@ -39,9 +39,11 @@
             {% if team in stats.teams %}
                 <h3>Wins: {{ wins }} &nbsp;&nbsp; Losses: {{ losses }}</h3>
             {% endif %}
-            {% for table in tables %}
-                {{ table|safe }}
-            {% endfor %}
+            <div class="data">
+                {% for table in tables %}
+                    {{ table|safe }}
+                {% endfor %}
+            </div>
         </div>
 
         {% endblock %}

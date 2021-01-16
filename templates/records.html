@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>CoD Stats Tool - Records</title>
+    </head>
+    <body>
+        {% extends "template.html" %}
+        {% block content %}
+
+        <br>
+        <form action='{{ url_for("records") }}' method="post">
+            Type
+            <select id="type" name="type">
+                {% for type in types %}
+                    <option value="{{ type }}" {% if selectedItems[0] == type %} selected {% endif %}>{{ type }}</option>
+                {% endfor %}
+            </select>
+            Team
+            <select id="team" name="team">
+                <option value="All" {% if selectedItems[1] =='' %} selected {% endif %}>All</option>
+                {% for team in stats.teams %}
+                    <option value="{{ team }}" {% if selectedItems[1] == team %} selected {% endif %}>{{ team }}</option>
+                {% endfor %}
+            </select>
+            Opponent
+            <select id="opponent" name="opponent">
+                <option value="All" {% if selectedItems[2] =='' %} selected {% endif %}>All</option>
+                {% for opponent in stats.teams %}
+                    <option value="{{ opponent }}" {% if selectedItems[2] == opponent %} selected {% endif %}>{{ opponent }}</option>
+                {% endfor %}
+            </select>
+            Event
+            <select id="event" name="event">
+                <option value="All" {% if selectedItems[3] =='' %} selected {% endif %}>All</option>
+                {% for event in stats.events %}
+                    <option value="{{ event }}" {% if selectedItems[3] == event %} selected {% endif %}>{{ event }}</option>
+                {% endfor %}
+            </select>
+            Mode
+            <select id="mode" name="mode">
+                <option value="All" {% if selectedItems[4] =='' %} selected {% endif %}>All</option>
+                {% for mode in stats.modes %}
+                    <option value="{{ mode }}" {% if selectedItems[4] == mode %} selected {% endif %}>{{ mode }}</option>
+                {% endfor %}
+            </select>
+            Map
+            <select id="map" name="map">
+                <option value="All" {% if selectedItems[5] =='' %} selected {% endif %}>All</option>
+                {% for map in stats.allMaps %}
+                    <option value="{{ map }}" {% if selectedItems[5] == map %} selected {% endif %}>{{ map }}</option>
+                {% endfor %}
+            </select>
+            <button class="submit" type="submit">Search</button>
+        </form>
+
+        <h2>{{ type }} Record</h2>
+        {% for table in tables %}
+            {{ table|safe }}
+        {% endfor %}
+
+        {% endblock %}
+    </body>
+</html>

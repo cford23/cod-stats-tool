@@ -155,7 +155,7 @@ def playerLeaderboard():
     types = list(stats.players.columns)
     startIndex = types.index('Kills')
     types = types[startIndex:]
-    removeColumns = ['Plus/Minus', 'Map Result']
+    removeColumns = ['Map Result']
     for column in removeColumns:
         types.remove(column)
 
@@ -179,5 +179,40 @@ def playerLeaderboard():
 
     return render_template("playerLeaderboard.html", stats=stats, results=results, types=types, selectedItems=selectedItems)
 
+@app.route("/records", methods=["GET", "POST"])
+def records():
+    selectedItems = ['Kills', '', '', '', '', '']
+    type = 'Kills'
+
+    types = list(stats.players.columns)
+    startIndex = types.index('Kills')
+    types = types[startIndex:]
+    removeColumns = ['Map Result']
+    for column in removeColumns:
+        types.remove(column)
+
+    if request.method == 'POST' or request.method == 'GET':
+        team = request.form.get('team')
+        opponent = request.form.get('opponent')
+        event = request.form.get('event')
+        mode = request.form.get('mode')
+        map = request.form.get('map')
+        type = request.form.get('type')
+
+        selectedItems[0] = type
+        selectedItems[1] = team
+        selectedItems[2] = opponent
+        selectedItems[3] = event
+        selectedItems[4] = mode
+        selectedItems[5] = map
+
+        data = stats.getRecordsRange(team, opponent, event, mode, map)
+        if data.shape[0] != 0:
+            typeRecords = stats.getRecords(data, type)
+        else:
+            typeRecords = data
+
+    return render_template("records.html", stats=stats, types=types, type=type, tables=[typeRecords.to_html(classes="data", index=False)], selectedItems=selectedItems)
+
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)

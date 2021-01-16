@@ -910,6 +910,126 @@ class CoDStats:
                     records[player] = playerData[type].sum()
         return records
 
+    ############### GET RECORDS ###############
+    def getRecordsRange(self, team, opponent, event, mode, map):
+        # team, opponent, event, mode, map
+        if team != 'All' and opponent != 'All' and event != 'All' and mode != 'All' and map != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Opponent'] == opponent) & (
+                        self.players['Event'] == event) & (self.players['Mode'] == mode) & (self.players['Map'] == map)]
+        # team, opponent, event, mode
+        elif team != 'All' and opponent != 'All' and event != 'All' and mode != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Opponent'] == opponent) & (
+                        self.players['Event'] == event) & (self.players['Mode'] == mode)]
+        # team, opponent, event, map
+        elif team != 'All' and opponent != 'All' and event != 'All' and map != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Opponent'] == opponent) & (
+                        self.players['Event'] == event) & (self.players['Map'] == map)]
+        # team, opponent, mode, map
+        elif team != 'All' and opponent != 'All' and mode != 'All' and map != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Opponent'] == opponent) & (
+                        self.players['Mode'] == mode) & (self.players['Map'] == map)]
+        # team, event, mode, map
+        elif team != 'All' and event != 'All' and mode != 'All' and map != 'All':
+            data = self.players[
+                (self.players['Team'] == team) & (self.players['Event'] == event) & (self.players['Mode'] == mode) & (
+                            self.players['Map'] == map)]
+        # opponent, event, mode, map
+        elif opponent != 'All' and event != 'All' and mode != 'All' and map != 'All':
+            data = self.players[(self.players['Opponent'] == opponent) & (self.players['Event'] == event) & (
+                        self.players['Mode'] == mode) & (self.players['Map'] == map)]
+        # team, opponent, event
+        elif team != 'All' and opponent != 'All' and event != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Opponent'] == opponent) & (
+                        self.players['Event'] == event)]
+        # team, opponent, mode
+        elif team != 'All' and opponent != 'All' and mode != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Opponent'] == opponent) & (
+                        self.players['Mode'] == mode)]
+        # team, opponent, map
+        elif team != 'All' and opponent != 'All' and map != 'All':
+            data = self.players[
+                (self.players['Team'] == team) & (self.players['Opponent'] == opponent) & (self.players['Map'] == map)]
+        # team, event, mode
+        elif team != 'All' and event != 'All' and mode != 'All':
+            data = self.players[
+                (self.players['Team'] == team) & (self.players['Event'] == event) & (self.players['Mode'] == mode)]
+        # team, event, map
+        elif team != 'All' and event != 'All' and map != 'All':
+            data = self.players[
+                (self.players['Team'] == team) & (self.players['Event'] == event) & (self.players['Map'] == map)]
+        # team, mode, map
+        elif team != 'All' and mode != 'All' and map != 'All':
+            data = self.players[
+                (self.players['Team'] == team) & (self.players['Mode'] == mode) & (self.players['Map'] == map)]
+        # opponent, event, mode
+        elif opponent != 'All' and event != 'All' and mode != 'All':
+            data = self.players[(self.players['Opponent'] == opponent) & (self.players['Event'] == event) & (
+                        self.players['Mode'] == mode)]
+        # opponent, event, map
+        elif opponent != 'All' and event != 'All' and map != 'All':
+            data = self.players[(self.players['Opponent'] == opponent) & (self.players['Event'] == event) & (
+                        self.players['Map'] == map)]
+        # opponent, mode, map
+        elif opponent != 'All' and event != 'All' and mode != 'All':
+            data = self.players[(self.players['Opponent'] == opponent) & (self.players['Event'] == event) & (
+                        self.players['Mode'] == mode)]
+        # event, mode, map
+        elif event != 'All' and mode != 'All' and map != 'All':
+            data = self.players[
+                (self.players['Event'] == event) & (self.players['Mode'] == mode) & (self.players['Map'] == map)]
+        # team, opponent
+        elif team != 'All' and opponent != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Opponent'] == opponent)]
+        # team, event
+        elif team != 'All' and event != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Event'] == event)]
+        # team, mode
+        elif team != 'All' and mode != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Mode'] == mode)]
+        # team, map
+        elif team != 'All' and map != 'All':
+            data = self.players[(self.players['Team'] == team) & (self.players['Map'] == map)]
+        # opponent, event
+        elif opponent != 'All' and event != 'All':
+            data = self.players[(self.players['Opponent'] == opponent) & (self.players['Event'] == event)]
+        # opponent, mode
+        elif opponent != 'All' and mode != 'All':
+            data = self.players[(self.players['Opponent'] == opponent) & (self.players['Mode'] == mode)]
+        # opponent, map
+        elif opponent != 'All' and map != 'All':
+            data = self.players[(self.players['Opponent'] == opponent) & (self.players['Map'] == map)]
+        # event, mode
+        elif event != 'All' and mode != 'All':
+            data = self.players[(self.players['Event'] == event) & (self.players['Mode'] == mode)]
+        # event, map
+        elif event != 'All' and map != 'All':
+            data = self.players[(self.players['Event'] == event) & (self.players['Map'] == map)]
+        # mode, map
+        elif mode != 'All' and map != 'All':
+            data = self.players[(self.players['Mode'] == mode) & (self.players['Map'] == map)]
+        # team
+        elif team != 'All':
+            data = self.players[self.players['Team'] == team]
+        # opponent
+        elif opponent != 'All':
+            data = self.players[self.players['Opponent'] == opponent]
+        # event
+        elif event != 'All':
+            data = self.players[self.players['Event'] == event]
+        # mode
+        elif mode != 'All':
+            data = self.players[self.players['Mode'] == mode]
+        # map
+        elif map != 'All':
+            data = self.players[self.players['Map'] == map]
+        # none
+        else:
+            data = self.players
+        return data
+
+    def getRecords(self, data, type):
+        return data[data[type] == data[type].max()]
+
     def findMatch(self, matchID):
         return self.matches.loc[matchID]
 
