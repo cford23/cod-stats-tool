@@ -1,27 +1,27 @@
-Match ID,Map ID,Team 1,Team 2,Mode,Map,Map Number,Team 1 Score,Team 2 Score,Map Winner,Score Difference,Total Game Time
-1,1,New York Subliners,Dallas Empire,Hardpoint,Garrison,1,192,250,Dallas Empire,58,
-1,2,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,2,2,6,Dallas Empire,4,6:57
-1,3,New York Subliners,Dallas Empire,Control,Raid,3,1,3,Dallas Empire,2,
-2,4,Seattle Surge,Los Angeles Guerrillas,Hardpoint,Raid,1,123,250,Los Angeles Guerrillas,127,7:51
-2,5,Seattle Surge,Los Angeles Guerrillas,Search and Destroy,Raid,2,6,3,Seattle Surge,3,10:13
-2,6,Seattle Surge,Los Angeles Guerrillas,Control,Garrison,3,3,2,Seattle Surge,1,16:00
-2,7,Seattle Surge,Los Angeles Guerrillas,Hardpoint,Moscow,4,234,250,Los Angeles Guerrillas,16,10:58
-2,8,Seattle Surge,Los Angeles Guerrillas,Search and Destroy,Garrison,5,3,6,Los Angeles Guerrillas,3,10:42
-3,9,Florida Mutineers,Atlanta FaZe,Hardpoint,Garrison,1,218,250,Atlanta FaZe,32,11:01
-3,10,Florida Mutineers,Atlanta FaZe,Search and Destroy,Garrison,2,6,5,Florida Mutineers,1,12:06
-3,11,Florida Mutineers,Atlanta FaZe,Control,Garrison,3,2,3,Atlanta FaZe,1,
-3,12,Florida Mutineers,Atlanta FaZe,Hardpoint,Crossroads,4,250,117,Florida Mutineers,133,8:47
-3,13,Florida Mutineers,Atlanta FaZe,Search and Destroy,Checkmate,5,6,3,Florida Mutineers,3,10:29
-4,14,Paris Legion,London Royal Ravens,Hardpoint,Garrison,1,250,176,Paris Legion,74,10:20
-4,15,Paris Legion,London Royal Ravens,Search and Destroy,Checkmate,2,3,6,London Royal Ravens,3,9:27
-4,16,Paris Legion,London Royal Ravens,Control,Garrison,3,0,3,London Royal Ravens,3,10:16
-4,17,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,4,250,196,Paris Legion,54,10:29
-4,18,Paris Legion,London Royal Ravens,Search and Destroy,Miami,5,6,3,Paris Legion,3,11:55
-5,19,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,1,244,250,Toronto Ultra,6,11:27
-5,20,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,2,6,4,Minnesota ROKKR,2,8:39
-5,21,Minnesota ROKKR,Toronto Ultra,Control,Checkmate,3,3,0,Minnesota ROKKR,3,6:04
-5,22,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,4,134,250,Toronto Ultra,116,9:59
-5,23,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Garrison,5,6,5,Minnesota ROKKR,1,9:56
-6,24,Los Angeles Thieves,OpTic Chicago,Hardpoint,Garrison,1,136,250,OpTic Chicago,114,9:00
-6,25,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Checkmate,2,4,6,OpTic Chicago,2,8:05
-6,26,Los Angeles Thieves,OpTic Chicago,Control,Raid,3,0,3,OpTic Chicago,3,9:06
+Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Score,Map Winner,Score Difference,Total Game Time
+1,1,New York Subliners,Dallas Empire,Kickoff Classic,Hardpoint,Garrison,1,192,250,Dallas Empire,58,
+1,2,New York Subliners,Dallas Empire,Kickoff Classic,Search and Destroy,Checkmate,2,2,6,Dallas Empire,4,6:57
+1,3,New York Subliners,Dallas Empire,Kickoff Classic,Control,Raid,3,1,3,Dallas Empire,2,
+2,4,Seattle Surge,Los Angeles Guerrillas,Kickoff Classic,Hardpoint,Raid,1,123,250,Los Angeles Guerrillas,127,7:51
+2,5,Seattle Surge,Los Angeles Guerrillas,Kickoff Classic,Search and Destroy,Raid,2,6,3,Seattle Surge,3,10:13
+2,6,Seattle Surge,Los Angeles Guerrillas,Kickoff Classic,Control,Garrison,3,3,2,Seattle Surge,1,16:00
+2,7,Seattle Surge,Los Angeles Guerrillas,Kickoff Classic,Hardpoint,Moscow,4,234,250,Los Angeles Guerrillas,16,10:58
+2,8,Seattle Surge,Los Angeles Guerrillas,Kickoff Classic,Search and Destroy,Garrison,5,3,6,Los Angeles Guerrillas,3,10:42
+3,9,Florida Mutineers,Atlanta FaZe,Kickoff Classic,Hardpoint,Garrison,1,218,250,Atlanta FaZe,32,11:01
+3,10,Florida Mutineers,Atlanta FaZe,Kickoff Classic,Search and Destroy,Garrison,2,6,5,Florida Mutineers,1,12:06
+3,11,Florida Mutineers,Atlanta FaZe,Kickoff Classic,Control,Garrison,3,2,3,Atlanta FaZe,1,
+3,12,Florida Mutineers,Atlanta FaZe,Kickoff Classic,Hardpoint,Crossroads,4,250,117,Florida Mutineers,133,8:47
+3,13,Florida Mutineers,Atlanta FaZe,Kickoff Classic,Search and Destroy,Checkmate,5,6,3,Florida Mutineers,3,10:29
+4,14,Paris Legion,London Royal Ravens,Kickoff Classic,Hardpoint,Garrison,1,250,176,Paris Legion,74,10:20
+4,15,Paris Legion,London Royal Ravens,Kickoff Classic,Search and Destroy,Checkmate,2,3,6,London Royal Ravens,3,9:27
+4,16,Paris Legion,London Royal Ravens,Kickoff Classic,Control,Garrison,3,0,3,London Royal Ravens,3,10:16
+4,17,Paris Legion,London Royal Ravens,Kickoff Classic,Hardpoint,Checkmate,4,250,196,Paris Legion,54,10:29
+4,18,Paris Legion,London Royal Ravens,Kickoff Classic,Search and Destroy,Miami,5,6,3,Paris Legion,3,11:55
+5,19,Minnesota ROKKR,Toronto Ultra,Kickoff Classic,Hardpoint,Garrison,1,244,250,Toronto Ultra,6,11:27
+5,20,Minnesota ROKKR,Toronto Ultra,Kickoff Classic,Search and Destroy,Moscow,2,6,4,Minnesota ROKKR,2,8:39
+5,21,Minnesota ROKKR,Toronto Ultra,Kickoff Classic,Control,Checkmate,3,3,0,Minnesota ROKKR,3,6:04
+5,22,Minnesota ROKKR,Toronto Ultra,Kickoff Classic,Hardpoint,Checkmate,4,134,250,Toronto Ultra,116,9:59
+5,23,Minnesota ROKKR,Toronto Ultra,Kickoff Classic,Search and Destroy,Garrison,5,6,5,Minnesota ROKKR,1,9:56
+6,24,Los Angeles Thieves,OpTic Chicago,Kickoff Classic,Hardpoint,Garrison,1,136,250,OpTic Chicago,114,9:00
+6,25,Los Angeles Thieves,OpTic Chicago,Kickoff Classic,Search and Destroy,Checkmate,2,4,6,OpTic Chicago,2,8:05
+6,26,Los Angeles Thieves,OpTic Chicago,Kickoff Classic,Control,Raid,3,0,3,OpTic Chicago,3,9:06

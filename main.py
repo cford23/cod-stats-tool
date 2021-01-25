@@ -74,6 +74,7 @@ def viewPlayers():
         playerTeams = player.getPlayerTeams()
         playerEvents = player.getPlayerEvents()
         results = stats.getPlayers(player.name, team, opponent, event, mode, map)
+        results.dropna(how='all', axis=1, inplace=True)
         kills, deaths, kd = player.getPlayerKD(results)
         mapRecord[0], mapRecord[1] = player.getPlayerMapRecord(data=results)
         length = results.shape[0]
@@ -155,9 +156,7 @@ def playerLeaderboard():
     types = list(stats.players.columns)
     startIndex = types.index('Kills')
     types = types[startIndex:]
-    removeColumns = ['Map Result']
-    for column in removeColumns:
-        types.remove(column)
+    types.remove(['Map Result'])
 
     if request.method == 'POST':
         type = request.form.get('type')
@@ -187,9 +186,7 @@ def records():
     types = list(stats.players.columns)
     startIndex = types.index('Kills')
     types = types[startIndex:]
-    removeColumns = ['Map Result']
-    for column in removeColumns:
-        types.remove(column)
+    types.remove(['Map Result'])
 
     if request.method == 'POST' or request.method == 'GET':
         team = request.form.get('team')
@@ -211,6 +208,7 @@ def records():
             typeRecords = stats.getRecords(data, type)
         else:
             typeRecords = data
+        typeRecords.dropna(how='all', axis=1, inplace=True)
 
     return render_template("records.html", stats=stats, types=types, type=type, tables=[typeRecords.to_html(classes="data", index=False)], selectedItems=selectedItems)
 
