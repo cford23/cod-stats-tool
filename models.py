@@ -906,6 +906,9 @@ class CoDStats:
                     kills = playerData['Kills'].sum()
                     deaths = playerData['Deaths'].sum()
                     records[player] = round(kills / deaths, 2)
+                elif 'Avg' in type:
+                    if not np.isnan(playerData[type].mean()):
+                        records[player] = round(playerData[type].mean(), 2)
                 else:
                     records[player] = playerData[type].sum()
         return records
