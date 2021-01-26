@@ -614,13 +614,13 @@ class CoDStats:
         if event != 'All' and mode != 'All':
             data = self.players[(self.players['Player'] == player) & (self.players['Event'] == event) & (self.players['Mode'] == mode)]
         # event
-        if event != 'All' and mode == 'All':
+        elif event != 'All':
             data = self.players[(self.players['Player'] == player) & (self.players['Event'] == event)]
         # mode
-        if event == 'All' and mode != 'All':
+        elif mode != 'All':
             data = self.players[(self.players['Player'] == player) & (self.players['Mode'] == mode)]
         # none
-        if event == 'All' and mode == 'All':
+        else:
             data = self.players[self.players['Player'] == player]
         kills = data['Kills'].sum()
         deaths = data['Deaths'].sum()
@@ -1093,6 +1093,7 @@ class Player:
         return self.playerData[self.playerData['Player'] == self.name]['Event'].unique()
 
     def getPlayerKD(self, data):
+        print(data)
         kills = data['Kills'].sum()
         deaths = data['Deaths'].sum()
         kd = round(kills / deaths, 2)

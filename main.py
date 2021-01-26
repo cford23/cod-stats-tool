@@ -55,8 +55,15 @@ def viewMaps():
 def viewPlayers():
     player = Player()
     selectedItems = ['', '', '', '', '', '']
+    playerTeams = []
+    playerEvents = []
+    kills = 0
+    deaths = 0
+    kd = 0
     mapRecord = [0, 0]
-    if request.method == "POST" or request.method == "GET":
+    results = stats.players.head(0)
+    length = results.shape[0]
+    if request.method == "POST":
         player = Player(request.form.get("player"))
         team = request.form.get("team")
         opponent = request.form.get("opponent")
@@ -154,9 +161,9 @@ def playerLeaderboard():
     selectedItems = ['Kills', '', '', '', '', '']
 
     types = list(stats.players.columns)
-    startIndex = types.index('Kills')
+    startIndex = types.index('Score')
     types = types[startIndex:]
-    types.remove(['Map Result'])
+    types.remove('Map Result')
 
     if request.method == 'POST':
         type = request.form.get('type')
@@ -184,9 +191,9 @@ def records():
     type = 'Kills'
 
     types = list(stats.players.columns)
-    startIndex = types.index('Kills')
+    startIndex = types.index('Score')
     types = types[startIndex:]
-    types.remove(['Map Result'])
+    types.remove('Map Result')
 
     if request.method == 'POST' or request.method == 'GET':
         team = request.form.get('team')
@@ -213,4 +220,4 @@ def records():
     return render_template("records.html", stats=stats, types=types, type=type, tables=[typeRecords.to_html(classes="data", index=False)], selectedItems=selectedItems)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
