@@ -56,3 +56,17 @@ Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Scor
 15,55,Seattle Surge,Minnesota ROKKR,Super Week,Hardpoint,Checkmate,1,163,250,Minnesota ROKKR,87,10:01
 15,56,Seattle Surge,Minnesota ROKKR,Super Week,Search and Destroy,Raid,2,5,6,Minnesota ROKKR,1,11:00
 15,57,Seattle Surge,Minnesota ROKKR,Super Week,Control,Raid,3,2,3,Minnesota ROKKR,1,15:23
+16,58,London Royal Ravens,Dallas Empire,Super Week,Hardpoint,Moscow,1,250,160,London Royal Ravens,90,11:03
+16,59,London Royal Ravens,Dallas Empire,Super Week,Search and Destroy,Moscow,2,3,6,Dallas Empire,3,8:12
+16,60,London Royal Ravens,Dallas Empire,Super Week,Control,Garrison,3,2,3,Dallas Empire,1,13:07
+16,61,London Royal Ravens,Dallas Empire,Super Week,Hardpoint,Garrison,4,235,228,London Royal Ravens,7,12:43
+16,62,London Royal Ravens,Dallas Empire,Super Week,Search and Destroy,Miami,5,4,6,Dallas Empire,2,12:28
+17,63,Seattle Surge,Los Angeles Thieves,Super Week,Hardpoint,Checkmate,1,231,250,Los Angeles Thieves,19,12:31
+17,64,Seattle Surge,Los Angeles Thieves,Super Week,Search and Destroy,Raid,2,6,4,Seattle Surge,2,8:36
+17,65,Seattle Surge,Los Angeles Thieves,Super Week,Control,Raid,3,2,3,Los Angeles Thieves,1,14:15
+17,66,Seattle Surge,Los Angeles Thieves,Super Week,Hardpoint,Moscow,4,250,222,Seattle Surge,28,10:57
+17,67,Seattle Surge,Los Angeles Thieves,Super Week,Search and Destroy,Moscow,5,0,6,Los Angeles Thieves,6,6:02
+18,68,Toronto Ultra,OpTic Chicago,Super Week,Hardpoint,Checkmate,1,68,250,OpTic Chicago,182,7:29
+18,69,Toronto Ultra,OpTic Chicago,Super Week,Search and Destroy,Raid,2,6,4,Toronto Ultra,2,11:22
+18,70,Toronto Ultra,OpTic Chicago,Super Week,Control,Raid,3,1,3,OpTic Chicago,2,11:56
+18,71,Toronto Ultra,OpTic Chicago,Super Week,Hardpoint,Raid,4,218,250,OpTic Chicago,32,9:38
