@@ -655,3 +655,307 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,Cellium,2935,25,20,1.25,45,5,4653,Win,60,25,9,10,16,,,,,,,,,,,,,
 21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,Simp,2195,21,20,1.05,41,1,4225,Win,79,24,13,32,10,,,,,,,,,,,,,
 21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,Abezy,3085,27,22,1.23,49,5,4974,Win,73,32,23,16,2,,,,,,,,,,,,,
+22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Kenny,1910,25,24,1.04,49,1,4816,Win,38,22,14,0,2,,,,,,,,,,,,,
+22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,TJHaly,1665,17,20,0.85,37,-3,3603,Win,63,24,2,11,26,,,,,,,,,,,,,
+22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Slasher,2180,25,14,1.79,39,11,3541,Win,69,14,13,6,36,,,,,,,,,,,,,
+22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Temp,3625,26,14,1.86,40,12,5107,Win,114,53,32,6,23,,,,,,,,,,,,,
+22,83,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Parasite,1760,20,23,0.87,43,-3,3176,Loss,50,15,14,21,0,,,,,,,,,,,,,
+22,83,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Dylan,1650,12,26,0.46,38,-14,2773,Loss,54,3,19,30,2,,,,,,,,,,,,,
+22,83,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Seany,2265,18,21,0.86,39,-3,3367,Loss,28,11,4,13,0,,,,,,,,,,,,,
+22,83,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Alexx,2280,22,23,0.96,45,-1,3962,Loss,15,12,0,3,0,,,,,,,,,,,,,
+22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,Kenny,525,6,7,0.86,13,-1,1580,Win,,,,,,,2,2,0,0,0.6,158,,,,,,
+22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,TJHaly,750,10,6,1.67,16,4,2201,Win,,,,,,,1,2,0,0,1,220.1,,,,,,
+22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,Slasher,1000,9,4,2.25,13,5,1589,Win,,,,,,,0,1,0,2,0.9,158.9,,,,,,
+22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,Temp,650,3,7,0.43,10,-4,974,Win,,,,,,,0,2,3,0,0.3,97.4,,,,,,
+22,84,Super Week,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Garrison,Parasite,565,6,6,1.00,12,0,1086,Loss,,,,,,,2,2,0,0,0.6,108.6,,,,,,
+22,84,Super Week,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Garrison,Dylan,590,3,10,0.30,13,-7,897,Loss,,,,,,,1,1,2,0,0.3,89.7,,,,,,
+22,84,Super Week,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Garrison,Seany,725,7,8,0.88,15,-1,1930,Loss,,,,,,,3,0,0,0,0.7,193,,,,,,
+22,84,Super Week,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Garrison,Alexx,1075,8,6,1.33,14,2,1803,Loss,,,,,,,1,0,0,2,0.8,180.3,,,,,,
+22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,Kenny,1875,17,16,1.06,33,1,2895,Loss,,,,,,,,,,,,,0,8,7,9,4,723.75
+22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,TJHaly,1425,17,16,1.06,33,1,3209,Loss,,,,,,,,,,,,,0,9,6,8,5,802.25
+22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,Slasher,925,10,14,0.71,24,-4,2547,Loss,,,,,,,,,,,,,0,2,1,8,4,636.75
+22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,Temp,450,8,19,0.42,27,-11,1975,Loss,,,,,,,,,,,,,0,3,2,5,1,493.75
+22,85,Super Week,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Parasite,2000,14,11,1.27,25,3,2315,Win,,,,,,,,,,,,,6,8,4,6,3,578.75
+22,85,Super Week,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Dylan,1790,21,18,1.17,39,3,4027,Win,,,,,,,,,,,,,2,5,5,16,11,1006.75
+22,85,Super Week,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Seany,1425,15,13,1.15,28,2,2906,Win,,,,,,,,,,,,,2,9,5,6,4,726.5
+22,85,Super Week,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Alexx,1625,15,10,1.50,25,5,2459,Win,,,,,,,,,,,,,2,7,3,8,2,614.75
+22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Kenny,2225,27,27,1.00,54,0,5361,Win,43,13,10,3,5,12,,,,,,,,,,,,
+22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,TJHaly,2160,19,26,0.73,45,-7,4005,Win,93,0,19,30,33,11,,,,,,,,,,,,
+22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Slasher,3370,39,25,1.56,64,14,5721,Win,75,23,23,0,25,4,,,,,,,,,,,,
+22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Temp,2595,29,28,1.04,57,1,5175,Win,61,13,0,0,2,46,,,,,,,,,,,,
+22,86,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Parasite,1895,17,26,0.65,43,-9,3626,Loss,117,30,53,23,8,3,,,,,,,,,,,,
+22,86,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Dylan,2680,27,33,0.82,60,-6,4806,Loss,58,27,2,1,16,12,,,,,,,,,,,,
+22,86,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Seany,4900,35,26,1.35,61,9,5892,Loss,27,9,8,10,0,0,,,,,,,,,,,,
+22,86,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Alexx,2850,27,29,0.93,56,-2,4753,Loss,14,4,2,8,0,0,,,,,,,,,,,,
+23,87,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Raid,Cammy,2555,24,26,0.92,50,-2,4559,Loss,61,5,14,9,33,0,,,,,,,,,,,,
+23,87,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Raid,Bance,2965,19,23,0.83,42,-4,3663,Loss,108,47,0,0,61,0,,,,,,,,,,,,
+23,87,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Raid,Methodz,1460,15,24,0.63,39,-9,3800,Loss,65,29,4,0,32,0,,,,,,,,,,,,
+23,87,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Raid,CleanX,3210,31,20,1.55,51,11,4557,Loss,106,45,1,9,42,9,,,,,,,,,,,,
+23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,Skrapz,2900,28,22,1.27,50,6,4507,Win,85,0,26,36,0,23,,,,,,,,,,,,
+23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,Classic,2490,21,23,0.91,44,-2,3802,Win,73,0,16,37,0,20,,,,,,,,,,,,
+23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,Aqua,2325,28,23,1.22,51,5,5360,Win,53,0,16,4,0,33,,,,,,,,,,,,
+23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,Fire,1800,16,21,0.76,37,-5,3108,Win,109,0,41,48,16,4,,,,,,,,,,,,
+23,88,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Moscow,Cammy,425,6,4,1.50,10,2,876,Win,,,,,,,2,1,0,0,1,146,,,,,,
+23,88,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Moscow,Bance,625,4,2,2.00,6,2,895,Win,,,,,,,1,1,1,1,0.67,149.17,,,,,,
+23,88,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Moscow,Methodz,765,6,3,2.00,9,3,1283,Win,,,,,,,0,0,0,1,1,213.83,,,,,,
+23,88,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Moscow,CleanX,1175,7,2,3.50,9,5,1229,Win,,,,,,,1,0,0,0,1.17,204.83,,,,,,
+23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,Skrapz,325,4,6,0.67,10,-2,957,Loss,,,,,,,0,0,0,0,0.67,159.5,,,,,,
+23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,Classic,200,2,6,0.33,8,-4,410,Loss,,,,,,,0,2,1,0,0.33,68.33,,,,,,
+23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,Aqua,290,3,5,0.60,8,-2,640,Loss,,,,,,,2,1,0,0,0.5,106.67,,,,,,
+23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,Fire,250,2,6,0.33,8,-4,919,Loss,,,,,,,0,1,1,0,0.33,153.17,,,,,,
+23,89,Super Week,Toronto Ultra,Paris Legion,Control,Raid,Cammy,2175,25,19,1.32,44,6,4114,Win,,,,,,,,,,,,,2,7,3,18,9,1371.33
+23,89,Super Week,Toronto Ultra,Paris Legion,Control,Raid,Bance,1900,12,15,0.80,27,-3,2723,Win,,,,,,,,,,,,,3,5,1,7,5,907.67
+23,89,Super Week,Toronto Ultra,Paris Legion,Control,Raid,Methodz,1940,20,14,1.43,34,6,4015,Win,,,,,,,,,,,,,3,7,4,13,7,1338.33
+23,89,Super Week,Toronto Ultra,Paris Legion,Control,Raid,CleanX,2825,19,17,1.12,36,2,4172,Win,,,,,,,,,,,,,5,9,3,10,5,1390.67
+23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,Skrapz,1225,9,20,0.45,29,-11,2873,Loss,,,,,,,,,,,,,3,4,1,5,0,957.67
+23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,Classic,2315,15,20,0.75,35,-5,2410,Loss,,,,,,,,,,,,,6,8,4,7,6,803.33
+23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,Aqua,2950,21,18,1.17,39,3,4115,Loss,,,,,,,,,,,,,7,15,3,6,3,1371.67
+23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,Fire,2525,19,18,1.06,37,1,3639,Loss,,,,,,,,,,,,,4,10,6,9,8,1213
+23,90,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Garrison,Cammy,2100,24,25,0.96,49,-1,4875,Loss,55,26,10,12,0,7,,,,,,,,,,,,
+23,90,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Garrison,Bance,2355,26,27,0.96,53,-1,4527,Loss,48,0,13,13,20,2,,,,,,,,,,,,
+23,90,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Garrison,Methodz,2015,22,26,0.85,48,-4,4142,Loss,54,5,27,2,20,0,,,,,,,,,,,,
+23,90,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Garrison,CleanX,2180,25,30,0.83,55,-5,4801,Loss,71,3,3,58,0,7,,,,,,,,,,,,
+23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Skrapz,2750,26,22,1.18,48,4,4771,Win,77,27,12,0,22,16,,,,,,,,,,,,
+23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Classic,2225,28,25,1.12,53,3,5039,Win,55,12,19,7,17,0,,,,,,,,,,,,
+23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Aqua,4110,27,21,1.29,48,6,5184,Win,110,61,13,0,1,35,,,,,,,,,,,,
+23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Fire,2785,27,29,0.93,56,-2,5071,Win,54,13,21,0,0,20,,,,,,,,,,,,
+23,91,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Miami,Cammy,500,6,7,0.86,13,-1,1528,Loss,,,,,,,2,1,0,0,0.67,169.78,,,,,,
+23,91,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Miami,Bance,825,7,6,1.17,13,1,1509,Loss,,,,,,,0,2,2,0,0.78,167.67,,,,,,
+23,91,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Miami,Methodz,350,3,7,0.43,10,-4,870,Loss,,,,,,,1,1,0,1,0.33,96.67,,,,,,
+23,91,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Miami,CleanX,250,1,7,0.14,8,-6,458,Loss,,,,,,,0,2,0,0,0.11,50.89,,,,,,
+23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Skrapz,1050,10,4,2.50,14,6,1788,Win,,,,,,,1,0,1,0,1.11,198.67,,,,,,
+23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Classic,625,4,5,0.80,9,-1,953,Win,,,,,,,3,2,2,0,0.44,105.89,,,,,,
+23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Aqua,825,9,3,3.00,12,6,1250,Win,,,,,,,2,0,0,0,1,138.89,,,,,,
+23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Fire,475,4,5,0.80,9,-1,1341,Win,,,,,,,0,1,0,1,0.44,149,,,,,,
+24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Shotzzy,2205,20,27,0.74,47,-7,3813,Loss,76,24,29,4,19,0,,,,,,,,,,,,
+24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Crimsix,1990,23,28,0.82,51,-5,4812,Loss,0,0,0,0,0,0,,,,,,,,,,,,
+24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,iLLey,2090,22,23,0.96,45,-1,4595,Loss,55,2,27,0,26,0,,,,,,,,,,,,
+24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Huke,1545,22,28,0.79,50,-6,3424,Loss,30,19,0,0,0,11,,,,,,,,,,,,
+24,92,Super Week,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Asim,2475,30,24,1.25,54,6,5235,Win,42,12,13,14,3,0,,,,,,,,,,,,
+24,92,Super Week,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Clayster,2070,25,22,1.14,47,3,3872,Win,83,4,40,11,25,3,,,,,,,,,,,,
+24,92,Super Week,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Diamondcon,2750,25,21,1.19,46,4,4691,Win,66,14,0,25,24,3,,,,,,,,,,,,
+24,92,Super Week,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Mack,2575,26,20,1.30,46,6,4489,Win,101,17,0,31,17,36,,,,,,,,,,,,
+24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Shotzzy,350,3,7,0.43,10,-4,968,Loss,,,,,,,2,0,0,0,0.33,107.56,,,,,,
+24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Crimsix,535,5,7,0.71,12,-2,1054,Loss,,,,,,,2,3,1,0,0.56,117.11,,,,,,
+24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,iLLey,575,6,8,0.75,14,-2,1456,Loss,,,,,,,1,0,0,0,0.67,161.78,,,,,,
+24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Huke,650,8,7,1.14,15,1,1610,Loss,,,,,,,1,0,0,0,0.89,178.89,,,,,,
+24,93,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Asim,200,2,6,0.33,8,-4,796,Win,,,,,,,0,4,0,0,0.22,88.44,,,,,,
+24,93,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Clayster,2800,13,5,2.60,18,8,2290,Win,,,,,,,3,2,1,0,1.44,254.44,,,,,,
+24,93,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Diamondcon,675,5,5,1.00,10,0,974,Win,,,,,,,0,0,1,0,0.56,108.22,,,,,,
+24,93,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Mack,750,9,6,1.50,15,3,1979,Win,,,,,,,0,0,0,0,1,219.89,,,,,,
+24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,Shotzzy,4975,34,33,1.03,67,1,5649,Win,,,,,,,,,,,,,13,18,3,16,16,1129.8
+24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,Crimsix,3940,32,28,1.14,60,4,6076,Win,,,,,,,,,,,,,8,19,6,13,7,1215.2
+24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,iLLey,3550,26,38,0.68,64,-12,5605,Win,,,,,,,,,,,,,11,18,8,8,7,1121
+24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,Huke,6230,33,26,1.27,59,7,6180,Win,,,,,,,,,,,,,15,18,10,15,9,1236
+24,94,Super Week,New York Subliners,Dallas Empire,Control,Raid,Asim,2850,23,34,0.68,57,-11,4865,Loss,,,,,,,,,,,,,6,13,7,10,7,973
+24,94,Super Week,New York Subliners,Dallas Empire,Control,Raid,Clayster,4700,43,32,1.34,75,11,7836,Loss,,,,,,,,,,,,,6,23,11,20,17,1567.2
+24,94,Super Week,New York Subliners,Dallas Empire,Control,Raid,Diamondcon,3225,24,27,0.89,51,-3,5605,Loss,,,,,,,,,,,,,6,8,6,16,8,1121
+24,94,Super Week,New York Subliners,Dallas Empire,Control,Raid,Mack,2975,35,32,1.09,67,3,5803,Loss,,,,,,,,,,,,,3,16,7,19,6,1160.6
+24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,Shotzzy,3880,36,22,1.64,58,14,5291,Win,90,43,25,10,0,12,,,,,,,,,,,,
+24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,Crimsix,3100,33,24,1.38,57,9,6510,Win,20,5,3,0,12,0,,,,,,,,,,,,
+24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,iLLey,1665,19,26,0.73,45,-7,4127,Win,58,7,28,6,15,2,,,,,,,,,,,,
+24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,Huke,2440,25,27,0.93,52,-2,4471,Win,93,18,38,6,11,20,,,,,,,,,,,,
+24,95,Super Week,New York Subliners,Dallas Empire,Hardpoint,Garrison,Asim,2505,25,25,1.00,50,0,4609,Loss,63,4,0,36,0,23,,,,,,,,,,,,
+24,95,Super Week,New York Subliners,Dallas Empire,Hardpoint,Garrison,Clayster,2640,22,31,0.71,53,-9,4778,Loss,37,15,8,4,8,2,,,,,,,,,,,,
+24,95,Super Week,New York Subliners,Dallas Empire,Hardpoint,Garrison,Diamondcon,2065,29,29,1.00,58,0,5284,Loss,42,10,4,0,16,12,,,,,,,,,,,,
+24,95,Super Week,New York Subliners,Dallas Empire,Hardpoint,Garrison,Mack,2100,23,28,0.82,51,-5,3968,Loss,40,0,2,36,0,2,,,,,,,,,,,,
+24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,Shotzzy,765,7,5,1.40,12,2,1143,Win,,,,,,,3,0,2,0,0.78,127,,,,,,
+24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,Crimsix,400,4,5,0.80,9,-1,1456,Win,,,,,,,1,1,0,0,0.44,161.78,,,,,,
+24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,iLLey,475,5,7,0.71,12,-2,1250,Win,,,,,,,2,0,1,0,0.56,138.89,,,,,,
+24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,Huke,1200,12,5,2.40,17,7,2017,Win,,,,,,,2,0,0,0,1.33,224.11,,,,,,
+24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Asim,990,6,7,0.86,13,-1,1017,Loss,,,,,,,0,3,0,0,0.67,113,,,,,,
+24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Clayster,1250,8,6,1.33,14,2,1531,Loss,,,,,,,1,1,0,0,0.89,170.11,,,,,,
+24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Diamondcon,315,3,7,0.43,10,-4,850,Loss,,,,,,,0,2,1,0,0.33,94.44,,,,,,
+24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Mack,425,5,8,0.63,13,-3,1294,Loss,,,,,,,0,2,0,0,0.56,143.78,,,,,,
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Arcitys,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Cellium,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Abezy,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Simp,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
+25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Skrapz,2865,30,24,1.25,54,6,4897,Win,52,21,11,0,20,0,,,,,,,,,,,,
+25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Classic,3965,30,26,1.15,56,4,5436,Win,130,2,71,17,1,39,,,,,,,,,,,,
+25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Aqua,2305,22,25,0.88,47,-3,4730,Win,53,4,2,23,6,18,,,,,,,,,,,,
+25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Fire,2640,28,26,1.08,54,2,5747,Win,47,21,15,6,0,5,,,,,,,,,,,,
+25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Arcitys,650,8,6,1.33,14,2,1764,Win,,,,,,,1,2,0,0,0.73,160.36,,,,,,
+25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Cellium,1015,8,7,1.14,15,1,2072,Win,,,,,,,1,0,0,1,0.73,188.36,,,,,,
+25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Abezy,880,9,8,1.13,17,1,1649,Win,,,,,,,0,2,1,0,0.82,149.91,,,,,,
+25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Simp,800,9,8,1.13,17,1,1430,Win,,,,,,,1,4,1,0,0.82,130,,,,,,
+25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Skrapz,1225,8,7,1.14,15,1,1285,Loss,,,,,,,1,0,0,0,0.73,116.82,,,,,,
+25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Classic,475,5,10,0.50,15,-5,1147,Loss,,,,,,,2,1,0,0,0.45,104.27,,,,,,
+25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Aqua,1055,10,8,1.25,18,2,1724,Loss,,,,,,,3,2,1,1,0.91,156.73,,,,,,
+25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Fire,775,6,9,0.67,15,-3,1728,Loss,,,,,,,2,0,1,0,0.55,157.09,,,,,,
+25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Arcitys,2265,16,24,0.67,40,-8,3678,Loss,,,,,,,,,,,,,3,8,3,8,4,919.5
+25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Cellium,3200,27,24,1.13,51,3,5554,Loss,,,,,,,,,,,,,4,11,5,16,8,1388.5
+25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Abezy,2080,12,26,0.46,38,-14,3580,Loss,,,,,,,,,,,,,4,6,2,6,2,895
+25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Simp,3850,28,25,1.12,53,3,4925,Loss,,,,,,,,,,,,,6,17,12,11,6,1231.25
+25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Skrapz,2340,24,25,0.96,49,-1,4943,Win,,,,,,,,,,,,,5,9,4,15,10,1235.75
+25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Classic,3300,24,22,1.09,46,2,4837,Win,,,,,,,,,,,,,7,14,6,10,4,1209.25
+25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Aqua,3150,28,21,1.33,49,7,5014,Win,,,,,,,,,,,,,6,11,6,17,10,1253.5
+25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Fire,4575,22,15,1.47,37,7,4497,Win,,,,,,,,,,,,,8,13,8,9,9,1124.25
+25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Arcitys,2315,16,14,1.14,30,2,3440,Win,126,82,2,42,0,0,,,,,,,,,,,,
+25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Cellium,2255,19,21,0.90,40,-2,3392,Win,3,0,2,1,0,0,,,,,,,,,,,,
+25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Abezy,6840,32,13,2.46,45,19,4864,Win,127,19,23,13,72,0,,,,,,,,,,,,
+25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Simp,1140,12,21,0.57,33,-9,3258,Win,49,0,1,0,24,24,,,,,,,,,,,,
+25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Skrapz,1995,16,22,0.73,38,-6,3633,Loss,56,15,41,0,0,0,,,,,,,,,,,,
+25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Classic,2130,21,19,1.11,40,2,3352,Loss,30,3,6,5,12,4,,,,,,,,,,,,
+25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Aqua,1565,15,19,0.79,34,-4,2977,Loss,104,0,37,9,29,29,,,,,,,,,,,,
+25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Fire,1745,17,19,0.89,36,-2,3153,Loss,98,0,20,57,21,0,,,,,,,,,,,,
+25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Arcitys,550,7,7,1.00,14,0,1381,Win,,,,,,,0,2,0,0,0.7,138.1,,,,,,
+25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Cellium,900,7,6,1.17,13,1,1755,Win,,,,,,,0,1,0,1,0.7,175.5,,,,,,
+25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Abezy,1565,9,6,1.50,15,3,1643,Win,,,,,,,1,1,0,0,0.9,164.3,,,,,,
+25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Simp,475,4,10,0.40,14,-6,1003,Win,,,,,,,1,4,2,0,0.4,100.3,,,,,,
+25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Skrapz,475,6,8,0.75,14,-2,1089,Loss,,,,,,,2,1,0,0,0.6,108.9,,,,,,
+25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Classic,1915,11,6,1.83,17,5,1945,Loss,,,,,,,3,1,4,0,1.1,194.5,,,,,,
+25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Aqua,475,5,7,0.71,12,-2,1066,Loss,,,,,,,1,0,0,0,0.5,106.6,,,,,,
+25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Fire,695,7,6,1.17,13,1,1591,Loss,,,,,,,2,0,0,0,0.7,159.1,,,,,,
+26,102,Super Week,Minnesota ROKKR,London Royal Ravens,Hardpoint,Raid,Accuracy,2145,22,17,1.29,39,5,3630,Win,69,0,5,34,21,9,,,,,,,,,,,,
+26,102,Super Week,Minnesota ROKKR,London Royal Ravens,Hardpoint,Raid,Attach,3035,21,16,1.31,37,5,3427,Win,100,13,19,21,4,43,,,,,,,,,,,,
+26,102,Super Week,Minnesota ROKKR,London Royal Ravens,Hardpoint,Raid,MajorManiak,2905,12,11,1.09,23,1,2377,Win,155,37,70,25,23,0,,,,,,,,,,,,
+26,102,Super Week,Minnesota ROKKR,London Royal Ravens,Hardpoint,Raid,Priestahh,1705,23,20,1.15,43,3,4260,Win,59,13,35,8,2,1,,,,,,,,,,,,
+26,102,Super Week,London Royal Ravens,Minnesota ROKKR,Hardpoint,Raid,Parasite,1665,14,18,0.78,32,-4,2749,Loss,88,15,9,28,36,0,,,,,,,,,,,,
+26,102,Super Week,London Royal Ravens,Minnesota ROKKR,Hardpoint,Raid,Dylan,2300,23,21,1.10,44,2,4533,Loss,50,27,7,12,0,4,,,,,,,,,,,,
+26,102,Super Week,London Royal Ravens,Minnesota ROKKR,Hardpoint,Raid,Seany,1300,15,20,0.75,35,-5,3126,Loss,3,2,1,0,0,0,,,,,,,,,,,,
+26,102,Super Week,London Royal Ravens,Minnesota ROKKR,Hardpoint,Raid,Alexx,1190,12,19,0.63,31,-7,2203,Loss,47,25,8,14,0,0,,,,,,,,,,,,
+26,103,Super Week,Minnesota ROKKR,London Royal Ravens,Search and Destroy,Moscow,Accuracy,775,7,4,1.75,11,3,1157,Win,,,,,,,1,0,0,1,0.7,115.7,,,,,,
+26,103,Super Week,Minnesota ROKKR,London Royal Ravens,Search and Destroy,Moscow,Attach,450,4,6,0.67,10,-2,1632,Win,,,,,,,3,1,1,0,0.4,163.2,,,,,,
+26,103,Super Week,Minnesota ROKKR,London Royal Ravens,Search and Destroy,Moscow,MajorManiak,665,7,8,0.88,15,-1,1462,Win,,,,,,,0,1,0,0,0.7,146.2,,,,,,
+26,103,Super Week,Minnesota ROKKR,London Royal Ravens,Search and Destroy,Moscow,Priestahh,1050,9,6,1.50,15,3,1195,Win,,,,,,,2,2,2,0,0.9,119.5,,,,,,
+26,103,Super Week,London Royal Ravens,Minnesota ROKKR,Search and Destroy,Moscow,Parasite,240,4,7,0.57,11,-3,871,Loss,,,,,,,1,0,0,0,0.4,87.1,,,,,,
+26,103,Super Week,London Royal Ravens,Minnesota ROKKR,Search and Destroy,Moscow,Dylan,540,5,7,0.71,12,-2,1168,Loss,,,,,,,1,3,0,0,0.5,116.8,,,,,,
+26,103,Super Week,London Royal Ravens,Minnesota ROKKR,Search and Destroy,Moscow,Seany,575,5,8,0.63,13,-3,1422,Loss,,,,,,,0,3,0,0,0.5,142.2,,,,,,
+26,103,Super Week,London Royal Ravens,Minnesota ROKKR,Search and Destroy,Moscow,Alexx,1650,10,6,1.67,16,4,1415,Loss,,,,,,,2,0,1,0,1,141.5,,,,,,
+26,104,Super Week,Minnesota ROKKR,London Royal Ravens,Control,Raid,Accuracy,8275,35,24,1.46,59,11,5878,Win,,,,,,,,,,,,,5,13,5,22,10,1175.6
+26,104,Super Week,Minnesota ROKKR,London Royal Ravens,Control,Raid,Attach,4515,27,26,1.04,53,1,4950,Win,,,,,,,,,,,,,6,10,0,17,5,990
+26,104,Super Week,Minnesota ROKKR,London Royal Ravens,Control,Raid,MajorManiak,2515,25,22,1.14,47,3,4634,Win,,,,,,,,,,,,,3,10,2,15,12,926.8
+26,104,Super Week,Minnesota ROKKR,London Royal Ravens,Control,Raid,Priestahh,3050,24,35,0.69,59,-11,5443,Win,,,,,,,,,,,,,3,9,6,15,11,1088.6
+26,104,Super Week,London Royal Ravens,Minnesota ROKKR,Control,Raid,Parasite,4710,28,34,0.82,62,-6,5533,Loss,,,,,,,,,,,,,8,16,8,12,3,1106.6
+26,104,Super Week,London Royal Ravens,Minnesota ROKKR,Control,Raid,Dylan,3440,32,29,1.10,61,3,5648,Loss,,,,,,,,,,,,,4,16,8,16,10,1129.6
+26,104,Super Week,London Royal Ravens,Minnesota ROKKR,Control,Raid,Seany,4365,25,23,1.09,48,2,4699,Loss,,,,,,,,,,,,,7,13,5,12,9,939.8
+26,104,Super Week,London Royal Ravens,Minnesota ROKKR,Control,Raid,Alexx,2965,22,25,0.88,47,-3,4441,Loss,,,,,,,,,,,,,5,9,3,13,4,888.2
+27,105,Super Week,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Crossroads,Vivid,2820,34,37,0.92,71,-3,6258,Loss,56,6,21,23,6,,,,,,,,,,,,,
+27,105,Super Week,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Crossroads,Assault,2340,28,33,0.85,61,-5,5456,Loss,71,31,0,36,4,,,,,,,,,,,,,
+27,105,Super Week,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Crossroads,Silly,2615,30,28,1.07,58,2,5016,Loss,75,24,2,20,29,,,,,,,,,,,,,
+27,105,Super Week,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Crossroads,Apathy,2775,30,35,0.86,65,-5,6336,Loss,64,33,10,20,1,,,,,,,,,,,,,
+27,105,Super Week,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Crossroads,Cammy,2795,32,34,0.94,66,-2,6304,Win,75,11,16,37,11,,,,,,,,,,,,,
+27,105,Super Week,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Crossroads,Bance,5335,40,30,1.33,70,10,6158,Win,86,13,28,22,23,,,,,,,,,,,,,
+27,105,Super Week,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Crossroads,Methodz,2605,25,28,0.89,53,-3,5258,Win,35,5,0,9,21,,,,,,,,,,,,,
+27,105,Super Week,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Crossroads,CleanX,4005,36,30,1.20,66,6,6903,Win,81,25,18,7,31,,,,,,,,,,,,,
+27,106,Super Week,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Moscow,Vivid,345,5,6,0.83,11,-1,922,Win,,,,,,,2,1,0,0,0.71,131.71,,,,,,
+27,106,Super Week,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Moscow,Assault,375,3,2,1.50,5,1,700,Win,,,,,,,1,0,1,0,0.43,100,,,,,,
+27,106,Super Week,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Moscow,Silly,1450,10,2,5.00,12,8,1598,Win,,,,,,,2,0,0,0,1.43,228.29,,,,,,
+27,106,Super Week,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Moscow,Apathy,600,7,4,1.75,11,3,1146,Win,,,,,,,1,0,0,0,1,163.71,,,,,,
+27,106,Super Week,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Moscow,Cammy,275,5,6,0.83,11,-1,828,Loss,,,,,,,0,1,0,0,0.71,118.29,,,,,,
+27,106,Super Week,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Moscow,Bance,150,2,6,0.33,8,-4,384,Loss,,,,,,,0,2,0,0,0.29,54.86,,,,,,
+27,106,Super Week,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Moscow,Methodz,340,5,6,0.83,11,-1,1306,Loss,,,,,,,1,0,0,0,0.71,186.57,,,,,,
+27,106,Super Week,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Moscow,CleanX,100,2,7,0.29,9,-5,970,Loss,,,,,,,0,3,0,0,0.29,138.57,,,,,,
+27,107,Super Week,Los Angeles Guerrillas,Toronto Ultra,Control,Raid,Vivid,4175,29,22,1.32,51,7,5007,Win,,,,,,,,,,,,,5,16,8,13,6,1251.75
+27,107,Super Week,Los Angeles Guerrillas,Toronto Ultra,Control,Raid,Assault,5125,26,17,1.53,43,9,5174,Win,,,,,,,,,,,,,8,14,3,12,13,1293.5
+27,107,Super Week,Los Angeles Guerrillas,Toronto Ultra,Control,Raid,Silly,3865,25,20,1.25,45,5,4322,Win,,,,,,,,,,,,,8,11,8,14,8,1080.5
+27,107,Super Week,Los Angeles Guerrillas,Toronto Ultra,Control,Raid,Apathy,3015,19,18,1.06,37,1,3487,Win,,,,,,,,,,,,,5,8,2,11,4,871.75
+27,107,Super Week,Toronto Ultra,Los Angeles Guerrillas,Control,Raid,Cammy,2500,27,30,0.90,57,-3,4507,Loss,,,,,,,,,,,,,4,10,2,17,8,1126.75
+27,107,Super Week,Toronto Ultra,Los Angeles Guerrillas,Control,Raid,Bance,1625,14,21,0.67,35,-7,3047,Loss,,,,,,,,,,,,,2,5,6,9,7,761.75
+27,107,Super Week,Toronto Ultra,Los Angeles Guerrillas,Control,Raid,Methodz,1230,15,24,0.63,39,-9,3410,Loss,,,,,,,,,,,,,2,8,4,7,3,852.5
+27,107,Super Week,Toronto Ultra,Los Angeles Guerrillas,Control,Raid,CleanX,2475,21,25,0.84,46,-4,4500,Loss,,,,,,,,,,,,,4,11,6,10,4,1125
+27,108,Super Week,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Garrison,Vivid,3490,31,34,0.91,65,-3,5657,Loss,6,2,0,4,0,0,,,,,,,,,,,,
+27,108,Super Week,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Garrison,Assault,1650,20,21,0.95,41,-1,3550,Loss,58,0,13,4,16,25,,,,,,,,,,,,
+27,108,Super Week,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Garrison,Silly,2195,18,22,0.82,40,-4,4238,Loss,114,22,41,6,31,14,,,,,,,,,,,,
+27,108,Super Week,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Garrison,Apathy,2725,20,24,0.83,44,-4,3941,Loss,46,10,0,25,5,6,,,,,,,,,,,,
+27,108,Super Week,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Garrison,Cammy,3040,27,22,1.23,49,5,5022,Win,41,21,0,20,0,0,,,,,,,,,,,,
+27,108,Super Week,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Garrison,Bance,2865,22,21,1.05,43,1,3852,Win,67,10,6,36,0,15,,,,,,,,,,,,
+27,108,Super Week,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Garrison,Methodz,7260,32,20,1.60,52,12,6254,Win,79,17,46,0,16,0,,,,,,,,,,,,
+27,108,Super Week,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Garrison,CleanX,1895,20,26,0.77,46,-6,3846,Win,75,22,2,9,30,12,,,,,,,,,,,,
+27,109,Super Week,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Raid,Vivid,275,3,5,0.60,8,-2,1113,Win,,,,,,,2,1,0,0,0.43,159,,,,,,
+27,109,Super Week,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Raid,Assault,1350,8,4,2.00,12,4,1650,Win,,,,,,,2,1,0,0,1.14,235.71,,,,,,
+27,109,Super Week,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Raid,Silly,1525,10,2,5.00,12,8,1443,Win,,,,,,,1,1,0,0,1.43,206.14,,,,,,
+27,109,Super Week,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Raid,Apathy,1165,5,2,2.50,7,3,878,Win,,,,,,,0,0,3,2,0.71,125.43,,,,,,
+27,109,Super Week,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Raid,Cammy,290,4,7,0.57,11,-3,896,Loss,,,,,,,2,1,0,0,0.57,128,,,,,,
+27,109,Super Week,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Raid,Bance,350,2,7,0.29,9,-5,605,Loss,,,,,,,0,1,2,0,0.29,86.43,,,,,,
+27,109,Super Week,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Raid,Methodz,225,3,6,0.50,9,-3,1014,Loss,,,,,,,0,1,0,0,0.43,144.86,,,,,,
+27,109,Super Week,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Raid,CleanX,415,4,6,0.67,10,-2,893,Loss,,,,,,,1,2,0,0,0.57,127.57,,,,,,
+28,110,Super Week,New York Subliners,Seattle Surge,Hardpoint,Raid,Asim,2255,17,24,0.71,41,-7,3390,Loss,99,20,27,18,32,2,,,,,,,,,,,,
+28,110,Super Week,New York Subliners,Seattle Surge,Hardpoint,Raid,Clayster,1895,21,24,0.88,45,-3,3831,Loss,50,9,6,8,16,11,,,,,,,,,,,,
+28,110,Super Week,New York Subliners,Seattle Surge,Hardpoint,Raid,Diamondcon,2610,23,20,1.15,43,3,4221,Loss,88,0,6,73,0,9,,,,,,,,,,,,
+28,110,Super Week,New York Subliners,Seattle Surge,Hardpoint,Raid,Mack,2085,27,25,1.08,52,2,4299,Loss,60,23,21,8,8,0,,,,,,,,,,,,
+28,110,Super Week,Seattle Surge,New York Subliners,Hardpoint,Raid,Octane,3295,30,19,1.58,49,11,4986,Win,106,35,14,0,39,18,,,,,,,,,,,,
+28,110,Super Week,Seattle Surge,New York Subliners,Hardpoint,Raid,Prestinni,1410,20,28,0.71,48,-8,3306,Win,29,16,8,0,0,5,,,,,,,,,,,,
+28,110,Super Week,Seattle Surge,New York Subliners,Hardpoint,Raid,Loony,2135,19,18,1.06,37,1,3374,Win,66,25,10,0,5,26,,,,,,,,,,,,
+28,110,Super Week,Seattle Surge,New York Subliners,Hardpoint,Raid,Gunless,4025,24,23,1.04,47,1,5155,Win,107,5,36,30,36,0,,,,,,,,,,,,
+28,111,Super Week,New York Subliners,Seattle Surge,Search and Destroy,Miami,Asim,775,8,7,1.14,15,1,1495,Win,,,,,,,2,1,1,1,0.89,166.11,,,,,,
+28,111,Super Week,New York Subliners,Seattle Surge,Search and Destroy,Miami,Clayster,675,7,6,1.17,13,1,1579,Win,,,,,,,3,1,0,0,0.78,175.44,,,,,,
+28,111,Super Week,New York Subliners,Seattle Surge,Search and Destroy,Miami,Diamondcon,680,6,5,1.20,11,1,1062,Win,,,,,,,0,0,0,1,0.67,118,,,,,,
+28,111,Super Week,New York Subliners,Seattle Surge,Search and Destroy,Miami,Mack,615,5,5,1.00,10,0,1228,Win,,,,,,,1,1,1,0,0.56,136.44,,,,,,
+28,111,Super Week,Seattle Surge,New York Subliners,Search and Destroy,Miami,Octane,475,6,7,0.86,13,-1,1176,Loss,,,,,,,0,0,1,0,0.67,130.67,,,,,,
+28,111,Super Week,Seattle Surge,New York Subliners,Search and Destroy,Miami,Prestinni,325,4,6,0.67,10,-2,1106,Loss,,,,,,,1,2,0,0,0.44,122.89,,,,,,
+28,111,Super Week,Seattle Surge,New York Subliners,Search and Destroy,Miami,Loony,1265,6,6,1.00,12,0,819,Loss,,,,,,,1,3,2,0,0.67,91,,,,,,
+28,111,Super Week,Seattle Surge,New York Subliners,Search and Destroy,Miami,Gunless,400,7,7,1.00,14,0,1593,Loss,,,,,,,1,1,0,0,0.78,177,,,,,,
+28,112,Super Week,New York Subliners,Seattle Surge,Control,Raid,Asim,3740,16,11,1.45,27,5,2953,Win,,,,,,,,,,,,,6,6,2,10,6,984.33
+28,112,Super Week,New York Subliners,Seattle Surge,Control,Raid,Clayster,2780,28,19,1.47,47,9,4201,Win,,,,,,,,,,,,,2,9,2,19,5,1400.33
+28,112,Super Week,New York Subliners,Seattle Surge,Control,Raid,Diamondcon,2980,24,16,1.50,40,8,3935,Win,,,,,,,,,,,,,3,8,3,16,17,1311.67
+28,112,Super Week,New York Subliners,Seattle Surge,Control,Raid,Mack,2005,21,17,1.24,38,4,3832,Win,,,,,,,,,,,,,3,6,2,15,13,1277.33
+28,112,Super Week,Seattle Surge,New York Subliners,Control,Raid,Octane,2525,16,23,0.70,39,-7,3046,Loss,,,,,,,,,,,,,8,13,7,3,1,1015.33
+28,112,Super Week,Seattle Surge,New York Subliners,Control,Raid,Prestinni,1265,13,25,0.52,38,-12,2822,Loss,,,,,,,,,,,,,3,7,2,6,4,940.67
+28,112,Super Week,Seattle Surge,New York Subliners,Control,Raid,Loony,3320,16,21,0.76,37,-5,2974,Loss,,,,,,,,,,,,,8,7,3,9,6,991.33
+28,112,Super Week,Seattle Surge,New York Subliners,Control,Raid,Gunless,2800,18,20,0.90,38,-2,3629,Loss,,,,,,,,,,,,,9,10,4,8,3,1209.67
+28,113,Super Week,New York Subliners,Seattle Surge,Hardpoint,Moscow,Asim,2910,29,26,1.12,55,3,4324,Win,65,22,24,15,4,,,,,,,,,,,,,
+28,113,Super Week,New York Subliners,Seattle Surge,Hardpoint,Moscow,Clayster,2685,21,24,0.88,45,-3,4564,Win,41,5,9,15,12,,,,,,,,,,,,,
+28,113,Super Week,New York Subliners,Seattle Surge,Hardpoint,Moscow,Diamondcon,2355,29,22,1.32,51,7,4687,Win,76,2,44,19,11,,,,,,,,,,,,,
+28,113,Super Week,New York Subliners,Seattle Surge,Hardpoint,Moscow,Mack,2085,21,27,0.78,48,-6,4178,Win,115,49,38,7,21,,,,,,,,,,,,,
+28,113,Super Week,Seattle Surge,New York Subliners,Hardpoint,Moscow,Octane,4135,30,20,1.50,50,10,5181,Loss,93,10,24,36,23,,,,,,,,,,,,,
+28,113,Super Week,Seattle Surge,New York Subliners,Hardpoint,Moscow,Prestinni,1705,18,28,0.64,46,-10,3646,Loss,43,9,3,22,9,,,,,,,,,,,,,
+28,113,Super Week,Seattle Surge,New York Subliners,Hardpoint,Moscow,Loony,2090,25,24,1.04,49,1,4851,Loss,33,14,3,1,15,,,,,,,,,,,,,
+28,113,Super Week,Seattle Surge,New York Subliners,Hardpoint,Moscow,Gunless,2055,26,28,0.93,54,-2,4410,Loss,80,25,35,16,4,,,,,,,,,,,,,
+29,114,Super Week,Florida Mutineers,OpTic Chicago,Hardpoint,Garrison,Owakening,2125,25,22,1.14,47,3,5125,Win,28,8,17,1,2,0,,,,,,,,,,,,
+29,114,Super Week,Florida Mutineers,OpTic Chicago,Hardpoint,Garrison,Skyz,3205,26,26,1.00,52,0,5922,Win,84,11,0,0,58,15,,,,,,,,,,,,
+29,114,Super Week,Florida Mutineers,OpTic Chicago,Hardpoint,Garrison,Slacked,2790,22,22,1.00,44,0,3701,Win,135,13,58,0,36,28,,,,,,,,,,,,
+29,114,Super Week,Florida Mutineers,OpTic Chicago,Hardpoint,Garrison,Neptune,2590,31,27,1.15,58,4,5111,Win,31,21,2,0,0,8,,,,,,,,,,,,
+29,114,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Garrison,Formal,2175,21,24,0.88,45,-3,4482,Loss,78,22,37,18,0,1,,,,,,,,,,,,
+29,114,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Garrison,Dashy,3310,28,24,1.17,52,4,5865,Loss,34,2,0,32,0,0,,,,,,,,,,,,
+29,114,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Garrison,Envoy,2580,27,30,0.90,57,-3,5204,Loss,76,19,0,41,2,14,,,,,,,,,,,,
+29,114,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Garrison,Scump,1905,21,26,0.81,47,-5,4455,Loss,60,8,42,6,0,4,,,,,,,,,,,,
+29,115,Super Week,Florida Mutineers,OpTic Chicago,Search and Destroy,Checkmate,Owakening,115,14,8,1.75,22,6,2933,Loss,,,,,,,2,0,0,0,1.27,266.64,,,,,,
+29,115,Super Week,Florida Mutineers,OpTic Chicago,Search and Destroy,Checkmate,Skyz,415,3,8,0.38,11,-5,1353,Loss,,,,,,,1,0,1,0,0.27,123,,,,,,
+29,115,Super Week,Florida Mutineers,OpTic Chicago,Search and Destroy,Checkmate,Slacked,415,5,10,0.50,15,-5,1206,Loss,,,,,,,1,3,1,0,0.45,109.64,,,,,,
+29,115,Super Week,Florida Mutineers,OpTic Chicago,Search and Destroy,Checkmate,Neptune,1050,9,9,1.00,18,0,1721,Loss,,,,,,,2,2,1,0,0.82,156.45,,,,,,
+29,115,Super Week,OpTic Chicago,Florida Mutineers,Search and Destroy,Checkmate,Formal,500,6,10,0.60,16,-4,1667,Win,,,,,,,2,2,0,0,0.55,151.55,,,,,,
+29,115,Super Week,OpTic Chicago,Florida Mutineers,Search and Destroy,Checkmate,Dashy,650,8,8,1.00,16,0,2284,Win,,,,,,,0,0,0,0,0.73,207.64,,,,,,
+29,115,Super Week,OpTic Chicago,Florida Mutineers,Search and Destroy,Checkmate,Envoy,825,10,7,1.43,17,3,1784,Win,,,,,,,0,2,0,0,0.91,163.09,,,,,,
+29,115,Super Week,OpTic Chicago,Florida Mutineers,Search and Destroy,Checkmate,Scump,1275,11,6,1.83,17,5,2010,Win,,,,,,,3,2,0,2,1,182.73,,,,,,
+29,116,Super Week,Florida Mutineers,OpTic Chicago,Control,Checkmate,Owakening,2025,18,31,0.58,49,-13,4349,Loss,,,,,,,,,,,,,5,9,5,9,3,869.8
+29,116,Super Week,Florida Mutineers,OpTic Chicago,Control,Checkmate,Skyz,2350,25,30,0.83,55,-5,5066,Loss,,,,,,,,,,,,,3,12,6,13,8,1013.2
+29,116,Super Week,Florida Mutineers,OpTic Chicago,Control,Checkmate,Slacked,2175,14,29,0.48,43,-15,3985,Loss,,,,,,,,,,,,,2,5,2,9,6,797
+29,116,Super Week,Florida Mutineers,OpTic Chicago,Control,Checkmate,Neptune,4000,32,29,1.10,61,3,5976,Loss,,,,,,,,,,,,,5,13,9,19,11,1195.2
+29,116,Super Week,OpTic Chicago,Florida Mutineers,Control,Checkmate,Formal,5225,27,17,1.59,44,10,5510,Win,,,,,,,,,,,,,5,11,7,16,5,1102
+29,116,Super Week,OpTic Chicago,Florida Mutineers,Control,Checkmate,Dashy,3075,26,25,1.04,51,1,5188,Win,,,,,,,,,,,,,2,11,4,15,2,1037.6
+29,116,Super Week,OpTic Chicago,Florida Mutineers,Control,Checkmate,Envoy,3725,34,21,1.62,55,13,6269,Win,,,,,,,,,,,,,5,12,3,22,7,1253.8
+29,116,Super Week,OpTic Chicago,Florida Mutineers,Control,Checkmate,Scump,4000,32,26,1.23,58,6,5501,Win,,,,,,,,,,,,,2,11,4,21,10,1100.2
+29,117,Super Week,Florida Mutineers,OpTic Chicago,Hardpoint,Checkmate,Owakening,1710,24,28,0.86,52,-4,4596,Loss,31,0,2,23,5,1,,,,,,,,,,,,
+29,117,Super Week,Florida Mutineers,OpTic Chicago,Hardpoint,Checkmate,Skyz,2145,27,25,1.08,52,2,4458,Loss,48,2,22,6,16,2,,,,,,,,,,,,
+29,117,Super Week,Florida Mutineers,OpTic Chicago,Hardpoint,Checkmate,Slacked,2200,22,25,0.88,47,-3,4763,Loss,49,11,12,2,14,10,,,,,,,,,,,,
+29,117,Super Week,Florida Mutineers,OpTic Chicago,Hardpoint,Checkmate,Neptune,2110,22,28,0.79,50,-6,3998,Loss,73,15,26,13,5,14,,,,,,,,,,,,
+29,117,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Checkmate,Formal,2975,33,22,1.50,55,11,5239,Win,53,16,0,0,28,9,,,,,,,,,,,,
+29,117,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Checkmate,Dashy,2470,22,23,0.96,45,-1,3744,Win,93,40,4,6,40,3,,,,,,,,,,,,
+29,117,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Checkmate,Envoy,3320,27,27,1.00,54,0,4602,Win,159,34,23,35,9,58,,,,,,,,,,,,
+29,117,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Checkmate,Scump,2315,24,23,1.04,47,1,4720,Win,44,25,0,0,19,0,,,,,,,,,,,,
+30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,Kenny,3135,30,24,1.25,54,6,5558,Loss,32,4,22,0,6,0,,,,,,,,,,,,
+30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,TJHaly,1925,22,25,0.88,47,-3,3861,Loss,65,22,15,9,7,12,,,,,,,,,,,,
+30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,Slasher,2460,21,19,1.11,40,2,3450,Loss,117,18,5,35,58,1,,,,,,,,,,,,
+30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,Temp,1850,13,22,0.59,35,-9,3085,Loss,35,0,0,26,0,9,,,,,,,,,,,,
+30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Shotzzy,2030,18,24,0.75,42,-6,4054,Win,81,7,23,21,12,18,,,,,,,,,,,,
+30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Crimsix,2340,19,21,0.90,40,-2,3775,Win,115,23,24,46,19,3,,,,,,,,,,,,
+30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,iLLey,2605,25,22,1.14,47,3,3878,Win,47,8,23,1,0,15,,,,,,,,,,,,
+30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Huke,2865,28,19,1.47,47,9,5175,Win,63,0,15,9,35,4,,,,,,,,,,,,
+30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,Kenny,1095,10,8,1.25,18,2,1856,Loss,,,,,,,2,3,0,1,0.91,168.73,,,,,,
+30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,TJHaly,615,8,9,0.89,17,-1,1611,Loss,,,,,,,1,3,1,0,0.73,146.45,,,,,,
+30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,Slasher,555,6,9,0.67,15,-3,1612,Loss,,,,,,,1,0,0,0,0.55,146.55,,,,,,
+30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,Temp,690,6,8,0.75,14,-2,1726,Loss,,,,,,,0,1,2,0,0.55,156.91,,,,,,
+30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Shotzzy,1750,10,8,1.25,18,2,1619,Win,,,,,,,1,1,1,0,0.91,147.18,,,,,,
+30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Crimsix,1240,8,7,1.14,15,1,2199,Win,,,,,,,4,2,0,1,0.73,199.91,,,,,,
+30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,iLLey,1290,10,7,1.43,17,3,1938,Win,,,,,,,0,0,1,0,0.91,176.18,,,,,,
+30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Huke,525,6,8,0.75,14,-2,1648,Win,,,,,,,2,1,0,0,0.55,149.82,,,,,,
+30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,Kenny,2950,27,25,1.08,52,2,4861,Loss,,,,,,,,,,,,,5,12,4,15,11,1215.25
+30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,TJHaly,1810,26,33,0.79,59,-7,4998,Loss,,,,,,,,,,,,,2,12,2,14,13,1249.5
+30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,Slasher,2740,19,21,0.90,40,-2,3827,Loss,,,,,,,,,,,,,3,8,0,11,4,956.75
+30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,Temp,3240,22,30,0.73,52,-8,4550,Loss,,,,,,,,,,,,,4,9,4,13,7,1137.5
+30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Shotzzy,3600,23,22,1.05,45,1,4534,Win,,,,,,,,,,,,,5,6,1,17,4,1133.5
+30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Crimsix,4125,23,23,1.00,46,0,4667,Win,,,,,,,,,,,,,10,14,7,9,2,1166.75
+30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,iLLey,4350,25,23,1.09,48,2,4211,Win,,,,,,,,,,,,,9,10,5,15,3,1052.75
+30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Huke,3400,38,26,1.46,64,12,6948,Win,,,,,,,,,,,,,5,19,10,19,7,1737

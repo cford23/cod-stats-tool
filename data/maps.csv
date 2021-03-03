@@ -81,3 +81,41 @@ Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Scor
 21,80,Florida Mutineers,Atlanta FaZe,Super Week,Search and Destroy,Moscow,2,1,6,Atlanta FaZe,5,6:06
 21,81,Florida Mutineers,Atlanta FaZe,Super Week,Control,Garrison,3,2,3,Atlanta FaZe,1,11:17
 21,82,Florida Mutineers,Atlanta FaZe,Super Week,Hardpoint,Moscow,4,190,250,Atlanta FaZe,60,10:48
+22,83,London Royal Ravens,Los Angeles Thieves,Super Week,Hardpoint,Moscow,1,137,250,Los Angeles Thieves,113,9:26
+22,84,London Royal Ravens,Los Angeles Thieves,Super Week,Search and Destroy,Garrison,2,4,6,Los Angeles Thieves,2,12:34
+22,85,London Royal Ravens,Los Angeles Thieves,Super Week,Control,Garrison,3,3,1,London Royal Ravens,2,7:14
+22,86,London Royal Ravens,Los Angeles Thieves,Super Week,Hardpoint,Garrison,4,192,250,Los Angeles Thieves,58,11:44
+23,87,Paris Legion,Toronto Ultra,Super Week,Hardpoint,Raid,1,250,225,Paris Legion,25,9:38
+23,88,Paris Legion,Toronto Ultra,Super Week,Search and Destroy,Moscow,2,0,6,Toronto Ultra,6,5:41
+23,89,Paris Legion,Toronto Ultra,Super Week,Control,Raid,3,0,3,Toronto Ultra,3,10:10
+23,90,Paris Legion,Toronto Ultra,Super Week,Hardpoint,Garrison,4,250,211,Paris Legion,39,11:13
+23,91,Paris Legion,Toronto Ultra,Super Week,Search and Destroy,Miami,5,6,3,Paris Legion,3,11:08
+24,92,New York Subliners,Dallas Empire,Super Week,Hardpoint,Checkmate,1,250,138,New York Subliners,112,9:10
+24,93,New York Subliners,Dallas Empire,Super Week,Search and Destroy,Checkmate,2,6,3,New York Subliners,3,7:32
+24,94,New York Subliners,Dallas Empire,Super Week,Control,Raid,3,2,3,Dallas Empire,1,16:06
+24,95,New York Subliners,Dallas Empire,Super Week,Hardpoint,Garrison,4,171,250,Dallas Empire,79,10:35
+24,96,New York Subliners,Dallas Empire,Super Week,Search and Destroy,Miami,5,3,6,Dallas Empire,3,10:07
+25,97,Paris Legion,Atlanta FaZe,Super Week,Hardpoint,Checkmate,1,250,249,Paris Legion,1,11:45
+25,98,Paris Legion,Atlanta FaZe,Super Week,Search and Destroy,Checkmate,2,5,6,Atlanta FaZe,1,12:24
+25,99,Paris Legion,Atlanta FaZe,Super Week,Control,Garrison,3,3,1,Paris Legion,2,13:18
+25,100,Paris Legion,Atlanta FaZe,Super Week,Hardpoint,Raid,4,218,250,Atlanta FaZe,32,9:23
+25,101,Paris Legion,Atlanta FaZe,Super Week,Search and Destroy,Raid,5,4,6,Atlanta FaZe,2,9:40
+26,102,London Royal Ravens,Minnesota ROKKR,Super Week,Hardpoint,Raid,1,157,250,Minnesota ROKKR,93,8:25
+26,103,London Royal Ravens,Minnesota ROKKR,Super Week,Search and Destroy,Moscow,2,4,6,Minnesota ROKKR,2,7:22
+26,104,London Royal Ravens,Minnesota ROKKR,Super Week,Control,Raid,3,2,3,Minnesota ROKKR,1,15:34
+27,105,Los Angeles Guerrillas,Toronto Ultra,Super Week,Hardpoint,Crossroads,1,242,250,Toronto Ultra,8,12:30
+27,106,Los Angeles Guerrillas,Toronto Ultra,Super Week,Search and Destroy,Moscow,2,6,1,Los Angeles Guerrillas,5,5:45
+27,107,Los Angeles Guerrillas,Toronto Ultra,Super Week,Control,Raid,3,3,1,Los Angeles Guerrillas,2,12:07
+27,108,Los Angeles Guerrillas,Toronto Ultra,Super Week,Hardpoint,Garrison,4,199,250,Toronto Ultra,51,10:44
+27,109,Los Angeles Guerrillas,Toronto Ultra,Super Week,Search and Destroy,Raid,5,6,1,Los Angeles Guerrillas,5,6:49
+28,110,Seattle Surge,New York Subliners,Super Week,Hardpoint,Raid,1,250,205,Seattle Surge,45,9:40
+28,111,Seattle Surge,New York Subliners,Super Week,Search and Destroy,Miami,2,3,6,New York Subliners,3,10:29
+28,112,Seattle Surge,New York Subliners,Super Week,Control,Raid,3,0,3,New York Subliners,3,9:28
+28,113,Seattle Surge,New York Subliners,Super Week,Hardpoint,Moscow,4,226,250,New York Subliners,24,11:29
+29,114,Florida Mutineers,OpTic Chicago,Super Week,Hardpoint,Garrison,1,250,229,Florida Mutineers,21,12:01
+29,115,Florida Mutineers,OpTic Chicago,Super Week,Search and Destroy,Checkmate,2,5,6,OpTic Chicago,1,
+29,116,Florida Mutineers,OpTic Chicago,Super Week,Control,Checkmate,3,2,3,OpTic Chicago,1,13:57
+29,117,Florida Mutineers,OpTic Chicago,Super Week,Hardpoint,Checkmate,4,178,250,OpTic Chicago,72,10:30
+30,118,Los Angeles Thieves,Dallas Empire,Super Week,Hardpoint,Raid,1,212,250,Dallas Empire,38,9:28
+30,119,Los Angeles Thieves,Dallas Empire,Super Week,Search and Destroy,Checkmate,2,5,6,Dallas Empire,1,12:16
+30,120,Los Angeles Thieves,Dallas Empire,Super Week,Control,Raid,3,1,3,Dallas Empire,2,12:54
