@@ -959,3 +959,75 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Crimsix,4125,23,23,1.00,46,0,4667,Win,,,,,,,,,,,,,10,14,7,9,2,1166.75
 30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,iLLey,4350,25,23,1.09,48,2,4211,Win,,,,,,,,,,,,,9,10,5,15,3,1052.75
 30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Huke,3400,38,26,1.46,64,12,6948,Win,,,,,,,,,,,,,5,19,10,19,7,1737
+31,121,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Garrison,Bance,3255,27,18,1.50,45,9,4897,Win,63,1,5,44,13,0,,,,,,,,,,,,
+31,121,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Garrison,Cammy,2215,26,26,1.00,52,0,4916,Win,63,28,7,5,5,18,,,,,,,,,,,,
+31,121,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Garrison,Methodz,2765,26,18,1.44,44,8,4848,Win,85,3,47,19,14,2,,,,,,,,,,,,
+31,121,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Garrison,CleanX,6820,34,22,1.55,56,12,5860,Win,74,7,17,25,3,22,,,,,,,,,,,,
+31,121,Major 1,London Royal Ravens,Toronto Ultra,Hardpoint,Garrison,Parasite,1610,19,29,0.66,48,-10,3664,Loss,16,0,6,0,9,1,,,,,,,,,,,,
+31,121,Major 1,London Royal Ravens,Toronto Ultra,Hardpoint,Garrison,Dylan,1865,19,28,0.68,47,-9,3648,Loss,10,0,1,4,5,0,,,,,,,,,,,,
+31,121,Major 1,London Royal Ravens,Toronto Ultra,Hardpoint,Garrison,Seany,2225,26,26,1.00,52,0,5128,Loss,65,12,15,0,27,11,,,,,,,,,,,,
+31,121,Major 1,London Royal Ravens,Toronto Ultra,Hardpoint,Garrison,Zed,1630,20,30,0.67,50,-10,3671,Loss,67,39,9,0,6,13,,,,,,,,,,,,
+31,122,Major 1,Toronto Ultra,London Royal Ravens,Search and Destroy,Garrison,Bance,,0,8,0.00,8,-8,,Loss,,,,,,,,,,,,,,,,,,
+31,122,Major 1,Toronto Ultra,London Royal Ravens,Search and Destroy,Garrison,Cammy,,4,7,0.57,11,-3,,Loss,,,,,,,,,,,,,,,,,,
+31,122,Major 1,Toronto Ultra,London Royal Ravens,Search and Destroy,Garrison,Methodz,,7,6,1.17,13,1,,Loss,,,,,,,,,,,,,,,,,,
+31,122,Major 1,Toronto Ultra,London Royal Ravens,Search and Destroy,Garrison,CleanX,,4,7,0.57,11,-3,,Loss,,,,,,,,,,,,,,,,,,
+31,122,Major 1,London Royal Ravens,Toronto Ultra,Search and Destroy,Garrison,Parasite,,8,3,2.67,11,5,,Win,,,,,,,,,,,,,,,,,,
+31,122,Major 1,London Royal Ravens,Toronto Ultra,Search and Destroy,Garrison,Dylan,,9,4,2.25,13,5,,Win,,,,,,,,,,,,,,,,,,
+31,122,Major 1,London Royal Ravens,Toronto Ultra,Search and Destroy,Garrison,Seany,,9,3,3.00,12,6,,Win,,,,,,,,,,,,,,,,,,
+31,122,Major 1,London Royal Ravens,Toronto Ultra,Search and Destroy,Garrison,Zed,,2,5,0.40,7,-3,,Win,,,,,,,,,,,,,,,,,,
+31,123,Major 1,Toronto Ultra,London Royal Ravens,Control,Raid,Bance,3600,23,14,1.64,37,9,3957,Win,,,,,,,,,,,,,5,5,5,18,9,1319
+31,123,Major 1,Toronto Ultra,London Royal Ravens,Control,Raid,Cammy,2065,18,17,1.06,35,1,3703,Win,,,,,,,,,,,,,4,6,3,12,2,1234.33
+31,123,Major 1,Toronto Ultra,London Royal Ravens,Control,Raid,Methodz,7755,24,7,3.43,31,17,3722,Win,,,,,,,,,,,,,4,10,9,14,9,1240.67
+31,123,Major 1,Toronto Ultra,London Royal Ravens,Control,Raid,CleanX,2590,20,16,1.25,36,4,4098,Win,,,,,,,,,,,,,5,5,5,15,7,1366
+31,123,Major 1,London Royal Ravens,Toronto Ultra,Control,Raid,Parasite,1400,9,19,0.47,28,-10,2429,Loss,,,,,,,,,,,,,5,4,1,5,7,809.67
+31,123,Major 1,London Royal Ravens,Toronto Ultra,Control,Raid,Dylan,1550,19,29,0.66,48,-10,3335,Loss,,,,,,,,,,,,,3,11,2,8,7,1111.67
+31,123,Major 1,London Royal Ravens,Toronto Ultra,Control,Raid,Seany,1615,12,17,0.71,29,-5,2024,Loss,,,,,,,,,,,,,5,8,2,4,2,674.67
+31,123,Major 1,London Royal Ravens,Toronto Ultra,Control,Raid,Zed,2450,14,20,0.70,34,-6,2630,Loss,,,,,,,,,,,,,7,6,2,8,5,876.67
+31,124,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Moscow,Bance,,28,23,1.22,51,5,,Loss,85,,,,,,,,,,,,,,,,,
+31,124,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Moscow,Cammy,,20,25,0.80,45,-5,,Loss,98,,,,,,,,,,,,,,,,,
+31,124,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Moscow,Methodz,,17,21,0.81,38,-4,,Loss,25,,,,,,,,,,,,,,,,,
+31,124,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Moscow,CleanX,,22,28,0.79,50,-6,,Loss,29,,,,,,,,,,,,,,,,,
+31,124,Major 1,London Royal Ravens,Toronto Ultra,Hardpoint,Moscow,Parasite,,24,22,1.09,46,2,,Win,50,,,,,,,,,,,,,,,,,
+31,124,Major 1,London Royal Ravens,Toronto Ultra,Hardpoint,Moscow,Dylan,,29,24,1.21,53,5,,Win,66,,,,,,,,,,,,,,,,,
+31,124,Major 1,London Royal Ravens,Toronto Ultra,Hardpoint,Moscow,Seany,,21,23,0.91,44,-2,,Win,41,,,,,,,,,,,,,,,,,
+31,124,Major 1,London Royal Ravens,Toronto Ultra,Hardpoint,Moscow,Zed,,23,18,1.28,41,5,,Win,117,,,,,,,,,,,,,,,,,
+31,125,Major 1,Toronto Ultra,London Royal Ravens,Search and Destroy,Moscow,Bance,600,5,6,0.83,11,-1,1209,Win,,,,,,,1,1,1,0,0.5,120.9,,,,,,
+31,125,Major 1,Toronto Ultra,London Royal Ravens,Search and Destroy,Moscow,Cammy,800,10,7,1.43,17,3,1647,Win,,,,,,,1,3,1,0,1,164.7,,,,,,
+31,125,Major 1,Toronto Ultra,London Royal Ravens,Search and Destroy,Moscow,Methodz,770,6,7,0.86,13,-1,1599,Win,,,,,,,2,0,1,0,0.6,159.9,,,,,,
+31,125,Major 1,Toronto Ultra,London Royal Ravens,Search and Destroy,Moscow,CleanX,675,8,7,1.14,15,1,1361,Win,,,,,,,0,2,0,1,0.8,136.1,,,,,,
+31,125,Major 1,London Royal Ravens,Toronto Ultra,Search and Destroy,Moscow,Parasite,815,8,8,1.00,16,0,1748,Loss,,,,,,,2,1,1,0,0.8,174.8,,,,,,
+31,125,Major 1,London Royal Ravens,Toronto Ultra,Search and Destroy,Moscow,Dylan,815,4,8,0.50,12,-4,1210,Loss,,,,,,,1,2,2,1,0.4,121,,,,,,
+31,125,Major 1,London Royal Ravens,Toronto Ultra,Search and Destroy,Moscow,Seany,490,7,6,1.17,13,1,1739,Loss,,,,,,,2,0,0,0,0.7,173.9,,,,,,
+31,125,Major 1,London Royal Ravens,Toronto Ultra,Search and Destroy,Moscow,Zed,715,8,7,1.14,15,1,1153,Loss,,,,,,,1,1,0,1,0.8,115.3,,,,,,
+32,126,Major 1,Florida Mutineers,Seattle Surge,Hardpoint,Crossroads,Owakening,4170,32,28,1.14,60,4,6562,Win,23,5,13,5,0,,,,,,,,,,,,,
+32,126,Major 1,Florida Mutineers,Seattle Surge,Hardpoint,Crossroads,Skyz,2045,20,26,0.77,46,-6,4272,Win,74,3,0,22,49,,,,,,,,,,,,,
+32,126,Major 1,Florida Mutineers,Seattle Surge,Hardpoint,Crossroads,Slacked,4105,30,25,1.20,55,5,4439,Win,128,19,67,30,12,,,,,,,,,,,,,
+32,126,Major 1,Florida Mutineers,Seattle Surge,Hardpoint,Crossroads,Neptune,2210,28,33,0.85,61,-5,4834,Win,44,5,5,11,23,,,,,,,,,,,,,
+32,126,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Crossroads,Octane,3035,29,21,1.38,50,8,5203,Loss,89,16,21,52,0,,,,,,,,,,,,,
+32,126,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Crossroads,Prestinni,2180,28,33,0.85,61,-5,4993,Loss,72,31,5,33,3,,,,,,,,,,,,,
+32,126,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Crossroads,Loony,2210,27,26,1.04,53,1,4435,Loss,17,2,0,15,0,,,,,,,,,,,,,
+32,126,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Crossroads,Gunless,2765,28,30,0.93,58,-2,5529,Loss,91,34,21,28,8,,,,,,,,,,,,,
+32,127,Major 1,Florida Mutineers,Seattle Surge,Search and Destroy,Checkmate,Owakening,375,5,8,0.63,13,-3,1578,Loss,,,,,,,1,1,0,0,0.45,143.45,,,,,,
+32,127,Major 1,Florida Mutineers,Seattle Surge,Search and Destroy,Checkmate,Skyz,1380,9,6,1.50,15,3,1677,Loss,,,,,,,1,1,0,1,0.82,152.45,,,,,,
+32,127,Major 1,Florida Mutineers,Seattle Surge,Search and Destroy,Checkmate,Slacked,860,6,9,0.67,15,-3,974,Loss,,,,,,,1,3,2,0,0.55,88.55,,,,,,
+32,127,Major 1,Florida Mutineers,Seattle Surge,Search and Destroy,Checkmate,Neptune,925,9,7,1.29,16,2,1947,Loss,,,,,,,2,2,0,1,0.82,177,,,,,,
+32,127,Major 1,Seattle Surge,Florida Mutineers,Search and Destroy,Checkmate,Octane,850,9,7,1.29,16,2,1885,Win,,,,,,,3,0,0,0,0.82,171.36,,,,,,
+32,127,Major 1,Seattle Surge,Florida Mutineers,Search and Destroy,Checkmate,Prestinni,650,5,8,0.63,13,-3,1201,Win,,,,,,,0,3,0,1,0.45,109.18,,,,,,
+32,127,Major 1,Seattle Surge,Florida Mutineers,Search and Destroy,Checkmate,Loony,1640,13,7,1.86,20,6,1597,Win,,,,,,,3,1,4,0,1.18,145.18,,,,,,
+32,127,Major 1,Seattle Surge,Florida Mutineers,Search and Destroy,Checkmate,Gunless,575,3,7,0.43,10,-4,1354,Win,,,,,,,1,1,0,0,0.27,123.09,,,,,,
+32,128,Major 1,Florida Mutineers,Seattle Surge,Control,Garrison,Owakening,4300,20,7,2.86,27,13,3332,Win,,,,,,,,,,,,,3,5,0,15,6,1110.67
+32,128,Major 1,Florida Mutineers,Seattle Surge,Control,Garrison,Skyz,2375,15,12,1.25,27,3,2799,Win,,,,,,,,,,,,,4,5,1,10,3,933
+32,128,Major 1,Florida Mutineers,Seattle Surge,Control,Garrison,Slacked,2290,13,8,1.63,21,5,1926,Win,,,,,,,,,,,,,6,2,2,11,11,642
+32,128,Major 1,Florida Mutineers,Seattle Surge,Control,Garrison,Neptune,1625,11,9,1.22,20,2,2172,Win,,,,,,,,,,,,,4,1,1,10,5,724
+32,128,Major 1,Seattle Surge,Florida Mutineers,Control,Garrison,Octane,775,7,14,0.50,21,-7,2242,Loss,,,,,,,,,,,,,2,5,3,2,0,747.33
+32,128,Major 1,Seattle Surge,Florida Mutineers,Control,Garrison,Prestinni,900,7,16,0.44,23,-9,1781,Loss,,,,,,,,,,,,,2,7,5,0,0,593.67
+32,128,Major 1,Seattle Surge,Florida Mutineers,Control,Garrison,Loony,1575,12,15,0.80,27,-3,2155,Loss,,,,,,,,,,,,,3,11,8,1,2,718.33
+32,128,Major 1,Seattle Surge,Florida Mutineers,Control,Garrison,Gunless,1650,10,14,0.71,24,-4,2502,Loss,,,,,,,,,,,,,4,10,4,0,0,834
+32,129,Major 1,Florida Mutineers,Seattle Surge,Hardpoint,Raid,Owakening,1800,20,16,1.25,36,4,3388,Win,55,7,39,0,0,9,,,,,,,,,,,,
+32,129,Major 1,Florida Mutineers,Seattle Surge,Hardpoint,Raid,Skyz,8065,32,13,2.46,45,19,4802,Win,110,69,22,12,3,4,,,,,,,,,,,,
+32,129,Major 1,Florida Mutineers,Seattle Surge,Hardpoint,Raid,Slacked,1630,13,20,0.65,33,-7,2860,Win,110,45,25,23,5,12,,,,,,,,,,,,
+32,129,Major 1,Florida Mutineers,Seattle Surge,Hardpoint,Raid,Neptune,1310,13,17,0.76,30,-4,2715,Win,92,5,50,16,5,16,,,,,,,,,,,,
+32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Octane,1170,13,22,0.59,35,-9,2821,Loss,32,0,0,22,10,0,,,,,,,,,,,,
+32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Prestinni,1525,19,19,1.00,38,0,3598,Loss,40,6,10,24,0,0,,,,,,,,,,,,
+32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Loony,1540,14,18,0.78,32,-4,2497,Loss,68,7,15,11,35,0,,,,,,,,,,,,
+32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Gunless,2335,20,19,1.05,39,1,4073,Loss,94,0,0,48,18,28,,,,,,,,,,,,
