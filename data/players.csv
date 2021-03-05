@@ -1031,3 +1031,123 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Prestinni,1525,19,19,1.00,38,0,3598,Loss,40,6,10,24,0,0,,,,,,,,,,,,
 32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Loony,1540,14,18,0.78,32,-4,2497,Loss,68,7,15,11,35,0,,,,,,,,,,,,
 32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Gunless,2335,20,19,1.05,39,1,4073,Loss,94,0,0,48,18,28,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,Kenny,1765,20,25,0.80,45,-5,4791,Loss,43,9,4,0,14,16,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,TJHaly,3480,33,30,1.10,63,3,4607,Loss,47,11,5,10,16,5,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,Slasher,2315,19,25,0.76,44,-6,3938,Loss,112,5,0,12,34,61,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,Temp,2380,19,25,0.76,44,-6,4587,Loss,49,13,0,9,27,0,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Checkmate,Vivid,2020,26,26,1.00,52,0,4658,Win,38,7,16,1,0,14,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Checkmate,Assault,2590,22,30,0.73,52,-8,4568,Win,135,43,43,19,30,0,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Checkmate,Silly,2355,28,23,1.22,51,5,4950,Win,67,27,32,0,8,0,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Checkmate,Apathy,3330,31,22,1.41,53,9,5399,Win,93,30,1,37,8,17,,,,,,,,,,,,
+33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,Kenny,615,4,10,0.40,14,-6,1464,Loss,,,,,,,1,1,1,0,0.36,133.09,,,,,,
+33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,TJHaly,520,5,9,0.56,14,-4,761,Loss,,,,,,,2,3,0,0,0.45,69.18,,,,,,
+33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,Slasher,865,10,9,1.11,19,1,2523,Loss,,,,,,,1,1,1,1,0.91,229.36,,,,,,
+33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,Temp,965,9,10,0.90,19,-1,1561,Loss,,,,,,,1,1,3,0,0.82,141.91,,,,,,
+33,131,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Vivid,550,7,9,0.78,16,-2,1402,Win,,,,,,,1,2,0,1,0.64,127.45,,,,,,
+33,131,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Assault,1540,10,5,2.00,15,5,2292,Win,,,,,,,2,2,0,1,0.91,208.36,,,,,,
+33,131,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Silly,1100,12,7,1.71,19,5,2194,Win,,,,,,,1,1,0,1,1.09,199.45,,,,,,
+33,131,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Apathy,1175,9,7,1.29,16,2,1755,Win,,,,,,,2,0,2,0,0.82,159.55,,,,,,
+33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Kenny,3575,24,25,0.96,49,-1,4999,Loss,,,,,,,,,,,,,5,9,1,15,11,1249.75
+33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,TJHaly,2825,25,30,0.83,55,-5,4285,Loss,,,,,,,,,,,,,4,13,4,12,7,1071.25
+33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Slasher,3540,27,23,1.17,50,4,5023,Loss,,,,,,,,,,,,,6,15,9,12,9,1255.75
+33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Temp,2075,22,27,0.81,49,-5,5086,Loss,,,,,,,,,,,,,3,13,4,9,4,1271.5
+33,132,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Vivid,3100,28,27,1.04,55,1,4984,Win,,,,,,,,,,,,,4,12,7,16,9,1246
+33,132,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Assault,3575,24,24,1.00,48,0,5159,Win,,,,,,,,,,,,,8,13,9,11,7,1289.75
+33,132,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Silly,3165,28,24,1.17,52,4,5048,Win,,,,,,,,,,,,,5,13,3,15,8,1262
+33,132,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Apathy,3975,25,23,1.09,48,2,4242,Win,,,,,,,,,,,,,8,8,4,17,8,1060.5
+34,133,Major 1,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Asim,2110,23,32,0.72,55,-9,4512,Loss,39,13,6,19,0,1,,,,,,,,,,,,
+34,133,Major 1,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Clayster,2290,22,32,0.69,54,-10,4795,Loss,52,21,2,29,0,0,,,,,,,,,,,,
+34,133,Major 1,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Diamondcon,1755,21,28,0.75,49,-7,4111,Loss,69,16,24,0,28,1,,,,,,,,,,,,
+34,133,Major 1,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Mack,3335,30,27,1.11,57,3,4785,Loss,62,30,5,3,15,9,,,,,,,,,,,,
+34,133,Major 1,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Formal,3710,33,25,1.32,58,8,5493,Win,49,1,31,0,16,1,,,,,,,,,,,,
+34,133,Major 1,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Dashy,4855,36,19,1.89,55,17,6475,Win,83,1,19,6,57,0,,,,,,,,,,,,
+34,133,Major 1,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Envoy,2765,25,26,0.96,51,-1,4624,Win,111,18,6,7,2,78,,,,,,,,,,,,
+34,133,Major 1,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Scump,3515,25,26,0.96,51,-1,4384,Win,62,29,2,5,26,0,,,,,,,,,,,,
+34,134,Major 1,New York Subliners,OpTic Chicago,Search and Destroy,Moscow,Asim,50,1,6,0.17,7,-5,360,Loss,,,,,,,0,2,0,0,0.14,51.43,,,,,,
+34,134,Major 1,New York Subliners,OpTic Chicago,Search and Destroy,Moscow,Clayster,315,5,7,0.71,12,-2,1430,Loss,,,,,,,2,0,0,0,0.71,204.29,,,,,,
+34,134,Major 1,New York Subliners,OpTic Chicago,Search and Destroy,Moscow,Diamondcon,325,5,6,0.83,11,-1,903,Loss,,,,,,,1,1,0,0,0.71,129,,,,,,
+34,134,Major 1,New York Subliners,OpTic Chicago,Search and Destroy,Moscow,Mack,475,4,6,0.67,10,-2,1000,Loss,,,,,,,0,1,1,0,0.57,142.86,,,,,,
+34,134,Major 1,OpTic Chicago,New York Subliners,Search and Destroy,Moscow,Formal,200,2,6,0.33,8,-4,1080,Win,,,,,,,1,1,0,0,0.29,154.29,,,,,,
+34,134,Major 1,OpTic Chicago,New York Subliners,Search and Destroy,Moscow,Dashy,2140,10,3,3.33,13,7,1658,Win,,,,,,,1,1,0,1,1.43,236.86,,,,,,
+34,134,Major 1,OpTic Chicago,New York Subliners,Search and Destroy,Moscow,Envoy,540,6,4,1.50,10,2,991,Win,,,,,,,1,1,1,0,0.86,141.57,,,,,,
+34,134,Major 1,OpTic Chicago,New York Subliners,Search and Destroy,Moscow,Scump,750,7,2,3.50,9,5,952,Win,,,,,,,1,0,2,0,1,136,,,,,,
+34,135,Major 1,New York Subliners,OpTic Chicago,Control,Raid,Asim,3865,20,26,0.77,46,-6,4327,Loss,,,,,,,,,,,,,7,8,5,12,9,1081.75
+34,135,Major 1,New York Subliners,OpTic Chicago,Control,Raid,Clayster,2695,20,26,0.77,46,-6,4336,Loss,,,,,,,,,,,,,7,7,3,13,10,1084
+34,135,Major 1,New York Subliners,OpTic Chicago,Control,Raid,Diamondcon,2325,15,24,0.63,39,-9,3843,Loss,,,,,,,,,,,,,5,10,4,5,2,960.75
+34,135,Major 1,New York Subliners,OpTic Chicago,Control,Raid,Mack,2525,19,26,0.73,45,-7,3540,Loss,,,,,,,,,,,,,6,9,4,10,4,885
+34,135,Major 1,OpTic Chicago,New York Subliners,Control,Raid,Formal,4150,28,14,2.00,42,14,4615,Win,,,,,,,,,,,,,9,19,12,9,6,1153.75
+34,135,Major 1,OpTic Chicago,New York Subliners,Control,Raid,Dashy,5030,35,16,2.19,51,19,5772,Win,,,,,,,,,,,,,6,19,9,16,13,1443
+34,135,Major 1,OpTic Chicago,New York Subliners,Control,Raid,Envoy,2190,21,25,0.84,46,-4,3925,Win,,,,,,,,,,,,,5,9,2,12,5,981.25
+34,135,Major 1,OpTic Chicago,New York Subliners,Control,Raid,Scump,2650,18,19,0.95,37,-1,3963,Win,,,,,,,,,,,,,6,10,4,8,5,990.75
+35,136,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Owakening,845,11,22,0.50,33,-11,3409,Loss,15,0,8,6,1,0,,,,,,,,,,,,
+35,136,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Skyz,1305,15,24,0.63,39,-9,3295,Loss,56,5,22,26,0,3,,,,,,,,,,,,
+35,136,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Slacked,1305,16,21,0.76,37,-5,2795,Loss,44,1,3,36,3,1,,,,,,,,,,,,
+35,136,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Neptune,1595,17,20,0.85,37,-3,3041,Loss,39,1,7,13,0,18,,,,,,,,,,,,
+35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Skrapz,1895,18,15,1.20,33,3,3806,Win,67,8,5,2,52,0,,,,,,,,,,,,
+35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Classic,2490,21,14,1.50,35,7,3680,Win,83,19,39,17,0,8,,,,,,,,,,,,
+35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Aqua,1650,20,16,1.25,36,4,3374,Win,14,5,5,4,0,0,,,,,,,,,,,,
+35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Fire,3460,28,15,1.87,43,13,4379,Win,102,47,22,7,26,0,,,,,,,,,,,,
+35,137,Major 1,Florida Mutineers,Paris Legion,Search and Destroy,Miami,Owakening,550,8,8,1.00,16,0,1693,Win,,,,,,,2,1,0,0,0.8,169.3,,,,,,
+35,137,Major 1,Florida Mutineers,Paris Legion,Search and Destroy,Miami,Skyz,795,9,9,1.00,18,0,1688,Win,,,,,,,1,3,0,0,0.9,168.8,,,,,,
+35,137,Major 1,Florida Mutineers,Paris Legion,Search and Destroy,Miami,Slacked,1300,9,6,1.50,15,3,1576,Win,,,,,,,0,0,1,1,0.9,157.6,,,,,,
+35,137,Major 1,Florida Mutineers,Paris Legion,Search and Destroy,Miami,Neptune,450,4,7,0.57,11,-3,688,Win,,,,,,,0,3,2,0,0.4,68.8,,,,,,
+35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,Skrapz,1400,10,6,1.67,16,4,2167,Loss,,,,,,,0,0,0,0,1,216.7,,,,,,
+35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,Classic,725,6,9,0.67,15,-3,1374,Loss,,,,,,,3,1,3,0,0.6,137.4,,,,,,
+35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,Aqua,490,6,8,0.75,14,-2,1146,Loss,,,,,,,2,1,0,0,0.6,114.6,,,,,,
+35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,Fire,930,8,7,1.14,15,1,1989,Loss,,,,,,,2,1,0,0,0.8,198.9,,,,,,
+35,138,Major 1,Florida Mutineers,Paris Legion,Control,Checkmate,Owakening,2865,24,28,0.86,52,-4,5414,Win,,,,,,,,,,,,,5,16,13,8,3,1082.8
+35,138,Major 1,Florida Mutineers,Paris Legion,Control,Checkmate,Skyz,2705,23,23,1.00,46,0,4571,Win,,,,,,,,,,,,,3,13,8,10,7,914.2
+35,138,Major 1,Florida Mutineers,Paris Legion,Control,Checkmate,Slacked,3065,25,22,1.14,47,3,4391,Win,,,,,,,,,,,,,4,15,12,10,6,878.2
+35,138,Major 1,Florida Mutineers,Paris Legion,Control,Checkmate,Neptune,3565,25,26,0.96,51,-1,3861,Win,,,,,,,,,,,,,5,9,7,16,15,772.2
+35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,Skrapz,3580,28,21,1.33,49,7,4355,Loss,,,,,,,,,,,,,5,11,6,17,18,871
+35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,Classic,2625,23,27,0.85,50,-4,3913,Loss,,,,,,,,,,,,,5,9,7,14,15,1010.2
+35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,Aqua,3125,24,23,1.04,47,1,5051,Loss,,,,,,,,,,,,,1,12,8,12,6,1010.2
+35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,Fire,2865,24,26,0.92,50,-2,4402,Loss,,,,,,,,,,,,,4,5,2,19,15,880.4
+35,139,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Raid,Owakening,2300,27,21,1.29,48,6,5142,Win,47,21,0,19,3,4,,,,,,,,,,,,
+35,139,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Raid,Skyz,3585,22,16,1.38,38,6,3976,Win,163,3,9,42,96,13,,,,,,,,,,,,
+35,139,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Raid,Slacked,2625,23,21,1.10,44,2,4302,Win,26,7,1,18,0,0,,,,,,,,,,,,
+35,139,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Raid,Neptune,2495,21,21,1.00,42,0,3927,Win,97,15,4,40,3,35,,,,,,,,,,,,
+35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,Skrapz,1675,16,26,0.62,42,-10,3904,Loss,44,0,35,9,0,0,,,,,,,,,,,,
+35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,Classic,1540,16,24,0.67,40,-8,3382,Loss,90,8,43,29,6,4,,,,,,,,,,,,
+35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,Aqua,1880,20,24,0.83,44,-4,3374,Loss,94,18,24,3,1,48,,,,,,,,,,,,
+35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,Fire,2520,27,19,1.42,46,8,4435,Loss,103,31,19,4,23,26,,,,,,,,,,,,
+36,140,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Moscow,Accuracy,2830,26,28,0.93,54,-2,4741,Loss,78,24,14,25,15,,,,,,,,,,,,,
+36,140,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Moscow,Attach,2495,25,28,0.89,53,-3,4823,Loss,60,23,6,23,8,,,,,,,,,,,,,
+36,140,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Moscow,MajorManiak,2345,30,24,1.25,54,6,5103,Loss,50,33,7,0,10,,,,,,,,,,,,,
+36,140,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Moscow,Priestahh,1935,22,35,0.63,57,-13,4500,Loss,73,39,24,0,10,,,,,,,,,,,,,
+36,140,Major 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Moscow,Bance,3825,32,26,1.23,58,6,5764,Win,94,17,57,12,8,,,,,,,,,,,,,
+36,140,Major 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Moscow,Cammy,2655,26,27,0.96,53,-1,5204,Win,70,19,37,0,14,,,,,,,,,,,,,
+36,140,Major 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Moscow,Methodz,3515,31,23,1.35,54,8,4986,Win,93,13,7,37,36,,,,,,,,,,,,,
+36,140,Major 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Moscow,CleanX,2080,26,27,0.96,53,-1,4489,Win,31,3,1,16,11,,,,,,,,,,,,,
+36,141,Major 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Checkmate,Accuracy,480,4,7,0.57,11,-3,959,Win,,,,,,,0,1,0,1,0.36,87.18,,,,,,
+36,141,Major 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Checkmate,Attach,850,10,5,2.00,15,5,1598,Win,,,,,,,1,2,0,1,0.91,145.27,,,,,,
+36,141,Major 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Checkmate,MajorManiak,840,10,9,1.11,19,1,1863,Win,,,,,,,4,0,0,0,0.91,169.36,,,,,,
+36,141,Major 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Checkmate,Priestahh,2215,9,6,1.50,15,3,1994,Win,,,,,,,1,2,2,0,0.82,181.27,,,,,,
+36,141,Major 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Checkmate,Bance,2140,9,7,1.29,16,2,2010,Loss,,,,,,,0,2,3,1,0.82,182.73,,,,,,
+36,141,Major 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Checkmate,Cammy,290,5,9,0.56,14,-4,1242,Loss,,,,,,,2,1,0,0,0.45,112.91,,,,,,
+36,141,Major 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Checkmate,Methodz,740,8,7,1.14,15,1,1636,Loss,,,,,,,2,0,0,0,0.73,148.73,,,,,,
+36,141,Major 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Checkmate,CleanX,450,5,10,0.50,15,-5,1339,Loss,,,,,,,1,3,1,0,0.45,121.73,,,,,,
+36,142,Major 1,Minnesota ROKKR,Toronto Ultra,Control,Raid,Accuracy,2325,25,19,1.32,44,6,4569,Win,,,,,,,,,,,,,4,8,3,17,19,1142.25
+36,142,Major 1,Minnesota ROKKR,Toronto Ultra,Control,Raid,Attach,4490,23,18,1.28,41,5,4174,Win,,,,,,,,,,,,,7,6,1,17,10,1043.5
+36,142,Major 1,Minnesota ROKKR,Toronto Ultra,Control,Raid,MajorManiak,2675,20,26,0.77,46,-6,4508,Win,,,,,,,,,,,,,5,6,3,14,6,1127
+36,142,Major 1,Minnesota ROKKR,Toronto Ultra,Control,Raid,Priestahh,2940,19,24,0.79,43,-5,4534,Win,,,,,,,,,,,,,8,7,3,12,8,1133.5
+36,142,Major 1,Toronto Ultra,Minnesota ROKKR,Control,Raid,Bance,3175,21,18,1.17,39,3,3775,Loss,,,,,,,,,,,,,4,9,4,12,4,943.75
+36,142,Major 1,Toronto Ultra,Minnesota ROKKR,Control,Raid,Cammy,2775,25,24,1.04,49,1,4786,Loss,,,,,,,,,,,,,4,14,8,11,6,1196.5
+36,142,Major 1,Toronto Ultra,Minnesota ROKKR,Control,Raid,Methodz,2615,16,22,0.73,38,-6,3967,Loss,,,,,,,,,,,,,6,13,7,3,2,991.75
+36,142,Major 1,Toronto Ultra,Minnesota ROKKR,Control,Raid,CleanX,2215,25,23,1.09,48,2,4111,Loss,,,,,,,,,,,,,3,15,3,10,6,1027.75
+36,143,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,Accuracy,1630,11,28,0.39,39,-17,3349,Loss,116,21,31,37,4,23,,,,,,,,,,,,
+36,143,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,Attach,7720,35,23,1.52,58,12,5288,Loss,73,42,18,10,0,3,,,,,,,,,,,,
+36,143,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,MajorManiak,2615,31,18,1.72,49,13,5147,Loss,30,14,5,11,0,0,,,,,,,,,,,,
+36,143,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,Priestahh,2155,23,28,0.82,51,-5,4439,Loss,44,13,13,13,5,0,,,,,,,,,,,,
+36,143,Major 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Garrison,Bance,2480,24,23,1.04,47,1,4841,Win,48,1,17,16,6,8,,,,,,,,,,,,
+36,143,Major 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Garrison,Cammy,2620,29,26,1.12,55,3,5626,Win,21,0,0,6,2,13,,,,,,,,,,,,
+36,143,Major 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Garrison,Methodz,1890,20,25,0.80,45,-5,4281,Win,100,14,43,1,42,0,,,,,,,,,,,,
+36,143,Major 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Garrison,CleanX,2240,24,26,0.92,50,-2,4099,Win,106,20,25,15,19,27,,,,,,,,,,,,
+36,144,Major 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Miami,Accuracy,50,1,7,0.14,8,-6,579,Loss,,,,,,,0,1,0,0,0.14,82.71,,,,,,
+36,144,Major 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Miami,Attach,225,3,6,0.50,9,-3,811,Loss,,,,,,,0,1,0,0,0.43,115.86,,,,,,
+36,144,Major 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Miami,MajorManiak,225,3,6,0.50,9,-3,590,Loss,,,,,,,1,2,0,0,0.43,84.29,,,,,,
+36,144,Major 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Miami,Priestahh,150,2,6,0.33,8,-4,693,Loss,,,,,,,0,2,0,0,0.29,99,,,,,,
+36,144,Major 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Miami,Bance,475,5,3,1.67,8,2,758,Win,,,,,,,4,0,1,0,0.71,108.29,,,,,,
+36,144,Major 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Miami,Cammy,1925,9,2,4.50,11,7,1717,Win,,,,,,,1,0,0,0,1.29,245.29,,,,,,
+36,144,Major 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Miami,Methodz,350,4,1,4.00,5,3,853,Win,,,,,,,0,0,0,0,0.57,121.86,,,,,,
+36,144,Major 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Miami,CleanX,1500,7,3,2.33,10,4,1399,Win,,,,,,,1,1,0,0,1,199.86,,,,,,

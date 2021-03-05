@@ -128,3 +128,18 @@ Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Scor
 32,127,Florida Mutineers,Seattle Surge,Major 1,Search and Destroy,Checkmate,2,5,6,Seattle Surge,1,12:48
 32,128,Florida Mutineers,Seattle Surge,Major 1,Control,Garrison,3,3,0,Florida Mutineers,3,6:21
 32,129,Florida Mutineers,Seattle Surge,Major 1,Hardpoint,Raid,4,250,157,Florida Mutineers,93,8:20
+33,130,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Hardpoint,Checkmate,1,250,191,Los Angeles Guerrillas,59,10:25
+33,131,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Search and Destroy,Raid,2,6,5,Los Angeles Guerrillas,1,12:33
+33,132,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Control,Raid,3,3,1,Los Angeles Guerrillas,2,12:46
+34,133,New York Subliners,OpTic Chicago,Major 1,Hardpoint,Checkmate,1,180,250,OpTic Chicago,70,10:41
+34,134,New York Subliners,OpTic Chicago,Major 1,Search and Destroy,Moscow,2,1,6,OpTic Chicago,5,8:09
+34,135,New York Subliners,OpTic Chicago,Major 1,Control,Raid,3,1,3,OpTic Chicago,2,11:13
+35,136,Florida Mutineers,Paris Legion,Major 1,Hardpoint,Garrison,1,129,250,Paris Legion,121,8:53
+35,137,Florida Mutineers,Paris Legion,Major 1,Search and Destroy,Miami,2,6,4,Florida Mutineers,2,14:38
+35,138,Florida Mutineers,Paris Legion,Major 1,Control,Checkmate,3,3,2,Florida Mutineers,1,11:37
+35,139,Florida Mutineers,Paris Legion,Major 1,Hardpoint,Raid,4,250,239,Florida Mutineers,11,9:54
+36,140,Toronto Ultra,Minnesota ROKKR,Major 1,Hardpoint,Moscow,1,241,218,Toronto Ultra,23,12:39
+36,141,Toronto Ultra,Minnesota ROKKR,Major 1,Search and Destroy,Checkmate,2,5,6,Minnesota ROKKR,1,11:56
+36,142,Toronto Ultra,Minnesota ROKKR,Major 1,Control,Raid,3,1,3,Minnesota ROKKR,2,13:06
+36,143,Toronto Ultra,Minnesota ROKKR,Major 1,Hardpoint,Garrison,4,250,228,Toronto Ultra,22,11:37
+36,144,Toronto Ultra,Minnesota ROKKR,Major 1,Search and Destroy,Miami,5,6,1,Toronto Ultra,5,8:25
