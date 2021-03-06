@@ -143,3 +143,19 @@ Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Scor
 36,142,Toronto Ultra,Minnesota ROKKR,Major 1,Control,Raid,3,1,3,Minnesota ROKKR,2,13:06
 36,143,Toronto Ultra,Minnesota ROKKR,Major 1,Hardpoint,Garrison,4,250,228,Toronto Ultra,22,11:37
 36,144,Toronto Ultra,Minnesota ROKKR,Major 1,Search and Destroy,Miami,5,6,1,Toronto Ultra,5,8:25
+37,145,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Hardpoint,Checkmate,1,220,250,Atlanta FaZe,30,11:32
+37,146,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Search and Destroy,Moscow,2,3,6,Atlanta FaZe,3,8:03
+37,147,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Control,Garrison,3,1,3,Atlanta FaZe,2,11:54
+38,148,OpTic Chicago,Dallas Empire,Major 1,Hardpoint,Garrison,1,149,250,Dallas Empire,101,9:32
+38,149,OpTic Chicago,Dallas Empire,Major 1,Search and Destroy,Moscow,2,6,2,OpTic Chicago,4,7:19
+38,150,OpTic Chicago,Dallas Empire,Major 1,Control,Raid,3,3,2,OpTic Chicago,1,
+38,151,OpTic Chicago,Dallas Empire,Major 1,Hardpoint,Moscow,4,157,250,Dallas Empire,93,11:07
+38,152,OpTic Chicago,Dallas Empire,Major 1,Search and Destroy,Checkmate,5,5,6,Dallas Empire,1,13:37
+39,153,Florida Mutineers,New York Subliners,Major 1,Hardpoint,Garrison,1,250,241,Florida Mutineers,9,
+39,154,Florida Mutineers,New York Subliners,Major 1,Search and Destroy,Checkmate,2,6,5,Florida Mutineers,1,13:53
+39,155,Florida Mutineers,New York Subliners,Major 1,Control,Checkmate,3,1,3,New York Subliners,2,10:31
+39,156,Florida Mutineers,New York Subliners,Major 1,Hardpoint,Checkmate,4,193,250,New York Subliners,57,9:51
+39,157,Florida Mutineers,New York Subliners,Major 1,Search and Destroy,Miami,5,3,6,New York Subliners,3,12:11
+40,158,Toronto Ultra,Los Angeles Thieves,Major 1,Hardpoint,Crossroads,1,154,250,Los Angeles Thieves,96,9:51
+40,159,Toronto Ultra,Los Angeles Thieves,Major 1,Search and Destroy,Moscow,2,1,6,Los Angeles Thieves,5,7:25
+40,160,Toronto Ultra,Los Angeles Thieves,Major 1,Control,Checkmate,3,2,3,Los Angeles Thieves,1,12:38
