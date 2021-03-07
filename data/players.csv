@@ -1279,3 +1279,91 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,TJHaly,2115,17,29,0.59,46,-12,4231,Win,,,,,,,,,,,,,2,3,3,14,1,846.2
 40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,Slasher,3300,32,21,1.52,53,11,5283,Win,,,,,,,,,,,,,2,11,8,21,11,1056.6
 40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,Temp,2300,21,25,0.84,46,-4,3901,Win,,,,,,,,,,,,,2,9,5,12,5,780.2
+41,161,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Checkmate,Vivid,3350,30,26,1.15,56,4,5166,Loss,10,3,0,1,3,3,,,,,,,,,,,,
+41,161,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Checkmate,Assault,2325,26,26,1.00,52,0,5113,Loss,66,48,10,4,4,0,,,,,,,,,,,,
+41,161,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Checkmate,Silly,2205,25,26,0.96,51,-1,4188,Loss,72,23,17,3,7,22,,,,,,,,,,,,
+41,161,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Checkmate,Apathy,2320,24,28,0.86,52,-4,4385,Loss,70,6,7,9,37,11,,,,,,,,,,,,
+41,161,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Checkmate,Asim,2985,25,26,0.96,51,-1,5957,Win,138,1,46,29,29,33,,,,,,,,,,,,
+41,161,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Checkmate,Clayster,3285,25,29,0.86,54,-4,4407,Win,66,9,22,2,28,5,,,,,,,,,,,,
+41,161,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Checkmate,Diamondcon,3010,31,24,1.29,55,7,5476,Win,55,0,0,23,7,25,,,,,,,,,,,,
+41,161,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Checkmate,Mack,2820,25,26,0.96,51,-1,4445,Win,25,4,2,4,6,9,,,,,,,,,,,,
+41,162,Major 1,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Miami,Vivid,500,5,7,0.71,12,-2,1133,Win,,,,,,,1,2,0,1,0.56,125.89,,,,,,
+41,162,Major 1,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Miami,Assault,1700,11,4,2.75,15,7,2023,Win,,,,,,,2,0,0,1,1.22,224.78,,,,,,
+41,162,Major 1,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Miami,Silly,1250,9,5,1.80,14,4,1602,Win,,,,,,,2,1,0,0,1,178,,,,,,
+41,162,Major 1,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Miami,Apathy,665,6,4,1.50,10,2,1201,Win,,,,,,,0,1,1,0,0.67,133.44,,,,,,
+41,162,Major 1,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Miami,Asim,275,3,9,0.33,12,-6,874,Loss,,,,,,,0,2,1,0,0.33,97.11,,,,,,
+41,162,Major 1,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Miami,Clayster,250,3,8,0.38,11,-5,1502,Loss,,,,,,,1,2,0,0,0.33,166.89,,,,,,
+41,162,Major 1,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Miami,Diamondcon,350,4,7,0.57,11,-3,870,Loss,,,,,,,1,0,0,0,0.44,96.67,,,,,,
+41,162,Major 1,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Miami,Mack,2075,10,7,1.43,17,3,1681,Loss,,,,,,,2,1,2,0,1.11,186.78,,,,,,
+41,163,Major 1,Los Angeles Guerrillas,New York Subliners,Control,Garrison,Vivid,1350,17,18,0.94,35,-1,3255,Loss,,,,,,,,,,,,,1,7,2,10,3,1085
+41,163,Major 1,Los Angeles Guerrillas,New York Subliners,Control,Garrison,Assault,1925,15,16,0.94,31,-1,2817,Loss,,,,,,,,,,,,,3,3,2,12,6,939
+41,163,Major 1,Los Angeles Guerrillas,New York Subliners,Control,Garrison,Silly,2475,17,17,1.00,34,0,3087,Loss,,,,,,,,,,,,,3,8,4,9,5,1029
+41,163,Major 1,Los Angeles Guerrillas,New York Subliners,Control,Garrison,Apathy,1440,10,20,0.50,30,-10,2689,Loss,,,,,,,,,,,,,2,4,1,6,7,896.33
+41,163,Major 1,New York Subliners,Los Angeles Guerrillas,Control,Garrison,Asim,2925,24,15,1.60,39,9,3847,Win,,,,,,,,,,,,,6,17,10,7,1,1282.33
+41,163,Major 1,New York Subliners,Los Angeles Guerrillas,Control,Garrison,Clayster,3175,17,15,1.13,32,2,3590,Win,,,,,,,,,,,,,7,13,9,4,2,1196.67
+41,163,Major 1,New York Subliners,Los Angeles Guerrillas,Control,Garrison,Diamondcon,2590,11,14,0.79,25,-3,2347,Win,,,,,,,,,,,,,8,6,2,5,3,782.33
+41,163,Major 1,New York Subliners,Los Angeles Guerrillas,Control,Garrison,Mack,3440,19,15,1.27,34,4,1373,Win,,,,,,,,,,,,,8,10,5,9,3,1053.67
+41,164,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Raid,Vivid,2620,25,25,1.00,50,0,4192,Loss,71,22,9,22,9,9,,,,,,,,,,,,
+41,164,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Raid,Assault,2390,26,24,1.08,50,2,4803,Loss,10,4,1,0,3,2,,,,,,,,,,,,
+41,164,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Raid,Silly,1805,20,21,0.95,41,-1,3376,Loss,72,45,25,2,0,0,,,,,,,,,,,,
+41,164,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Raid,Apathy,2245,15,22,0.68,37,-7,2778,Loss,123,12,24,6,75,6,,,,,,,,,,,,
+41,164,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Raid,Asim,2170,20,20,1.00,40,0,3199,Win,86,13,21,18,34,0,,,,,,,,,,,,
+41,164,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Raid,Clayster,3010,25,23,1.09,48,2,5542,Win,65,6,26,26,0,7,,,,,,,,,,,,
+41,164,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Raid,Diamondcon,1330,18,26,0.69,44,-8,3228,Win,47,25,7,3,0,12,,,,,,,,,,,,
+41,164,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Raid,Mack,2960,29,17,1.71,46,12,4621,Win,129,6,13,48,29,33,,,,,,,,,,,,
+42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,Kenny,2060,26,28,0.93,54,-2,4715,Loss,65,13,15,4,33,,,,,,,,,,,,,
+42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,TJHaly,2630,28,29,0.97,57,-1,4633,Loss,73,32,38,3,0,,,,,,,,,,,,,
+42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,Slasher,2430,25,27,0.93,52,-2,4623,Loss,69,17,2,17,33,,,,,,,,,,,,,
+42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,Temp,1725,23,29,0.79,52,-6,4443,Loss,4,3,1,0,0,,,,,,,,,,,,,
+42,165,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Crossroads,Formal,2745,33,25,1.32,58,8,5425,Win,63,14,4,45,0,,,,,,,,,,,,,
+42,165,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Crossroads,Dashy,2230,24,27,0.89,51,-3,4191,Win,51,26,0,25,0,,,,,,,,,,,,,
+42,165,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Crossroads,Envoy,3340,26,23,1.13,49,3,5180,Win,93,6,56,31,0,,,,,,,,,,,,,
+42,165,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Crossroads,Scump,2545,30,27,1.11,57,3,5252,Win,72,29,8,17,18,,,,,,,,,,,,,
+42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,Kenny,880,7,10,0.70,17,-3,1543,Win,,,,,,,0,1,1,1,0.64,140.27,,,,,,
+42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,TJHaly,840,8,7,1.14,15,1,1937,Win,,,,,,,1,2,1,0,0.73,176.09,,,,,,
+42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,Slasher,675,7,9,0.78,16,-2,1833,Win,,,,,,,1,1,0,1,0.64,166.64,,,,,,
+42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,Temp,1100,10,9,1.11,19,1,1760,Win,,,,,,,3,2,1,0,0.91,160,,,,,,
+42,166,Major 1,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Raid,Formal,1300,9,7,1.29,16,2,2127,Loss,,,,,,,2,1,0,0,0.82,193.36,,,,,,
+42,166,Major 1,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Raid,Dashy,565,9,9,1.00,18,0,2302,Loss,,,,,,,0,0,0,0,0.82,209.27,,,,,,
+42,166,Major 1,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Raid,Envoy,975,7,8,0.88,15,-1,1410,Loss,,,,,,,1,3,3,0,0.64,128.18,,,,,,
+42,166,Major 1,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Raid,Scump,775,10,9,1.11,19,1,2046,Loss,,,,,,,3,1,0,0,0.91,186,,,,,,
+42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,Kenny,1600,17,17,1.00,34,0,3354,Loss,,,,,,,,,,,,,1,5,4,12,6,838.5
+42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,TJHaly,1325,16,19,0.84,35,-3,3655,Loss,,,,,,,,,,,,,0,9,3,7,5,913.75
+42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,Slasher,1055,13,18,0.72,31,-5,2258,Loss,,,,,,,,,,,,,0,7,4,6,4,564.5
+42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,Temp,2075,17,16,1.06,33,1,3221,Loss,,,,,,,,,,,,,2,10,6,7,7,805.25
+42,167,Major 1,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Formal,1115,16,16,1.00,32,0,3424,Win,,,,,,,,,,,,,2,7,3,9,8,856
+42,167,Major 1,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Dashy,3705,21,13,1.62,34,8,3586,Win,,,,,,,,,,,,,4,13,10,8,4,896.5
+42,167,Major 1,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Envoy,2265,18,19,0.95,37,-1,3803,Win,,,,,,,,,,,,,5,9,6,9,7,950.75
+42,167,Major 1,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Scump,1450,15,15,1.00,30,0,2429,Win,,,,,,,,,,,,,3,7,5,8,4,607.25
+42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,Kenny,1545,17,19,0.89,36,-2,3177,Loss,61,29,14,0,0,18,,,,,,,,,,,,
+42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,TJHaly,1615,18,21,0.86,39,-3,2989,Loss,72,22,13,37,0,0,,,,,,,,,,,,
+42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,Slasher,1500,16,19,0.84,35,-3,2597,Loss,85,31,19,19,0,16,,,,,,,,,,,,
+42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,Temp,1270,10,17,0.59,27,-7,2765,Loss,25,2,6,17,0,0,,,,,,,,,,,,
+42,168,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Raid,Formal,3290,22,15,1.47,37,7,3423,Win,95,19,45,0,2,29,,,,,,,,,,,,
+42,168,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Raid,Dashy,2335,16,16,1.00,32,0,3837,Win,93,22,10,25,36,0,,,,,,,,,,,,
+42,168,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Raid,Envoy,1950,17,16,1.06,33,1,3091,Win,91,11,8,25,47,0,,,,,,,,,,,,
+42,168,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Raid,Scump,1880,21,14,1.50,35,7,3444,Win,71,7,30,19,11,4,,,,,,,,,,,,
+43,169,Major 1,OpTic Chicago,New York Subliners,Hardpoint,Crossroads,Formal,2285,18,17,1.06,35,1,3391,Loss,35,3,0,32,0,,,,,,,,,,,,,
+43,169,Major 1,OpTic Chicago,New York Subliners,Hardpoint,Crossroads,Dashy,2100,32,24,1.33,56,8,4998,Loss,20,0,0,9,11,,,,,,,,,,,,,
+43,169,Major 1,OpTic Chicago,New York Subliners,Hardpoint,Crossroads,Envoy,2460,20,24,0.83,44,-4,4280,Loss,48,7,21,5,15,,,,,,,,,,,,,
+43,169,Major 1,OpTic Chicago,New York Subliners,Hardpoint,Crossroads,Scump,1965,25,26,0.96,51,-1,3961,Loss,65,10,13,7,35,,,,,,,,,,,,,
+43,169,Major 1,New York Subliners,OpTic Chicago,Hardpoint,Crossroads,Asim,1815,21,27,0.78,48,-6,4375,Win,74,32,3,19,20,,,,,,,,,,,,,
+43,169,Major 1,New York Subliners,OpTic Chicago,Hardpoint,Crossroads,Clayster,2220,23,24,0.96,47,-1,4688,Win,78,25,27,26,0,,,,,,,,,,,,,
+43,169,Major 1,New York Subliners,OpTic Chicago,Hardpoint,Crossroads,Diamondcon,2790,27,21,1.29,48,6,4362,Win,45,30,0,13,2,,,,,,,,,,,,,
+43,169,Major 1,New York Subliners,OpTic Chicago,Hardpoint,Crossroads,Mack,2115,20,23,0.87,43,-3,3650,Win,112,43,34,22,13,,,,,,,,,,,,,
+43,170,Major 1,OpTic Chicago,New York Subliners,Search and Destroy,Garrison,Formal,0,0,6,0.00,6,-6,426,Loss,,,,,,,0,0,0,0,0,60.86,,,,,,
+43,170,Major 1,OpTic Chicago,New York Subliners,Search and Destroy,Garrison,Dashy,225,2,6,0.33,8,-4,723,Loss,,,,,,,1,1,0,0,0.29,103.29,,,,,,
+43,170,Major 1,OpTic Chicago,New York Subliners,Search and Destroy,Garrison,Envoy,540,5,6,0.83,11,-1,924,Loss,,,,,,,2,1,0,0,0.71,132,,,,,,
+43,170,Major 1,OpTic Chicago,New York Subliners,Search and Destroy,Garrison,Scump,375,5,6,0.83,11,-1,1124,Loss,,,,,,,1,1,0,0,0.71,160.57,,,,,,
+43,170,Major 1,New York Subliners,OpTic Chicago,Search and Destroy,Garrison,Asim,600,4,4,1.00,8,0,702,Win,,,,,,,0,3,1,0,0.57,100.29,,,,,,
+43,170,Major 1,New York Subliners,OpTic Chicago,Search and Destroy,Garrison,Clayster,525,6,4,1.50,10,2,1398,Win,,,,,,,1,1,0,0,0.86,199.71,,,,,,
+43,170,Major 1,New York Subliners,OpTic Chicago,Search and Destroy,Garrison,Diamondcon,1400,9,1,9.00,10,8,1305,Win,,,,,,,2,0,0,0,1.29,186.43,,,,,,
+43,170,Major 1,New York Subliners,OpTic Chicago,Search and Destroy,Garrison,Mack,725,5,3,1.67,8,2,965,Win,,,,,,,0,0,2,0,0.71,137.86,,,,,,
+43,171,Major 1,OpTic Chicago,New York Subliners,Control,Checkmate,Formal,1980,20,22,0.91,42,-2,4027,Loss,,,,,,,,,,,,,2,8,4,12,11,1006.75
+43,171,Major 1,OpTic Chicago,New York Subliners,Control,Checkmate,Dashy,2330,17,21,0.81,38,-4,3540,Loss,,,,,,,,,,,,,3,7,3,10,7,885
+43,171,Major 1,OpTic Chicago,New York Subliners,Control,Checkmate,Envoy,3885,21,28,0.75,49,-7,4593,Loss,,,,,,,,,,,,,4,12,8,9,7,1148.25
+43,171,Major 1,OpTic Chicago,New York Subliners,Control,Checkmate,Scump,3015,26,22,1.18,48,4,4656,Loss,,,,,,,,,,,,,2,10,4,16,13,1164
+43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Asim,2630,20,24,0.83,44,-4,3764,Win,,,,,,,,,,,,,3,12,5,8,1,941
+43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Clayster,4355,26,21,1.24,47,5,5377,Win,,,,,,,,,,,,,8,14,10,12,9,1344.25
+43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Diamondcon,3425,23,23,1.00,46,0,4806,Win,,,,,,,,,,,,,7,8,3,15,9,1201.5
+43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Mack,4475,24,16,1.50,40,8,4155,Win,,,,,,,,,,,,,7,13,8,11,5,1038.75
