@@ -1367,3 +1367,107 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Clayster,4355,26,21,1.24,47,5,5377,Win,,,,,,,,,,,,,8,14,10,12,9,1344.25
 43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Diamondcon,3425,23,23,1.00,46,0,4806,Win,,,,,,,,,,,,,7,8,3,15,9,1201.5
 43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Mack,4475,24,16,1.50,40,8,4155,Win,,,,,,,,,,,,,7,13,8,11,5,1038.75
+44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,Shotzzy,3575,30,29,1.03,59,1,5358,Loss,80,20,21,11,28,,,,,,,,,,,,,
+44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,Crimsix,2140,24,28,0.86,52,-4,4004,Loss,10,4,0,6,0,,,,,,,,,,,,,
+44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,iLLey,1975,28,28,1.00,56,0,5412,Loss,2,0,2,0,0,,,,,,,,,,,,,
+44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,Huke,1890,23,29,0.79,52,-6,4547,Loss,53,15,9,16,13,,,,,,,,,,,,,
+44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Arcitys,2190,27,31,0.87,58,-4,5660,Win,49,18,15,1,15,,,,,,,,,,,,,
+44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Cellium,2250,29,29,1.00,58,0,5027,Win,22,4,4,14,0,,,,,,,,,,,,,
+44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Simp,4060,32,23,1.39,55,9,5581,Win,54,21,3,30,0,,,,,,,,,,,,,
+44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Abezy,2345,25,22,1.14,47,3,4098,Win,158,35,58,43,22,,,,,,,,,,,,,
+44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,Shotzzy,350,2,6,0.33,8,-4,523,Loss,,,,,,,0,1,2,0,0.25,65.38,,,,,,
+44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,Crimsix,625,7,6,1.17,13,1,1451,Loss,,,,,,,1,1,0,1,0.88,181.38,,,,,,
+44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,iLLey,200,2,7,0.29,9,-5,657,Loss,,,,,,,0,2,1,0,0.25,82.13,,,,,,
+44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,Huke,150,3,7,0.43,10,-4,677,Loss,,,,,,,1,2,0,0,0.38,84.63,,,,,,
+44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Arcitys,500,3,3,1.00,6,0,661,Win,,,,,,,0,0,1,1,0.38,82.63,,,,,,
+44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Cellium,225,2,3,0.67,5,-1,569,Win,,,,,,,0,0,0,0,0.25,71.13,,,,,,
+44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Simp,925,7,4,1.75,11,3,1485,Win,,,,,,,1,2,1,1,0.88,185.63,,,,,,
+44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Abezy,2200,14,4,3.50,18,10,1852,Win,,,,,,,5,0,1,0,1.75,231.5,,,,,,
+44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,1625,16,21,0.76,37,-5,2601,Loss,,,,,,,,,,,,,2,7,2,9,5,867
+44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Crimsix,1655,18,21,0.86,39,-3,4200,Loss,,,,,,,,,,,,,1,6,3,12,10,1400
+44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,iLLey,1125,16,21,0.76,37,-5,3428,Loss,,,,,,,,,,,,,1,6,4,10,6,1142.67
+44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Huke,1800,16,21,0.76,37,-5,2862,Loss,,,,,,,,,,,,,3,4,1,12,11,954
+44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2550,21,17,1.24,38,4,3977,Win,,,,,,,,,,,,,5,15,10,6,4,1325.67
+44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Cellium,2750,15,13,1.15,28,2,3395,Win,,,,,,,,,,,,,8,10,4,5,3,1131.67
+44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,3400,22,13,1.69,35,9,3617,Win,,,,,,,,,,,,,7,14,9,8,3,1205.67
+44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Abezy,3000,26,23,1.13,49,3,4802,Win,,,,,,,,,,,,,7,16,9,10,4,1600.67
+45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,Shotzzy,2330,24,31,0.77,55,-7,4541,Win,77,14,52,11,0,,,,,,,,,,,,,
+45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,Crimsix,3880,38,27,1.41,65,11,6332,Win,84,18,12,20,34,,,,,,,,,,,,,
+45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,iLLey,3895,31,25,1.24,56,6,5642,Win,76,31,32,13,0,,,,,,,,,,,,,
+45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,Huke,4070,40,32,1.25,72,8,6024,Win,32,3,23,5,1,,,,,,,,,,,,,
+45,175,Major 1,New York Subliners,Dallas Empire,Hardpoint,Crossroads,Asim,2350,29,36,0.81,65,-7,5107,Loss,41,9,5,27,0,,,,,,,,,,,,,
+45,175,Major 1,New York Subliners,Dallas Empire,Hardpoint,Crossroads,Clayster,2520,35,31,1.13,66,4,5710,Loss,27,0,7,13,7,,,,,,,,,,,,,
+45,175,Major 1,New York Subliners,Dallas Empire,Hardpoint,Crossroads,Diamondcon,1920,23,32,0.72,55,-9,4886,Loss,74,44,3,10,17,,,,,,,,,,,,,
+45,175,Major 1,New York Subliners,Dallas Empire,Hardpoint,Crossroads,Mack,2395,28,34,0.82,62,-6,5588,Loss,103,13,5,73,12,,,,,,,,,,,,,
+45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Shotzzy,615,4,9,0.44,13,-5,1188,Win,,,,,,,1,2,1,0,0.36,108,,,,,,
+45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Crimsix,1650,12,6,2.00,18,6,2013,Win,,,,,,,2,0,0,0,1.09,183,,,,,,
+45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,iLLey,830,8,9,0.89,17,-1,1533,Win,,,,,,,1,0,1,1,0.73,139.36,,,,,,
+45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Huke,920,11,9,1.22,20,2,2287,Win,,,,,,,3,2,0,0,1,207.91,,,,,,
+45,176,Major 1,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Asim,775,7,8,0.88,15,-1,1783,Loss,,,,,,,0,2,0,1,0.64,162.09,,,,,,
+45,176,Major 1,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Clayster,1700,11,8,1.38,19,3,2475,Loss,,,,,,,1,2,0,0,1,225,,,,,,
+45,176,Major 1,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Diamondcon,650,6,9,0.67,15,-3,1425,Loss,,,,,,,0,1,1,0,0.55,129.55,,,,,,
+45,176,Major 1,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Mack,675,9,10,0.90,19,-1,1643,Loss,,,,,,,3,2,0,0,0.82,149.36,,,,,,
+45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,Shotzzy,4195,33,24,1.38,57,9,5257,Win,,,,,,,,,,,,,1,14,11,19,12,1051.4
+45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,Crimsix,3080,28,26,1.08,54,2,6090,Win,,,,,,,,,,,,,3,11,7,17,5,1218
+45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,iLLey,3525,29,26,1.12,55,3,5160,Win,,,,,,,,,,,,,3,8,4,21,15,1032
+45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,Huke,2190,29,26,1.12,55,3,5347,Win,,,,,,,,,,,,,1,8,2,21,16,1069.4
+45,177,Major 1,New York Subliners,Dallas Empire,Control,Checkmate,Asim,2790,26,32,0.81,58,-6,5481,Loss,,,,,,,,,,,,,3,14,8,12,6,1096.2
+45,177,Major 1,New York Subliners,Dallas Empire,Control,Checkmate,Clayster,3825,24,32,0.75,56,-8,5707,Loss,,,,,,,,,,,,,4,15,11,9,5,1141.4
+45,177,Major 1,New York Subliners,Dallas Empire,Control,Checkmate,Diamondcon,2000,17,29,0.59,46,-12,2711,Loss,,,,,,,,,,,,,5,10,6,7,4,542.2
+45,177,Major 1,New York Subliners,Dallas Empire,Control,Checkmate,Mack,4025,35,26,1.35,61,9,6479,Loss,,,,,,,,,,,,,4,22,17,13,8,1295.8
+46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Arcitys,2570,24,20,1.20,44,4,3887,Win,79,27,45,0,7,,,,,,,,,,,,,
+46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Cellium,2245,23,21,1.10,44,2,4306,Win,98,31,10,39,18,,,,,,,,,,,,,
+46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Simp,2100,21,18,1.17,39,3,4286,Win,51,15,3,7,26,,,,,,,,,,,,,
+46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Abezy,2095,17,20,0.85,37,-3,4192,Win,55,28,2,5,20,,,,,,,,,,,,,
+46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Shotzzy,2240,24,19,1.26,43,5,4279,Loss,36,23,3,4,6,,,,,,,,,,,,,
+46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Crimsix,1805,21,21,1.00,42,0,4285,Loss,71,12,20,39,0,,,,,,,,,,,,,
+46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,iLLey,2010,21,20,1.05,41,1,3903,Loss,47,0,36,9,2,,,,,,,,,,,,,
+46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Huke,1375,13,25,0.52,38,-12,3046,Loss,47,0,35,0,12,,,,,,,,,,,,,
+46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Arcitys,1075,7,4,1.75,11,3,1550,Win,,,,,,,1,1,1,2,0.78,172.22,,,,,,
+46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Cellium,1375,11,4,2.75,15,7,2135,Win,,,,,,,1,0,0,1,1.22,237.22,,,,,,
+46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Simp,740,9,7,1.29,16,2,1668,Win,,,,,,,0,0,0,0,1,185.33,,,,,,
+46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Abezy,175,3,8,0.38,11,-5,1150,Win,,,,,,,2,4,0,0,0.33,127.78,,,,,,
+46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,Shotzzy,1250,11,6,1.83,17,5,2053,Loss,,,,,,,3,1,3,0,1.22,228.11,,,,,,
+46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,Crimsix,440,5,9,0.56,14,-4,1875,Loss,,,,,,,1,0,0,0,0.56,208.33,,,,,,
+46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,iLLey,450,4,7,0.57,11,-3,1454,Loss,,,,,,,0,2,0,0,0.44,161.56,,,,,,
+46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,Huke,350,3,8,0.38,11,-5,1124,Loss,,,,,,,1,1,0,0,0.33,124.89,,,,,,
+46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Arcitys,1625,10,9,1.11,19,1,1782,Win,,,,,,,,,,,,,4,7,5,3,0,445.5
+46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Cellium,3350,17,5,3.40,22,12,2976,Win,,,,,,,,,,,,,4,6,6,11,4,744
+46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Simp,2215,15,9,1.67,24,6,2648,Win,,,,,,,,,,,,,3,7,4,8,3,662
+46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Abezy,2450,15,9,1.67,24,6,2662,Win,,,,,,,,,,,,,2,5,2,10,2,665.5
+46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,Shotzzy,950,13,13,1.00,26,0,2415,Loss,,,,,,,,,,,,,0,7,2,6,3,603.75
+46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,Crimsix,675,7,14,0.50,21,-7,2329,Loss,,,,,,,,,,,,,0,3,2,4,1,582.25
+46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,iLLey,425,5,15,0.33,20,-10,1505,Loss,,,,,,,,,,,,,0,2,1,3,0,376.25
+46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,Huke,375,7,15,0.47,22,-8,1767,Loss,,,,,,,,,,,,,0,2,0,5,2,441.75
+46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Arcitys,2220,16,23,0.70,39,-7,3261,Loss,18,3,0,3,6,6,,,,,,,,,,,,
+46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Cellium,1995,21,24,0.88,45,-3,4428,Loss,46,15,7,1,23,0,,,,,,,,,,,,
+46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Simp,1175,13,24,0.54,37,-11,3014,Loss,25,2,2,0,20,1,,,,,,,,,,,,
+46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Abezy,1625,21,25,0.84,46,-4,3557,Loss,33,11,0,11,9,2,,,,,,,,,,,,
+46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Shotzzy,2060,21,19,1.11,40,2,4221,Win,76,10,49,0,1,16,,,,,,,,,,,,
+46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Crimsix,2185,24,19,1.26,43,5,4638,Win,49,7,17,12,13,0,,,,,,,,,,,,
+46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,iLLey,2635,22,18,1.22,40,4,3974,Win,102,0,39,61,2,0,,,,,,,,,,,,
+46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Huke,3325,29,15,1.93,44,14,4463,Win,52,26,0,1,25,0,,,,,,,,,,,,
+46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Arcitys,440,3,3,1.00,6,0,778,Win,,,,,,,0,0,0,0,0.43,111.14,,,,,,
+46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Cellium,550,7,5,1.40,12,2,1427,Win,,,,,,,1,0,0,0,1,203.86,,,,,,
+46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Simp,1450,9,3,3.00,12,6,1331,Win,,,,,,,3,0,1,0,1.29,190.14,,,,,,
+46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Abezy,1150,7,4,1.75,11,3,1158,Win,,,,,,,3,0,0,1,1,165.43,,,,,,
+46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Shotzzy,415,1,7,0.14,8,-6,659,Loss,,,,,,,0,2,2,0,0.14,94.14,,,,,,
+46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Crimsix,150,3,6,0.50,9,-3,886,Loss,,,,,,,0,1,0,0,0.43,126.57,,,,,,
+46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,iLLey,475,7,7,1.00,14,0,1047,Loss,,,,,,,0,2,0,0,1,149.57,,,,,,
+46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Huke,415,4,6,0.67,10,-2,976,Loss,,,,,,,0,2,0,0,0.57,139.43,,,,,,
+46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2125,15,19,0.79,34,-4,3286,Loss,,,,,,,,,,,,,5,10,3,5,3,1095.33
+46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Cellium,2390,15,15,1.00,30,0,2500,Loss,,,,,,,,,,,,,6,12,7,3,1,833.33
+46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,2790,17,17,1.00,34,0,3012,Loss,,,,,,,,,,,,,4,15,4,2,0,1004
+46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Abezy,1200,14,22,0.64,36,-8,3323,Loss,,,,,,,,,,,,,2,10,2,4,0,1107.67
+46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,1375,14,19,0.74,33,-5,2738,Win,,,,,,,,,,,,,3,1,0,13,4,912.67
+46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Crimsix,1275,17,12,1.42,29,5,3248,Win,,,,,,,,,,,,,2,6,1,11,4,1082.67
+46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,iLLey,2550,22,16,1.38,38,6,4174,Win,,,,,,,,,,,,,5,6,3,16,2,1391.33
+46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Huke,3050,20,14,1.43,34,6,3398,Win,,,,,,,,,,,,,4,8,6,12,1,1132.67
+46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Arcitys,700,3,4,0.75,7,-1,219,Win,,,,,,,0,1,3,0,0.38,27.38,,,,,,
+46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Cellium,300,2,3,0.67,5,-1,623,Win,,,,,,,1,0,0,0,0.25,77.88,,,,,,
+46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Simp,2100,12,3,4.00,15,9,1852,Win,,,,,,,1,0,0,0,1.5,231.5,,,,,,
+46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Abezy,475,8,7,1.14,15,1,1834,Win,,,,,,,3,2,0,0,1,229.25,,,,,,
+46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Shotzzy,355,3,7,0.43,10,-4,696,Loss,,,,,,,2,2,0,0,0.38,87,,,,,,
+46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Crimsix,640,8,6,1.33,14,2,1596,Loss,,,,,,,0,0,1,0,1,199.5,,,,,,
+46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,iLLey,375,3,5,0.60,8,-2,1002,Loss,,,,,,,0,1,0,0,0.38,125.25,,,,,,
+46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Huke,200,2,7,0.29,9,-5,470,Loss,,,,,,,1,2,0,0,0.25,58.75,,,,,,
