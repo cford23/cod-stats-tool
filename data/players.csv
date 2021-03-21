@@ -1599,3 +1599,99 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 50,200,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Classic,2565,13,10,1.30,23,3,2160,Win,,,,,,,,,,,,,7,9,4,4,4,720
 50,200,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Aqua,3275,16,10,1.60,26,6,3493,Win,,,,,,,,,,,,,7,9,5,7,6,1164.33
 50,200,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Fire,2940,19,13,1.46,32,6,3040,Win,,,,,,,,,,,,,8,12,4,7,3,1013.33
+51,201,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Checkmate,Formal,2980,23,16,1.44,39,7,4774,Win,82,0,0,35,10,37,,,,,,,,,,,,
+51,201,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Checkmate,Dashy,2555,20,18,1.11,38,2,4043,Win,154,54,7,0,74,19,,,,,,,,,,,,
+51,201,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Checkmate,Envoy,4565,30,17,1.76,47,13,4663,Win,81,32,7,0,34,8,,,,,,,,,,,,
+51,201,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Checkmate,Scump,1435,16,23,0.70,39,-7,3714,Win,51,47,0,4,0,0,,,,,,,,,,,,
+51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,Skrapz,1660,19,25,0.76,44,-6,4494,Loss,14,2,6,6,0,0,,,,,,,,,,,,
+51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,Classic,1565,20,22,0.91,42,-2,3566,Loss,40,0,14,12,11,3,,,,,,,,,,,,
+51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,Aqua,3365,24,22,1.09,46,2,4614,Loss,50,6,29,0,15,0,,,,,,,,,,,,
+51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,Fire,1675,11,20,0.55,31,-9,2632,Loss,107,4,56,34,13,0,,,,,,,,,,,,
+51,202,Stage 2 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Express,Formal,500,5,7,0.71,12,-2,1355,Loss,,,,,,,1,0,0,0,0.5,135.5,,,,,,
+51,202,Stage 2 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Express,Dashy,840,9,7,1.29,16,2,1776,Loss,,,,,,,0,2,0,1,0.9,177.6,,,,,,
+51,202,Stage 2 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Express,Envoy,500,3,8,0.38,11,-5,1037,Loss,,,,,,,1,5,2,0,0.3,103.7,,,,,,
+51,202,Stage 2 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Express,Scump,490,6,8,0.75,14,-2,773,Loss,,,,,,,1,0,0,0,0.6,77.3,,,,,,
+51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,Skrapz,265,4,5,0.80,9,-1,1159,Win,,,,,,,1,1,0,0,0.4,115.9,,,,,,
+51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,Classic,1550,10,6,1.67,16,4,1701,Win,,,,,,,3,0,2,0,1,170.1,,,,,,
+51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,Aqua,650,6,6,1.00,12,0,2049,Win,,,,,,,0,1,0,1,0.6,204.9,,,,,,
+51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,Fire,1290,10,6,1.67,16,4,1406,Win,,,,,,,3,1,0,0,1,140.6,,,,,,
+51,203,Stage 2 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Formal,2855,17,13,1.31,30,4,3440,Win,,,,,,,,,,,,,6,4,3,13,10,1146.67
+51,203,Stage 2 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Dashy,3430,27,17,1.59,44,10,5051,Win,,,,,,,,,,,,,4,10,4,17,7,1683.67
+51,203,Stage 2 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Envoy,2295,14,18,0.78,32,-4,3669,Win,,,,,,,,,,,,,4,3,1,11,3,1223
+51,203,Stage 2 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Scump,2275,18,18,1.00,36,0,2879,Win,,,,,,,,,,,,,5,8,1,10,4,959.67
+51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Skrapz,4015,20,17,1.18,37,3,3769,Loss,,,,,,,,,,,,,8,15,8,5,2,1256.33
+51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Classic,1965,21,19,1.11,40,2,3516,Loss,,,,,,,,,,,,,3,15,7,6,4,1172
+51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Aqua,1600,15,19,0.79,34,-4,3329,Loss,,,,,,,,,,,,,3,9,4,6,1,1109.67
+51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Fire,2125,10,21,0.48,31,-11,2706,Loss,,,,,,,,,,,,,6,7,3,3,2,902
+51,204,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Apocalypse,Formal,2210,23,21,1.10,44,2,5219,Win,61,7,11,2,34,7,,,,,,,,,,,,
+51,204,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Apocalypse,Dashy,1960,19,25,0.76,44,-6,4451,Win,30,3,17,0,6,4,,,,,,,,,,,,
+51,204,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Apocalypse,Envoy,3055,31,23,1.35,54,8,5396,Win,109,53,23,6,25,2,,,,,,,,,,,,
+51,204,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Apocalypse,Scump,1865,24,21,1.14,45,3,4344,Win,73,10,36,0,16,11,,,,,,,,,,,,
+51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,Skrapz,3175,24,22,1.09,46,2,4342,Loss,105,18,31,20,0,36,,,,,,,,,,,,
+51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,Classic,1615,21,25,0.84,46,-4,4623,Loss,54,5,1,0,19,29,,,,,,,,,,,,
+51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,Aqua,2015,22,24,0.92,46,-2,4038,Loss,57,5,3,34,8,7,,,,,,,,,,,,
+51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,Fire,2550,23,26,0.88,49,-3,4164,Loss,59,0,0,31,0,28,,,,,,,,,,,,
+52,205,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Checkmate,Owakening,2680,29,24,1.21,53,5,6078,Win,67,10,22,0,13,22,,,,,,,,,,,,
+52,205,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Checkmate,Skyz,3050,32,20,1.60,52,12,5370,Win,53,14,3,17,19,0,,,,,,,,,,,,
+52,205,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Checkmate,Slacked,1725,20,23,0.87,43,-3,4005,Win,56,17,5,32,2,0,,,,,,,,,,,,
+52,205,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Checkmate,Neptune,2240,18,24,0.75,42,-6,4240,Win,138,16,19,51,28,24,,,,,,,,,,,,
+52,205,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Checkmate,Accuracy,1960,20,25,0.80,45,-5,4482,Loss,74,27,2,2,31,12,,,,,,,,,,,,
+52,205,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Checkmate,Attach,2510,27,23,1.17,50,4,4739,Loss,31,22,3,3,3,0,,,,,,,,,,,,
+52,205,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Checkmate,MajorManiak,2240,24,26,0.92,50,-2,4635,Loss,45,25,12,0,5,3,,,,,,,,,,,,
+52,205,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Checkmate,Priestahh,2475,20,25,0.80,45,-5,4000,Loss,123,7,46,0,26,44,,,,,,,,,,,,
+52,206,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Search and Destroy,Express,Owakening,540,5,9,0.56,14,-4,1268,Win,,,,,,,3,2,0,1,0.45,115.27,,,,,,
+52,206,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Search and Destroy,Express,Skyz,965,12,7,1.71,19,5,2015,Win,,,,,,,1,1,0,0,1.09,183.18,,,,,,
+52,206,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Search and Destroy,Express,Slacked,615,6,8,0.75,14,-2,1127,Win,,,,,,,1,1,2,0,0.55,102.45,,,,,,
+52,206,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Search and Destroy,Express,Neptune,2050,12,8,1.50,20,4,1873,Win,,,,,,,1,1,1,0,1.09,170.27,,,,,,
+52,206,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Search and Destroy,Express,Accuracy,565,7,8,0.88,15,-1,1514,Loss,,,,,,,1,0,0,0,0.64,137.64,,,,,,
+52,206,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Search and Destroy,Express,Attach,1575,12,8,1.50,20,4,2448,Loss,,,,,,,3,1,1,0,1.09,222.55,,,,,,
+52,206,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Search and Destroy,Express,MajorManiak,1725,8,9,0.89,17,-1,1509,Loss,,,,,,,1,2,1,1,0.73,137.18,,,,,,
+52,206,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Search and Destroy,Express,Priestahh,400,5,10,0.50,15,-5,1149,Loss,,,,,,,0,3,0,0,0.45,104.45,,,,,,
+52,207,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Control,Checkmate,Owakening,1805,17,24,0.71,41,-7,3614,Win,,,,,,,,,,,,,3,8,7,9,9,903.5
+52,207,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Control,Checkmate,Skyz,3505,22,20,1.10,42,2,4138,Win,,,,,,,,,,,,,4,13,8,9,6,1034.5
+52,207,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Control,Checkmate,Slacked,4255,23,12,1.92,35,11,4074,Win,,,,,,,,,,,,,7,10,9,13,7,1018.5
+52,207,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Control,Checkmate,Neptune,3450,27,19,1.42,46,8,4932,Win,,,,,,,,,,,,,5,10,8,17,11,1233
+52,207,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Checkmate,Accuracy,2770,24,23,1.04,47,1,5048,Loss,,,,,,,,,,,,,2,17,13,7,6,1262
+52,207,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Checkmate,Attach,1600,15,22,0.68,37,-7,4108,Loss,,,,,,,,,,,,,4,5,3,10,8,1027
+52,207,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Checkmate,MajorManiak,2440,17,20,0.85,37,-3,3068,Loss,,,,,,,,,,,,,4,7,4,10,11,767
+52,207,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Checkmate,Priestahh,1600,18,24,0.75,42,-6,3041,Loss,,,,,,,,,,,,,2,11,8,7,6,760.25
+53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,Shotzzy,2795,21,17,1.24,38,4,4221,Win,63,34,28,0,1,,,,,,,,,,,,,
+53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,Crimsix,2805,22,15,1.47,37,7,3695,Win,70,27,28,1,14,,,,,,,,,,,,,
+53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,iLLey,2550,20,18,1.11,38,2,3714,Win,88,9,15,57,7,,,,,,,,,,,,,
+53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,Huke,4160,22,10,2.20,32,12,3211,Win,46,27,18,0,1,,,,,,,,,,,,,
+53,208,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Moscow,Octane,1145,12,20,0.60,32,-8,2920,Loss,38,15,12,11,0,,,,,,,,,,,,,
+53,208,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Moscow,Prestinni,2255,23,18,1.28,41,5,3775,Loss,57,12,0,18,27,,,,,,,,,,,,,
+53,208,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Moscow,Loony,910,10,23,0.43,33,-13,2286,Loss,30,3,11,14,2,,,,,,,,,,,,,
+53,208,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Moscow,Gunless,1295,15,24,0.63,39,-9,3947,Loss,43,16,21,0,6,,,,,,,,,,,,,
+53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,Shotzzy,475,4,7,0.57,11,-3,776,Win,,,,,,,1,1,1,0,0.36,70.55,,,,,,
+53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,Crimsix,665,9,8,1.13,17,1,2072,Win,,,,,,,1,1,0,0,0.82,188.36,,,,,,
+53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,iLLey,975,12,9,1.33,21,3,2078,Win,,,,,,,3,3,0,0,1.09,188.91,,,,,,
+53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,Huke,630,7,7,1.00,14,0,1614,Win,,,,,,,0,1,0,0,0.64,146.73,,,,,,
+53,209,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Checkmate,Octane,1165,12,7,1.71,19,5,2461,Loss,,,,,,,2,0,1,0,1.09,223.73,,,,,,
+53,209,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Checkmate,Prestinni,1150,8,8,1.00,16,0,1162,Loss,,,,,,,2,2,0,0,0.73,105.64,,,,,,
+53,209,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Checkmate,Loony,390,4,8,0.50,12,-4,912,Loss,,,,,,,0,2,0,0,0.36,82.91,,,,,,
+53,209,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Checkmate,Gunless,490,7,9,0.78,16,-2,1487,Loss,,,,,,,2,1,0,0,0.64,135.18,,,,,,
+53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Shotzzy,2315,21,21,1.00,42,0,3712,Loss,,,,,,,,,,,,,4,12,8,9,8,742.4
+53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Crimsix,1825,14,91,0.15,105,-77,3531,Loss,,,,,,,,,,,,,4,9,8,5,2,706.2
+53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,iLLey,3050,23,22,1.05,45,1,5366,Loss,,,,,,,,,,,,,3,13,7,10,6,1073.2
+53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Huke,1550,13,23,0.57,36,-10,3015,Loss,,,,,,,,,,,,,4,6,2,7,3,603
+53,210,Stage 2 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Octane,2150,21,17,1.24,38,4,4014,Win,,,,,,,,,,,,,2,7,6,14,10,802.8
+53,210,Stage 2 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Prestinni,3150,23,20,1.15,43,3,3570,Win,,,,,,,,,,,,,6,9,3,14,8,714
+53,210,Stage 2 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Loony,2380,17,16,1.06,33,1,3857,Win,,,,,,,,,,,,,4,9,6,8,6,771.4
+53,210,Stage 2 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Gunless,2975,24,18,1.33,42,6,4677,Win,,,,,,,,,,,,,3,6,2,18,8,935.4
+53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,Shotzzy,1425,14,17,0.82,31,-3,2287,Loss,36,0,9,14,0,13,,,,,,,,,,,,
+53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,Crimsix,1395,14,21,0.67,35,-7,3548,Loss,32,0,24,8,0,0,,,,,,,,,,,,
+53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,iLLey,1970,19,18,1.06,37,1,3391,Loss,56,3,21,1,31,0,,,,,,,,,,,,
+53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,Huke,1950,12,21,0.57,33,-9,2468,Loss,51,32,9,7,3,0,,,,,,,,,,,,
+53,211,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Raid,Octane,3025,20,11,1.82,31,9,2967,Win,145,21,27,48,31,18,,,,,,,,,,,,
+53,211,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Raid,Prestinni,1700,18,18,1.00,36,0,3540,Win,95,47,27,18,0,3,,,,,,,,,,,,
+53,211,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Raid,Loony,2635,17,13,1.31,30,4,2925,Win,102,18,14,27,22,21,,,,,,,,,,,,
+53,211,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Raid,Gunless,3890,22,17,1.29,39,5,4136,Win,72,4,20,30,12,6,,,,,,,,,,,,
+53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,Shotzzy,1000,9,9,1.00,18,0,1839,Win,,,,,,,0,0,3,0,0.82,167.18,,,,,,
+53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,Crimsix,2375,15,8,1.88,23,7,2474,Win,,,,,,,1,1,1,0,1.36,224.91,,,,,,
+53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,iLLey,280,3,9,0.33,12,-6,1186,Win,,,,,,,0,2,0,0,0.27,107.82,,,,,,
+53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,Huke,565,6,7,0.86,13,-1,1210,Win,,,,,,,2,4,0,2,0.55,110,,,,,,
+53,212,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Express,Octane,2915,14,7,2.00,21,7,2260,Loss,,,,,,,0,1,0,2,1.27,205.45,,,,,,
+53,212,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Express,Prestinni,590,6,9,0.67,15,-3,1355,Loss,,,,,,,2,1,0,0,0.55,123.18,,,,,,
+53,212,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Express,Loony,850,7,9,0.78,16,-2,1687,Loss,,,,,,,4,0,2,1,0.64,153.36,,,,,,
+53,212,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Express,Gunless,450,6,8,0.75,14,-2,1141,Loss,,,,,,,1,1,0,0,0.55,103.73,,,,,,
