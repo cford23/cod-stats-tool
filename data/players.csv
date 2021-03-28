@@ -1903,3 +1903,99 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 60,238,Stage 2 Week 2,Los Angeles Guerrillas,New York Subliners,Hardpoint,Garrison,Assault,3505,32,26,1.23,58,6,4843,Loss,34,0,5,2,11,16,,,,,,,,,,,,
 60,238,Stage 2 Week 2,Los Angeles Guerrillas,New York Subliners,Hardpoint,Garrison,Silly,2445,31,29,1.07,60,2,5295,Loss,47,10,14,3,0,20,,,,,,,,,,,,
 60,238,Stage 2 Week 2,Los Angeles Guerrillas,New York Subliners,Hardpoint,Garrison,Apathy,2415,23,26,0.88,49,-3,4903,Loss,78,28,2,24,4,20,,,,,,,,,,,,
+61,239,Stage 2 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Checkmate,PaulEhx,3175,29,25,1.16,54,4,5839,Loss,74,23,20,23,8,0,,,,,,,,,,,,
+61,239,Stage 2 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Checkmate,Dylan,3140,30,31,0.97,61,-1,5414,Loss,86,22,48,10,4,2,,,,,,,,,,,,
+61,239,Stage 2 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Checkmate,Seany,2825,30,24,1.25,54,6,4823,Loss,53,1,12,13,6,21,,,,,,,,,,,,
+61,239,Stage 2 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Checkmate,Zed,1850,24,31,0.77,55,-7,3285,Loss,53,19,15,18,0,1,,,,,,,,,,,,
+61,239,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Checkmate,Asim,3445,33,30,1.10,63,3,5297,Win,79,11,0,1,38,29,,,,,,,,,,,,
+61,239,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Checkmate,Clayster,2305,27,31,0.87,58,-4,5828,Win,41,14,0,3,9,15,,,,,,,,,,,,
+61,239,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Checkmate,Diamondcon,2275,25,27,0.93,52,-2,4918,Win,80,0,27,10,39,4,,,,,,,,,,,,
+61,239,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Checkmate,Mack,2455,26,25,1.04,51,1,4644,Win,87,30,8,18,25,6,,,,,,,,,,,,
+61,240,Stage 2 Week 2,London Royal Ravens,New York Subliners,Search and Destroy,Express,PaulEhx,5350,13,7,1.86,20,6,2601,Loss,,,,,,,2,0,1,1,1.18,236.45,,,,,,
+61,240,Stage 2 Week 2,London Royal Ravens,New York Subliners,Search and Destroy,Express,Dylan,510,4,11,0.36,15,-7,1189,Loss,,,,,,,1,7,1,0,0.36,108.09,,,,,,
+61,240,Stage 2 Week 2,London Royal Ravens,New York Subliners,Search and Destroy,Express,Seany,705,5,8,0.63,13,-3,1107,Loss,,,,,,,0,0,0,0,0.45,100.64,,,,,,
+61,240,Stage 2 Week 2,London Royal Ravens,New York Subliners,Search and Destroy,Express,Zed,515,5,7,0.71,12,-2,1125,Loss,,,,,,,0,1,1,0,0.45,102.27,,,,,,
+61,240,Stage 2 Week 2,New York Subliners,London Royal Ravens,Search and Destroy,Express,Asim,1225,9,8,1.13,17,1,2106,Win,,,,,,,5,0,1,0,0.82,191.45,,,,,,
+61,240,Stage 2 Week 2,New York Subliners,London Royal Ravens,Search and Destroy,Express,Clayster,1365,8,5,1.60,13,3,1761,Win,,,,,,,0,0,0,1,0.73,160.09,,,,,,
+61,240,Stage 2 Week 2,New York Subliners,London Royal Ravens,Search and Destroy,Express,Diamondcon,870,9,7,1.29,16,2,1536,Win,,,,,,,1,1,1,0,0.82,139.64,,,,,,
+61,240,Stage 2 Week 2,New York Subliners,London Royal Ravens,Search and Destroy,Express,Mack,840,7,7,1.00,14,0,1181,Win,,,,,,,2,2,1,0,0.64,107.36,,,,,,
+61,241,Stage 2 Week 2,London Royal Ravens,New York Subliners,Control,Checkmate,PaulEhx,6450,41,25,1.64,66,16,7812,Win,,,,,,,,,,,,,7,15,12,26,24,1562.4
+61,241,Stage 2 Week 2,London Royal Ravens,New York Subliners,Control,Checkmate,Dylan,4480,30,37,0.81,67,-7,4416,Win,,,,,,,,,,,,,7,11,10,19,9,883.2
+61,241,Stage 2 Week 2,London Royal Ravens,New York Subliners,Control,Checkmate,Seany,2930,24,26,0.92,50,-2,4771,Win,,,,,,,,,,,,,6,11,4,13,8,954.2
+61,241,Stage 2 Week 2,London Royal Ravens,New York Subliners,Control,Checkmate,Zed,4545,33,26,1.27,59,7,5082,Win,,,,,,,,,,,,,6,14,12,19,13,1016.4
+61,241,Stage 2 Week 2,New York Subliners,London Royal Ravens,Control,Checkmate,Asim,3045,25,34,0.74,59,-9,5182,Loss,,,,,,,,,,,,,4,16,9,9,8,1036.4
+61,241,Stage 2 Week 2,New York Subliners,London Royal Ravens,Control,Checkmate,Clayster,3745,29,32,0.91,61,-3,5967,Loss,,,,,,,,,,,,,2,18,13,11,7,1193.4
+61,241,Stage 2 Week 2,New York Subliners,London Royal Ravens,Control,Checkmate,Diamondcon,3030,28,30,0.93,58,-2,5291,Loss,,,,,,,,,,,,,5,18,9,10,7,1058.2
+61,241,Stage 2 Week 2,New York Subliners,London Royal Ravens,Control,Checkmate,Mack,4645,32,32,1.00,64,0,5970,Loss,,,,,,,,,,,,,6,20,17,12,5,1194
+61,242,Stage 2 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Moscow,PaulEhx,1595,15,27,0.56,42,-12,3880,Loss,91,41,2,40,8,,,,,,,,,,,,,
+61,242,Stage 2 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Moscow,Dylan,3610,32,21,1.52,53,11,5238,Loss,61,30,14,14,3,,,,,,,,,,,,,
+61,242,Stage 2 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Moscow,Seany,1650,19,22,0.86,41,-3,3701,Loss,45,29,5,0,11,,,,,,,,,,,,,
+61,242,Stage 2 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Moscow,Zed,2385,24,25,0.96,49,-1,4252,Loss,78,18,32,0,28,,,,,,,,,,,,,
+61,242,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Moscow,Asim,2020,21,25,0.84,46,-4,4264,Win,35,5,12,3,15,,,,,,,,,,,,,
+61,242,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Moscow,Clayster,3965,29,21,1.38,50,8,5013,Win,97,13,18,57,9,,,,,,,,,,,,,
+61,242,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Moscow,Diamondcon,1810,22,21,1.05,43,1,3622,Win,64,0,28,17,19,,,,,,,,,,,,,
+61,242,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Moscow,Mack,1980,23,23,1.00,46,0,4318,Win,83,17,39,15,12,,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,Kenny,1340,15,27,0.56,42,-12,3716,Loss,49,1,33,4,11,0,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,TJHaly,1885,19,21,0.90,40,-2,3575,Loss,49,4,30,0,9,6,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,Slasher,2255,22,27,0.81,49,-5,4050,Loss,52,16,6,11,12,7,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,Venom,1265,15,23,0.65,38,-8,3034,Loss,42,2,12,3,5,20,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Arcitys,2810,17,15,1.13,32,2,3978,Win,95,1,30,27,34,3,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Cellium,2125,23,18,1.28,41,5,4778,Win,45,21,0,1,8,15,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Simp,3240,28,20,1.40,48,8,4891,Win,58,2,18,28,9,1,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Abezy,2975,30,18,1.67,48,12,4376,Win,79,23,11,36,9,0,,,,,,,,,,,,
+62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Kenny,1300,8,6,1.33,14,2,1616,Loss,,,,,,,1,0,0,0,0.89,179.56,,,,,,
+62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,TJHaly,325,4,8,0.50,12,-4,598,Loss,,,,,,,2,4,0,0,0.44,66.44,,,,,,
+62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Slasher,525,4,6,0.67,10,-2,1637,Loss,,,,,,,0,0,1,1,0.44,181.89,,,,,,
+62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Venom,575,5,6,0.83,11,-1,1276,Loss,,,,,,,1,2,1,0,0.56,141.78,,,,,,
+62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Arcitys,825,6,7,0.86,13,-1,1581,Win,,,,,,,3,1,2,0,0.67,175.67,,,,,,
+62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Cellium,2100,8,3,2.67,11,5,1640,Win,,,,,,,0,1,1,0,0.89,182.22,,,,,,
+62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Simp,680,3,6,0.50,9,-3,874,Win,,,,,,,1,0,2,0,0.33,97.11,,,,,,
+62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Abezy,1250,9,5,1.80,14,4,1604,Win,,,,,,,2,2,0,0,1,178.22,,,,,,
+62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,Kenny,960,10,19,0.53,29,-9,2897,Loss,,,,,,,,,,,,,0,5,5,5,1,965.67
+62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,TJHaly,680,9,20,0.45,29,-11,1767,Loss,,,,,,,,,,,,,0,2,0,7,5,589
+62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,Slasher,1545,16,16,1.00,32,0,3198,Loss,,,,,,,,,,,,,0,3,3,13,6,1066
+62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,Venom,1200,16,22,0.73,38,-6,2906,Loss,,,,,,,,,,,,,0,3,4,13,12,968.67
+62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Arcitys,4775,27,11,2.45,38,16,3749,Win,,,,,,,,,,,,,6,20,10,7,9,1249.67
+62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Cellium,2895,18,11,1.64,29,7,3459,Win,,,,,,,,,,,,,5,13,10,5,5,1153
+62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Simp,1925,9,15,0.60,24,-6,2223,Win,,,,,,,,,,,,,5,7,4,2,2,741
+62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Abezy,2640,23,14,1.64,37,9,4391,Win,,,,,,,,,,,,,3,20,12,3,3,1463.67
+63,246,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Checkmate,Vivid,1800,25,30,0.83,55,-5,5690,Loss,38,0,31,0,7,0,,,,,,,,,,,,
+63,246,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Checkmate,Assault,1785,20,26,0.77,46,-6,4331,Loss,65,13,32,6,12,2,,,,,,,,,,,,
+63,246,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Checkmate,Silly,1965,23,26,0.88,49,-3,4632,Loss,32,9,0,2,8,13,,,,,,,,,,,,
+63,246,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Checkmate,Apathy,2190,21,23,0.91,44,-2,4364,Loss,74,8,33,2,31,0,,,,,,,,,,,,
+63,246,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Checkmate,Cammy,2020,26,27,0.96,53,-1,5421,Win,31,13,0,0,17,1,,,,,,,,,,,,
+63,246,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Checkmate,Bance,4155,29,20,1.45,49,9,4790,Win,106,36,0,16,29,25,,,,,,,,,,,,
+63,246,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Checkmate,Insight,3035,27,20,1.35,47,7,5499,Win,37,27,0,9,0,1,,,,,,,,,,,,
+63,246,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Checkmate,CleanX,2490,22,22,1.00,44,0,4486,Win,119,35,0,12,24,48,,,,,,,,,,,,
+63,247,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Express,Vivid,640,7,4,1.75,11,3,1225,Win,,,,,,,2,2,1,0,0.88,153.13,,,,,,
+63,247,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Express,Assault,800,10,5,2.00,15,5,1844,Win,,,,,,,4,0,0,0,1.25,230.5,,,,,,
+63,247,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Express,Silly,1000,8,3,2.67,11,5,1362,Win,,,,,,,0,0,0,1,1,170.25,,,,,,
+63,247,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Express,Apathy,490,4,7,0.57,11,-3,915,Win,,,,,,,0,0,1,0,0.5,114.38,,,,,,
+63,247,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Express,Cammy,100,2,8,0.25,10,-6,528,Loss,,,,,,,0,3,0,0,0.25,66,,,,,,
+63,247,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Express,Bance,725,6,6,1.00,12,0,1437,Loss,,,,,,,0,0,2,0,0.75,179.63,,,,,,
+63,247,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Express,Insight,465,8,8,1.00,16,0,2117,Loss,,,,,,,2,1,0,0,1,264.63,,,,,,
+63,247,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Express,CleanX,200,3,7,0.43,10,-4,968,Loss,,,,,,,0,2,0,0,0.38,121,,,,,,
+63,248,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Control,Checkmate,Vivid,2525,14,15,0.93,29,-1,2907,Win,,,,,,,,,,,,,5,5,6,9,5,969
+63,248,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Control,Checkmate,Assault,2000,13,10,1.30,23,3,2516,Win,,,,,,,,,,,,,5,3,1,10,7,838.67
+63,248,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Control,Checkmate,Silly,2875,22,11,2.00,33,11,3534,Win,,,,,,,,,,,,,4,7,5,15,13,1178
+63,248,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Control,Checkmate,Apathy,2375,15,14,1.07,29,1,2697,Win,,,,,,,,,,,,,6,1,1,14,10,899
+63,248,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Control,Checkmate,Cammy,1375,12,16,0.75,28,-4,2539,Loss,,,,,,,,,,,,,2,6,5,6,6,846.33
+63,248,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Control,Checkmate,Bance,1400,11,17,0.65,28,-6,2113,Loss,,,,,,,,,,,,,2,10,7,1,1,704.33
+63,248,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Control,Checkmate,Insight,1650,17,13,1.31,30,4,3164,Loss,,,,,,,,,,,,,1,12,7,5,2,1054.67
+63,248,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Control,Checkmate,CleanX,1250,10,18,0.56,28,-8,1979,Loss,,,,,,,,,,,,,2,8,7,2,1,659.67
+63,249,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Raid,Vivid,1790,25,27,0.93,52,-2,4530,Loss,11,0,6,5,0,0,,,,,,,,,,,,
+63,249,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Raid,Assault,2220,19,22,0.86,41,-3,4020,Loss,106,0,37,36,16,17,,,,,,,,,,,,
+63,249,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Raid,Silly,2935,20,18,1.11,38,2,3366,Loss,146,40,37,0,22,47,,,,,,,,,,,,
+63,249,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Raid,Apathy,2980,25,21,1.19,46,4,4282,Loss,90,0,14,20,27,29,,,,,,,,,,,,
+63,249,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Raid,Cammy,2260,24,23,1.04,47,1,4723,Win,117,25,21,21,47,3,,,,,,,,,,,,
+63,249,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Raid,Bance,2250,23,21,1.10,44,2,3941,Win,66,19,10,9,0,28,,,,,,,,,,,,
+63,249,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Raid,Insight,2310,20,20,1.00,40,0,4429,Win,113,5,44,36,28,0,,,,,,,,,,,,
+63,249,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Hardpoint,Raid,CleanX,1735,21,25,0.84,46,-4,4381,Win,53,8,5,9,11,20,,,,,,,,,,,,
+63,250,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Raid,Vivid,50,1,6,0.17,7,-5,338,Loss,,,,,,,1,1,0,0,0.17,56.33,,,,,,
+63,250,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Raid,Assault,150,2,6,0.33,8,-4,1074,Loss,,,,,,,1,0,0,0,0.33,179,,,,,,
+63,250,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Raid,Silly,100,1,6,0.17,7,-5,519,Loss,,,,,,,0,0,0,0,0.17,86.5,,,,,,
+63,250,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Search and Destroy,Raid,Apathy,365,4,6,0.67,10,-2,590,Loss,,,,,,,2,1,1,0,0.67,98.33,,,,,,
+63,250,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Raid,Cammy,300,4,5,0.80,9,-1,991,Win,,,,,,,1,2,0,0,0.67,165.17,,,,,,
+63,250,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Raid,Bance,675,4,0,4.00,4,4,741,Win,,,,,,,0,0,2,0,0.67,123.5,,,,,,
+63,250,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Raid,Insight,2415,10,1,10.00,11,9,1513,Win,,,,,,,1,1,0,1,1.67,252.17,,,,,,
+63,250,Stage 2 Week 2,Toronto Ultra,Los Angeles Guerrillas,Search and Destroy,Raid,CleanX,540,6,2,3.00,8,4,1196,Win,,,,,,,0,1,0,0,1,199.33,,,,,,
