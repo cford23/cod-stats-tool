@@ -2087,3 +2087,51 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 66,261,Stage 2 Week 2,OpTic Chicago,Florida Mutineers,Control,Checkmate,Dashy,,25,26,0.96,51,-1,,Loss,,,,,,,,,,,,,,,,,,
 66,261,Stage 2 Week 2,OpTic Chicago,Florida Mutineers,Control,Checkmate,Envoy,,25,28,0.89,53,-3,,Loss,,,,,,,,,,,,,,,,,,
 66,261,Stage 2 Week 2,OpTic Chicago,Florida Mutineers,Control,Checkmate,Scump,,30,31,0.97,61,-1,,Loss,,,,,,,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Owakening,1855,26,25,1.04,51,1,4845,Loss,27,2,0,14,2,9,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Skyz,3025,38,30,1.27,68,8,6668,Loss,69,30,1,0,24,14,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Slacked,2155,21,27,0.78,48,-6,3843,Loss,106,22,13,6,32,33,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Neptune,1870,19,26,0.73,45,-7,4114,Loss,72,36,6,11,5,14,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Shotzzy,4440,33,23,1.43,56,10,5144,Win,121,39,36,27,0,19,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Crimsix,2420,26,31,0.84,57,-5,5126,Win,63,0,26,8,26,3,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,iLLey,2105,22,24,0.92,46,-2,4802,Win,66,16,8,4,38,0,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Huke,2030,27,26,1.04,53,1,5427,Win,69,20,2,11,35,1,,,,,,,,,,,,
+67,263,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Checkmate,Owakening,715,8,7,1.14,15,1,2108,Loss,,,,,,,1,1,0,0,0.8,210.8,,,,,,
+67,263,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Checkmate,Skyz,305,3,9,0.33,12,-6,1276,Loss,,,,,,,1,2,0,0,0.3,127.6,,,,,,
+67,263,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Checkmate,Slacked,640,7,8,0.88,15,-1,1287,Loss,,,,,,,0,1,0,0,0.7,128.7,,,,,,
+67,263,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Checkmate,Neptune,565,6,6,1.00,12,0,1241,Loss,,,,,,,2,2,0,0,0.6,124.1,,,,,,
+67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,Shotzzy,1500,9,5,1.80,14,4,1545,Win,,,,,,,1,0,0,0,0.9,154.5,,,,,,
+67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,Crimsix,390,3,8,0.38,11,-5,1058,Win,,,,,,,0,1,0,0,0.3,105.8,,,,,,
+67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,iLLey,1650,11,6,1.83,17,5,2180,Win,,,,,,,3,2,1,0,1.1,218,,,,,,
+67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,Huke,575,7,5,1.40,12,2,1254,Win,,,,,,,2,1,0,0,0.7,125.4,,,,,,
+67,264,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Owakening,2325,15,22,0.68,37,-7,3987,Loss,,,,,,,,,,,,,3,6,1,9,4,797.4
+67,264,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Skyz,2075,19,23,0.83,42,-4,4171,Loss,,,,,,,,,,,,,3,15,9,4,4,834.2
+67,264,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Slacked,3340,20,22,0.91,42,-2,3648,Loss,,,,,,,,,,,,,7,11,6,9,7,729.6
+67,264,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Neptune,1525,19,22,0.86,41,-3,3741,Loss,,,,,,,,,,,,,1,9,6,10,10,748.2
+67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Shotzzy,3190,23,20,1.15,43,3,4414,Win,,,,,,,,,,,,,0,4,2,19,13,882.8
+67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Crimsix,3055,18,16,1.13,34,2,4440,Win,,,,,,,,,,,,,0,4,4,14,6,888
+67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,iLLey,2825,24,20,1.20,44,4,4690,Win,,,,,,,,,,,,,3,6,5,18,12,938
+67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Huke,3900,24,17,1.41,41,7,3803,Win,,,,,,,,,,,,,2,6,5,18,7,760.6
+68,265,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Hardpoint,Raid,Octane,2425,25,21,1.19,46,4,4821,Loss,125,49,27,34,7,8,,,,,,,,,,,,
+68,265,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Hardpoint,Raid,Prestinni,3935,26,23,1.13,49,3,4637,Loss,97,37,1,32,17,10,,,,,,,,,,,,
+68,265,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Hardpoint,Raid,Loony,2255,20,21,0.95,41,-1,3480,Loss,71,19,8,12,0,32,,,,,,,,,,,,
+68,265,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Hardpoint,Raid,Gunless,2025,25,25,1.00,50,0,4632,Loss,26,19,4,3,0,0,,,,,,,,,,,,
+68,265,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Hardpoint,Raid,Formal,2500,28,25,1.12,53,3,5275,Win,92,0,34,22,17,19,,,,,,,,,,,,
+68,265,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Hardpoint,Raid,Dashy,1925,21,19,1.11,40,2,3708,Win,106,1,34,30,41,0,,,,,,,,,,,,
+68,265,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Hardpoint,Raid,Envoy,2405,26,25,1.04,51,1,4420,Win,88,3,9,13,31,32,,,,,,,,,,,,
+68,265,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Hardpoint,Raid,Scump,1625,15,27,0.56,42,-12,3082,Win,83,0,47,13,21,2,,,,,,,,,,,,
+68,266,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Search and Destroy,Checkmate,Octane,255,2,8,0.25,10,-6,1229,Loss,,,,,,,1,0,0,0,0.25,153.63,,,,,,
+68,266,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Search and Destroy,Checkmate,Prestinni,115,2,8,0.25,10,-6,811,Loss,,,,,,,1,1,0,0,0.25,101.38,,,,,,
+68,266,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Search and Destroy,Checkmate,Loony,530,5,6,0.83,11,-1,928,Loss,,,,,,,2,3,0,1,0.63,116,,,,,,
+68,266,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Search and Destroy,Checkmate,Gunless,500,7,7,1.00,14,0,1462,Loss,,,,,,,0,0,0,0,0.88,182.75,,,,,,
+68,266,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Search and Destroy,Checkmate,Formal,1495,12,4,3.00,16,8,2117,Win,,,,,,,1,1,0,0,1.5,264.63,,,,,,
+68,266,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Search and Destroy,Checkmate,Dashy,555,5,3,1.67,8,2,1066,Win,,,,,,,0,1,1,0,0.63,133.25,,,,,,
+68,266,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Search and Destroy,Checkmate,Envoy,530,6,5,1.20,11,1,1523,Win,,,,,,,2,0,0,0,0.75,190.38,,,,,,
+68,266,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Search and Destroy,Checkmate,Scump,850,6,4,1.50,10,2,840,Win,,,,,,,1,2,3,0,0.75,105,,,,,,
+68,267,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Control,Raid,Octane,4045,24,19,1.26,43,5,4731,Loss,,,,,,,,,,,,,7,6,4,18,12,946.2
+68,267,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Control,Raid,Prestinni,2805,29,30,0.97,59,-1,6293,Loss,,,,,,,,,,,,,5,11,3,18,6,1258.6
+68,267,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Control,Raid,Loony,2990,17,25,0.68,42,-8,3316,Loss,,,,,,,,,,,,,8,6,2,11,3,663.2
+68,267,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Control,Raid,Gunless,2040,28,34,0.82,62,-6,6374,Loss,,,,,,,,,,,,,3,14,4,14,4,1274.8
+68,267,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Control,Raid,Formal,3635,24,25,0.96,49,-1,4977,Win,,,,,,,,,,,,,10,14,6,10,6,995.4
+68,267,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Control,Raid,Dashy,5480,31,21,1.48,52,10,5438,Win,,,,,,,,,,,,,13,18,3,13,3,1087.6
+68,267,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Control,Raid,Envoy,5740,28,22,1.27,50,6,5400,Win,,,,,,,,,,,,,13,20,8,8,0,1080
+68,267,Stage 2 Week 3,OpTic Chicago,Seattle Surge,Control,Raid,Scump,3300,25,30,0.83,55,-5,5280,Win,,,,,,,,,,,,,6,14,3,11,5,1056
