@@ -2303,3 +2303,91 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 73,288,Stage 2 Week 3,New York Subliners,Toronto Ultra,Hardpoint,Checkmate,Clayster,1480,17,29,0.59,46,-12,4070,Win,34,0,25,0,9,0,,,,,,,,,,,,
 73,288,Stage 2 Week 3,New York Subliners,Toronto Ultra,Hardpoint,Checkmate,Diamondcon,1980,24,29,0.83,53,-5,4915,Win,100,34,24,1,12,29,,,,,,,,,,,,
 73,288,Stage 2 Week 3,New York Subliners,Toronto Ultra,Hardpoint,Checkmate,Mack,2730,27,27,1.00,54,0,5188,Win,123,34,22,26,0,41,,,,,,,,,,,,
+74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,Arcitys,8145,30,18,1.67,48,12,4386,Win,91,0,58,20,2,11,,,,,,,,,,,,
+74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,Cellium,2890,22,13,1.69,35,9,4460,Win,71,28,0,30,7,6,,,,,,,,,,,,
+74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,Simp,2220,24,16,1.50,40,8,4551,Win,40,14,11,1,11,3,,,,,,,,,,,,
+74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,Abezy,2450,28,24,1.17,52,4,4816,Win,69,8,11,8,29,13,,,,,,,,,,,,
+74,289,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Hardpoint,Garrison,Dylan,1245,13,34,0.38,47,-21,3147,Loss,31,2,9,12,6,2,,,,,,,,,,,,
+74,289,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Hardpoint,Garrison,PaulEhx,1430,15,27,0.56,42,-12,4159,Loss,11,0,3,0,5,3,,,,,,,,,,,,
+74,289,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Hardpoint,Garrison,Seany,2345,24,19,1.26,43,5,4609,Loss,54,6,29,5,9,5,,,,,,,,,,,,
+74,289,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Hardpoint,Garrison,Zed,1485,18,24,0.75,42,-6,2970,Loss,46,8,12,0,9,17,,,,,,,,,,,,
+74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,Arcitys,,8,4,2.00,12,4,,Win,,,,,,,,,,,,,,,,,,
+74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,Cellium,,7,4,1.75,11,3,,Win,,,,,,,,,,,,,,,,,,
+74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,Simp,,8,7,1.14,15,1,,Win,,,,,,,,,,,,,,,,,,
+74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,Abezy,,9,6,1.50,15,3,,Win,,,,,,,,,,,,,,,,,,
+74,290,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Search and Destroy,Express,Dylan,340,2,9,0.22,11,-7,528,Loss,,,,,,,0,4,1,0,0.22,58.67,,,,,,
+74,290,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Search and Destroy,Express,PaulEhx,965,10,8,1.25,18,2,2287,Loss,,,,,,,1,0,0,0,1.11,254.11,,,,,,
+74,290,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Search and Destroy,Express,Seany,415,4,8,0.50,12,-4,926,Loss,,,,,,,1,1,0,0,0.44,102.89,,,,,,
+74,290,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Search and Destroy,Express,Zed,400,5,7,0.71,12,-2,1115,Loss,,,,,,,1,1,0,1,0.56,123.89,,,,,,
+74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,Arcitys,2125,17,14,1.21,31,3,3691,Win,,,,,,,,,,,,,4,6,5,11,6,1230.33
+74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,Cellium,2065,14,15,0.93,29,-1,3097,Win,,,,,,,,,,,,,4,1,0,13,7,1032.33
+74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,Simp,2730,19,16,1.19,35,3,3787,Win,,,,,,,,,,,,,2,5,4,14,6,1262.33
+74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,Abezy,3625,26,16,1.63,42,10,3437,Win,,,,,,,,,,,,,5,7,7,19,17,1145.67
+74,291,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Control,Garrison,Dylan,2390,15,20,0.75,35,-5,2726,Loss,,,,,,,,,,,,,6,13,9,2,1,908.67
+74,291,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Control,Garrison,PaulEhx,1380,14,20,0.70,34,-6,3068,Loss,,,,,,,,,,,,,3,10,3,4,3,1022.67
+74,291,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Control,Garrison,Seany,1995,14,18,0.78,32,-4,2887,Loss,,,,,,,,,,,,,4,12,8,2,2,962.33
+74,291,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Control,Garrison,Zed,2840,18,18,1.00,36,0,3557,Loss,,,,,,,,,,,,,5,15,12,3,2,1185.67
+75,292,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Vivid,1825,23,28,0.82,51,-5,4272,Win,55,4,35,5,5,6,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Assault,3950,23,16,1.44,39,7,3964,Win,70,9,26,33,0,2,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Silly,4550,30,12,2.50,42,18,4587,Win,101,16,2,46,11,26,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Apathy,4025,23,19,1.21,42,4,4425,Win,72,2,50,0,5,15,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,Temp,1670,20,26,0.77,46,-6,3829,Loss,27,18,0,0,9,0,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,TJHaly,2105,21,26,0.81,47,-5,4296,Loss,69,19,0,0,43,7,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,Slasher,1450,16,26,0.62,42,-10,3110,Loss,46,10,4,31,1,0,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,Venom,1630,18,21,0.86,39,-3,3430,Loss,73,15,2,0,56,0,,,,,,,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Vivid,675,9,9,1.00,18,0,2295,Win,,,,,,,3,1,1,0,0.82,208.64,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Assault,800,11,7,1.57,18,4,2618,Win,,,,,,,4,0,0,0,1,238,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Silly,2500,11,3,3.67,14,8,2023,Win,,,,,,,0,0,0,0,1,183.91,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Apathy,775,5,8,0.63,13,-3,1419,Win,,,,,,,0,3,1,0,0.45,129,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,Temp,650,6,8,0.75,14,-2,1039,Loss,,,,,,,0,1,1,0,0.55,94.45,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,TJHaly,400,5,10,0.50,15,-5,1644,Loss,,,,,,,2,2,1,0,0.45,149.45,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,Slasher,605,7,9,0.78,16,-2,2041,Loss,,,,,,,2,2,1,0,0.64,185.55,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,Venom,750,9,9,1.00,18,0,1658,Loss,,,,,,,0,2,0,0,0.82,150.73,,,,,,
+75,294,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Vivid,5225,36,27,1.33,63,9,6179,Win,,,,,,,,,,,,,6,15,5,21,10,1235.8
+75,294,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Assault,3700,22,20,1.10,42,2,4660,Win,,,,,,,,,,,,,6,11,4,11,8,932
+75,294,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Silly,3440,31,27,1.15,58,4,6135,Win,,,,,,,,,,,,,5,12,9,19,13,1227
+75,294,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Apathy,2825,27,28,0.96,55,-1,5193,Win,,,,,,,,,,,,,4,12,3,15,6,1038.6
+75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Temp,3450,18,30,0.60,48,-12,4501,Loss,,,,,,,,,,,,,8,7,4,11,3,900.2
+75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,TJHaly,4200,36,32,1.13,68,4,6116,Loss,,,,,,,,,,,,,6,25,15,11,8,1223.2
+75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Slasher,3790,25,22,1.14,47,3,4969,Loss,,,,,,,,,,,,,8,16,12,9,7,993.8
+75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Venom,2775,23,32,0.72,55,-9,4938,Loss,,,,,,,,,,,,,6,11,7,12,8,987.6
+76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Shotzzy,,23,19,1.21,42,4,,Win,,,,,,,,,,,,,,,,,,
+76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Crimsix,,23,23,1.00,46,0,,Win,,,,,,,,,,,,,,,,,,
+76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,iLLey,,21,26,0.81,47,-5,,Win,,,,,,,,,,,,,,,,,,
+76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Huke,,24,25,0.96,49,-1,,Win,,,,,,,,,,,,,,,,,,
+76,295,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,Formal,,16,20,0.80,36,-4,,Loss,,,,,,,,,,,,,,,,,,
+76,295,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,Dashy,,30,24,1.25,54,6,,Loss,,,,,,,,,,,,,,,,,,
+76,295,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,Envoy,,27,24,1.13,51,3,,Loss,,,,,,,,,,,,,,,,,,
+76,295,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,Scump,,20,23,0.87,43,-3,,Loss,,,,,,,,,,,,,,,,,,
+76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,Shotzzy,690,7,5,1.40,12,2,1063,Loss,,,,,,,2,1,0,1,0.88,132.88,,,,,,
+76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,Crimsix,165,2,8,0.25,10,-6,755,Loss,,,,,,,1,2,0,0,0.25,94.38,,,,,,
+76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,iLLey,125,2,8,0.25,10,-6,793,Loss,,,,,,,0,1,0,0,0.25,99.13,,,,,,
+76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,Huke,240,3,8,0.38,11,-5,961,Loss,,,,,,,1,0,0,0,0.38,120.13,,,,,,
+76,296,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Raid,Formal,565,6,4,1.50,10,2,1137,Win,,,,,,,1,2,0,0,0.75,142.13,,,,,,
+76,296,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Raid,Dashy,1425,9,4,2.25,13,5,1185,Win,,,,,,,2,1,2,0,1.13,148.13,,,,,,
+76,296,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Raid,Envoy,1265,8,4,2.00,12,4,1269,Win,,,,,,,1,1,0,0,1,158.63,,,,,,
+76,296,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Raid,Scump,575,6,2,3.00,8,4,1221,Win,,,,,,,0,0,0,0,0.75,152.63,,,,,,
+76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,Shotzzy,4980,35,31,1.13,66,4,6329,Win,,,,,,,,,,,,,5,24,13,11,8,1265.8
+76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,Crimsix,3775,24,29,0.83,53,-5,4898,Win,,,,,,,,,,,,,7,17,15,7,4,979.6
+76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,iLLey,4575,30,32,0.94,62,-2,6099,Win,,,,,,,,,,,,,8,24,19,6,5,1219.8
+76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,Huke,3120,24,30,0.80,54,-6,4518,Win,,,,,,,,,,,,,8,17,11,7,5,903.6
+76,297,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Control,Checkmate,Formal,5165,39,27,1.44,66,12,6769,Loss,,,,,,,,,,,,,7,13,10,26,19,1353.8
+76,297,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Control,Checkmate,Dashy,4490,33,26,1.27,59,7,6237,Loss,,,,,,,,,,,,,6,9,6,24,12,1247.4
+76,297,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Control,Checkmate,Envoy,4055,24,30,0.80,54,-6,4560,Loss,,,,,,,,,,,,,9,6,4,18,14,912
+76,297,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Control,Checkmate,Scump,3675,26,30,0.87,56,-4,5733,Loss,,,,,,,,,,,,,7,10,10,16,11,1146.6
+76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,Shotzzy,1160,12,23,0.52,35,-11,3074,Loss,31,4,9,0,18,0,,,,,,,,,,,,
+76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,Crimsix,1440,18,25,0.72,43,-7,3524,Loss,19,11,0,6,2,0,,,,,,,,,,,,
+76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,iLLey,1250,15,25,0.60,40,-10,4029,Loss,7,0,0,5,2,0,,,,,,,,,,,,
+76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,Huke,1700,20,21,0.95,41,-1,3147,Loss,61,3,0,46,2,10,,,,,,,,,,,,
+76,298,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Checkmate,Formal,2545,21,19,1.11,40,2,4069,Win,88,5,64,0,13,6,,,,,,,,,,,,
+76,298,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Checkmate,Dashy,2745,24,16,1.50,40,8,4164,Win,53,27,0,0,26,0,,,,,,,,,,,,
+76,298,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Checkmate,Envoy,3185,22,14,1.57,36,8,3557,Win,98,18,21,9,10,40,,,,,,,,,,,,
+76,298,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Checkmate,Scump,2800,27,16,1.69,43,11,4762,Win,50,27,0,0,23,0,,,,,,,,,,,,
+76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Shotzzy,540,6,6,1.00,12,0,1025,Loss,,,,,,,2,2,0,0,0.86,146.43,,,,,,
+76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Crimsix,295,3,6,0.50,9,-3,637,Loss,,,,,,,0,0,0,0,0.43,91,,,,,,
+76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,iLLey,350,4,6,0.67,10,-2,904,Loss,,,,,,,1,1,0,0,0.57,129.14,,,,,,
+76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Huke,150,3,7,0.43,10,-4,855,Loss,,,,,,,1,0,0,0,0.43,122.14,,,,,,
+76,299,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,Formal,765,8,5,1.60,13,3,1784,Win,,,,,,,1,1,0,0,1.14,254.86,,,,,,
+76,299,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,Dashy,175,2,4,0.50,6,-2,841,Win,,,,,,,0,2,0,0,0.29,120.14,,,,,,
+76,299,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,Envoy,725,6,3,2.00,9,3,1218,Win,,,,,,,1,1,0,0,0.86,174,,,,,,
+76,299,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,Scump,1700,9,4,2.25,13,5,1467,Win,,,,,,,1,0,0,0,1.29,209.57,,,,,,
