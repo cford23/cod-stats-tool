@@ -298,3 +298,69 @@ Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Scor
 76,297,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Control,Checkmate,3,2,3,Dallas Empire,1,15:56
 76,298,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Hardpoint,Checkmate,4,250,108,OpTic Chicago,142,8:49
 76,299,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Search and Destroy,Checkmate,5,6,1,OpTic Chicago,5,9:06
+77,300,Los Angeles Thieves,Paris Legion,Major 2,Hardpoint,Checkmate,1,250,203,Los Angeles Thieves,47,10:59
+77,301,Los Angeles Thieves,Paris Legion,Major 2,Search and Destroy,Raid,2,6,0,Los Angeles Thieves,6,5:33
+77,302,Los Angeles Thieves,Paris Legion,Major 2,Control,Checkmate,3,3,0,Los Angeles Thieves,3,6:57
+78,303,Florida Mutineers,Los Angeles Guerrillas,Major 2,Hardpoint,Moscow,1,250,169,Florida Mutineers,81,9:07
+78,304,Florida Mutineers,Los Angeles Guerrillas,Major 2,Search and Destroy,Express,2,6,4,Florida Mutineers,2,9:07
+78,305,Florida Mutineers,Los Angeles Guerrillas,Major 2,Control,Checkmate,3,3,0,Florida Mutineers,3,8:19
+79,306,Dallas Empire,New York Subliners,Major 2,Hardpoint,Moscow,1,250,215,Dallas Empire,35,11:27
+79,307,Dallas Empire,New York Subliners,Major 2,Search and Destroy,Express,2,6,0,Dallas Empire,6,7:21
+79,308,Dallas Empire,New York Subliners,Major 2,Control,Checkmate,3,3,1,Dallas Empire,2,13:25
+80,309,Toronto Ultra,OpTic Chicago,Major 2,Hardpoint,Checkmate,1,236,250,OpTic Chicago,14,11:39
+80,310,Toronto Ultra,OpTic Chicago,Major 2,Search and Destroy,Moscow,2,6,5,Toronto Ultra,1,14:15
+80,311,Toronto Ultra,OpTic Chicago,Major 2,Control,Raid,3,3,1,Toronto Ultra,2,13:06
+80,312,Toronto Ultra,OpTic Chicago,Major 2,Hardpoint,Raid,4,250,234,Toronto Ultra,16,9:56
+81,313,Los Angeles Thieves,London Royal Ravens,Major 2,Hardpoint,Apocalypse,1,163,250,London Royal Ravens,87,9:38
+81,314,Los Angeles Thieves,London Royal Ravens,Major 2,Search and Destroy,Miami,2,2,6,London Royal Ravens,4,9:14
+81,315,Los Angeles Thieves,London Royal Ravens,Major 2,Control,Checkmate,3,3,1,Los Angeles Thieves,2,
+81,316,Los Angeles Thieves,London Royal Ravens,Major 2,Hardpoint,Raid,4,250,189,Los Angeles Thieves,61,9:23
+81,317,Los Angeles Thieves,London Royal Ravens,Major 2,Search and Destroy,Moscow,5,6,4,Los Angeles Thieves,2,10:36
+82,318,Florida Mutineers,Seattle Surge,Major 2,Hardpoint,Moscow,1,250,244,Florida Mutineers,6,11:34
+82,319,Florida Mutineers,Seattle Surge,Major 2,Search and Destroy,Express,2,5,6,Seattle Surge,1,9:37
+82,320,Florida Mutineers,Seattle Surge,Major 2,Control,Garrison,3,1,3,Seattle Surge,2,8:29
+82,321,Florida Mutineers,Seattle Surge,Major 2,Hardpoint,Checkmate,4,222,250,Seattle Surge,28,10:51
+83,322,Dallas Empire,Minnesota ROKKR,Major 2,Hardpoint,Moscow,1,170,250,Minnesota ROKKR,80,11:19
+83,323,Dallas Empire,Minnesota ROKKR,Major 2,Search and Destroy,Raid,2,6,5,Dallas Empire,1,11:08
+83,324,Dallas Empire,Minnesota ROKKR,Major 2,Control,Raid,3,3,2,Dallas Empire,1,15:39
+83,325,Dallas Empire,Minnesota ROKKR,Major 2,Hardpoint,Checkmate,4,212,250,Minnesota ROKKR,38,12:12
+83,326,Dallas Empire,Minnesota ROKKR,Major 2,Search and Destroy,Miami,5,6,5,Dallas Empire,1,
+84,327,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Moscow,1,114,250,Atlanta FaZe,136,8:35
+84,328,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Raid,2,6,2,Toronto Ultra,4,6:01
+84,329,Toronto Ultra,Atlanta FaZe,Major 2,Control,Raid,3,0,3,Atlanta FaZe,3,6:48
+84,330,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Checkmate,4,228,250,Atlanta FaZe,22,11:12
+85,331,Seattle Surge,OpTic Chicago,Major 2,Hardpoint,Raid,1,250,202,Seattle Surge,48,9:25
+85,332,Seattle Surge,OpTic Chicago,Major 2,Search and Destroy,Checkmate,2,2,6,OpTic Chicago,4,6:43
+85,333,Seattle Surge,OpTic Chicago,Major 2,Control,Raid,3,1,3,OpTic Chicago,2,11:19
+85,334,Seattle Surge,OpTic Chicago,Major 2,Hardpoint,Garrison,4,183,250,OpTic Chicago,67,10:45
+86,335,Los Angeles Thieves,New York Subliners,Major 2,Hardpoint,Checkmate,1,250,200,Los Angeles Thieves,50,11:13
+86,336,Los Angeles Thieves,New York Subliners,Major 2,Search and Destroy,Checkmate,2,6,1,Los Angeles Thieves,5,6:50
+86,337,Los Angeles Thieves,New York Subliners,Major 2,Control,Checkmate,3,3,1,Los Angeles Thieves,2,9:45
+87,338,Los Angeles Thieves,Toronto Ultra,Major 2,Hardpoint,Raid,1,213,250,Toronto Ultra,37,9:27
+87,339,Los Angeles Thieves,Toronto Ultra,Major 2,Search and Destroy,Moscow,2,5,6,Toronto Ultra,1,11:25
+87,340,Los Angeles Thieves,Toronto Ultra,Major 2,Control,Garrison,3,0,3,Toronto Ultra,3,10:33
+88,341,OpTic Chicago,Minnesota ROKKR,Major 2,Hardpoint,Garrison,1,192,250,Minnesota ROKKR,58,10:47
+88,342,OpTic Chicago,Minnesota ROKKR,Major 2,Search and Destroy,Express,2,6,2,OpTic Chicago,4,9:37
+88,343,OpTic Chicago,Minnesota ROKKR,Major 2,Control,Garrison,3,1,3,Minnesota ROKKR,2,9:27
+88,344,OpTic Chicago,Minnesota ROKKR,Major 2,Hardpoint,Moscow,4,250,138,OpTic Chicago,112,8:58
+88,345,OpTic Chicago,Minnesota ROKKR,Major 2,Search and Destroy,Moscow,5,5,6,Minnesota ROKKR,1,11:03
+89,346,Dallas Empire,Atlanta FaZe,Major 2,Hardpoint,Garrison,1,155,250,Atlanta FaZe,95,10:43
+89,347,Dallas Empire,Atlanta FaZe,Major 2,Search and Destroy,Express,2,6,2,Dallas Empire,4,9:45
+89,348,Dallas Empire,Atlanta FaZe,Major 2,Control,Raid,3,0,3,Atlanta FaZe,3,9:51
+89,349,Dallas Empire,Atlanta FaZe,Major 2,Hardpoint,Checkmate,4,222,250,Atlanta FaZe,28,11:28
+90,350,Toronto Ultra,Minnesota ROKKR,Major 2,Hardpoint,Raid,1,219,250,Minnesota ROKKR,31,9:47
+90,351,Toronto Ultra,Minnesota ROKKR,Major 2,Search and Destroy,Express,2,6,4,Toronto Ultra,2,7:49
+90,352,Toronto Ultra,Minnesota ROKKR,Major 2,Control,Raid,3,3,2,Toronto Ultra,1,17:08
+90,353,Toronto Ultra,Minnesota ROKKR,Major 2,Hardpoint,Garrison,4,250,155,Toronto Ultra,95,10:24
+91,354,Toronto Ultra,Dallas Empire,Major 2,Hardpoint,Checkmate,1,203,250,Dallas Empire,47,12:12
+91,355,Toronto Ultra,Dallas Empire,Major 2,Search and Destroy,Raid,2,6,3,Toronto Ultra,3,9:28
+91,356,Toronto Ultra,Dallas Empire,Major 2,Control,Raid,3,3,2,Toronto Ultra,1,17:12
+91,357,Toronto Ultra,Dallas Empire,Major 2,Hardpoint,Raid,4,250,206,Toronto Ultra,44,9:26
+92,358,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Garrison,1,198,250,Atlanta FaZe,52,11:15
+92,359,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Miami,2,6,3,Toronto Ultra,3,11:23
+92,360,Toronto Ultra,Atlanta FaZe,Major 2,Control,Checkmate,3,3,2,Toronto Ultra,1,11:49
+92,361,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Apocalypse,4,147,250,Atlanta FaZe,103,8:31
+92,362,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Moscow,5,5,6,Atlanta FaZe,1,11:57
+92,363,Toronto Ultra,Atlanta FaZe,Major 2,Control,Raid,6,3,0,Toronto Ultra,3,9:32
+92,364,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Express,7,6,0,Toronto Ultra,6,7:24
+92,365,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Checkmate,8,250,156,Toronto Ultra,94,9:46
