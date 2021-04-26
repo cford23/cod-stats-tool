@@ -82,7 +82,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 4,11,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Crossroads,Arcitys,2485,27,19,1.42,46,8,5469,Win,61,12,0,35,14,,,,,,,,,,,,,
 4,11,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Crossroads,Cellium,2130,26,18,1.44,44,8,4285,Win,56,6,27,0,23,,,,,,,,,,,,,
 4,11,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Crossroads,Simp,3155,21,17,1.24,38,4,4019,Win,104,28,0,32,44,,,,,,,,,,,,,
-4,11,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Crossroads,Abezy,2260,21,23,0.91,44,-2,4029,Win,53,19,26,8,0,,,,,,,,,,,,,
+4,11,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Crossroads,aBeZy,2260,21,23,0.91,44,-2,4029,Win,53,19,26,8,0,,,,,,,,,,,,,
 4,11,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Crossroads,Vivid,1780,22,27,0.81,49,-5,4905,Loss,40,2,32,4,2,,,,,,,,,,,,,
 4,11,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Crossroads,Assault,1520,17,23,0.74,40,-6,3706,Loss,43,15,21,7,0,,,,,,,,,,,,,
 4,11,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Crossroads,Silly,1765,20,21,0.95,41,-1,3727,Loss,37,20,0,17,0,,,,,,,,,,,,,
@@ -90,7 +90,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 4,12,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Garrison,Arcitys,2275,13,6,2.17,19,7,2612,Win,,,,,,,2,2,3,0,1.33,250.22,,,,,,
 4,12,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Garrison,Cellium,640,7,7,1.00,14,0,1965,Win,,,,,,,1,0,0,0,0.56,195,,,,,,
 4,12,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Garrison,Simp,700,7,5,1.40,12,2,1664,Win,,,,,,,0,2,0,0,0.78,164.89,,,,,,
-4,12,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Garrison,Abezy,775,8,7,1.14,15,1,1267,Win,,,,,,,1,2,0,0,0.78,124.11,,,,,,
+4,12,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Garrison,aBeZy,775,8,7,1.14,15,1,1267,Win,,,,,,,1,2,0,0,0.78,124.11,,,,,,
 4,12,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Garrison,Vivid,275,5,10,0.50,15,-5,1393,Loss,,,,,,,1,1,0,0,0.44,134.67,,,,,,
 4,12,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Garrison,Assault,465,6,9,0.67,15,-3,1559,Loss,,,,,,,0,2,0,0,0.67,170,,,,,,
 4,12,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Garrison,Silly,425,6,8,0.75,14,-2,1294,Loss,,,,,,,2,0,0,0,0.67,143.78,,,,,,
@@ -98,7 +98,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 4,13,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Arcitys,2500,23,21,1.10,44,2,4194,Win,,,,,,,,,,,,,2,15,9,8,3,1158
 4,13,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Cellium,3215,23,19,1.21,42,4,3973,Win,,,,,,,,,,,,,6,12,6,11,7,1059.33
 4,13,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Simp,2390,23,19,1.21,42,4,4455,Win,,,,,,,,,,,,,3,15,8,8,3,1331.67
-4,13,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Abezy,3225,24,16,1.50,40,8,3963,Win,,,,,,,,,,,,,4,12,6,12,10,1142
+4,13,Stage 1 Week 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,aBeZy,3225,24,16,1.50,40,8,3963,Win,,,,,,,,,,,,,4,12,6,12,10,1142
 4,13,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Control,Garrison,Vivid,1825,22,31,0.71,53,-9,4707,Loss,,,,,,,,,,,,,1,11,5,11,6,1333
 4,13,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Control,Garrison,Assault,1900,17,19,0.89,36,-2,3833,Loss,,,,,,,,,,,,,1,6,1,11,7,1127.67
 4,13,Stage 1 Week 1,Los Angeles Guerrillas,Atlanta FaZe,Control,Garrison,Silly,2425,18,20,0.90,38,-2,3255,Loss,,,,,,,,,,,,,3,11,14,7,5,859
@@ -282,7 +282,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 10,36,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Garrison,Arcitys,2175,26,26,1.00,52,0,4889,Loss,41,5,4,10,8,14,,,,,,,,,,,,
 10,36,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Garrison,Cellium,2305,24,23,1.04,47,1,5070,Loss,90,10,65,5,10,0,,,,,,,,,,,,
 10,36,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Garrison,Simp,3820,28,17,1.65,45,11,4634,Loss,89,21,35,9,18,6,,,,,,,,,,,,
-10,36,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Garrison,Abezy,1985,24,32,0.75,56,-8,4593,Loss,47,12,11,4,2,18,,,,,,,,,,,,
+10,36,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Garrison,aBeZy,1985,24,32,0.75,56,-8,4593,Loss,47,12,11,4,2,18,,,,,,,,,,,,
 10,36,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Hardpoint,Garrison,Formal,1955,18,21,0.86,39,-3,4118,Win,78,11,44,16,2,5,,,,,,,,,,,,
 10,36,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Hardpoint,Garrison,Dashy,2515,30,28,1.07,58,2,5663,Win,31,10,5,14,2,0,,,,,,,,,,,,
 10,36,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Hardpoint,Garrison,Envoy,2530,25,28,0.89,53,-3,4760,Win,115,3,32,26,25,29,,,,,,,,,,,,
@@ -290,7 +290,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 10,37,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Miami,Arcitys,350,2,4,0.50,6,-2,644,Win,,,,,,,0,0,1,0,0.33,107.33,,,,,,
 10,37,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Miami,Cellium,775,7,3,2.33,10,4,1304,Win,,,,,,,1,1,1,0,1.17,217.33,,,,,,
 10,37,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Miami,Simp,525,6,5,1.20,11,1,951,Win,,,,,,,1,0,0,1,1,158.5,,,,,,
-10,37,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Miami,Abezy,550,8,5,1.60,13,3,1282,Win,,,,,,,2,1,0,0,1.33,213.67,,,,,,
+10,37,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Miami,aBeZy,550,8,5,1.60,13,3,1282,Win,,,,,,,2,1,0,0,1.33,213.67,,,,,,
 10,37,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Search and Destroy,Miami,Formal,150,3,6,0.50,9,-3,802,Loss,,,,,,,0,0,0,0,0.5,133.67,,,,,,
 10,37,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Search and Destroy,Miami,Dashy,800,10,5,2.00,15,5,1315,Loss,,,,,,,0,0,1,0,1.67,219.17,,,,,,
 10,37,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Search and Destroy,Miami,Envoy,350,4,6,0.67,10,-2,1134,Loss,,,,,,,2,1,0,0,0.67,189,,,,,,
@@ -298,7 +298,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 10,38,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Control,Checkmate,Arcitys,2625,28,26,1.08,54,2,5362,Loss,,,,,,,,,,,,,2,16,9,12,3,1072.4
 10,38,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Control,Checkmate,Cellium,1490,17,23,0.74,40,-6,4143,Loss,,,,,,,,,,,,,2,11,10,6,1,828.6
 10,38,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Control,Checkmate,Simp,3275,25,18,1.39,43,7,4019,Loss,,,,,,,,,,,,,3,14,12,11,2,803.8
-10,38,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Control,Checkmate,Abezy,2475,18,28,0.64,46,-10,4489,Loss,,,,,,,,,,,,,4,8,9,10,4,897.8
+10,38,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Control,Checkmate,aBeZy,2475,18,28,0.64,46,-10,4489,Loss,,,,,,,,,,,,,4,8,9,10,4,897.8
 10,38,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Control,Checkmate,Formal,2695,22,18,1.22,40,4,4293,Win,,,,,,,,,,,,,3,6,2,16,12,858.6
 10,38,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Control,Checkmate,Dashy,2925,31,19,1.63,50,12,5527,Win,,,,,,,,,,,,,1,9,1,22,17,1105.4
 10,38,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Control,Checkmate,Envoy,2500,24,24,1.00,48,0,4786,Win,,,,,,,,,,,,,3,4,2,20,17,957.2
@@ -306,7 +306,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 10,39,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Moscow,Arcitys,2475,22,19,1.16,41,3,4599,Win,111,29,5,36,41,,,,,,,,,,,,,
 10,39,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Moscow,Cellium,1675,19,25,0.76,44,-6,4188,Win,36,7,1,0,28,,,,,,,,,,,,,
 10,39,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Moscow,Simp,1900,18,27,0.67,45,-9,4566,Win,107,44,10,50,3,,,,,,,,,,,,,
-10,39,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Moscow,Abezy,2960,28,22,1.27,50,6,4881,Win,22,21,0,0,1,,,,,,,,,,,,,
+10,39,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Moscow,aBeZy,2960,28,22,1.27,50,6,4881,Win,22,21,0,0,1,,,,,,,,,,,,,
 10,39,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Hardpoint,Moscow,Formal,2505,25,19,1.32,44,6,4753,Loss,45,0,32,1,12,,,,,,,,,,,,,
 10,39,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Hardpoint,Moscow,Dashy,2760,24,25,0.96,49,-1,4716,Loss,60,24,15,2,19,,,,,,,,,,,,,
 10,39,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Hardpoint,Moscow,Envoy,2135,24,24,1.00,48,0,4772,Loss,65,15,31,17,2,,,,,,,,,,,,,
@@ -314,7 +314,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 10,40,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Moscow,Arcitys,475,5,6,0.83,11,-1,760,Win,,,,,,,2,0,1,0,0.71,108.57,,,,,,
 10,40,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Moscow,Cellium,350,4,3,1.33,7,1,450,Win,,,,,,,0,0,0,0,0.57,64.29,,,,,,
 10,40,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Moscow,Simp,1425,8,2,4.00,10,6,1382,Win,,,,,,,0,0,0,0,1.14,197.43,,,,,,
-10,40,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Moscow,Abezy,950,9,4,2.25,13,5,1520,Win,,,,,,,3,2,0,1,1.29,217.14,,,,,,
+10,40,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Search and Destroy,Moscow,aBeZy,950,9,4,2.25,13,5,1520,Win,,,,,,,3,2,0,1,1.29,217.14,,,,,,
 10,40,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Search and Destroy,Moscow,Formal,225,3,7,0.43,10,-4,630,Loss,,,,,,,0,3,0,0,0.43,90,,,,,,
 10,40,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Search and Destroy,Moscow,Dashy,290,4,6,0.67,10,-2,1252,Loss,,,,,,,0,1,0,0,0.57,178.86,,,,,,
 10,40,Stage 1 Week 1,OpTic Chicago,Atlanta FaZe,Search and Destroy,Moscow,Envoy,490,2,6,0.33,8,-4,567,Loss,,,,,,,1,1,2,0,0.29,81,,,,,,
@@ -354,7 +354,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 12,45,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Raid,Arcitys,1970,18,19,0.95,37,-1,3636,Win,108,35,0,34,17,22,,,,,,,,,,,,
 12,45,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Raid,Cellium,2110,21,20,1.05,41,1,3597,Win,76,6,7,0,63,0,,,,,,,,,,,,
 12,45,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Raid,Simp,2505,27,22,1.23,49,5,4514,Win,62,24,4,1,30,3,,,,,,,,,,,,
-12,45,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Raid,Abezy,1595,20,22,0.91,42,-2,4122,Win,76,0,18,29,10,19,,,,,,,,,,,,
+12,45,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Raid,aBeZy,1595,20,22,0.91,42,-2,4122,Win,76,0,18,29,10,19,,,,,,,,,,,,
 12,45,Super Week,Toronto Ultra,Atlanta FaZe,Hardpoint,Raid,Cammy,2035,23,26,0.88,49,-3,4460,Loss,79,14,33,17,15,0,,,,,,,,,,,,
 12,45,Super Week,Toronto Ultra,Atlanta FaZe,Hardpoint,Raid,Bance,2480,16,19,0.84,35,-3,3384,Loss,124,13,15,26,6,64,,,,,,,,,,,,
 12,45,Super Week,Toronto Ultra,Atlanta FaZe,Hardpoint,Raid,Methodz,2025,19,21,0.90,40,-2,3745,Loss,65,13,29,8,15,0,,,,,,,,,,,,
@@ -362,7 +362,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 12,46,Super Week,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,Arcitys,650,6,7,0.86,13,-1,1193,Loss,,,,,,,1,1,1,0,0.67,132.56,,,,,,
 12,46,Super Week,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,Cellium,575,5,6,0.83,11,-1,1381,Loss,,,,,,,0,0,0,0,0.56,153.44,,,,,,
 12,46,Super Week,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,Simp,600,7,7,1.00,14,0,1313,Loss,,,,,,,2,0,0,1,0.78,145.89,,,,,,
-12,46,Super Week,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,Abezy,375,5,8,0.63,13,-3,1125,Loss,,,,,,,2,3,0,0,0.56,125,,,,,,
+12,46,Super Week,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,aBeZy,375,5,8,0.63,13,-3,1125,Loss,,,,,,,2,3,0,0,0.56,125,,,,,,
 12,46,Super Week,Toronto Ultra,Atlanta FaZe,Search and Destroy,Raid,Cammy,500,7,5,1.40,12,2,1488,Win,,,,,,,0,1,0,0,0.78,165.33,,,,,,
 12,46,Super Week,Toronto Ultra,Atlanta FaZe,Search and Destroy,Raid,Bance,1350,11,5,2.20,16,6,1800,Win,,,,,,,0,1,4,0,1.22,200,,,,,,
 12,46,Super Week,Toronto Ultra,Atlanta FaZe,Search and Destroy,Raid,Methodz,500,5,6,0.83,11,-1,1443,Win,,,,,,,1,0,1,0,0.56,160.33,,,,,,
@@ -370,7 +370,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 12,47,Super Week,Atlanta FaZe,Toronto Ultra,Control,Raid,Arcitys,2200,13,15,0.87,28,-2,2568,Win,,,,,,,,,,,,,6,1,0,12,4,856
 12,47,Super Week,Atlanta FaZe,Toronto Ultra,Control,Raid,Cellium,2100,14,10,1.40,24,4,2466,Win,,,,,,,,,,,,,6,6,1,8,3,822
 12,47,Super Week,Atlanta FaZe,Toronto Ultra,Control,Raid,Simp,2875,22,9,2.44,31,13,3683,Win,,,,,,,,,,,,,4,4,1,18,7,1227.67
-12,47,Super Week,Atlanta FaZe,Toronto Ultra,Control,Raid,Abezy,3050,17,12,1.42,29,5,2609,Win,,,,,,,,,,,,,5,6,5,11,5,869.67
+12,47,Super Week,Atlanta FaZe,Toronto Ultra,Control,Raid,aBeZy,3050,17,12,1.42,29,5,2609,Win,,,,,,,,,,,,,5,6,5,11,5,869.67
 12,47,Super Week,Toronto Ultra,Atlanta FaZe,Control,Raid,Cammy,1825,12,18,0.67,30,-6,2848,Loss,,,,,,,,,,,,,2,7,3,5,0,949.33
 12,47,Super Week,Toronto Ultra,Atlanta FaZe,Control,Raid,Bance,1350,12,15,0.80,27,-3,2172,Loss,,,,,,,,,,,,,2,8,4,4,2,724
 12,47,Super Week,Toronto Ultra,Atlanta FaZe,Control,Raid,Methodz,1315,10,13,0.77,23,-3,2341,Loss,,,,,,,,,,,,,2,6,1,4,0,780.33
@@ -378,7 +378,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 12,48,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Arcitys,2260,22,22,1.00,44,0,4252,Win,26,17,2,7,0,0,,,,,,,,,,,,
 12,48,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Cellium,2600,23,20,1.15,43,3,4461,Win,24,0,1,0,23,0,,,,,,,,,,,,
 12,48,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Simp,2375,21,17,1.24,38,4,3988,Win,87,2,49,36,0,0,,,,,,,,,,,,
-12,48,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Abezy,2770,22,14,1.57,36,8,3793,Win,156,47,82,13,14,0,,,,,,,,,,,,
+12,48,Super Week,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,aBeZy,2770,22,14,1.57,36,8,3793,Win,156,47,82,13,14,0,,,,,,,,,,,,
 12,48,Super Week,Toronto Ultra,Atlanta FaZe,Hardpoint,Garrison,Cammy,1115,12,21,0.57,33,-9,3097,Loss,51,28,0,1,11,11,,,,,,,,,,,,
 12,48,Super Week,Toronto Ultra,Atlanta FaZe,Hardpoint,Garrison,Bance,1845,17,22,0.77,39,-5,3844,Loss,19,0,0,4,0,15,,,,,,,,,,,,
 12,48,Super Week,Toronto Ultra,Atlanta FaZe,Hardpoint,Garrison,Methodz,1530,19,22,0.86,41,-3,3709,Loss,34,0,3,13,18,0,,,,,,,,,,,,
@@ -630,7 +630,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 21,79,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Garrison,Arcitys,1875,15,28,0.54,43,-13,3490,Loss,68,25,2,4,12,25,,,,,,,,,,,,
 21,79,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Garrison,Cellium,1905,22,30,0.73,52,-8,4751,Loss,53,18,1,1,17,16,,,,,,,,,,,,
 21,79,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Garrison,Simp,2570,29,21,1.38,50,8,5299,Loss,37,24,9,0,4,0,,,,,,,,,,,,
-21,79,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Garrison,Abezy,1910,29,30,0.97,59,-1,5708,Loss,50,3,3,0,2,42,,,,,,,,,,,,
+21,79,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Garrison,aBeZy,1910,29,30,0.97,59,-1,5708,Loss,50,3,3,0,2,42,,,,,,,,,,,,
 21,80,Super Week,Florida Mutineers,Atlanta FaZe,Search and Destroy,Moscow,Owakening,115,2,7,0.29,9,-5,639,Loss,,,,,,,1,2,0,0,0.29,91.29,,,,,,
 21,80,Super Week,Florida Mutineers,Atlanta FaZe,Search and Destroy,Moscow,Skyz,175,2,7,0.29,9,-5,647,Loss,,,,,,,0,1,0,0,0.29,92.43,,,,,,
 21,80,Super Week,Florida Mutineers,Atlanta FaZe,Search and Destroy,Moscow,Slacked,200,2,6,0.33,8,-4,716,Loss,,,,,,,0,1,0,0,0.29,102.29,,,,,,
@@ -638,7 +638,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 21,80,Super Week,Atlanta FaZe,Florida Mutineers,Search and Destroy,Moscow,Arcitys,350,4,4,1.00,8,0,886,Win,,,,,,,1,1,0,0,0.57,126.57,,,,,,
 21,80,Super Week,Atlanta FaZe,Florida Mutineers,Search and Destroy,Moscow,Cellium,375,5,4,1.25,9,1,900,Win,,,,,,,0,1,0,0,0.71,128.57,,,,,,
 21,80,Super Week,Atlanta FaZe,Florida Mutineers,Search and Destroy,Moscow,Simp,1475,7,3,2.33,10,4,1116,Win,,,,,,,3,0,1,0,1,159.43,,,,,,
-21,80,Super Week,Atlanta FaZe,Florida Mutineers,Search and Destroy,Moscow,Abezy,2450,10,3,3.33,13,7,1641,Win,,,,,,,1,0,2,0,1.43,234.43,,,,,,
+21,80,Super Week,Atlanta FaZe,Florida Mutineers,Search and Destroy,Moscow,aBeZy,2450,10,3,3.33,13,7,1641,Win,,,,,,,1,0,2,0,1.43,234.43,,,,,,
 21,81,Super Week,Florida Mutineers,Atlanta FaZe,Control,Garrison,Owakening,5425,19,19,1.00,38,0,3675,Loss,,,,,,,,,,,,,1,9,5,10,8,735
 21,81,Super Week,Florida Mutineers,Atlanta FaZe,Control,Garrison,Skyz,1900,19,16,1.19,35,3,3485,Loss,,,,,,,,,,,,,2,5,1,14,4,697
 21,81,Super Week,Florida Mutineers,Atlanta FaZe,Control,Garrison,Slacked,4665,18,16,1.13,34,2,3180,Loss,,,,,,,,,,,,,3,6,3,12,7,636
@@ -646,7 +646,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 21,81,Super Week,Atlanta FaZe,Florida Mutineers,Control,Garrison,Arcitys,1925,13,19,0.68,32,-6,3191,Win,,,,,,,,,,,,,5,11,4,2,1,638.2
 21,81,Super Week,Atlanta FaZe,Florida Mutineers,Control,Garrison,Cellium,2825,19,19,1.00,38,0,4201,Win,,,,,,,,,,,,,5,10,9,9,4,840.2
 21,81,Super Week,Atlanta FaZe,Florida Mutineers,Control,Garrison,Simp,3030,22,16,1.38,38,6,4083,Win,,,,,,,,,,,,,6,13,11,9,4,816.6
-21,81,Super Week,Atlanta FaZe,Florida Mutineers,Control,Garrison,Abezy,3175,18,17,1.06,35,1,3266,Win,,,,,,,,,,,,,6,7,7,11,5,653.2
+21,81,Super Week,Atlanta FaZe,Florida Mutineers,Control,Garrison,aBeZy,3175,18,17,1.06,35,1,3266,Win,,,,,,,,,,,,,6,7,7,11,5,653.2
 21,82,Super Week,Florida Mutineers,Atlanta FaZe,Hardpoint,Moscow,Owakening,1960,24,23,1.04,47,1,4803,Loss,33,5,0,5,23,,,,,,,,,,,,,
 21,82,Super Week,Florida Mutineers,Atlanta FaZe,Hardpoint,Moscow,Skyz,3590,30,21,1.43,51,9,4645,Loss,99,25,23,39,12,,,,,,,,,,,,,
 21,82,Super Week,Florida Mutineers,Atlanta FaZe,Hardpoint,Moscow,Slacked,1325,8,20,0.40,28,-12,1977,Loss,40,17,10,6,7,,,,,,,,,,,,,
@@ -654,7 +654,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,Arcitys,1675,12,21,0.57,33,-9,3066,Win,73,12,36,0,25,,,,,,,,,,,,,
 21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,Cellium,2935,25,20,1.25,45,5,4653,Win,60,25,9,10,16,,,,,,,,,,,,,
 21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,Simp,2195,21,20,1.05,41,1,4225,Win,79,24,13,32,10,,,,,,,,,,,,,
-21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,Abezy,3085,27,22,1.23,49,5,4974,Win,73,32,23,16,2,,,,,,,,,,,,,
+21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,aBeZy,3085,27,22,1.23,49,5,4974,Win,73,32,23,16,2,,,,,,,,,,,,,
 22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Kenny,1910,25,24,1.04,49,1,4816,Win,38,22,14,0,2,,,,,,,,,,,,,
 22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,TJHaly,1665,17,20,0.85,37,-3,3603,Win,63,24,2,11,26,,,,,,,,,,,,,
 22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Slasher,2180,25,14,1.79,39,11,3541,Win,69,14,13,6,36,,,,,,,,,,,,,
@@ -769,7 +769,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Mack,425,5,8,0.63,13,-3,1294,Loss,,,,,,,0,2,0,0,0.56,143.78,,,,,,
 25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Arcitys,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
 25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Cellium,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
-25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Abezy,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,aBeZy,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
 25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Simp,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Skrapz,2865,30,24,1.25,54,6,4897,Win,52,21,11,0,20,0,,,,,,,,,,,,
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Classic,3965,30,26,1.15,56,4,5436,Win,130,2,71,17,1,39,,,,,,,,,,,,
@@ -777,7 +777,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Fire,2640,28,26,1.08,54,2,5747,Win,47,21,15,6,0,5,,,,,,,,,,,,
 25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Arcitys,650,8,6,1.33,14,2,1764,Win,,,,,,,1,2,0,0,0.73,160.36,,,,,,
 25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Cellium,1015,8,7,1.14,15,1,2072,Win,,,,,,,1,0,0,1,0.73,188.36,,,,,,
-25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Abezy,880,9,8,1.13,17,1,1649,Win,,,,,,,0,2,1,0,0.82,149.91,,,,,,
+25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,aBeZy,880,9,8,1.13,17,1,1649,Win,,,,,,,0,2,1,0,0.82,149.91,,,,,,
 25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Simp,800,9,8,1.13,17,1,1430,Win,,,,,,,1,4,1,0,0.82,130,,,,,,
 25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Skrapz,1225,8,7,1.14,15,1,1285,Loss,,,,,,,1,0,0,0,0.73,116.82,,,,,,
 25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Classic,475,5,10,0.50,15,-5,1147,Loss,,,,,,,2,1,0,0,0.45,104.27,,,,,,
@@ -785,7 +785,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Fire,775,6,9,0.67,15,-3,1728,Loss,,,,,,,2,0,1,0,0.55,157.09,,,,,,
 25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Arcitys,2265,16,24,0.67,40,-8,3678,Loss,,,,,,,,,,,,,3,8,3,8,4,919.5
 25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Cellium,3200,27,24,1.13,51,3,5554,Loss,,,,,,,,,,,,,4,11,5,16,8,1388.5
-25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Abezy,2080,12,26,0.46,38,-14,3580,Loss,,,,,,,,,,,,,4,6,2,6,2,895
+25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,aBeZy,2080,12,26,0.46,38,-14,3580,Loss,,,,,,,,,,,,,4,6,2,6,2,895
 25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Simp,3850,28,25,1.12,53,3,4925,Loss,,,,,,,,,,,,,6,17,12,11,6,1231.25
 25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Skrapz,2340,24,25,0.96,49,-1,4943,Win,,,,,,,,,,,,,5,9,4,15,10,1235.75
 25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Classic,3300,24,22,1.09,46,2,4837,Win,,,,,,,,,,,,,7,14,6,10,4,1209.25
@@ -793,7 +793,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Fire,4575,22,15,1.47,37,7,4497,Win,,,,,,,,,,,,,8,13,8,9,9,1124.25
 25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Arcitys,2315,16,14,1.14,30,2,3440,Win,126,82,2,42,0,0,,,,,,,,,,,,
 25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Cellium,2255,19,21,0.90,40,-2,3392,Win,3,0,2,1,0,0,,,,,,,,,,,,
-25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Abezy,6840,32,13,2.46,45,19,4864,Win,127,19,23,13,72,0,,,,,,,,,,,,
+25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,aBeZy,6840,32,13,2.46,45,19,4864,Win,127,19,23,13,72,0,,,,,,,,,,,,
 25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Simp,1140,12,21,0.57,33,-9,3258,Win,49,0,1,0,24,24,,,,,,,,,,,,
 25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Skrapz,1995,16,22,0.73,38,-6,3633,Loss,56,15,41,0,0,0,,,,,,,,,,,,
 25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Classic,2130,21,19,1.11,40,2,3352,Loss,30,3,6,5,12,4,,,,,,,,,,,,
@@ -801,7 +801,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Fire,1745,17,19,0.89,36,-2,3153,Loss,98,0,20,57,21,0,,,,,,,,,,,,
 25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Arcitys,550,7,7,1.00,14,0,1381,Win,,,,,,,0,2,0,0,0.7,138.1,,,,,,
 25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Cellium,900,7,6,1.17,13,1,1755,Win,,,,,,,0,1,0,1,0.7,175.5,,,,,,
-25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Abezy,1565,9,6,1.50,15,3,1643,Win,,,,,,,1,1,0,0,0.9,164.3,,,,,,
+25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,aBeZy,1565,9,6,1.50,15,3,1643,Win,,,,,,,1,1,0,0,0.9,164.3,,,,,,
 25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Simp,475,4,10,0.40,14,-6,1003,Win,,,,,,,1,4,2,0,0.4,100.3,,,,,,
 25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Skrapz,475,6,8,0.75,14,-2,1089,Loss,,,,,,,2,1,0,0,0.6,108.9,,,,,,
 25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Classic,1915,11,6,1.83,17,5,1945,Loss,,,,,,,3,1,4,0,1.1,194.5,,,,,,
@@ -1158,7 +1158,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 37,145,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Checkmate,Arcitys,2285,22,26,0.85,48,-4,4454,Win,111,28,47,15,7,14,,,,,,,,,,,,
 37,145,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Checkmate,Cellium,7410,35,21,1.67,56,14,6043,Win,38,9,0,0,29,0,,,,,,,,,,,,
 37,145,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Checkmate,Simp,3015,27,27,1.00,54,0,5284,Win,84,35,21,0,13,15,,,,,,,,,,,,
-37,145,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Checkmate,Abezy,3055,26,21,1.24,47,5,5257,Win,54,44,7,0,3,0,,,,,,,,,,,,
+37,145,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Checkmate,aBeZy,3055,26,21,1.24,47,5,5257,Win,54,44,7,0,3,0,,,,,,,,,,,,
 37,146,Major 1,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Moscow,Vivid,300,3,6,0.50,9,-3,695,Loss,,,,,,,0,1,0,1,0.33,77.22,,,,,,
 37,146,Major 1,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Moscow,Assault,405,4,7,0.57,11,-3,1454,Loss,,,,,,,0,1,0,0,0.44,161.56,,,,,,
 37,146,Major 1,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Moscow,Silly,425,5,7,0.71,12,-2,1115,Loss,,,,,,,0,2,0,0,0.56,123.89,,,,,,
@@ -1166,7 +1166,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 37,146,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Moscow,Arcitys,1075,11,5,2.20,16,6,2019,Win,,,,,,,1,1,2,0,1.22,224.33,,,,,,
 37,146,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Moscow,Cellium,565,5,5,1.00,10,0,1105,Win,,,,,,,0,0,1,0,0.56,122.78,,,,,,
 37,146,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Moscow,Simp,350,4,4,1.00,8,0,716,Win,,,,,,,1,0,0,0,0.44,79.56,,,,,,
-37,146,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Moscow,Abezy,550,8,7,1.14,15,1,1352,Win,,,,,,,5,1,0,0,0.89,150.22,,,,,,
+37,146,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Moscow,aBeZy,550,8,7,1.14,15,1,1352,Win,,,,,,,5,1,0,0,0.89,150.22,,,,,,
 37,147,Major 1,Los Angeles Guerrillas,Atlanta FaZe,Control,Garrison,Vivid,2350,28,26,1.08,54,2,4990,Loss,,,,,,,,,,,,,3,17,4,11,10,1247.5
 37,147,Major 1,Los Angeles Guerrillas,Atlanta FaZe,Control,Garrison,Assault,2925,19,21,0.90,40,-2,4372,Loss,,,,,,,,,,,,,7,11,3,8,4,1093
 37,147,Major 1,Los Angeles Guerrillas,Atlanta FaZe,Control,Garrison,Silly,2925,14,20,0.70,34,-6,3085,Loss,,,,,,,,,,,,,7,9,5,5,4,771.25
@@ -1174,7 +1174,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 37,147,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Arcitys,3540,28,17,1.65,45,11,4516,Win,,,,,,,,,,,,,3,9,2,19,11,1129
 37,147,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Cellium,2665,20,20,1.00,40,0,4432,Win,,,,,,,,,,,,,3,10,10,10,1,1108
 37,147,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Simp,2570,23,17,1.35,40,6,3715,Win,,,,,,,,,,,,,3,12,7,11,7,928.75
-37,147,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Abezy,1425,17,25,0.68,42,-8,3698,Win,,,,,,,,,,,,,1,9,5,8,2,924.5
+37,147,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,aBeZy,1425,17,25,0.68,42,-8,3698,Win,,,,,,,,,,,,,1,9,5,8,2,924.5
 38,148,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Shotzzy,2295,19,23,0.83,42,-4,3902,Win,66,26,21,12,5,2,,,,,,,,,,,,
 38,148,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Crimsix,2485,24,19,1.26,43,5,4494,Win,42,4,19,2,17,0,,,,,,,,,,,,
 38,148,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,iLLey,3650,26,16,1.63,42,10,4190,Win,52,27,2,22,1,0,,,,,,,,,,,,
@@ -1374,7 +1374,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Arcitys,2190,27,31,0.87,58,-4,5660,Win,49,18,15,1,15,,,,,,,,,,,,,
 44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Cellium,2250,29,29,1.00,58,0,5027,Win,22,4,4,14,0,,,,,,,,,,,,,
 44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Simp,4060,32,23,1.39,55,9,5581,Win,54,21,3,30,0,,,,,,,,,,,,,
-44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Abezy,2345,25,22,1.14,47,3,4098,Win,158,35,58,43,22,,,,,,,,,,,,,
+44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,aBeZy,2345,25,22,1.14,47,3,4098,Win,158,35,58,43,22,,,,,,,,,,,,,
 44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,Shotzzy,350,2,6,0.33,8,-4,523,Loss,,,,,,,0,1,2,0,0.25,65.38,,,,,,
 44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,Crimsix,625,7,6,1.17,13,1,1451,Loss,,,,,,,1,1,0,1,0.88,181.38,,,,,,
 44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,iLLey,200,2,7,0.29,9,-5,657,Loss,,,,,,,0,2,1,0,0.25,82.13,,,,,,
@@ -1382,7 +1382,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Arcitys,500,3,3,1.00,6,0,661,Win,,,,,,,0,0,1,1,0.38,82.63,,,,,,
 44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Cellium,225,2,3,0.67,5,-1,569,Win,,,,,,,0,0,0,0,0.25,71.13,,,,,,
 44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Simp,925,7,4,1.75,11,3,1485,Win,,,,,,,1,2,1,1,0.88,185.63,,,,,,
-44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Abezy,2200,14,4,3.50,18,10,1852,Win,,,,,,,5,0,1,0,1.75,231.5,,,,,,
+44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,aBeZy,2200,14,4,3.50,18,10,1852,Win,,,,,,,5,0,1,0,1.75,231.5,,,,,,
 44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,1625,16,21,0.76,37,-5,2601,Loss,,,,,,,,,,,,,2,7,2,9,5,867
 44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Crimsix,1655,18,21,0.86,39,-3,4200,Loss,,,,,,,,,,,,,1,6,3,12,10,1400
 44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,iLLey,1125,16,21,0.76,37,-5,3428,Loss,,,,,,,,,,,,,1,6,4,10,6,1142.67
@@ -1390,7 +1390,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2550,21,17,1.24,38,4,3977,Win,,,,,,,,,,,,,5,15,10,6,4,1325.67
 44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Cellium,2750,15,13,1.15,28,2,3395,Win,,,,,,,,,,,,,8,10,4,5,3,1131.67
 44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,3400,22,13,1.69,35,9,3617,Win,,,,,,,,,,,,,7,14,9,8,3,1205.67
-44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Abezy,3000,26,23,1.13,49,3,4802,Win,,,,,,,,,,,,,7,16,9,10,4,1600.67
+44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,3000,26,23,1.13,49,3,4802,Win,,,,,,,,,,,,,7,16,9,10,4,1600.67
 45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,Shotzzy,2330,24,31,0.77,55,-7,4541,Win,77,14,52,11,0,,,,,,,,,,,,,
 45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,Crimsix,3880,38,27,1.41,65,11,6332,Win,84,18,12,20,34,,,,,,,,,,,,,
 45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,iLLey,3895,31,25,1.24,56,6,5642,Win,76,31,32,13,0,,,,,,,,,,,,,
@@ -1418,7 +1418,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Arcitys,2570,24,20,1.20,44,4,3887,Win,79,27,45,0,7,,,,,,,,,,,,,
 46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Cellium,2245,23,21,1.10,44,2,4306,Win,98,31,10,39,18,,,,,,,,,,,,,
 46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Simp,2100,21,18,1.17,39,3,4286,Win,51,15,3,7,26,,,,,,,,,,,,,
-46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Abezy,2095,17,20,0.85,37,-3,4192,Win,55,28,2,5,20,,,,,,,,,,,,,
+46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,aBeZy,2095,17,20,0.85,37,-3,4192,Win,55,28,2,5,20,,,,,,,,,,,,,
 46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Shotzzy,2240,24,19,1.26,43,5,4279,Loss,36,23,3,4,6,,,,,,,,,,,,,
 46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Crimsix,1805,21,21,1.00,42,0,4285,Loss,71,12,20,39,0,,,,,,,,,,,,,
 46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,iLLey,2010,21,20,1.05,41,1,3903,Loss,47,0,36,9,2,,,,,,,,,,,,,
@@ -1426,7 +1426,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Arcitys,1075,7,4,1.75,11,3,1550,Win,,,,,,,1,1,1,2,0.78,172.22,,,,,,
 46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Cellium,1375,11,4,2.75,15,7,2135,Win,,,,,,,1,0,0,1,1.22,237.22,,,,,,
 46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Simp,740,9,7,1.29,16,2,1668,Win,,,,,,,0,0,0,0,1,185.33,,,,,,
-46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Abezy,175,3,8,0.38,11,-5,1150,Win,,,,,,,2,4,0,0,0.33,127.78,,,,,,
+46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,aBeZy,175,3,8,0.38,11,-5,1150,Win,,,,,,,2,4,0,0,0.33,127.78,,,,,,
 46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,Shotzzy,1250,11,6,1.83,17,5,2053,Loss,,,,,,,3,1,3,0,1.22,228.11,,,,,,
 46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,Crimsix,440,5,9,0.56,14,-4,1875,Loss,,,,,,,1,0,0,0,0.56,208.33,,,,,,
 46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,iLLey,450,4,7,0.57,11,-3,1454,Loss,,,,,,,0,2,0,0,0.44,161.56,,,,,,
@@ -1434,7 +1434,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Arcitys,1625,10,9,1.11,19,1,1782,Win,,,,,,,,,,,,,4,7,5,3,0,445.5
 46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Cellium,3350,17,5,3.40,22,12,2976,Win,,,,,,,,,,,,,4,6,6,11,4,744
 46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Simp,2215,15,9,1.67,24,6,2648,Win,,,,,,,,,,,,,3,7,4,8,3,662
-46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Abezy,2450,15,9,1.67,24,6,2662,Win,,,,,,,,,,,,,2,5,2,10,2,665.5
+46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,aBeZy,2450,15,9,1.67,24,6,2662,Win,,,,,,,,,,,,,2,5,2,10,2,665.5
 46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,Shotzzy,950,13,13,1.00,26,0,2415,Loss,,,,,,,,,,,,,0,7,2,6,3,603.75
 46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,Crimsix,675,7,14,0.50,21,-7,2329,Loss,,,,,,,,,,,,,0,3,2,4,1,582.25
 46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,iLLey,425,5,15,0.33,20,-10,1505,Loss,,,,,,,,,,,,,0,2,1,3,0,376.25
@@ -1442,7 +1442,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Arcitys,2220,16,23,0.70,39,-7,3261,Loss,18,3,0,3,6,6,,,,,,,,,,,,
 46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Cellium,1995,21,24,0.88,45,-3,4428,Loss,46,15,7,1,23,0,,,,,,,,,,,,
 46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Simp,1175,13,24,0.54,37,-11,3014,Loss,25,2,2,0,20,1,,,,,,,,,,,,
-46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Abezy,1625,21,25,0.84,46,-4,3557,Loss,33,11,0,11,9,2,,,,,,,,,,,,
+46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,aBeZy,1625,21,25,0.84,46,-4,3557,Loss,33,11,0,11,9,2,,,,,,,,,,,,
 46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Shotzzy,2060,21,19,1.11,40,2,4221,Win,76,10,49,0,1,16,,,,,,,,,,,,
 46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Crimsix,2185,24,19,1.26,43,5,4638,Win,49,7,17,12,13,0,,,,,,,,,,,,
 46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,iLLey,2635,22,18,1.22,40,4,3974,Win,102,0,39,61,2,0,,,,,,,,,,,,
@@ -1450,7 +1450,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Arcitys,440,3,3,1.00,6,0,778,Win,,,,,,,0,0,0,0,0.43,111.14,,,,,,
 46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Cellium,550,7,5,1.40,12,2,1427,Win,,,,,,,1,0,0,0,1,203.86,,,,,,
 46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Simp,1450,9,3,3.00,12,6,1331,Win,,,,,,,3,0,1,0,1.29,190.14,,,,,,
-46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Abezy,1150,7,4,1.75,11,3,1158,Win,,,,,,,3,0,0,1,1,165.43,,,,,,
+46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,aBeZy,1150,7,4,1.75,11,3,1158,Win,,,,,,,3,0,0,1,1,165.43,,,,,,
 46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Shotzzy,415,1,7,0.14,8,-6,659,Loss,,,,,,,0,2,2,0,0.14,94.14,,,,,,
 46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Crimsix,150,3,6,0.50,9,-3,886,Loss,,,,,,,0,1,0,0,0.43,126.57,,,,,,
 46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,iLLey,475,7,7,1.00,14,0,1047,Loss,,,,,,,0,2,0,0,1,149.57,,,,,,
@@ -1458,7 +1458,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2125,15,19,0.79,34,-4,3286,Loss,,,,,,,,,,,,,5,10,3,5,3,1095.33
 46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Cellium,2390,15,15,1.00,30,0,2500,Loss,,,,,,,,,,,,,6,12,7,3,1,833.33
 46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,2790,17,17,1.00,34,0,3012,Loss,,,,,,,,,,,,,4,15,4,2,0,1004
-46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Abezy,1200,14,22,0.64,36,-8,3323,Loss,,,,,,,,,,,,,2,10,2,4,0,1107.67
+46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,1200,14,22,0.64,36,-8,3323,Loss,,,,,,,,,,,,,2,10,2,4,0,1107.67
 46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,1375,14,19,0.74,33,-5,2738,Win,,,,,,,,,,,,,3,1,0,13,4,912.67
 46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Crimsix,1275,17,12,1.42,29,5,3248,Win,,,,,,,,,,,,,2,6,1,11,4,1082.67
 46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,iLLey,2550,22,16,1.38,38,6,4174,Win,,,,,,,,,,,,,5,6,3,16,2,1391.33
@@ -1466,7 +1466,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Arcitys,700,3,4,0.75,7,-1,219,Win,,,,,,,0,1,3,0,0.38,27.38,,,,,,
 46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Cellium,300,2,3,0.67,5,-1,623,Win,,,,,,,1,0,0,0,0.25,77.88,,,,,,
 46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Simp,2100,12,3,4.00,15,9,1852,Win,,,,,,,1,0,0,0,1.5,231.5,,,,,,
-46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Abezy,475,8,7,1.14,15,1,1834,Win,,,,,,,3,2,0,0,1,229.25,,,,,,
+46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,aBeZy,475,8,7,1.14,15,1,1834,Win,,,,,,,3,2,0,0,1,229.25,,,,,,
 46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Shotzzy,355,3,7,0.43,10,-4,696,Loss,,,,,,,2,2,0,0,0.38,87,,,,,,
 46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Crimsix,640,8,6,1.33,14,2,1596,Loss,,,,,,,0,0,1,0,1,199.5,,,,,,
 46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,iLLey,375,3,5,0.60,8,-2,1002,Loss,,,,,,,0,1,0,0,0.38,125.25,,,,,,
@@ -1474,7 +1474,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 47,185,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Arcitys,2255,26,22,1.18,48,4,5041,Win,32,9,5,13,0,5,,,,,,,,,,,,
 47,185,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Cellium,1895,20,18,1.11,38,2,3995,Win,88,15,29,0,44,0,,,,,,,,,,,,
 47,185,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Simp,5975,36,20,1.80,56,16,5176,Win,40,1,9,16,9,5,,,,,,,,,,,,
-47,185,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Abezy,2380,22,18,1.22,40,4,4400,Win,136,10,34,63,0,29,,,,,,,,,,,,
+47,185,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,aBeZy,2380,22,18,1.22,40,4,4400,Win,136,10,34,63,0,29,,,,,,,,,,,,
 47,185,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Garrison,Asim,2500,23,20,1.15,43,3,4745,Loss,88,0,42,9,31,6,,,,,,,,,,,,
 47,185,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Garrison,Clayster,1935,21,31,0.68,52,-10,3924,Loss,17,1,1,0,13,2,,,,,,,,,,,,
 47,185,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Garrison,Diamondcon,1515,20,28,0.71,48,-8,4178,Loss,44,13,17,0,3,11,,,,,,,,,,,,
@@ -1482,7 +1482,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 47,186,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,Arcitys,550,4,9,0.44,13,-5,1523,Loss,,,,,,,0,2,1,0,0.36,138.45,,,,,,
 47,186,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,Cellium,1550,6,6,1.00,12,0,1554,Loss,,,,,,,2,2,1,1,0.55,141.27,,,,,,
 47,186,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,Simp,740,10,8,1.25,18,2,1992,Loss,,,,,,,1,1,0,0,0.91,181.09,,,,,,
-47,186,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,Abezy,1625,12,8,1.50,20,4,2171,Loss,,,,,,,1,2,1,1,1.09,197.36,,,,,,
+47,186,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,aBeZy,1625,12,8,1.50,20,4,2171,Loss,,,,,,,1,2,1,1,1.09,197.36,,,,,,
 47,186,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Express,Asim,875,4,10,0.40,14,-6,1513,Win,,,,,,,0,0,4,0,0.36,137.55,,,,,,
 47,186,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Express,Clayster,615,7,9,0.78,16,-2,1412,Win,,,,,,,3,3,0,0,0.64,128.36,,,,,,
 47,186,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Express,Diamondcon,1000,8,7,1.14,15,1,1552,Win,,,,,,,2,1,1,1,0.73,141.09,,,,,,
@@ -1490,7 +1490,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 47,187,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Control,Raid,Arcitys,2915,21,23,0.91,44,-2,4210,Win,,,,,,,,,,,,,8,12,7,9,4,1052.5
 47,187,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Control,Raid,Cellium,2730,26,23,1.13,49,3,4910,Win,,,,,,,,,,,,,5,15,5,11,5,1227.5
 47,187,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Control,Raid,Simp,4165,26,23,1.13,49,3,4971,Win,,,,,,,,,,,,,9,14,5,12,5,1242.75
-47,187,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Control,Raid,Abezy,5125,28,24,1.17,52,4,5314,Win,,,,,,,,,,,,,10,16,11,12,5,1328.5
+47,187,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Control,Raid,aBeZy,5125,28,24,1.17,52,4,5314,Win,,,,,,,,,,,,,10,16,11,12,5,1328.5
 47,187,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Control,Raid,Asim,4075,30,23,1.30,53,7,5266,Loss,,,,,,,,,,,,,6,16,8,14,4,1316.5
 47,187,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Control,Raid,Clayster,2275,20,29,0.69,49,-9,3197,Loss,,,,,,,,,,,,,7,8,5,12,5,799.25
 47,187,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Control,Raid,Diamondcon,3400,18,22,0.82,40,-4,3675,Loss,,,,,,,,,,,,,9,6,4,12,8,918.75
@@ -1498,7 +1498,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 47,188,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,Arcitys,1730,22,23,0.96,45,-1,4908,Win,44,0,24,17,3,0,,,,,,,,,,,,
 47,188,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,Cellium,3330,28,19,1.47,47,9,5480,Win,81,7,0,0,57,17,,,,,,,,,,,,
 47,188,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,Simp,3540,21,18,1.17,39,3,3739,Win,68,22,43,0,0,3,,,,,,,,,,,,
-47,188,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,Abezy,2220,29,20,1.45,49,9,4248,Win,99,11,21,23,26,18,,,,,,,,,,,,
+47,188,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,aBeZy,2220,29,20,1.45,49,9,4248,Win,99,11,21,23,26,18,,,,,,,,,,,,
 47,188,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Apocalypse,Asim,2955,24,20,1.20,44,4,4528,Loss,105,17,0,35,33,20,,,,,,,,,,,,
 47,188,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Apocalypse,Clayster,1805,22,29,0.76,51,-7,4589,Loss,38,18,12,7,0,1,,,,,,,,,,,,
 47,188,Stage 2 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Apocalypse,Diamondcon,1450,16,23,0.70,39,-7,3691,Loss,44,1,0,0,17,26,,,,,,,,,,,,
@@ -1726,7 +1726,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 55,216,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Arcitys,3080,29,19,1.53,48,10,5348,Win,40,0,0,22,15,3,,,,,,,,,,,,
 55,216,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Cellium,2125,24,20,1.20,44,4,4345,Win,61,1,28,13,10,9,,,,,,,,,,,,
 55,216,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Simp,3160,24,16,1.50,40,8,4199,Win,94,25,28,20,21,0,,,,,,,,,,,,
-55,216,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Abezy,1800,20,18,1.11,38,2,3903,Win,79,14,7,38,2,18,,,,,,,,,,,,
+55,216,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,aBeZy,1800,20,18,1.11,38,2,3903,Win,79,14,7,38,2,18,,,,,,,,,,,,
 55,217,Stage 2 Week 1,Toronto Ultra,Atlanta FaZe,Search and Destroy,Moscow,Cammy,415,5,7,0.71,12,-2,1038,Loss,,,,,,,0,3,0,0,0.56,115.33,,,,,,
 55,217,Stage 2 Week 1,Toronto Ultra,Atlanta FaZe,Search and Destroy,Moscow,Bance,800,8,9,0.89,17,-1,1287,Loss,,,,,,,3,0,1,0,0.89,143,,,,,,
 55,217,Stage 2 Week 1,Toronto Ultra,Atlanta FaZe,Search and Destroy,Moscow,Insight,325,5,6,0.83,11,-1,1362,Loss,,,,,,,1,1,0,0,0.56,151.33,,,,,,
@@ -1734,7 +1734,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 55,217,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,Arcitys,450,4,7,0.57,11,-3,1308,Win,,,,,,,1,1,1,0,0.44,145.33,,,,,,
 55,217,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,Cellium,1640,11,6,1.83,17,5,1616,Win,,,,,,,1,0,0,0,1.22,179.56,,,,,,
 55,217,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,Simp,1400,10,4,2.50,14,6,1412,Win,,,,,,,1,1,1,1,1.11,156.89,,,,,,
-55,217,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,Abezy,425,5,6,0.83,11,-1,1247,Win,,,,,,,1,3,0,0,0.56,138.56,,,,,,
+55,217,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,aBeZy,425,5,6,0.83,11,-1,1247,Win,,,,,,,1,3,0,0,0.56,138.56,,,,,,
 55,218,Stage 2 Week 1,Toronto Ultra,Atlanta FaZe,Control,Raid,Cammy,,23,22,1.05,45,1,,Loss,,,,,,,,,,,,,,,,,,
 55,218,Stage 2 Week 1,Toronto Ultra,Atlanta FaZe,Control,Raid,Bance,,15,27,0.56,42,-12,,Loss,,,,,,,,,,,,,,,,,,
 55,218,Stage 2 Week 1,Toronto Ultra,Atlanta FaZe,Control,Raid,Insight,,14,20,0.70,34,-6,,Loss,,,,,,,,,,,,,,,,,,
@@ -1742,7 +1742,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 55,218,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Control,Raid,Arcitys,,23,16,1.44,39,7,,Win,,,,,,,,,,,,,,,,,,
 55,218,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Control,Raid,Cellium,,15,14,1.07,29,1,,Win,,,,,,,,,,,,,,,,,,
 55,218,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Control,Raid,Simp,,30,21,1.43,51,9,,Win,,,,,,,,,,,,,,,,,,
-55,218,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Control,Raid,Abezy,,25,14,1.79,39,11,,Win,,,,,,,,,,,,,,,,,,
+55,218,Stage 2 Week 1,Atlanta FaZe,Toronto Ultra,Control,Raid,aBeZy,,25,14,1.79,39,11,,Win,,,,,,,,,,,,,,,,,,
 56,219,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Checkmate,Asim,2675,26,26,1.00,52,0,5081,Loss,41,10,1,0,19,11,,,,,,,,,,,,
 56,219,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Checkmate,Clayster,2435,27,28,0.96,55,-1,5531,Loss,44,2,3,21,8,10,,,,,,,,,,,,
 56,219,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Checkmate,Diamondcon,2495,28,24,1.17,52,4,4999,Loss,102,7,10,37,26,22,,,,,,,,,,,,
@@ -1942,7 +1942,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Arcitys,2810,17,15,1.13,32,2,3978,Win,95,1,30,27,34,3,,,,,,,,,,,,
 62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Cellium,2125,23,18,1.28,41,5,4778,Win,45,21,0,1,8,15,,,,,,,,,,,,
 62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Simp,3240,28,20,1.40,48,8,4891,Win,58,2,18,28,9,1,,,,,,,,,,,,
-62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Abezy,2975,30,18,1.67,48,12,4376,Win,79,23,11,36,9,0,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,aBeZy,2975,30,18,1.67,48,12,4376,Win,79,23,11,36,9,0,,,,,,,,,,,,
 62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Kenny,1300,8,6,1.33,14,2,1616,Loss,,,,,,,1,0,0,0,0.89,179.56,,,,,,
 62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,TJHaly,325,4,8,0.50,12,-4,598,Loss,,,,,,,2,4,0,0,0.44,66.44,,,,,,
 62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Slasher,525,4,6,0.67,10,-2,1637,Loss,,,,,,,0,0,1,1,0.44,181.89,,,,,,
@@ -1950,7 +1950,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Arcitys,825,6,7,0.86,13,-1,1581,Win,,,,,,,3,1,2,0,0.67,175.67,,,,,,
 62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Cellium,2100,8,3,2.67,11,5,1640,Win,,,,,,,0,1,1,0,0.89,182.22,,,,,,
 62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Simp,680,3,6,0.50,9,-3,874,Win,,,,,,,1,0,2,0,0.33,97.11,,,,,,
-62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Abezy,1250,9,5,1.80,14,4,1604,Win,,,,,,,2,2,0,0,1,178.22,,,,,,
+62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,aBeZy,1250,9,5,1.80,14,4,1604,Win,,,,,,,2,2,0,0,1,178.22,,,,,,
 62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,Kenny,960,10,19,0.53,29,-9,2897,Loss,,,,,,,,,,,,,0,5,5,5,1,965.67
 62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,TJHaly,680,9,20,0.45,29,-11,1767,Loss,,,,,,,,,,,,,0,2,0,7,5,589
 62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,Slasher,1545,16,16,1.00,32,0,3198,Loss,,,,,,,,,,,,,0,3,3,13,6,1066
@@ -1958,7 +1958,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Arcitys,4775,27,11,2.45,38,16,3749,Win,,,,,,,,,,,,,6,20,10,7,9,1249.67
 62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Cellium,2895,18,11,1.64,29,7,3459,Win,,,,,,,,,,,,,5,13,10,5,5,1153
 62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Simp,1925,9,15,0.60,24,-6,2223,Win,,,,,,,,,,,,,5,7,4,2,2,741
-62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Abezy,2640,23,14,1.64,37,9,4391,Win,,,,,,,,,,,,,3,20,12,3,3,1463.67
+62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,aBeZy,2640,23,14,1.64,37,9,4391,Win,,,,,,,,,,,,,3,20,12,3,3,1463.67
 63,246,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Checkmate,Vivid,1800,25,30,0.83,55,-5,5690,Loss,38,0,31,0,7,0,,,,,,,,,,,,
 63,246,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Checkmate,Assault,1785,20,26,0.77,46,-6,4331,Loss,65,13,32,6,12,2,,,,,,,,,,,,
 63,246,Stage 2 Week 2,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Checkmate,Silly,1965,23,26,0.88,49,-3,4632,Loss,32,9,0,2,8,13,,,,,,,,,,,,
@@ -2166,7 +2166,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 70,271,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Moscow,Arcitys,1715,21,22,0.95,43,-1,4065,Win,30,3,14,6,7,,,,,,,,,,,,,
 70,271,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Moscow,Cellium,2055,17,16,1.06,33,1,3389,Win,145,87,43,6,9,,,,,,,,,,,,,
 70,271,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Moscow,Simp,2585,25,16,1.56,41,9,4871,Win,48,14,32,0,2,,,,,,,,,,,,,
-70,271,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Moscow,Abezy,1675,24,19,1.26,43,5,4309,Win,57,19,22,15,1,,,,,,,,,,,,,
+70,271,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Moscow,aBeZy,1675,24,19,1.26,43,5,4309,Win,57,19,22,15,1,,,,,,,,,,,,,
 70,272,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Miami,Vivid,1055,8,3,2.67,11,5,1498,Win,,,,,,,2,1,0,2,1,187.25,,,,,,
 70,272,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Miami,Assault,250,2,5,0.40,7,-3,838,Win,,,,,,,1,0,1,0,0.25,104.75,,,,,,
 70,272,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Miami,Silly,475,5,2,2.50,7,3,1075,Win,,,,,,,2,1,0,0,0.63,134.38,,,,,,
@@ -2174,7 +2174,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 70,272,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Miami,Arcitys,325,4,8,0.50,12,-4,909,Loss,,,,,,,1,0,1,0,0.5,113.63,,,,,,
 70,272,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Miami,Cellium,125,2,5,0.40,7,-3,877,Loss,,,,,,,0,2,0,0,0.25,109.63,,,,,,
 70,272,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Miami,Simp,500,5,6,0.83,11,-1,1887,Loss,,,,,,,1,2,1,0,0.63,235.88,,,,,,
-70,272,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Miami,Abezy,175,2,6,0.33,8,-4,519,Loss,,,,,,,0,2,0,0,0.25,64.88,,,,,,
+70,272,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Miami,aBeZy,175,2,6,0.33,8,-4,519,Loss,,,,,,,0,2,0,0,0.25,64.88,,,,,,
 70,273,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Control,Checkmate,Vivid,1955,20,29,0.69,49,-9,4534,Loss,,,,,,,,,,,,,1,7,5,13,8,906.8
 70,273,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Control,Checkmate,Assault,2620,26,24,1.08,50,2,5273,Loss,,,,,,,,,,,,,3,13,2,13,10,1054.6
 70,273,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Control,Checkmate,Silly,3330,22,22,1.00,44,0,4291,Loss,,,,,,,,,,,,,5,13,11,9,5,858.2
@@ -2182,7 +2182,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 70,273,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Control,Checkmate,Arcitys,2805,17,20,0.85,37,-3,3812,Win,,,,,,,,,,,,,4,5,5,12,4,762.4
 70,273,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Control,Checkmate,Cellium,3315,31,19,1.63,50,12,5460,Win,,,,,,,,,,,,,1,12,9,19,11,1092
 70,273,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Control,Checkmate,Simp,3250,24,21,1.14,45,3,4613,Win,,,,,,,,,,,,,3,9,5,15,11,922.6
-70,273,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Control,Checkmate,Abezy,2150,26,25,1.04,51,1,5724,Win,,,,,,,,,,,,,1,10,5,16,8,1144.8
+70,273,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Control,Checkmate,aBeZy,2150,26,25,1.04,51,1,5724,Win,,,,,,,,,,,,,1,10,5,16,8,1144.8
 70,274,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Apocalypse,Vivid,2810,19,16,1.19,35,3,3700,Win,82,48,27,0,7,0,,,,,,,,,,,,
 70,274,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Apocalypse,Assault,2375,19,14,1.36,33,5,3254,Win,64,14,20,30,0,0,,,,,,,,,,,,
 70,274,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Hardpoint,Apocalypse,Silly,2330,21,12,1.75,33,9,3420,Win,72,22,3,35,12,0,,,,,,,,,,,,
@@ -2190,7 +2190,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 70,274,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Apocalypse,Arcitys,1080,15,19,0.79,34,-4,2892,Loss,29,5,0,0,0,24,,,,,,,,,,,,
 70,274,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Apocalypse,Cellium,1545,18,18,1.00,36,0,3591,Loss,48,0,0,0,35,13,,,,,,,,,,,,
 70,274,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Apocalypse,Simp,2265,13,20,0.65,33,-7,2993,Loss,77,0,37,1,0,39,,,,,,,,,,,,
-70,274,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Apocalypse,Abezy,1150,15,20,0.75,35,-5,2988,Loss,32,0,7,0,25,0,,,,,,,,,,,,
+70,274,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Hardpoint,Apocalypse,aBeZy,1150,15,20,0.75,35,-5,2988,Loss,32,0,7,0,25,0,,,,,,,,,,,,
 70,275,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Express,Vivid,1200,8,4,2.00,12,4,1270,Win,,,,,,,1,0,0,1,1.33,211.67,,,,,,
 70,275,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Express,Assault,575,4,3,1.33,7,1,938,Win,,,,,,,1,0,0,0,0.67,156.33,,,,,,
 70,275,Stage 2 Week 3,Los Angeles Guerrillas,Atlanta FaZe,Search and Destroy,Express,Silly,1550,8,1,8.00,9,7,1298,Win,,,,,,,1,0,0,1,1.33,216.33,,,,,,
@@ -2198,7 +2198,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 70,275,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Express,Arcitys,250,4,6,0.67,10,-2,975,Loss,,,,,,,0,2,0,0,0.67,162.5,,,,,,
 70,275,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Express,Cellium,75,1,6,0.17,7,-5,404,Loss,,,,,,,0,1,0,0,0.17,67.33,,,,,,
 70,275,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Express,Simp,550,3,6,0.50,9,-3,671,Loss,,,,,,,0,1,2,0,0.5,111.83,,,,,,
-70,275,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Express,Abezy,50,1,6,0.17,7,-5,634,Loss,,,,,,,0,2,0,0,0.17,105.67,,,,,,
+70,275,Stage 2 Week 3,Atlanta FaZe,Los Angeles Guerrillas,Search and Destroy,Express,aBeZy,50,1,6,0.17,7,-5,634,Loss,,,,,,,0,2,0,0,0.17,105.67,,,,,,
 71,276,Stage 2 Week 3,Florida Mutineers,Paris Legion,Hardpoint,Checkmate,Owakening,2045,20,28,0.71,48,-8,4914,Loss,30,12,0,15,3,0,,,,,,,,,,,,
 71,276,Stage 2 Week 3,Florida Mutineers,Paris Legion,Hardpoint,Checkmate,Skyz,3080,33,28,1.18,61,5,4824,Loss,66,7,25,6,0,28,,,,,,,,,,,,
 71,276,Stage 2 Week 3,Florida Mutineers,Paris Legion,Hardpoint,Checkmate,Slacked,2545,22,28,0.79,50,-6,4994,Loss,76,50,2,11,1,12,,,,,,,,,,,,
@@ -2306,7 +2306,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,Arcitys,8145,30,18,1.67,48,12,4386,Win,91,0,58,20,2,11,,,,,,,,,,,,
 74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,Cellium,2890,22,13,1.69,35,9,4460,Win,71,28,0,30,7,6,,,,,,,,,,,,
 74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,Simp,2220,24,16,1.50,40,8,4551,Win,40,14,11,1,11,3,,,,,,,,,,,,
-74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,Abezy,2450,28,24,1.17,52,4,4816,Win,69,8,11,8,29,13,,,,,,,,,,,,
+74,289,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Hardpoint,Garrison,aBeZy,2450,28,24,1.17,52,4,4816,Win,69,8,11,8,29,13,,,,,,,,,,,,
 74,289,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Hardpoint,Garrison,Dylan,1245,13,34,0.38,47,-21,3147,Loss,31,2,9,12,6,2,,,,,,,,,,,,
 74,289,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Hardpoint,Garrison,PaulEhx,1430,15,27,0.56,42,-12,4159,Loss,11,0,3,0,5,3,,,,,,,,,,,,
 74,289,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Hardpoint,Garrison,Seany,2345,24,19,1.26,43,5,4609,Loss,54,6,29,5,9,5,,,,,,,,,,,,
@@ -2314,7 +2314,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,Arcitys,,8,4,2.00,12,4,,Win,,,,,,,,,,,,,,,,,,
 74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,Cellium,,7,4,1.75,11,3,,Win,,,,,,,,,,,,,,,,,,
 74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,Simp,,8,7,1.14,15,1,,Win,,,,,,,,,,,,,,,,,,
-74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,Abezy,,9,6,1.50,15,3,,Win,,,,,,,,,,,,,,,,,,
+74,290,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Search and Destroy,Express,aBeZy,,9,6,1.50,15,3,,Win,,,,,,,,,,,,,,,,,,
 74,290,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Search and Destroy,Express,Dylan,340,2,9,0.22,11,-7,528,Loss,,,,,,,0,4,1,0,0.22,58.67,,,,,,
 74,290,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Search and Destroy,Express,PaulEhx,965,10,8,1.25,18,2,2287,Loss,,,,,,,1,0,0,0,1.11,254.11,,,,,,
 74,290,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Search and Destroy,Express,Seany,415,4,8,0.50,12,-4,926,Loss,,,,,,,1,1,0,0,0.44,102.89,,,,,,
@@ -2322,7 +2322,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,Arcitys,2125,17,14,1.21,31,3,3691,Win,,,,,,,,,,,,,4,6,5,11,6,1230.33
 74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,Cellium,2065,14,15,0.93,29,-1,3097,Win,,,,,,,,,,,,,4,1,0,13,7,1032.33
 74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,Simp,2730,19,16,1.19,35,3,3787,Win,,,,,,,,,,,,,2,5,4,14,6,1262.33
-74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,Abezy,3625,26,16,1.63,42,10,3437,Win,,,,,,,,,,,,,5,7,7,19,17,1145.67
+74,291,Stage 2 Week 3,Atlanta FaZe,London Royal Ravens,Control,Garrison,aBeZy,3625,26,16,1.63,42,10,3437,Win,,,,,,,,,,,,,5,7,7,19,17,1145.67
 74,291,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Control,Garrison,Dylan,2390,15,20,0.75,35,-5,2726,Loss,,,,,,,,,,,,,6,13,9,2,1,908.67
 74,291,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Control,Garrison,PaulEhx,1380,14,20,0.70,34,-6,3068,Loss,,,,,,,,,,,,,3,10,3,4,3,1022.67
 74,291,Stage 2 Week 3,London Royal Ravens,Atlanta FaZe,Control,Garrison,Seany,1995,14,18,0.78,32,-4,2887,Loss,,,,,,,,,,,,,4,12,8,2,2,962.33
@@ -2610,7 +2610,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 84,327,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Moscow,Arcitys,1555,16,20,0.80,36,-4,3551,Win,61,8,5,17,31,,,,,,,,,,,,,
 84,327,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Moscow,Cellium,3080,20,14,1.43,34,6,3099,Win,81,12,27,37,5,,,,,,,,,,,,,
 84,327,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Moscow,Simp,1970,19,16,1.19,35,3,3927,Win,62,4,21,0,37,,,,,,,,,,,,,
-84,327,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Moscow,Abezy,3680,27,13,2.08,40,14,3901,Win,87,37,36,10,4,,,,,,,,,,,,,
+84,327,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Moscow,aBeZy,3680,27,13,2.08,40,14,3901,Win,87,37,36,10,4,,,,,,,,,,,,,
 84,327,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Moscow,Cammy,1170,16,22,0.73,38,-6,3118,Loss,24,8,6,10,0,,,,,,,,,,,,,
 84,327,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Moscow,Bance,1535,16,20,0.80,36,-4,3241,Loss,40,37,2,1,0,,,,,,,,,,,,,
 84,327,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Moscow,Insight,1445,15,16,0.94,31,-1,3641,Loss,44,4,0,21,19,,,,,,,,,,,,,
@@ -2618,7 +2618,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 84,328,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,Arcitys,375,3,7,0.43,10,-4,1301,Loss,,,,,,,0,1,1,0,0.38,162.63,,,,,,
 84,328,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,Cellium,240,0,6,0.00,6,-6,387,Loss,,,,,,,0,0,0,1,0,48.38,,,,,,
 84,328,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,Simp,275,5,6,0.83,11,-1,935,Loss,,,,,,,1,0,0,0,0.63,116.88,,,,,,
-84,328,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,Abezy,690,8,6,1.33,14,2,1340,Loss,,,,,,,4,2,0,1,1,167.5,,,,,,
+84,328,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Raid,aBeZy,690,8,6,1.33,14,2,1340,Loss,,,,,,,4,2,0,1,1,167.5,,,,,,
 84,328,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Raid,Cammy,390,6,4,1.50,10,2,1239,Win,,,,,,,0,0,0,0,0.75,154.88,,,,,,
 84,328,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Raid,Bance,1025,7,4,1.75,11,3,1030,Win,,,,,,,1,1,3,0,0.88,128.75,,,,,,
 84,328,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Raid,Insight,955,8,3,2.67,11,5,1237,Win,,,,,,,1,1,0,1,1,154.63,,,,,,
@@ -2626,7 +2626,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 84,329,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,Arcitys,2265,12,11,1.09,23,1,2175,Win,,,,,,,,,,,,,6,3,2,9,3,725
 84,329,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,Cellium,3770,19,11,1.73,30,8,2847,Win,,,,,,,,,,,,,5,5,3,14,11,949
 84,329,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,Simp,3950,20,7,2.86,27,13,3640,Win,,,,,,,,,,,,,4,4,1,16,7,1213.33
-84,329,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,Abezy,3075,21,12,1.75,33,9,3063,Win,,,,,,,,,,,,,4,6,3,15,7,1021
+84,329,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,aBeZy,3075,21,12,1.75,33,9,3063,Win,,,,,,,,,,,,,4,6,3,15,7,1021
 84,329,Major 2,Toronto Ultra,Atlanta FaZe,Control,Raid,Cammy,1425,10,20,0.50,30,-10,2332,Loss,,,,,,,,,,,,,3,8,4,2,1,777.33
 84,329,Major 2,Toronto Ultra,Atlanta FaZe,Control,Raid,Bance,1725,12,18,0.67,30,-6,2151,Loss,,,,,,,,,,,,,3,7,4,5,2,717
 84,329,Major 2,Toronto Ultra,Atlanta FaZe,Control,Raid,Insight,1800,9,15,0.60,24,-6,2012,Loss,,,,,,,,,,,,,5,7,2,2,2,670.67
@@ -2634,7 +2634,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 84,330,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,Arcitys,1850,22,23,0.96,45,-1,4488,Win,40,13,6,2,0,19,,,,,,,,,,,,
 84,330,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,Cellium,3485,25,24,1.04,49,1,4717,Win,110,22,0,2,12,74,,,,,,,,,,,,
 84,330,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,Simp,2645,21,21,1.00,42,0,3892,Win,81,5,38,1,32,5,,,,,,,,,,,,
-84,330,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,Abezy,4225,35,30,1.17,65,5,6402,Win,78,23,13,3,31,8,,,,,,,,,,,,
+84,330,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,aBeZy,4225,35,30,1.17,65,5,6402,Win,78,23,13,3,31,8,,,,,,,,,,,,
 84,330,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,Cammy,1780,21,28,0.75,49,-7,5101,Loss,32,7,0,11,14,0,,,,,,,,,,,,
 84,330,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,Bance,2545,25,25,1.00,50,0,4906,Loss,87,27,3,19,38,0,,,,,,,,,,,,
 84,330,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,Insight,2595,27,22,1.23,49,5,4650,Loss,90,44,33,13,0,0,,,,,,,,,,,,
@@ -2762,7 +2762,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 89,346,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Arcitys,2500,30,18,1.67,48,12,4653,Win,51,11,3,30,6,1,,,,,,,,,,,,
 89,346,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Cellium,5040,27,18,1.50,45,9,5425,Win,64,18,29,0,17,0,,,,,,,,,,,,
 89,346,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Simp,4155,25,15,1.67,40,10,4280,Win,80,14,6,19,23,18,,,,,,,,,,,,
-89,346,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Abezy,2100,23,25,0.92,48,-2,4484,Win,80,38,0,20,0,22,,,,,,,,,,,,
+89,346,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,aBeZy,2100,23,25,0.92,48,-2,4484,Win,80,38,0,20,0,22,,,,,,,,,,,,
 89,346,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Shotzzy,2150,19,24,0.79,43,-5,4055,Loss,82,7,54,3,5,13,,,,,,,,,,,,
 89,346,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Crimsix,1375,16,28,0.57,44,-12,3809,Loss,21,7,2,5,4,3,,,,,,,,,,,,
 89,346,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,iLLey,2135,20,25,0.80,45,-5,3987,Loss,69,9,18,5,22,15,,,,,,,,,,,,
@@ -2770,7 +2770,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 89,347,Major 2,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Arcitys,425,5,7,0.71,12,-2,1503,Loss,,,,,,,1,0,0,0,0.63,187.88,,,,,,
 89,347,Major 2,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Cellium,425,5,7,0.71,12,-2,1223,Loss,,,,,,,1,0,0,0,0.63,152.88,,,,,,
 89,347,Major 2,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Simp,425,2,8,0.25,10,-6,889,Loss,,,,,,,0,4,1,0,0.25,111.13,,,,,,
-89,347,Major 2,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Abezy,550,5,7,0.71,12,-2,1265,Loss,,,,,,,0,2,2,0,0.63,158.13,,,,,,
+89,347,Major 2,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,aBeZy,550,5,7,0.71,12,-2,1265,Loss,,,,,,,0,2,2,0,0.63,158.13,,,,,,
 89,347,Major 2,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,Shotzzy,700,8,6,1.33,14,2,1236,Win,,,,,,,3,0,0,0,1,154.5,,,,,,
 89,347,Major 2,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,Crimsix,825,9,3,3.00,12,6,1781,Win,,,,,,,1,0,0,1,1.13,222.63,,,,,,
 89,347,Major 2,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,iLLey,730,5,4,1.25,9,1,1462,Win,,,,,,,1,0,1,0,0.63,182.75,,,,,,
@@ -2778,7 +2778,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 89,348,Major 2,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2025,18,13,1.38,31,5,2909,Win,,,,,,,,,,,,,3,5,2,13,7,969.67
 89,348,Major 2,Atlanta FaZe,Dallas Empire,Control,Raid,Cellium,7725,25,11,2.27,36,14,4202,Win,,,,,,,,,,,,,6,11,8,14,7,1400.67
 89,348,Major 2,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,2225,18,20,0.90,38,-2,3962,Win,,,,,,,,,,,,,4,4,2,14,8,1320.67
-89,348,Major 2,Atlanta FaZe,Dallas Empire,Control,Raid,Abezy,1700,15,24,0.63,39,-9,3454,Win,,,,,,,,,,,,,3,4,1,11,3,1151.33
+89,348,Major 2,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,1700,15,24,0.63,39,-9,3454,Win,,,,,,,,,,,,,3,4,1,11,3,1151.33
 89,348,Major 2,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,1890,22,18,1.22,40,4,3724,Loss,,,,,,,,,,,,,2,19,9,3,3,1241.33
 89,348,Major 2,Dallas Empire,Atlanta FaZe,Control,Raid,Crimsix,2830,15,17,0.88,32,-2,3394,Loss,,,,,,,,,,,,,7,9,5,6,1,1131.33
 89,348,Major 2,Dallas Empire,Atlanta FaZe,Control,Raid,iLLey,2950,16,20,0.80,36,-4,3529,Loss,,,,,,,,,,,,,7,11,6,5,2,1176.33
@@ -2786,7 +2786,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 89,349,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Arcitys,2435,28,28,1.00,56,0,5540,Win,49,5,35,1,3,5,,,,,,,,,,,,
 89,349,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Cellium,3080,28,25,1.12,53,3,5386,Win,70,21,0,5,31,13,,,,,,,,,,,,
 89,349,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Simp,4115,26,18,1.44,44,8,4773,Win,74,5,9,2,15,43,,,,,,,,,,,,
-89,349,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Abezy,2985,29,29,1.00,58,0,5282,Win,93,0,19,19,51,4,,,,,,,,,,,,
+89,349,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,aBeZy,2985,29,29,1.00,58,0,5282,Win,93,0,19,19,51,4,,,,,,,,,,,,
 89,349,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Shotzzy,2930,28,26,1.08,54,2,5804,Loss,110,56,32,6,7,9,,,,,,,,,,,,
 89,349,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Crimsix,2530,26,28,0.93,54,-2,4744,Loss,70,7,13,22,4,24,,,,,,,,,,,,
 89,349,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,iLLey,2040,25,30,0.83,55,-5,5404,Loss,56,39,2,13,2,0,,,,,,,,,,,,
@@ -2858,7 +2858,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,358,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Arcitys,1245,13,25,0.52,38,-12,3701,Win,47,16,4,24,0,3,,,,,,,,,,,,
 92,358,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Cellium,2505,29,24,1.21,53,5,5191,Win,48,30,17,0,1,0,,,,,,,,,,,,
 92,358,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Simp,2515,24,25,0.96,49,-1,4627,Win,116,23,49,2,10,32,,,,,,,,,,,,
-92,358,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,Abezy,3300,32,23,1.39,55,9,4829,Win,64,50,5,6,2,1,,,,,,,,,,,,
+92,358,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Garrison,aBeZy,3300,32,23,1.39,55,9,4829,Win,64,50,5,6,2,1,,,,,,,,,,,,
 92,358,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Garrison,Cammy,2990,27,26,1.04,53,1,5208,Loss,68,0,23,5,29,11,,,,,,,,,,,,
 92,358,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Garrison,Bance,2855,22,21,1.05,43,1,4321,Loss,50,0,3,31,16,0,,,,,,,,,,,,
 92,358,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Garrison,Insight,2195,25,23,1.09,48,2,4690,Loss,36,10,0,14,12,0,,,,,,,,,,,,
@@ -2866,7 +2866,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,359,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Miami,Arcitys,425,4,6,0.67,10,-2,939,Loss,,,,,,,1,1,1,0,0.44,104.33,,,,,,
 92,359,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Miami,Cellium,300,5,7,0.71,12,-2,1021,Loss,,,,,,,1,1,0,0,0.56,113.44,,,,,,
 92,359,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Miami,Simp,175,3,7,0.43,10,-4,1262,Loss,,,,,,,1,1,0,0,0.33,140.22,,,,,,
-92,359,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Miami,Abezy,450,4,8,0.50,12,-4,1063,Loss,,,,,,,0,3,0,1,0.44,118.11,,,,,,
+92,359,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Miami,aBeZy,450,4,8,0.50,12,-4,1063,Loss,,,,,,,0,3,0,1,0.44,118.11,,,,,,
 92,359,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Miami,Cammy,1750,8,2,4.00,10,6,1412,Win,,,,,,,1,0,0,0,0.89,156.89,,,,,,
 92,359,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Miami,Bance,650,6,4,1.50,10,2,920,Win,,,,,,,1,1,2,0,0.67,102.22,,,,,,
 92,359,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Miami,Insight,625,8,5,1.60,13,3,1640,Win,,,,,,,3,1,0,0,0.89,182.22,,,,,,
@@ -2874,7 +2874,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,360,Major 2,Atlanta FaZe,Toronto Ultra,Control,Checkmate,Arcitys,3125,17,21,0.81,38,-4,4025,Loss,,,,,,,,,,,,,8,11,6,6,5,805
 92,360,Major 2,Atlanta FaZe,Toronto Ultra,Control,Checkmate,Cellium,1215,15,25,0.60,40,-10,3562,Loss,,,,,,,,,,,,,3,11,6,4,4,712.4
 92,360,Major 2,Atlanta FaZe,Toronto Ultra,Control,Checkmate,Simp,5340,31,28,1.11,59,3,5737,Loss,,,,,,,,,,,,,4,23,14,8,7,1147.4
-92,360,Major 2,Atlanta FaZe,Toronto Ultra,Control,Checkmate,Abezy,3250,22,24,0.92,46,-2,4265,Loss,,,,,,,,,,,,,7,12,7,10,7,853
+92,360,Major 2,Atlanta FaZe,Toronto Ultra,Control,Checkmate,aBeZy,3250,22,24,0.92,46,-2,4265,Loss,,,,,,,,,,,,,7,12,7,10,7,853
 92,360,Major 2,Toronto Ultra,Atlanta FaZe,Control,Checkmate,Cammy,2025,23,22,1.05,45,1,4340,Win,,,,,,,,,,,,,2,7,4,16,11,868
 92,360,Major 2,Toronto Ultra,Atlanta FaZe,Control,Checkmate,Bance,5000,25,16,1.56,41,9,4645,Win,,,,,,,,,,,,,5,8,6,17,4,929
 92,360,Major 2,Toronto Ultra,Atlanta FaZe,Control,Checkmate,Insight,2415,19,22,0.86,41,-3,4276,Win,,,,,,,,,,,,,5,5,3,14,10,855.2
@@ -2882,7 +2882,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,361,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Apocalypse,Arcitys,1270,10,15,0.67,25,-5,3208,Win,56,9,35,0,6,6,,,,,,,,,,,,
 92,361,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Apocalypse,Cellium,1640,15,15,1.00,30,0,2899,Win,82,4,1,21,53,3,,,,,,,,,,,,
 92,361,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Apocalypse,Simp,3030,26,15,1.73,41,11,3346,Win,23,0,4,18,0,1,,,,,,,,,,,,
-92,361,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Apocalypse,Abezy,2090,18,13,1.38,31,5,3524,Win,109,53,0,25,0,31,,,,,,,,,,,,
+92,361,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Apocalypse,aBeZy,2090,18,13,1.38,31,5,3524,Win,109,53,0,25,0,31,,,,,,,,,,,,
 92,361,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Apocalypse,Cammy,1085,15,19,0.79,34,-4,2594,Loss,11,10,0,0,0,1,,,,,,,,,,,,
 92,361,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Apocalypse,Bance,2425,18,15,1.20,33,3,3352,Loss,44,12,31,1,0,0,,,,,,,,,,,,
 92,361,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Apocalypse,Insight,1410,15,13,1.15,28,2,3139,Loss,62,0,51,11,0,0,,,,,,,,,,,,
@@ -2890,7 +2890,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,362,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,Arcitys,1125,9,5,1.80,14,4,1872,Win,,,,,,,0,1,2,1,0.82,170.18,,,,,,
 92,362,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,Cellium,690,7,7,1.00,14,0,1466,Win,,,,,,,1,1,0,0,0.64,133.27,,,,,,
 92,362,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,Simp,1100,6,7,0.86,13,-1,1434,Win,,,,,,,2,2,1,0,0.55,130.36,,,,,,
-92,362,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,Abezy,575,9,7,1.29,16,2,1329,Win,,,,,,,2,2,0,0,0.82,120.82,,,,,,
+92,362,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Moscow,aBeZy,575,9,7,1.29,16,2,1329,Win,,,,,,,2,2,0,0,0.82,120.82,,,,,,
 92,362,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Moscow,Cammy,1175,10,8,1.25,18,2,1707,Loss,,,,,,,2,0,0,0,0.91,155.18,,,,,,
 92,362,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Moscow,Bance,750,4,8,0.50,12,-4,1324,Loss,,,,,,,0,0,2,0,0.36,120.36,,,,,,
 92,362,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Moscow,Insight,215,2,8,0.25,10,-6,659,Loss,,,,,,,1,2,0,0,0.18,59.91,,,,,,
@@ -2898,7 +2898,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,363,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,Arcitys,3575,15,17,0.88,32,-2,2911,Loss,,,,,,,,,,,,,8,8,6,7,3,970.33
 92,363,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,Cellium,2625,18,22,0.82,40,-4,3636,Loss,,,,,,,,,,,,,3,12,6,6,5,1212
 92,363,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,Simp,2940,21,21,1.00,42,0,3504,Loss,,,,,,,,,,,,,6,14,5,7,3,1168
-92,363,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,Abezy,1925,17,25,0.68,42,-8,3806,Loss,,,,,,,,,,,,,5,14,6,3,2,1268.67
+92,363,Major 2,Atlanta FaZe,Toronto Ultra,Control,Raid,aBeZy,1925,17,25,0.68,42,-8,3806,Loss,,,,,,,,,,,,,5,14,6,3,2,1268.67
 92,363,Major 2,Toronto Ultra,Atlanta FaZe,Control,Raid,Cammy,1625,15,22,0.68,37,-7,3494,Win,,,,,,,,,,,,,3,9,7,6,5,1164.67
 92,363,Major 2,Toronto Ultra,Atlanta FaZe,Control,Raid,Bance,3650,23,12,1.92,35,11,3766,Win,,,,,,,,,,,,,4,7,6,16,5,1255.33
 92,363,Major 2,Toronto Ultra,Atlanta FaZe,Control,Raid,Insight,2040,19,20,0.95,39,-1,3815,Win,,,,,,,,,,,,,4,4,3,15,13,1271.67
@@ -2906,7 +2906,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,364,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Express,Arcitys,250,2,6,0.33,8,-4,933,Loss,,,,,,,0,0,0,0,0.33,155.5,,,,,,
 92,364,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Express,Cellium,400,5,6,0.83,11,-1,1407,Loss,,,,,,,1,0,0,0,0.83,234.5,,,,,,
 92,364,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Express,Simp,140,1,6,0.17,7,-5,533,Loss,,,,,,,0,2,0,0,0.17,88.83,,,,,,
-92,364,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Express,Abezy,375,3,6,0.50,9,-3,701,Loss,,,,,,,1,2,2,0,0.5,116.83,,,,,,
+92,364,Major 2,Atlanta FaZe,Toronto Ultra,Search and Destroy,Express,aBeZy,375,3,6,0.50,9,-3,701,Loss,,,,,,,1,2,2,0,0.5,116.83,,,,,,
 92,364,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Express,Cammy,540,7,5,1.40,12,2,1272,Win,,,,,,,1,1,0,0,1.17,212,,,,,,
 92,364,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Express,Bance,5600,10,0,10.00,10,10,1194,Win,,,,,,,1,0,3,2,1.67,199,,,,,,
 92,364,Major 2,Toronto Ultra,Atlanta FaZe,Search and Destroy,Express,Insight,350,5,3,1.67,8,2,1123,Win,,,,,,,2,1,0,0,0.83,187.17,,,,,,
@@ -2914,8 +2914,312 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,365,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,Arcitys,1320,16,26,0.62,42,-10,3900,Loss,38,1,31,6,0,0,,,,,,,,,,,,
 92,365,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,Cellium,1895,22,26,0.85,48,-4,4974,Loss,43,8,11,0,24,0,,,,,,,,,,,,
 92,365,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,Simp,1960,21,21,1.00,42,0,3631,Loss,29,8,12,2,7,0,,,,,,,,,,,,
-92,365,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,Abezy,1725,21,27,0.78,48,-6,3733,Loss,71,18,6,15,0,32,,,,,,,,,,,,
+92,365,Major 2,Atlanta FaZe,Toronto Ultra,Hardpoint,Checkmate,aBeZy,1725,21,27,0.78,48,-6,3733,Loss,71,18,6,15,0,32,,,,,,,,,,,,
 92,365,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,Cammy,1820,22,22,1.00,44,0,4107,Win,22,1,9,12,0,0,,,,,,,,,,,,
 92,365,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,Bance,3915,26,17,1.53,43,9,4562,Win,143,40,25,3,70,5,,,,,,,,,,,,
 92,365,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,Insight,3055,25,20,1.25,45,5,4011,Win,90,18,11,11,20,30,,,,,,,,,,,,
 92,365,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,CleanX,3010,27,21,1.29,48,6,5757,Win,80,8,5,15,38,14,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,Shotzzy,1325,16,24,0.67,40,-8,3300,Loss,45,12,6,3,10,14,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,Crimsix,1125,14,27,0.52,41,-13,3539,Loss,16,0,2,0,0,14,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,iLLey,1600,17,23,0.74,40,-6,4089,Loss,4,0,0,3,1,0,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,Huke,1540,18,20,0.90,38,-2,2604,Loss,55,1,34,1,11,8,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Skrapz,4175,27,15,1.80,42,12,4732,Win,126,60,17,49,0,0,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Classic,2900,28,17,1.65,45,11,4388,Win,47,0,13,16,8,10,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Aqua,2700,23,14,1.64,37,9,4866,Win,51,11,9,4,27,0,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Temp,1445,16,19,0.84,35,-3,2737,Win,41,5,9,27,0,0,,,,,,,,,,,,
+93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,Shotzzy,375,4,5,0.80,9,-1,1007,Win,,,,,,,2,0,1,0,0.67,167.83,,,,,,
+93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,Crimsix,2850,10,0,10.00,10,10,1439,Win,,,,,,,1,0,0,0,1.67,239.83,,,,,,
+93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,iLLey,550,5,2,2.50,7,3,931,Win,,,,,,,1,1,1,1,0.83,155.17,,,,,,
+93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,Huke,400,5,4,1.25,9,1,1183,Win,,,,,,,0,1,0,0,0.83,197.17,,,,,,
+93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Skrapz,75,1,6,0.17,7,-5,313,Loss,,,,,,,0,1,0,0,0.17,52.17,,,,,,
+93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Classic,50,1,6,0.17,7,-5,485,Loss,,,,,,,1,2,0,0,0.17,80.83,,,,,,
+93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Aqua,350,5,6,0.83,11,-1,1171,Loss,,,,,,,0,0,0,0,0.83,195.17,,,,,,
+93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Temp,300,4,6,0.67,10,-2,1039,Loss,,,,,,,1,1,1,0,0.67,173.17,,,,,,
+93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,Shotzzy,2140,18,18,1.00,36,0,3233,Win,,,,,,,,,,,,,3,9,8,9,6,808.25
+93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,Crimsix,2395,19,17,1.12,36,2,4006,Win,,,,,,,,,,,,,3,7,2,12,11,1001.5
+93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,iLLey,3150,19,16,1.19,35,3,3667,Win,,,,,,,,,,,,,5,9,5,10,7,916.75
+93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,Huke,2425,13,17,0.76,30,-4,2924,Win,,,,,,,,,,,,,6,6,3,7,6,731
+93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Skrapz,3075,24,14,1.71,38,10,4204,Loss,,,,,,,,,,,,,1,9,7,15,9,1051
+93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Classic,1700,15,19,0.79,34,-4,3108,Loss,,,,,,,,,,,,,2,7,7,8,2,777
+93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Aqua,1150,13,18,0.72,31,-5,2439,Loss,,,,,,,,,,,,,0,7,6,6,5,609.75
+93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Temp,2400,16,18,0.89,34,-2,3591,Loss,,,,,,,,,,,,,1,7,4,9,3,897.75
+93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,Shotzzy,1785,18,21,0.86,39,-3,3629,Win,49,29,1,3,10,6,,,,,,,,,,,,
+93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,Crimsix,2655,30,18,1.67,48,12,5680,Win,65,28,17,1,19,0,,,,,,,,,,,,
+93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,iLLey,3155,26,21,1.24,47,5,4053,Win,101,23,25,0,29,24,,,,,,,,,,,,
+93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,Huke,2435,28,20,1.40,48,8,4497,Win,95,12,14,21,10,38,,,,,,,,,,,,
+93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Skrapz,2680,28,25,1.12,53,3,4969,Loss,41,26,4,11,0,0,,,,,,,,,,,,
+93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Classic,1325,12,28,0.43,40,-16,3259,Loss,27,6,7,12,2,0,,,,,,,,,,,,
+93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Aqua,1645,14,24,0.58,38,-10,4089,Loss,50,4,12,12,22,0,,,,,,,,,,,,
+93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Temp,6065,26,25,1.04,51,1,5271,Loss,46,2,11,12,21,0,,,,,,,,,,,,
+94,370,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Checkmate,Cammy,2575,29,23,1.26,52,6,6150,Win,94,16,10,33,35,0,,,,,,,,,,,,
+94,370,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Checkmate,Bance,2535,22,19,1.16,41,3,3553,Win,96,6,33,2,36,19,,,,,,,,,,,,
+94,370,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Checkmate,Insight,4300,22,17,1.29,39,5,3762,Win,73,1,3,0,30,39,,,,,,,,,,,,
+94,370,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Checkmate,CleanX,2430,29,26,1.12,55,3,4781,Win,77,10,8,0,24,35,,,,,,,,,,,,
+94,370,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Checkmate,Owakening,1585,24,25,0.96,49,-1,4564,Loss,13,0,3,1,0,9,,,,,,,,,,,,
+94,370,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Checkmate,Skyz,2395,21,27,0.78,48,-6,4266,Loss,64,26,23,9,6,0,,,,,,,,,,,,
+94,370,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Checkmate,Havok,1835,21,27,0.78,48,-6,4046,Loss,90,25,0,32,0,33,,,,,,,,,,,,
+94,370,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Checkmate,Neptune,1395,19,23,0.83,42,-4,3261,Loss,21,10,9,1,1,0,,,,,,,,,,,,
+94,371,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Express,Cammy,1025,13,7,1.86,20,6,1826,Win,,,,,,,3,2,1,0,1.18,166,,,,,,
+94,371,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Express,Bance,1050,6,8,0.75,14,-2,1847,Win,,,,,,,0,2,2,1,0.55,167.91,,,,,,
+94,371,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Express,Insight,1550,10,7,1.43,17,3,2245,Win,,,,,,,2,1,1,0,0.91,204.09,,,,,,
+94,371,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Express,CleanX,725,8,7,1.14,15,1,1802,Win,,,,,,,2,0,0,0,0.73,163.82,,,,,,
+94,371,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Express,Owakening,1200,13,8,1.63,21,5,2160,Loss,,,,,,,2,1,0,1,1.18,196.36,,,,,,
+94,371,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Express,Skyz,750,8,8,1.00,16,0,2541,Loss,,,,,,,1,1,0,0,0.73,231,,,,,,
+94,371,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Express,Havok,300,4,11,0.36,15,-7,930,Loss,,,,,,,1,3,0,0,0.36,84.55,,,,,,
+94,371,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Express,Neptune,825,4,10,0.40,14,-6,927,Loss,,,,,,,1,2,2,1,0.36,84.27,,,,,,
+94,372,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Control,Raid,Cammy,2900,38,31,1.23,69,7,6723,Win,,,,,,,,,,,,,3,19,6,19,16,1344.6
+94,372,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Control,Raid,Bance,3150,27,33,0.82,60,-6,4999,Win,,,,,,,,,,,,,3,7,4,20,8,999.8
+94,372,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Control,Raid,Insight,7775,38,18,2.11,56,20,6563,Win,,,,,,,,,,,,,8,16,4,22,14,1312.6
+94,372,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Control,Raid,CleanX,3675,31,34,0.91,65,-3,5956,Win,,,,,,,,,,,,,6,15,7,16,3,1191.2
+94,372,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Control,Raid,Owakening,3500,40,36,1.11,76,4,7869,Loss,,,,,,,,,,,,,4,23,12,17,6,1573.8
+94,372,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Control,Raid,Skyz,4405,29,30,0.97,59,-1,5636,Loss,,,,,,,,,,,,,7,15,6,14,10,1127.2
+94,372,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Control,Raid,Havok,2090,22,31,0.71,53,-9,4298,Loss,,,,,,,,,,,,,3,12,6,10,4,859.6
+94,372,Stage 3 Week 1,Florida Mutineers,Toronto Ultra,Control,Raid,Neptune,1875,25,38,0.66,63,-13,4638,Loss,,,,,,,,,,,,,2,14,2,11,6,927.6
+95,373,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Apocalypse,Octane,2565,25,19,1.32,44,6,4446,Win,55,5,0,14,22,14,,,,,,,,,,,,
+95,373,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Apocalypse,Prestinni,4170,27,23,1.17,50,4,5379,Win,57,17,28,0,0,12,,,,,,,,,,,,
+95,373,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Apocalypse,Loony,2330,22,22,1.00,44,0,4547,Win,81,16,29,11,15,10,,,,,,,,,,,,
+95,373,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Apocalypse,Gunless,2465,32,25,1.28,57,7,4424,Win,91,72,0,10,9,0,,,,,,,,,,,,
+95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Kenny,2205,29,28,1.04,57,1,4786,Loss,21,2,13,0,0,6,,,,,,,,,,,,
+95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,TJHaly,2030,18,27,0.67,45,-9,4196,Loss,109,5,38,20,23,23,,,,,,,,,,,,
+95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Drazah,2435,21,23,0.91,44,-2,4066,Loss,63,17,5,13,0,28,,,,,,,,,,,,
+95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Venom,1910,21,28,0.75,49,-7,4659,Loss,60,2,6,1,16,35,,,,,,,,,,,,
+95,374,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Octane,825,9,5,1.80,14,4,1878,Win,,,,,,,3,1,0,1,0.9,187.8,,,,,,
+95,374,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Prestinni,675,10,8,1.25,18,2,1368,Win,,,,,,,1,0,0,0,1,136.8,,,,,,
+95,374,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Loony,175,2,7,0.29,9,-5,638,Win,,,,,,,0,3,0,0,0.2,63.8,,,,,,
+95,374,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Gunless,790,10,7,1.43,17,3,2051,Win,,,,,,,1,1,0,0,1,205.1,,,,,,
+95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Kenny,290,3,7,0.43,10,-4,971,Loss,,,,,,,0,1,0,0,0.3,97.1,,,,,,
+95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,TJHaly,705,7,8,0.88,15,-1,1178,Loss,,,,,,,1,2,0,0,0.7,117.8,,,,,,
+95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Drazah,380,5,7,0.71,12,-2,1143,Loss,,,,,,,0,1,0,0,0.5,114.3,,,,,,
+95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Venom,995,12,9,1.33,21,3,1886,Loss,,,,,,,4,1,2,0,1.2,188.6,,,,,,
+95,375,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Octane,2000,17,12,1.42,29,5,2747,Loss,,,,,,,,,,,,,3,8,4,9,7,915.67
+95,375,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Prestinni,1075,8,18,0.44,26,-10,2189,Loss,,,,,,,,,,,,,2,4,2,4,2,729.67
+95,375,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Loony,1020,7,18,0.39,25,-11,1783,Loss,,,,,,,,,,,,,2,4,2,3,0,594.33
+95,375,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Gunless,1000,11,15,0.73,26,-4,2344,Loss,,,,,,,,,,,,,1,6,0,5,4,781.33
+95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Kenny,5050,18,8,2.25,26,10,3014,Win,,,,,,,,,,,,,8,14,11,4,1,1004.67
+95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,TJHaly,1815,13,11,1.18,24,2,2325,Win,,,,,,,,,,,,,6,6,2,7,3,775
+95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Drazah,2430,19,13,1.46,32,6,3796,Win,,,,,,,,,,,,,8,11,5,8,3,1265.33
+95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Venom,1775,13,11,1.18,24,2,2590,Win,,,,,,,,,,,,,6,4,3,9,3,863.33
+95,376,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Octane,,35,30,1.17,65,5,,Loss,,,,,,,,,,,,,,,,,,
+95,376,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Prestinni,,27,32,0.84,59,-5,,Loss,,,,,,,,,,,,,,,,,,
+95,376,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Loony,,21,24,0.88,45,-3,,Loss,,,,,,,,,,,,,,,,,,
+95,376,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Gunless,,21,32,0.66,53,-11,,Loss,,,,,,,,,,,,,,,,,,
+95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Kenny,,31,28,1.11,59,3,,Win,,,,,,,,,,,,,,,,,,
+95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,TJHaly,,25,26,0.96,51,-1,,Win,,,,,,,,,,,,,,,,,,
+95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Drazah,,33,26,1.27,59,7,,Win,,,,,,,,,,,,,,,,,,
+95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Venom,,29,24,1.21,53,5,,Win,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Octane,,11,8,1.38,19,3,,Loss,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Prestinni,,4,7,0.57,11,-3,,Loss,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Loony,,4,6,0.67,10,-2,,Loss,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Gunless,,6,6,1.00,12,0,,Loss,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Kenny,,6,6,1.00,12,0,,Win,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,TJHaly,,3,6,0.50,9,-3,,Win,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Drazah,,14,5,2.80,19,9,,Win,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Venom,,4,8,0.50,12,-4,,Win,,,,,,,,,,,,,,,,,,
+96,378,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Garrison,PaulEhx,2860,25,24,1.04,49,1,4699,Loss,46,5,3,13,18,7,,,,,,,,,,,,
+96,378,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Garrison,Zaptius,2490,20,25,0.80,45,-5,4035,Loss,62,14,19,20,0,9,,,,,,,,,,,,
+96,378,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Garrison,Seany,1955,25,24,1.04,49,1,5155,Loss,46,4,0,11,0,31,,,,,,,,,,,,
+96,378,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Garrison,Zed,1770,15,23,0.65,38,-8,3315,Loss,73,12,27,12,22,0,,,,,,,,,,,,
+96,378,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Hardpoint,Garrison,Formal,2350,24,19,1.26,43,5,4329,Win,98,33,30,8,27,0,,,,,,,,,,,,
+96,378,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Hardpoint,Garrison,Dashy,1930,19,22,0.86,41,-3,5122,Win,23,13,2,6,2,0,,,,,,,,,,,,
+96,378,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Hardpoint,Garrison,Envoy,3270,31,21,1.48,52,10,5415,Win,113,17,23,39,5,29,,,,,,,,,,,,
+96,378,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Hardpoint,Garrison,Scump,2270,22,23,0.96,45,-1,3453,Win,51,36,4,4,7,0,,,,,,,,,,,,
+96,379,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Search and Destroy,Moscow,PaulEhx,,4,9,0.44,13,-5,,Loss,,,,,,,,,,,,,,,,,,
+96,379,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Search and Destroy,Moscow,Zaptius,,4,8,0.50,12,-4,,Loss,,,,,,,,,,,,,,,,,,
+96,379,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Search and Destroy,Moscow,Seany,,4,8,0.50,12,-4,,Loss,,,,,,,,,,,,,,,,,,
+96,379,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Search and Destroy,Moscow,Zed,,11,8,1.38,19,3,,Loss,,,,,,,,,,,,,,,,,,
+96,379,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Search and Destroy,Moscow,Formal,,7,7,1.00,14,0,,Win,,,,,,,,,,,,,,,,,,
+96,379,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Search and Destroy,Moscow,Dashy,,9,4,2.25,13,5,,Win,,,,,,,,,,,,,,,,,,
+96,379,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Search and Destroy,Moscow,Envoy,,8,6,1.33,14,2,,Win,,,,,,,,,,,,,,,,,,
+96,379,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Search and Destroy,Moscow,Scump,,9,6,1.50,15,3,,Win,,,,,,,,,,,,,,,,,,
+96,380,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Control,Checkmate,PaulEhx,3880,28,15,1.87,43,13,5051,Win,,,,,,,,,,,,,3,14,10,14,12,1010.2
+96,380,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Control,Checkmate,Zaptius,2520,21,20,1.05,41,1,4375,Win,,,,,,,,,,,,,4,6,5,15,10,875
+96,380,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Control,Checkmate,Seany,2940,23,19,1.21,42,4,4088,Win,,,,,,,,,,,,,4,11,9,12,9,817.6
+96,380,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Control,Checkmate,Zed,2885,20,20,1.00,40,0,3718,Win,,,,,,,,,,,,,5,8,7,12,9,743.6
+96,380,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Control,Checkmate,Formal,2440,19,20,0.95,39,-1,4562,Loss,,,,,,,,,,,,,5,10,9,9,9,912.4
+96,380,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Control,Checkmate,Dashy,2560,14,20,0.70,34,-6,3089,Loss,,,,,,,,,,,,,6,7,5,7,4,617.8
+96,380,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Control,Checkmate,Envoy,3040,21,26,0.81,47,-5,4557,Loss,,,,,,,,,,,,,6,10,6,11,7,911.4
+96,380,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Control,Checkmate,Scump,1625,20,26,0.77,46,-6,3660,Loss,,,,,,,,,,,,,2,11,7,9,6,732
+96,381,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Moscow,PaulEhx,1465,16,22,0.73,38,-6,3478,Loss,61,11,21,4,25,,,,,,,,,,,,,
+96,381,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Moscow,Zaptius,1600,20,24,0.83,44,-4,3812,Loss,33,1,32,0,0,,,,,,,,,,,,,
+96,381,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Moscow,Seany,3470,22,23,0.96,45,-1,4825,Loss,15,0,8,6,1,,,,,,,,,,,,,
+96,381,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Moscow,Zed,1835,19,21,0.90,40,-2,3173,Loss,57,14,23,19,1,,,,,,,,,,,,,
+96,381,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Hardpoint,Moscow,Formal,1250,16,18,0.89,34,-2,3873,Win,46,22,2,16,6,,,,,,,,,,,,,
+96,381,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Hardpoint,Moscow,Dashy,2515,24,17,1.41,41,7,4947,Win,92,54,3,22,13,,,,,,,,,,,,,
+96,381,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Hardpoint,Moscow,Envoy,3825,27,21,1.29,48,6,4660,Win,143,36,26,44,37,,,,,,,,,,,,,
+96,381,Stage 3 Week 1,OpTic Chicago,London Royal Ravens,Hardpoint,Moscow,Scump,3400,23,21,1.10,44,2,4082,Win,41,40,0,1,0,,,,,,,,,,,,,
+97,382,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Moscow,Cheen,2445,23,19,1.21,42,4,4251,Win,96,35,12,36,13,,,,,,,,,,,,,
+97,382,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Moscow,Assault,4400,34,17,2.00,51,17,6285,Win,75,36,14,23,2,,,,,,,,,,,,,
+97,382,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Moscow,Silly,1305,15,20,0.75,35,-5,2425,Win,73,15,3,36,19,,,,,,,,,,,,,
+97,382,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Moscow,Apathy,4385,27,16,1.69,43,11,4403,Win,45,30,2,13,0,,,,,,,,,,,,,
+97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,Skrapz,1890,24,20,1.20,44,4,4629,Loss,46,16,14,0,16,,,,,,,,,,,,,
+97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,Classic,1335,16,30,0.53,46,-14,3346,Loss,58,4,38,0,16,,,,,,,,,,,,,
+97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,Aqua,965,12,23,0.52,35,-11,3078,Loss,52,8,41,2,1,,,,,,,,,,,,,
+97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,Temp,1530,20,26,0.77,46,-6,3874,Loss,24,10,11,0,3,,,,,,,,,,,,,
+97,383,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Moscow,Cheen,1345,10,4,2.50,14,6,1907,Win,,,,,,,0,0,0,0,1.25,238.38,,,,,,
+97,383,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Moscow,Assault,665,6,4,1.50,10,2,1357,Win,,,,,,,2,1,0,0,0.75,169.63,,,,,,
+97,383,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Moscow,Silly,550,7,6,1.17,13,1,1274,Win,,,,,,,1,0,0,0,0.88,159.25,,,,,,
+97,383,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Moscow,Apathy,350,4,6,0.67,10,-2,951,Win,,,,,,,2,2,0,0,0.5,118.88,,,,,,
+97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,Skrapz,525,5,6,0.83,11,-1,1254,Loss,,,,,,,0,0,0,0,0.63,156.75,,,,,,
+97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,Classic,290,3,7,0.43,10,-4,787,Loss,,,,,,,1,4,0,0,0.38,98.38,,,,,,
+97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,Aqua,290,5,7,0.71,12,-2,1334,Loss,,,,,,,0,1,0,0,0.63,166.75,,,,,,
+97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,Temp,425,7,7,1.00,14,0,1211,Loss,,,,,,,2,0,0,0,0.88,151.38,,,,,,
+97,384,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Raid,Cheen,4000,39,30,1.30,69,9,8066,Win,,,,,,,,,,,,,6,12,8,27,11,1613.2
+97,384,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Raid,Assault,5350,31,24,1.29,55,7,5249,Win,,,,,,,,,,,,,9,10,5,21,17,1049.8
+97,384,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Raid,Silly,4280,31,28,1.11,59,3,5410,Win,,,,,,,,,,,,,9,11,6,20,14,1082
+97,384,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Raid,Apathy,3290,24,30,0.80,54,-6,4989,Win,,,,,,,,,,,,,6,8,4,16,8,997.8
+97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,Skrapz,3600,30,30,1.00,60,0,5451,Loss,,,,,,,,,,,,,6,20,13,10,4,1090.2
+97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,Classic,4130,25,32,0.78,57,-7,5471,Loss,,,,,,,,,,,,,8,13,4,12,6,1094.2
+97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,Aqua,3265,28,31,0.90,59,-3,5208,Loss,,,,,,,,,,,,,6,19,3,9,8,1041.6
+97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,Temp,3335,29,32,0.91,61,-3,5905,Loss,,,,,,,,,,,,,5,20,7,9,5,1181
+98,385,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Raid,Accuracy,1040,11,20,0.55,31,-9,2415,Loss,67,34,2,4,0,27,,,,,,,,,,,,
+98,385,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Raid,Attach,810,8,22,0.36,30,-14,2643,Loss,15,7,3,3,0,2,,,,,,,,,,,,
+98,385,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Raid,Standy,1465,20,19,1.05,39,1,3676,Loss,59,23,0,31,0,5,,,,,,,,,,,,
+98,385,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Raid,Priestahh,2745,25,19,1.32,44,6,4097,Loss,29,4,1,6,0,18,,,,,,,,,,,,
+98,385,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Raid,Owakening,1995,24,19,1.26,43,5,5135,Win,42,0,15,22,5,0,,,,,,,,,,,,
+98,385,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Raid,Skyz,2115,22,15,1.47,37,7,3147,Win,110,30,16,29,35,0,,,,,,,,,,,,
+98,385,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Raid,Havok,1325,16,18,0.89,34,-2,2698,Win,70,0,35,35,0,0,,,,,,,,,,,,
+98,385,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Raid,Neptune,2630,18,12,1.50,30,6,3347,Win,118,9,71,13,25,0,,,,,,,,,,,,
+98,386,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Search and Destroy,Moscow,Accuracy,675,7,7,1.00,14,0,1487,Loss,,,,,,,1,3,0,0,0.64,135.18,,,,,,
+98,386,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Search and Destroy,Moscow,Attach,390,3,8,0.38,11,-5,1383,Loss,,,,,,,1,1,1,0,0.27,125.73,,,,,,
+98,386,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Search and Destroy,Moscow,Standy,550,5,11,0.45,16,-6,1619,Loss,,,,,,,1,1,1,0,0.45,147.18,,,,,,
+98,386,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Search and Destroy,Moscow,Priestahh,2450,14,6,2.33,20,8,2381,Loss,,,,,,,1,1,1,0,1.27,216.45,,,,,,
+98,386,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Search and Destroy,Moscow,Owakening,3265,13,6,2.17,19,7,2561,Win,,,,,,,2,0,0,1,1.18,232.82,,,,,,
+98,386,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Search and Destroy,Moscow,Skyz,475,4,8,0.50,12,-4,1164,Win,,,,,,,2,1,0,0,0.36,105.82,,,,,,
+98,386,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Search and Destroy,Moscow,Havok,515,6,6,1.00,12,0,1355,Win,,,,,,,1,1,0,0,0.55,123.18,,,,,,
+98,386,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Search and Destroy,Moscow,Neptune,875,9,9,1.00,18,0,1811,Win,,,,,,,1,2,0,0,0.82,164.64,,,,,,
+98,387,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Raid,Accuracy,4375,28,29,0.97,57,-1,5934,Win,,,,,,,,,,,,,9,14,11,14,13,1186.8
+98,387,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Raid,Attach,6000,30,21,1.43,51,9,5256,Win,,,,,,,,,,,,,10,13,8,17,6,1051.2
+98,387,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Raid,Standy,5125,31,25,1.24,56,6,6043,Win,,,,,,,,,,,,,6,20,11,11,3,1208.6
+98,387,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Raid,Priestahh,3900,37,34,1.09,71,3,7260,Win,,,,,,,,,,,,,6,24,10,13,9,1452
+98,387,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Control,Raid,Owakening,3700,31,30,1.03,61,1,5954,Loss,,,,,,,,,,,,,5,13,7,18,8,1190.8
+98,387,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Control,Raid,Skyz,3375,28,28,1.00,56,0,6391,Loss,,,,,,,,,,,,,7,11,5,17,12,1278.2
+98,387,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Control,Raid,Havok,2695,24,32,0.75,56,-8,4785,Loss,,,,,,,,,,,,,6,8,3,16,10,957
+98,387,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Control,Raid,Neptune,3015,26,36,0.72,62,-10,6079,Loss,,,,,,,,,,,,,4,13,5,13,6,1215.8
+98,388,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Garrison,Accuracy,2055,26,29,0.90,55,-3,5737,Loss,65,12,4,11,38,0,,,,,,,,,,,,
+98,388,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Garrison,Attach,2135,27,25,1.08,52,2,4074,Loss,39,0,0,27,1,11,,,,,,,,,,,,
+98,388,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Garrison,Standy,1560,15,26,0.58,41,-11,3309,Loss,54,16,15,6,16,1,,,,,,,,,,,,
+98,388,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Garrison,Priestahh,1200,14,25,0.56,39,-11,3223,Loss,56,6,38,8,0,4,,,,,,,,,,,,
+98,388,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Garrison,Owakening,2420,28,21,1.33,49,7,4847,Win,69,3,8,0,29,29,,,,,,,,,,,,
+98,388,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Garrison,Skyz,4155,26,14,1.86,40,12,5069,Win,105,52,26,0,20,7,,,,,,,,,,,,
+98,388,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Garrison,Havok,1750,20,26,0.77,46,-6,4272,Win,39,5,32,1,0,1,,,,,,,,,,,,
+98,388,Stage 3 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Garrison,Neptune,4605,31,21,1.48,52,10,4594,Win,60,6,2,30,0,22,,,,,,,,,,,,
+99,389,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Hardpoint,Moscow,Octane,2150,26,24,1.08,50,2,4845,Loss,57,29,10,6,12,,,,,,,,,,,,,
+99,389,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Hardpoint,Moscow,Prestinni,2385,28,23,1.22,51,5,4462,Loss,55,22,11,14,8,,,,,,,,,,,,,
+99,389,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Hardpoint,Moscow,Loony,1805,16,23,0.70,39,-7,3325,Loss,115,18,11,47,39,,,,,,,,,,,,,
+99,389,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Hardpoint,Moscow,Gunless,2715,28,20,1.40,48,8,4698,Loss,50,8,4,32,6,,,,,,,,,,,,,
+99,389,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Hardpoint,Moscow,Formal,2245,23,21,1.10,44,2,4124,Win,89,11,26,20,32,,,,,,,,,,,,,
+99,389,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Hardpoint,Moscow,Dashy,1760,23,29,0.79,52,-6,4292,Win,58,22,19,0,17,,,,,,,,,,,,,
+99,389,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Hardpoint,Moscow,Envoy,2665,23,22,1.05,45,1,4403,Win,107,39,30,6,32,,,,,,,,,,,,,
+99,389,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Hardpoint,Moscow,Scump,1845,21,26,0.81,47,-5,3797,Win,50,24,15,2,9,,,,,,,,,,,,,
+99,390,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Search and Destroy,Moscow,Octane,925,9,7,1.29,16,2,1845,Loss,,,,,,,1,1,0,1,0.9,184.5,,,,,,
+99,390,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Search and Destroy,Moscow,Prestinni,575,7,9,0.78,16,-2,1560,Loss,,,,,,,2,3,0,1,0.7,156,,,,,,
+99,390,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Search and Destroy,Moscow,Loony,430,3,6,0.50,9,-3,971,Loss,,,,,,,1,1,1,0,0.3,97.1,,,,,,
+99,390,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Search and Destroy,Moscow,Gunless,1075,5,8,0.63,13,-3,1038,Loss,,,,,,,0,1,0,0,0.5,103.8,,,,,,
+99,390,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Search and Destroy,Moscow,Formal,715,7,6,1.17,13,1,1509,Win,,,,,,,3,2,0,0,0.7,150.9,,,,,,
+99,390,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Search and Destroy,Moscow,Dashy,830,7,5,1.40,12,2,1515,Win,,,,,,,1,1,0,1,0.7,151.5,,,,,,
+99,390,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Search and Destroy,Moscow,Envoy,790,8,8,1.00,16,0,1339,Win,,,,,,,1,1,1,0,0.8,133.9,,,,,,
+99,390,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Search and Destroy,Moscow,Scump,1000,8,5,1.60,13,3,1363,Win,,,,,,,1,0,2,0,0.8,136.3,,,,,,
+99,391,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Control,Checkmate,Octane,2950,23,21,1.10,44,2,4286,Loss,,,,,,,,,,,,,4,12,12,11,11,1071.5
+99,391,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Control,Checkmate,Prestinni,2375,21,25,0.84,46,-4,4493,Loss,,,,,,,,,,,,,3,8,6,13,9,1123.25
+99,391,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Control,Checkmate,Loony,1845,19,27,0.70,46,-8,3314,Loss,,,,,,,,,,,,,2,12,8,7,3,828.5
+99,391,Stage 3 Week 1,Seattle Surge,OpTic Chicago,Control,Checkmate,Gunless,3275,24,20,1.20,44,4,4503,Loss,,,,,,,,,,,,,2,12,10,12,7,1125.75
+99,391,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Control,Checkmate,Formal,4115,31,23,1.35,54,8,5704,Win,,,,,,,,,,,,,5,14,8,17,16,1426
+99,391,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Control,Checkmate,Dashy,6930,20,23,0.87,43,-3,3967,Win,,,,,,,,,,,,,3,12,9,8,9,991.75
+99,391,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Control,Checkmate,Envoy,3355,26,18,1.44,44,8,4184,Win,,,,,,,,,,,,,4,8,5,18,14,1046
+99,391,Stage 3 Week 1,OpTic Chicago,Seattle Surge,Control,Checkmate,Scump,2725,16,23,0.70,39,-7,3491,Win,,,,,,,,,,,,,5,8,7,8,5,872.75
+100,392,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,PaulEhx,2205,23,19,1.21,42,4,4394,Win,73,16,41,2,7,7,,,,,,,,,,,,
+100,392,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Zaptius,1800,15,16,0.94,31,-1,2596,Win,123,4,60,12,39,8,,,,,,,,,,,,
+100,392,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Seany,3460,24,18,1.33,42,6,4140,Win,110,0,53,56,1,0,,,,,,,,,,,,
+100,392,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Zed,2095,20,18,1.11,38,2,3547,Win,69,5,2,15,35,12,,,,,,,,,,,,
+100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Kenny,2915,27,19,1.42,46,8,4446,Loss,38,13,17,5,0,3,,,,,,,,,,,,
+100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,TJHaly,1315,13,25,0.52,38,-12,3317,Loss,25,22,2,0,0,1,,,,,,,,,,,,
+100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Drazah,1620,15,17,0.88,32,-2,3073,Loss,55,9,6,10,24,6,,,,,,,,,,,,
+100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Venom,1300,16,21,0.76,37,-5,3165,Loss,69,35,0,17,0,17,,,,,,,,,,,,
+100,393,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,PaulEhx,190,2,6,0.33,8,-4,446,Loss,,,,,,,0,1,0,0,0.29,63.71,,,,,,
+100,393,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,Zaptius,50,1,7,0.14,8,-6,556,Loss,,,,,,,0,2,0,0,0.14,79.43,,,,,,
+100,393,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,Seany,65,2,7,0.29,9,-5,770,Loss,,,,,,,0,1,0,0,0.29,110,,,,,,
+100,393,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,Zed,250,2,6,0.33,8,-4,759,Loss,,,,,,,0,3,0,1,0.29,108.43,,,,,,
+100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Kenny,1150,6,1,6.00,7,5,1673,Win,,,,,,,2,0,1,0,0.86,239,,,,,,
+100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,TJHaly,675,6,2,3.00,8,4,1098,Win,,,,,,,2,0,0,0,0.86,156.86,,,,,,
+100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Drazah,675,6,2,3.00,8,4,653,Win,,,,,,,0,0,1,0,0.86,93.29,,,,,,
+100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Venom,1600,8,2,4.00,10,6,1404,Win,,,,,,,3,0,0,0,1.14,200.57,,,,,,
+100,394,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,PaulEhx,2055,15,23,0.65,38,-8,3531,Loss,,,,,,,,,,,,,4,11,7,4,3,882.75
+100,394,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Zaptius,2285,16,19,0.84,35,-3,2621,Loss,,,,,,,,,,,,,5,10,5,6,4,655.25
+100,394,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Seany,1940,19,20,0.95,39,-1,3927,Loss,,,,,,,,,,,,,2,9,8,10,6,981.75
+100,394,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Zed,1990,14,18,0.78,32,-4,2684,Loss,,,,,,,,,,,,,3,11,9,3,4,671
+100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Kenny,4035,29,16,1.81,45,13,4903,Win,,,,,,,,,,,,,6,14,11,15,9,1225.75
+100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,TJHaly,4250,24,16,1.50,40,8,4053,Win,,,,,,,,,,,,,7,11,5,13,8,1013.25
+100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Drazah,2925,14,15,0.93,29,-1,3184,Win,,,,,,,,,,,,,8,8,7,6,9,796
+100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Venom,2475,13,17,0.76,30,-4,3097,Win,,,,,,,,,,,,,7,8,8,5,3,774.25
+100,395,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,PaulEhx,2840,28,28,1.00,56,0,6295,Loss,42,10,8,0,14,10,,,,,,,,,,,,
+100,395,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Zaptius,1690,19,25,0.76,44,-6,3401,Loss,45,22,11,3,9,0,,,,,,,,,,,,
+100,395,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Seany,1865,19,28,0.68,47,-9,4051,Loss,55,29,0,13,5,8,,,,,,,,,,,,
+100,395,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Zed,1860,20,24,0.83,44,-4,4123,Loss,39,32,5,1,0,1,,,,,,,,,,,,
+100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Kenny,4360,33,21,1.57,54,12,5937,Win,26,4,0,4,15,3,,,,,,,,,,,,
+100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,TJHaly,3220,21,25,0.84,46,-4,5196,Win,74,0,14,50,8,2,,,,,,,,,,,,
+100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Drazah,1650,19,22,0.86,41,-3,4152,Win,43,0,19,9,0,15,,,,,,,,,,,,
+100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Venom,3450,32,18,1.78,50,14,4709,Win,121,8,37,10,34,32,,,,,,,,,,,,
+101,396,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Arcitys,2125,20,27,0.74,47,-7,4508,Loss,79,1,25,53,0,0,,,,,,,,,,,,
+101,396,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Cellium,1890,17,28,0.61,45,-11,4450,Loss,58,2,42,0,12,2,,,,,,,,,,,,
+101,396,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Simp,3425,35,24,1.46,59,11,5809,Loss,53,3,31,0,16,3,,,,,,,,,,,,
+101,396,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,aBeZy,2070,23,33,0.70,56,-10,4754,Loss,52,1,25,6,3,17,,,,,,,,,,,,
+101,396,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Garrison,Asim,2475,25,29,0.86,54,-4,4531,Win,96,48,0,0,37,11,,,,,,,,,,,,
+101,396,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Garrison,Clayster,3455,33,21,1.57,54,12,5632,Win,62,26,26,8,1,1,,,,,,,,,,,,
+101,396,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Garrison,Mack,2240,22,21,1.05,43,1,4738,Win,91,23,0,24,0,44,,,,,,,,,,,,
+101,396,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Garrison,Hydra,3075,31,24,1.29,55,7,5653,Win,18,2,3,5,2,6,,,,,,,,,,,,
+101,397,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,Arcitys,725,5,6,0.83,11,-1,1069,Win,,,,,,,1,2,1,1,0.56,118.78,,,,,,
+101,397,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,Cellium,880,6,3,2.00,9,3,1562,Win,,,,,,,2,1,0,0,0.67,173.56,,,,,,
+101,397,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,Simp,625,7,8,0.88,15,-1,1330,Win,,,,,,,1,0,0,1,0.78,147.78,,,,,,
+101,397,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Express,aBeZy,1375,10,6,1.67,16,4,1485,Win,,,,,,,1,1,2,0,1.11,165,,,,,,
+101,397,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Express,Asim,625,7,7,1.00,14,0,1056,Loss,,,,,,,2,0,1,0,0.78,117.33,,,,,,
+101,397,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Express,Clayster,655,6,7,0.86,13,-1,1260,Loss,,,,,,,2,3,0,0,0.67,140,,,,,,
+101,397,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Express,Mack,650,7,7,1.00,14,0,1755,Loss,,,,,,,0,1,0,0,0.78,195,,,,,,
+101,397,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Express,Hydra,415,3,7,0.43,10,-4,935,Loss,,,,,,,0,1,1,1,0.33,103.89,,,,,,
+101,398,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Control,Garrison,Arcitys,2400,24,27,0.89,51,-3,5250,Win,,,,,,,,,,,,,2,7,2,17,10,1050
+101,398,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Control,Garrison,Cellium,4450,24,22,1.09,46,2,4568,Win,,,,,,,,,,,,,8,10,6,14,9,913.6
+101,398,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Control,Garrison,Simp,3725,31,25,1.24,56,6,5594,Win,,,,,,,,,,,,,4,13,11,18,10,1118.8
+101,398,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Control,Garrison,aBeZy,2840,25,28,0.89,53,-3,5227,Win,,,,,,,,,,,,,5,12,7,13,9,1045.4
+101,398,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Control,Garrison,Asim,5400,30,27,1.11,57,3,6079,Loss,,,,,,,,,,,,,8,16,12,14,7,1215.8
+101,398,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Control,Garrison,Clayster,4465,28,28,1.00,56,0,6084,Loss,,,,,,,,,,,,,3,13,7,15,5,1216.8
+101,398,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Control,Garrison,Mack,2600,20,26,0.77,46,-6,4595,Loss,,,,,,,,,,,,,3,6,2,14,7,919
+101,398,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Control,Garrison,Hydra,2750,24,23,1.04,47,1,4273,Loss,,,,,,,,,,,,,4,12,10,12,6,854.6
+101,399,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,Arcitys,2050,21,20,1.05,41,1,4157,Loss,16,0,0,3,0,13,,,,,,,,,,,,
+101,399,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,Cellium,1985,17,19,0.89,36,-2,3597,Loss,107,18,2,3,59,25,,,,,,,,,,,,
+101,399,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,Simp,2370,23,22,1.05,45,1,4311,Loss,61,11,23,26,0,1,,,,,,,,,,,,
+101,399,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Apocalypse,aBeZy,2050,26,24,1.08,50,2,4177,Loss,86,17,19,35,9,6,,,,,,,,,,,,
+101,399,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Apocalypse,Asim,2300,23,26,0.88,49,-3,3982,Win,101,28,39,1,27,6,,,,,,,,,,,,
+101,399,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Apocalypse,Clayster,3275,21,20,1.05,41,1,4908,Win,45,24,0,0,8,13,,,,,,,,,,,,
+101,399,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Apocalypse,Mack,1940,19,23,0.83,42,-4,3811,Win,86,12,20,2,9,43,,,,,,,,,,,,
+101,399,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Hardpoint,Apocalypse,Hydra,2295,22,18,1.22,40,4,3977,Win,24,9,0,9,1,5,,,,,,,,,,,,
+101,400,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Raid,Arcitys,325,4,8,0.50,12,-4,1211,Loss,,,,,,,1,0,0,0,0.36,110.09,,,,,,
+101,400,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Raid,Cellium,800,8,8,1.00,16,0,2231,Loss,,,,,,,0,2,0,0,0.73,202.82,,,,,,
+101,400,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Raid,Simp,1165,8,7,1.14,15,1,1842,Loss,,,,,,,0,0,3,1,0.73,167.45,,,,,,
+101,400,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Search and Destroy,Raid,aBeZy,465,6,8,0.75,14,-2,1110,Loss,,,,,,,3,5,0,0,0.55,100.91,,,,,,
+101,400,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Raid,Asim,1000,7,6,1.17,13,1,1179,Win,,,,,,,0,0,2,1,0.64,107.18,,,,,,
+101,400,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Raid,Clayster,725,8,8,1.00,16,0,2002,Win,,,,,,,1,1,0,0,0.73,182,,,,,,
+101,400,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Raid,Mack,1475,10,6,1.67,16,4,1628,Win,,,,,,,3,1,0,0,0.91,148,,,,,,
+101,400,Stage 3 Week 1,New York Subliners,Atlanta FaZe,Search and Destroy,Raid,Hydra,430,5,6,0.83,11,-1,1221,Win,,,,,,,3,2,0,0,0.45,111,,,,,,
+102,401,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Cammy,,29,28,1.04,57,1,,Win,,,,,,,,,,,,,,,,,,
+102,401,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Bance,,31,29,1.07,60,2,,Win,,,,,,,,,,,,,,,,,,
+102,401,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Insight,,31,26,1.19,57,5,,Win,,,,,,,,,,,,,,,,,,
+102,401,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,CleanX,,29,25,1.16,54,4,,Win,,,,,,,,,,,,,,,,,,
+102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Shotzzy,,31,31,1.00,62,0,,Loss,,,,,,,,,,,,,,,,,,
+102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Crimsix,,23,29,0.79,52,-6,,Loss,,,,,,,,,,,,,,,,,,
+102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,iLLey,,30,32,0.94,62,-2,,Loss,,,,,,,,,,,,,,,,,,
+102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,FeLo,,24,28,0.86,52,-4,,Loss,,,,,,,,,,,,,,,,,,
+102,402,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,Cammy,575,7,5,1.40,12,2,1180,Win,,,,,,,3,1,0,0,0.78,131.11,,,,,,
+102,402,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,Bance,1900,9,4,2.25,13,5,1929,Win,,,,,,,1,0,3,0,1,214.33,,,,,,
+102,402,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,Insight,400,5,5,1.00,10,0,1035,Win,,,,,,,1,0,0,0,0.56,115,,,,,,
+102,402,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,CleanX,450,5,5,1.00,10,0,1084,Win,,,,,,,1,2,0,0,0.56,120.44,,,,,,
+102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,Shotzzy,325,3,7,0.43,10,-4,655,Loss,,,,,,,1,2,1,0,0.33,72.7,,,,,,
+102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,Crimsix,550,7,7,1.00,14,0,1864,Loss,,,,,,,0,2,0,0,0.78,207.11,,,,,,
+102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,iLLey,1020,5,6,0.83,11,-1,739,Loss,,,,,,,0,0,0,0,0.56,82.11,,,,,,
+102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,FeLo,275,4,6,0.67,10,-2,843,Loss,,,,,,,2,2,0,0,0.44,93.67,,,,,,
+102,403,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Control,Raid,Cammy,2750,30,31,0.97,61,-1,5728,Win,,,,,,,,,,,,,6,16,8,14,4,1145.6
+102,403,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Control,Raid,Bance,5400,33,20,1.65,53,13,5485,Win,,,,,,,,,,,,,7,24,7,9,3,1097
+102,403,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Control,Raid,Insight,4780,27,25,1.08,52,2,5583,Win,,,,,,,,,,,,,9,14,9,13,9,1116.6
+102,403,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Control,Raid,CleanX,3615,30,32,0.94,62,-2,5487,Win,,,,,,,,,,,,,8,21,11,9,3,1097.4
+102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,Shotzzy,3400,29,32,0.91,61,-3,5526,Loss,,,,,,,,,,,,,3,15,1,14,6,1105.2
+102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,Crimsix,5250,29,28,1.04,57,1,5247,Loss,,,,,,,,,,,,,10,7,4,22,14,1049.4
+102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,iLLey,3225,27,32,0.84,59,-5,4991,Loss,,,,,,,,,,,,,8,9,2,18,13,998.2
+102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,FeLo,3380,23,28,0.82,51,-5,4876,Loss,,,,,,,,,,,,,8,7,3,16,9,975.2
