@@ -1,113 +1,113 @@
-Match ID,Team 1,Team 2,Event,Date,Team 1 Score,Team 2 Score,Winner
-1,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,2/11/2021,1,3,Los Angeles Thieves
-2,Seattle Surge,Dallas Empire,Stage 1 Week 1,2/11/2021,0,3,Dallas Empire
-3,Paris Legion,OpTic Chicago,Stage 1 Week 1,2/12/2021,0,3,OpTic Chicago
-4,Los Angeles Guerrillas,Atlanta FaZe,Stage 1 Week 1,2/12/2021,0,3,Atlanta FaZe
-5,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,2/13/2021,2,3,Los Angeles Guerrillas
-6,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,2/13/2021,3,1,Toronto Ultra
-7,New York Subliners,Los Angeles Thieves,Stage 1 Week 1,2/13/2021,0,3,Los Angeles Thieves
-8,Seattle Surge,London Royal Ravens,Stage 1 Week 1,2/14/2021,3,2,Seattle Surge
-9,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,2/14/2021,3,2,Minnesota ROKKR
-10,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,2/14/2021,2,3,Atlanta FaZe
-11,Los Angeles Guerrillas,Florida Mutineers,Super Week,2/22/2021,1,3,Florida Mutineers
-12,Toronto Ultra,Atlanta FaZe,Super Week,2/22/2021,1,3,Atlanta FaZe
-13,Paris Legion,Florida Mutineers,Super Week,2/23/2021,3,0,Paris Legion
-14,New York Subliners,London Royal Ravens,Super Week,2/23/2021,3,0,New York Subliners
-15,Seattle Surge,Minnesota ROKKR,Super Week,2/23/2021,0,3,Minnesota ROKKR
-16,London Royal Ravens,Dallas Empire,Super Week,2/24/2021,2,3,Dallas Empire
-17,Seattle Surge,Los Angeles Thieves,Super Week,2/24/2021,2,3,Los Angeles Thieves
-18,Toronto Ultra,OpTic Chicago,Super Week,2/24/2021,1,3,OpTic Chicago
-19,New York Subliners,Minnesota ROKKR,Super Week,2/25/2021,3,0,New York Subliners
-20,Los Angeles Guerrillas,OpTic Chicago,Super Week,2/25/2021,1,3,OpTic Chicago
-21,Florida Mutineers,Atlanta FaZe,Super Week,2/25/2021,1,3,Atlanta FaZe
-22,London Royal Ravens,Los Angeles Thieves,Super Week,2/26/2021,1,3,Los Angeles Thieves
-23,Paris Legion,Toronto Ultra,Super Week,2/26/2021,3,2,Paris Legion
-24,New York Subliners,Dallas Empire,Super Week,2/26/2021,2,3,Dallas Empire
-25,Paris Legion,Atlanta FaZe,Super Week,2/27/2021,2,3,Atlanta FaZe
-26,London Royal Ravens,Minnesota ROKKR,Super Week,2/27/2021,0,3,Minnesota ROKKR
-27,Los Angeles Guerrillas,Toronto Ultra,Super Week,2/27/2021,3,2,Los Angeles Guerrillas
-28,Seattle Surge,New York Subliners,Super Week,2/28/2021,1,3,New York Subliners
-29,Florida Mutineers,OpTic Chicago,Super Week,2/28/2021,1,3,OpTic Chicago
-30,Los Angeles Thieves,Dallas Empire,Super Week,2/28/2021,0,3,Dallas Empire
-31,London Royal Ravens,Toronto Ultra,Major 1,3/3/2021,2,3,Toronto Ultra
-32,Florida Mutineers,Seattle Surge,Major 1,3/3/2021,3,1,Florida Mutineers
-33,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,3/4/2021,3,0,Los Angeles Guerrillas
-34,New York Subliners,OpTic Chicago,Major 1,3/4/2021,0,3,OpTic Chicago
-35,Florida Mutineers,Paris Legion,Major 1,3/4/2021,3,1,Florida Mutineers
-36,Toronto Ultra,Minnesota ROKKR,Major 1,3/4/2021,3,2,Toronto Ultra
-37,Los Angeles Guerrillas,Atlanta FaZe,Major 1,3/5/2021,0,3,Atlanta FaZe
-38,OpTic Chicago,Dallas Empire,Major 1,3/5/2021,2,3,Dallas Empire
-39,Florida Mutineers,New York Subliners,Major 1,3/5/2021,2,3,New York Subliners
-40,Toronto Ultra,Los Angeles Thieves,Major 1,3/5/2021,0,3,Los Angeles Thieves
-41,New York Subliners,Los Angeles Guerrillas,Major 1,3/6/2021,3,1,New York Subliners
-42,Los Angeles Thieves,OpTic Chicago,Major 1,3/6/2021,1,3,OpTic Chicago
-43,OpTic Chicago,New York Subliners,Major 1,3/6/2021,0,3,New York Subliners
-44,Atlanta FaZe,Dallas Empire,Major 1,3/7/2021,3,0,Atlanta FaZe
-45,New York Subliners,Dallas Empire,Major 1,3/7/2021,0,3,Dallas Empire
-46,Dallas Empire,Atlanta FaZe,Major 1,3/7/2021,2,5,Atlanta FaZe
-47,New York Subliners,Atlanta FaZe,Stage 2 Week 1,3/18/2021,1,3,Atlanta FaZe
-48,Seattle Surge,Florida Mutineers,Stage 2 Week 1,3/18/2021,3,1,Seattle Surge
-49,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,3/19/2021,2,3,Los Angeles Thieves
-50,Minnesota ROKKR,Paris Legion,Stage 2 Week 1,3/19/2021,0,3,Paris Legion
-51,Paris Legion,OpTic Chicago,Stage 2 Week 1,3/20/2021,1,3,OpTic Chicago
-52,Minnesota ROKKR,Florida Mutineers,Stage 2 Week 1,3/20/2021,0,3,Florida Mutineers
-53,Seattle Surge,Dallas Empire,Stage 2 Week 1,3/20/2021,2,3,Dallas Empire
-54,London Royal Ravens,Los Angeles Guerrillas,Stage 2 Week 1,3/21/2021,3,0,London Royal Ravens
-55,Toronto Ultra,Atlanta FaZe,Stage 2 Week 1,3/21/2021,0,3,Atlanta FaZe
-56,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,3/21/2021,3,2,New York Subliners
-57,Paris Legion,Dallas Empire,Stage 2 Week 2,3/25/2021,1,3,Dallas Empire
-58,Minnesota ROKKR,OpTic Chicago,Stage 2 Week 2,3/25/2021,3,0,Minnesota ROKKR
-59,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,3/26/2021,3,1,London Royal Ravens
-60,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,3/26/2021,1,3,New York Subliners
-61,London Royal Ravens,New York Subliners,Stage 2 Week 2,3/27/2021,1,3,New York Subliners
-62,Los Angeles Thieves,Atlanta FaZe,Stage 2 Week 2,3/27/2021,0,3,Atlanta FaZe
-63,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,3/27/2021,2,3,Toronto Ultra
-64,Seattle Surge,Paris Legion,Stage 2 Week 2,3/28/2021,3,0,Seattle Surge
-65,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,3/28/2021,3,2,Minnesota ROKKR
-66,Florida Mutineers,OpTic Chicago,Stage 2 Week 2,3/28/2021,3,0,Florida Mutineers
-67,Florida Mutineers,Dallas Empire,Stage 2 Week 3,4/1/2021,0,3,Dallas Empire
-68,Seattle Surge,OpTic Chicago,Stage 2 Week 3,4/1/2021,0,3,OpTic Chicago
-69,London Royal Ravens,Toronto Ultra,Stage 2 Week 3,4/2/2021,0,3,Toronto Ultra
-70,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,4/2/2021,3,2,Los Angeles Guerrillas
-71,Paris Legion,Florida Mutineers,Stage 2 Week 3,4/3/2021,3,1,Paris Legion
-72,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,4/3/2021,2,3,Minnesota ROKKR
-73,Toronto Ultra,New York Subliners,Stage 2 Week 3,4/3/2021,1,3,New York Subliners
-74,London Royal Ravens,Atlanta FaZe,Stage 2 Week 3,4/4/2021,0,3,Atlanta FaZe
-75,Los Angeles Guerrillas,Los Angeles Thieves,Stage 2 Week 3,4/4/2021,3,0,Los Angeles Guerrillas
-76,OpTic Chicago,Dallas Empire,Stage 2 Week 3,4/4/2021,3,2,OpTic Chicago
-77,Los Angeles Thieves,Paris Legion,Major 2,4/7/2021,3,0,Los Angeles Thieves
-78,Florida Mutineers,Los Angeles Guerrillas,Major 2,4/7/2021,3,0,Florida Mutineers
-79,Dallas Empire,New York Subliners,Major 2,4/8/2021,3,0,Dallas Empire
-80,Toronto Ultra,OpTic Chicago,Major 2,4/8/2021,3,1,Toronto Ultra
-81,Los Angeles Thieves,London Royal Ravens,Major 2,4/8/2021,3,2,Los Angeles Thieves
-82,Florida Mutineers,Seattle Surge,Major 2,4/8/2021,1,3,Seattle Surge
-83,Dallas Empire,Minnesota ROKKR,Major 2,4/9/2021,3,2,Dallas Empire
-84,Toronto Ultra,Atlanta FaZe,Major 2,4/9/2021,1,3,Atlanta FaZe
-85,Seattle Surge,OpTic Chicago,Major 2,4/9/2021,1,3,OpTic Chicago
-86,Los Angeles Thieves,New York Subliners,Major 2,4/9/2021,3,0,Los Angeles Thieves
-87,Los Angeles Thieves,Toronto Ultra,Major 2,4/10/2021,0,3,Toronto Ultra
-88,OpTic Chicago,Minnesota ROKKR,Major 2,4/10/2021,2,3,Minnesota ROKKR
-89,Dallas Empire,Atlanta FaZe,Major 2,4/10/2021,1,3,Atlanta FaZe
-90,Toronto Ultra,Minnesota ROKKR,Major 2,4/11/2021,3,1,Toronto Ultra
-91,Toronto Ultra,Dallas Empire,Major 2,4/11/2021,3,1,Toronto Ultra
-92,Toronto Ultra,Atlanta FaZe,Major 2,4/11/2021,5,3,Toronto Ultra
-93,Paris Legion,Dallas Empire,Stage 3 Week 1,4/22/2021,1,3,Dallas Empire
-94,Florida Mutineers,Toronto Ultra,Stage 3 Week 1,4/22/2021,0,3,Toronto Ultra
-95,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,4/23/2021,2,3,Los Angeles Thieves
-96,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,4/23/2021,1,3,OpTic Chicago
-97,Los Angeles Guerrillas,Paris Legion,Stage 3 Week 1,4/24/2021,3,0,Los Angeles Guerrillas
-98,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,4/24/2021,3,1,Florida Mutineers
-99,Seattle Surge,OpTic Chicago,Stage 3 Week 1,4/24/2021,0,3,OpTic Chicago
-100,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,4/25/2021,1,3,Los Angeles Thieves
-101,New York Subliners,Atlanta FaZe,Stage 3 Week 1,4/25/2021,3,2,New York Subliners
-102,Dallas Empire,Toronto Ultra,Stage 3 Week 1,4/25/2021,0,3,Toronto Ultra
-103,London Royal Ravens,New York Subliners,Stage 3 Week 2,4/29/2021,3,2,London Royal Ravens
-104,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,4/29/2021,2,3,Atlanta FaZe
-105,Los Angeles Guerrillas,Toronto Ultra,Stage 3 Week 2,4/30/2021,0,3,Toronto Ultra
-106,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,4/30/2021,1,3,Minnesota ROKKR
-107,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,5/1/2021,2,3,Atlanta FaZe
-108,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,5/1/2021,2,3,Dallas Empire
-109,Seattle Surge,New York Subliners,Stage 3 Week 2,5/1/2021,0,3,New York Subliners
-110,Paris Legion,Florida Mutineers,Stage 3 Week 2,5/2/2021,3,1,Paris Legion
-111,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,5/2/2021,1,3,Toronto Ultra
-112,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,5/2/2021,3,1,Los Angeles Thieves
+Match ID,Team 1,Team 2,Event,Date,Team 1 Score,Team 2 Score,Winner,Match VOD
+1,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,2/11/2021,1,3,Los Angeles Thieves,https://youtu.be/MOJL3t9lufQ
+2,Seattle Surge,Dallas Empire,Stage 1 Week 1,2/11/2021,0,3,Dallas Empire,https://youtu.be/WgTjc8Mnl0g
+3,Paris Legion,OpTic Chicago,Stage 1 Week 1,2/12/2021,0,3,OpTic Chicago,https://youtu.be/ZL4ySDQjrl4
+4,Los Angeles Guerrillas,Atlanta FaZe,Stage 1 Week 1,2/12/2021,0,3,Atlanta FaZe,
+5,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,2/13/2021,2,3,Los Angeles Guerrillas,
+6,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,2/13/2021,3,1,Toronto Ultra,
+7,New York Subliners,Los Angeles Thieves,Stage 1 Week 1,2/13/2021,0,3,Los Angeles Thieves,
+8,Seattle Surge,London Royal Ravens,Stage 1 Week 1,2/14/2021,3,2,Seattle Surge,
+9,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,2/14/2021,3,2,Minnesota ROKKR,
+10,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,2/14/2021,2,3,Atlanta FaZe,
+11,Los Angeles Guerrillas,Florida Mutineers,Super Week,2/22/2021,1,3,Florida Mutineers,
+12,Toronto Ultra,Atlanta FaZe,Super Week,2/22/2021,1,3,Atlanta FaZe,
+13,Paris Legion,Florida Mutineers,Super Week,2/23/2021,3,0,Paris Legion,
+14,New York Subliners,London Royal Ravens,Super Week,2/23/2021,3,0,New York Subliners,
+15,Seattle Surge,Minnesota ROKKR,Super Week,2/23/2021,0,3,Minnesota ROKKR,
+16,London Royal Ravens,Dallas Empire,Super Week,2/24/2021,2,3,Dallas Empire,
+17,Seattle Surge,Los Angeles Thieves,Super Week,2/24/2021,2,3,Los Angeles Thieves,
+18,Toronto Ultra,OpTic Chicago,Super Week,2/24/2021,1,3,OpTic Chicago,
+19,New York Subliners,Minnesota ROKKR,Super Week,2/25/2021,3,0,New York Subliners,
+20,Los Angeles Guerrillas,OpTic Chicago,Super Week,2/25/2021,1,3,OpTic Chicago,
+21,Florida Mutineers,Atlanta FaZe,Super Week,2/25/2021,1,3,Atlanta FaZe,
+22,London Royal Ravens,Los Angeles Thieves,Super Week,2/26/2021,1,3,Los Angeles Thieves,
+23,Paris Legion,Toronto Ultra,Super Week,2/26/2021,3,2,Paris Legion,
+24,New York Subliners,Dallas Empire,Super Week,2/26/2021,2,3,Dallas Empire,
+25,Paris Legion,Atlanta FaZe,Super Week,2/27/2021,2,3,Atlanta FaZe,
+26,London Royal Ravens,Minnesota ROKKR,Super Week,2/27/2021,0,3,Minnesota ROKKR,
+27,Los Angeles Guerrillas,Toronto Ultra,Super Week,2/27/2021,3,2,Los Angeles Guerrillas,
+28,Seattle Surge,New York Subliners,Super Week,2/28/2021,1,3,New York Subliners,
+29,Florida Mutineers,OpTic Chicago,Super Week,2/28/2021,1,3,OpTic Chicago,
+30,Los Angeles Thieves,Dallas Empire,Super Week,2/28/2021,0,3,Dallas Empire,
+31,London Royal Ravens,Toronto Ultra,Major 1,3/3/2021,2,3,Toronto Ultra,
+32,Florida Mutineers,Seattle Surge,Major 1,3/3/2021,3,1,Florida Mutineers,
+33,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,3/4/2021,3,0,Los Angeles Guerrillas,
+34,New York Subliners,OpTic Chicago,Major 1,3/4/2021,0,3,OpTic Chicago,
+35,Florida Mutineers,Paris Legion,Major 1,3/4/2021,3,1,Florida Mutineers,
+36,Toronto Ultra,Minnesota ROKKR,Major 1,3/4/2021,3,2,Toronto Ultra,
+37,Los Angeles Guerrillas,Atlanta FaZe,Major 1,3/5/2021,0,3,Atlanta FaZe,
+38,OpTic Chicago,Dallas Empire,Major 1,3/5/2021,2,3,Dallas Empire,
+39,Florida Mutineers,New York Subliners,Major 1,3/5/2021,2,3,New York Subliners,
+40,Toronto Ultra,Los Angeles Thieves,Major 1,3/5/2021,0,3,Los Angeles Thieves,
+41,New York Subliners,Los Angeles Guerrillas,Major 1,3/6/2021,3,1,New York Subliners,
+42,Los Angeles Thieves,OpTic Chicago,Major 1,3/6/2021,1,3,OpTic Chicago,
+43,OpTic Chicago,New York Subliners,Major 1,3/6/2021,0,3,New York Subliners,
+44,Atlanta FaZe,Dallas Empire,Major 1,3/7/2021,3,0,Atlanta FaZe,
+45,New York Subliners,Dallas Empire,Major 1,3/7/2021,0,3,Dallas Empire,
+46,Dallas Empire,Atlanta FaZe,Major 1,3/7/2021,2,5,Atlanta FaZe,
+47,New York Subliners,Atlanta FaZe,Stage 2 Week 1,3/18/2021,1,3,Atlanta FaZe,
+48,Seattle Surge,Florida Mutineers,Stage 2 Week 1,3/18/2021,3,1,Seattle Surge,
+49,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,3/19/2021,2,3,Los Angeles Thieves,
+50,Minnesota ROKKR,Paris Legion,Stage 2 Week 1,3/19/2021,0,3,Paris Legion,
+51,Paris Legion,OpTic Chicago,Stage 2 Week 1,3/20/2021,1,3,OpTic Chicago,
+52,Minnesota ROKKR,Florida Mutineers,Stage 2 Week 1,3/20/2021,0,3,Florida Mutineers,
+53,Seattle Surge,Dallas Empire,Stage 2 Week 1,3/20/2021,2,3,Dallas Empire,
+54,London Royal Ravens,Los Angeles Guerrillas,Stage 2 Week 1,3/21/2021,3,0,London Royal Ravens,
+55,Toronto Ultra,Atlanta FaZe,Stage 2 Week 1,3/21/2021,0,3,Atlanta FaZe,
+56,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,3/21/2021,3,2,New York Subliners,
+57,Paris Legion,Dallas Empire,Stage 2 Week 2,3/25/2021,1,3,Dallas Empire,
+58,Minnesota ROKKR,OpTic Chicago,Stage 2 Week 2,3/25/2021,3,0,Minnesota ROKKR,
+59,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,3/26/2021,3,1,London Royal Ravens,
+60,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,3/26/2021,1,3,New York Subliners,
+61,London Royal Ravens,New York Subliners,Stage 2 Week 2,3/27/2021,1,3,New York Subliners,
+62,Los Angeles Thieves,Atlanta FaZe,Stage 2 Week 2,3/27/2021,0,3,Atlanta FaZe,
+63,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,3/27/2021,2,3,Toronto Ultra,
+64,Seattle Surge,Paris Legion,Stage 2 Week 2,3/28/2021,3,0,Seattle Surge,
+65,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,3/28/2021,3,2,Minnesota ROKKR,
+66,Florida Mutineers,OpTic Chicago,Stage 2 Week 2,3/28/2021,3,0,Florida Mutineers,
+67,Florida Mutineers,Dallas Empire,Stage 2 Week 3,4/1/2021,0,3,Dallas Empire,
+68,Seattle Surge,OpTic Chicago,Stage 2 Week 3,4/1/2021,0,3,OpTic Chicago,
+69,London Royal Ravens,Toronto Ultra,Stage 2 Week 3,4/2/2021,0,3,Toronto Ultra,
+70,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,4/2/2021,3,2,Los Angeles Guerrillas,
+71,Paris Legion,Florida Mutineers,Stage 2 Week 3,4/3/2021,3,1,Paris Legion,
+72,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,4/3/2021,2,3,Minnesota ROKKR,
+73,Toronto Ultra,New York Subliners,Stage 2 Week 3,4/3/2021,1,3,New York Subliners,
+74,London Royal Ravens,Atlanta FaZe,Stage 2 Week 3,4/4/2021,0,3,Atlanta FaZe,
+75,Los Angeles Guerrillas,Los Angeles Thieves,Stage 2 Week 3,4/4/2021,3,0,Los Angeles Guerrillas,
+76,OpTic Chicago,Dallas Empire,Stage 2 Week 3,4/4/2021,3,2,OpTic Chicago,
+77,Los Angeles Thieves,Paris Legion,Major 2,4/7/2021,3,0,Los Angeles Thieves,
+78,Florida Mutineers,Los Angeles Guerrillas,Major 2,4/7/2021,3,0,Florida Mutineers,
+79,Dallas Empire,New York Subliners,Major 2,4/8/2021,3,0,Dallas Empire,
+80,Toronto Ultra,OpTic Chicago,Major 2,4/8/2021,3,1,Toronto Ultra,
+81,Los Angeles Thieves,London Royal Ravens,Major 2,4/8/2021,3,2,Los Angeles Thieves,
+82,Florida Mutineers,Seattle Surge,Major 2,4/8/2021,1,3,Seattle Surge,
+83,Dallas Empire,Minnesota ROKKR,Major 2,4/9/2021,3,2,Dallas Empire,
+84,Toronto Ultra,Atlanta FaZe,Major 2,4/9/2021,1,3,Atlanta FaZe,
+85,Seattle Surge,OpTic Chicago,Major 2,4/9/2021,1,3,OpTic Chicago,
+86,Los Angeles Thieves,New York Subliners,Major 2,4/9/2021,3,0,Los Angeles Thieves,
+87,Los Angeles Thieves,Toronto Ultra,Major 2,4/10/2021,0,3,Toronto Ultra,
+88,OpTic Chicago,Minnesota ROKKR,Major 2,4/10/2021,2,3,Minnesota ROKKR,
+89,Dallas Empire,Atlanta FaZe,Major 2,4/10/2021,1,3,Atlanta FaZe,
+90,Toronto Ultra,Minnesota ROKKR,Major 2,4/11/2021,3,1,Toronto Ultra,
+91,Toronto Ultra,Dallas Empire,Major 2,4/11/2021,3,1,Toronto Ultra,
+92,Toronto Ultra,Atlanta FaZe,Major 2,4/11/2021,5,3,Toronto Ultra,
+93,Paris Legion,Dallas Empire,Stage 3 Week 1,4/22/2021,1,3,Dallas Empire,
+94,Florida Mutineers,Toronto Ultra,Stage 3 Week 1,4/22/2021,0,3,Toronto Ultra,
+95,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,4/23/2021,2,3,Los Angeles Thieves,
+96,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,4/23/2021,1,3,OpTic Chicago,
+97,Los Angeles Guerrillas,Paris Legion,Stage 3 Week 1,4/24/2021,3,0,Los Angeles Guerrillas,
+98,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,4/24/2021,3,1,Florida Mutineers,
+99,Seattle Surge,OpTic Chicago,Stage 3 Week 1,4/24/2021,0,3,OpTic Chicago,
+100,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,4/25/2021,1,3,Los Angeles Thieves,
+101,New York Subliners,Atlanta FaZe,Stage 3 Week 1,4/25/2021,3,2,New York Subliners,
+102,Dallas Empire,Toronto Ultra,Stage 3 Week 1,4/25/2021,0,3,Toronto Ultra,
+103,London Royal Ravens,New York Subliners,Stage 3 Week 2,4/29/2021,3,2,London Royal Ravens,
+104,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,4/29/2021,2,3,Atlanta FaZe,
+105,Los Angeles Guerrillas,Toronto Ultra,Stage 3 Week 2,4/30/2021,0,3,Toronto Ultra,
+106,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,4/30/2021,1,3,Minnesota ROKKR,
+107,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,5/1/2021,2,3,Atlanta FaZe,
+108,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,5/1/2021,2,3,Dallas Empire,
+109,Seattle Surge,New York Subliners,Stage 3 Week 2,5/1/2021,0,3,New York Subliners,
+110,Paris Legion,Florida Mutineers,Stage 3 Week 2,5/2/2021,3,1,Paris Legion,
+111,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,5/2/2021,1,3,Toronto Ultra,
+112,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,5/2/2021,3,1,Los Angeles Thieves,
