@@ -25,7 +25,9 @@ def viewMatches():
         length = results.shape[0]
         if team != 'All':
             wins, losses = stats.getViewMatchRecord(team, results)
-    return render_template("viewMatches.html", stats=stats, tables=[results.to_html(classes="data", index=False)], selectedItems=selectedItems, length=length, team=team, wins=wins, losses=losses)
+    #return render_template("viewMatches.html", stats=stats, tables=[results.to_html(classes="data", index=False)], selectedItems=selectedItems, length=length, team=team, wins=wins, losses=losses)
+    return render_template("viewMatches.html", stats=stats, data=results.to_dict(orient='records'),
+                           selectedItems=selectedItems, length=length, team=team, wins=wins, losses=losses)
 
 @app.route("/viewMaps", methods=["GET", "POST"])
 def viewMaps():

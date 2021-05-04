@@ -2,6 +2,21 @@ body {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+.matchData table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+}
+
+.matchData table {
+    width: 95%;
+}
+
+.matchData a:visited {
+    color: blue;
+}
+
 .navbar {
     overflow: hidden;
     background-color: #333;

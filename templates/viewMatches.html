@@ -39,10 +39,44 @@
             {% if team in stats.teams %}
                 <h3>Wins: {{ wins }} &nbsp;&nbsp; Losses: {{ losses }}</h3>
             {% endif %}
-            <div class="data">
+            <div class="matchData">
+                <!--
                 {% for table in tables %}
                     {{ table|safe }}
+                    <a href="{{ table['Match VOD'] }}">Match VOD</a>
                 {% endfor %}
+                -->
+                <table>
+                    <thead>
+                        <tr>
+                            {% for col in data[0] %}
+                                <td>
+                                    <strong>{{ col }}</strong>
+                                </td>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in data %}
+                            <tr>
+                                <td>{{ row['Team 1'] }}</td>
+                                <td>{{ row['Team 2'] }}</td>
+                                <td>{{ row['Event'] }}</td>
+                                <td>{{ row['Date'] }}</td>
+                                <td>{{ row['Team 1 Score'] }}</td>
+                                <td>{{ row['Team 2 Score'] }}</td>
+                                <td>{{ row['Winner'] }}</td>
+                                {% if row['Match VOD']|string|length > 3 %}
+                                    <td>
+                                        <a href="{{ row['Match VOD'] }}">VOD</a>
+                                    </td>
+                                {% else %}
+                                    <td>No VOD</td>
+                                {% endif %}
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
             </div>
         </div>
 
