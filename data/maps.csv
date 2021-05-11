@@ -1,446 +1,485 @@
-Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Score,Map Winner,Score Difference,Total Game Time
-1,1,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,Hardpoint,Garrison,1,194,250,Los Angeles Thieves,56,
-1,2,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,Search and Destroy,Miami,2,6,4,Minnesota ROKKR,2,11:07
-1,3,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,Control,Garrison,3,1,3,Los Angeles Thieves,2,10:24
-1,4,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,Hardpoint,Moscow,4,60,250,Los Angeles Thieves,190,8:04
-2,5,Seattle Surge,Dallas Empire,Stage 1 Week 1,Hardpoint,Crossroads,1,98,250,Dallas Empire,152,8:39
-2,6,Seattle Surge,Dallas Empire,Stage 1 Week 1,Search and Destroy,Miami,2,2,6,Dallas Empire,4,9:51
-2,7,Seattle Surge,Dallas Empire,Stage 1 Week 1,Control,Garrison,3,1,3,Dallas Empire,2,8:15
-3,8,Paris Legion,OpTic Chicago,Stage 1 Week 1,Hardpoint,Raid,1,102,250,OpTic Chicago,148,7:37
-3,9,Paris Legion,OpTic Chicago,Stage 1 Week 1,Search and Destroy,Checkmate,2,4,6,OpTic Chicago,2,9:14
-3,10,Paris Legion,OpTic Chicago,Stage 1 Week 1,Control,Raid,3,2,3,OpTic Chicago,1,13:13
-4,11,Los Angeles Guerrillas,Atlanta FaZe,Stage 1 Week 1,Hardpoint,Crossroads,1,156,250,Atlanta FaZe,94,8:49
-4,12,Los Angeles Guerrillas,Atlanta FaZe,Stage 1 Week 1,Search and Destroy,Garrison,2,4,6,Atlanta FaZe,2,12:01
-4,13,Los Angeles Guerrillas,Atlanta FaZe,Stage 1 Week 1,Control,Garrison,3,1,3,Atlanta FaZe,2,11:39
-5,14,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Hardpoint,Crossroads,1,199,250,Los Angeles Guerrillas,51,10:56
-5,15,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Search and Destroy,Miami,2,2,6,Los Angeles Guerrillas,4,10:12
-5,16,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Control,Checkmate,3,3,1,Paris Legion,2,10:29
-5,17,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Hardpoint,Garrison,4,250,198,Paris Legion,52,10:56
-5,18,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Search and Destroy,Raid,5,4,6,Los Angeles Guerrillas,2,11:48
-6,19,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,Hardpoint,Garrison,1,250,164,Toronto Ultra,86,10:11
-6,20,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,Search and Destroy,Miami,2,6,4,Toronto Ultra,2,14:11
-6,21,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,Control,Garrison,3,2,3,Florida Mutineers,1,15:43
-6,22,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,Hardpoint,Crossroads,4,250,177,Toronto Ultra,73,10:34
-7,23,New York Subliners,Los Angeles Thieves,Stage 1 Week 1,Hardpoint,Moscow,1,241,250,Los Angeles Thieves,9,11:54
-7,24,New York Subliners,Los Angeles Thieves,Stage 1 Week 1,Search and Destroy,Miami,2,5,6,Los Angeles Thieves,1,12:33
-7,25,New York Subliners,Los Angeles Thieves,Stage 1 Week 1,Control,Raid,3,2,3,Los Angeles Thieves,1,14:33
-8,26,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Hardpoint,Crossroads,1,250,229,Seattle Surge,21,11:30
-8,27,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Search and Destroy,Checkmate,2,6,5,Seattle Surge,1,11:50
-8,28,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Control,Garrison,3,1,3,London Royal Ravens,2,11:56
-8,29,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Hardpoint,Checkmate,4,115,250,London Royal Ravens,135,7:50
-8,30,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Search and Destroy,Raid,5,6,2,Seattle Surge,4,9:42
-9,31,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Hardpoint,Checkmate,1,201,250,Dallas Empire,49,11:50
-9,32,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Search and Destroy,Moscow,2,6,3,Minnesota ROKKR,3,9:08
-9,33,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Control,Garrison,3,3,2,Minnesota ROKKR,1,13:04
-9,34,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Hardpoint,Garrison,4,201,250,Dallas Empire,49,12:24
-9,35,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Search and Destroy,Garrison,5,6,2,Minnesota ROKKR,4,8:05
-10,36,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Hardpoint,Garrison,1,250,225,OpTic Chicago,25,12:15
-10,37,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Search and Destroy,Miami,2,0,6,Atlanta FaZe,6,7:48
-10,38,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Control,Checkmate,3,3,2,OpTic Chicago,1,11:50
-10,39,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Hardpoint,Moscow,4,245,250,Atlanta FaZe,5,11:46
-10,40,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Search and Destroy,Moscow,5,1,6,Atlanta FaZe,5,6:15
-11,41,Los Angeles Guerrillas,Florida Mutineers,Super Week,Hardpoint,Crossroads,1,250,133,Los Angeles Guerrillas,117,9:20
-11,42,Los Angeles Guerrillas,Florida Mutineers,Super Week,Search and Destroy,Miami,2,3,6,Florida Mutineers,3,10:53
-11,43,Los Angeles Guerrillas,Florida Mutineers,Super Week,Control,Garrison,3,2,3,Florida Mutineers,1,14:13
-11,44,Los Angeles Guerrillas,Florida Mutineers,Super Week,Hardpoint,Garrison,4,172,250,Florida Mutineers,78,10:34
-12,45,Toronto Ultra,Atlanta FaZe,Super Week,Hardpoint,Raid,1,247,250,Atlanta FaZe,3,10:02
-12,46,Toronto Ultra,Atlanta FaZe,Super Week,Search and Destroy,Raid,2,6,3,Toronto Ultra,3,8:14
-12,47,Toronto Ultra,Atlanta FaZe,Super Week,Control,Raid,3,0,3,Atlanta FaZe,3,7:36
-12,48,Toronto Ultra,Atlanta FaZe,Super Week,Hardpoint,Garrison,4,128,250,Atlanta FaZe,122,8:53
-13,49,Paris Legion,Florida Mutineers,Super Week,Hardpoint,Garrison,1,222,220,Paris Legion,2,12:22
-13,50,Paris Legion,Florida Mutineers,Super Week,Search and Destroy,Checkmate,2,6,4,Paris Legion,2,12:13
-13,51,Paris Legion,Florida Mutineers,Super Week,Control,Raid,3,3,1,Paris Legion,2,11:58
-14,52,New York Subliners,London Royal Ravens,Super Week,Hardpoint,Garrison,1,250,151,New York Subliners,99,10:01
-14,53,New York Subliners,London Royal Ravens,Super Week,Search and Destroy,Checkmate,2,6,1,New York Subliners,5,7:07
-14,54,New York Subliners,London Royal Ravens,Super Week,Control,Checkmate,3,3,0,New York Subliners,3,5:41
-15,55,Seattle Surge,Minnesota ROKKR,Super Week,Hardpoint,Checkmate,1,163,250,Minnesota ROKKR,87,10:01
-15,56,Seattle Surge,Minnesota ROKKR,Super Week,Search and Destroy,Raid,2,5,6,Minnesota ROKKR,1,11:00
-15,57,Seattle Surge,Minnesota ROKKR,Super Week,Control,Raid,3,2,3,Minnesota ROKKR,1,15:23
-16,58,London Royal Ravens,Dallas Empire,Super Week,Hardpoint,Moscow,1,250,160,London Royal Ravens,90,11:03
-16,59,London Royal Ravens,Dallas Empire,Super Week,Search and Destroy,Moscow,2,3,6,Dallas Empire,3,8:12
-16,60,London Royal Ravens,Dallas Empire,Super Week,Control,Garrison,3,2,3,Dallas Empire,1,13:07
-16,61,London Royal Ravens,Dallas Empire,Super Week,Hardpoint,Garrison,4,235,228,London Royal Ravens,7,12:43
-16,62,London Royal Ravens,Dallas Empire,Super Week,Search and Destroy,Miami,5,4,6,Dallas Empire,2,12:28
-17,63,Seattle Surge,Los Angeles Thieves,Super Week,Hardpoint,Checkmate,1,231,250,Los Angeles Thieves,19,12:31
-17,64,Seattle Surge,Los Angeles Thieves,Super Week,Search and Destroy,Raid,2,6,4,Seattle Surge,2,8:36
-17,65,Seattle Surge,Los Angeles Thieves,Super Week,Control,Raid,3,2,3,Los Angeles Thieves,1,14:15
-17,66,Seattle Surge,Los Angeles Thieves,Super Week,Hardpoint,Moscow,4,250,222,Seattle Surge,28,10:57
-17,67,Seattle Surge,Los Angeles Thieves,Super Week,Search and Destroy,Moscow,5,0,6,Los Angeles Thieves,6,6:02
-18,68,Toronto Ultra,OpTic Chicago,Super Week,Hardpoint,Checkmate,1,68,250,OpTic Chicago,182,7:29
-18,69,Toronto Ultra,OpTic Chicago,Super Week,Search and Destroy,Raid,2,6,4,Toronto Ultra,2,11:22
-18,70,Toronto Ultra,OpTic Chicago,Super Week,Control,Raid,3,1,3,OpTic Chicago,2,11:56
-18,71,Toronto Ultra,OpTic Chicago,Super Week,Hardpoint,Raid,4,218,250,OpTic Chicago,32,9:38
-19,72,New York Subliners,Minnesota ROKKR,Super Week,Hardpoint,Raid,1,250,82,New York Subliners,168,6:37
-19,73,New York Subliners,Minnesota ROKKR,Super Week,Search and Destroy,Moscow,2,6,0,New York Subliners,6,5:05
-19,74,New York Subliners,Minnesota ROKKR,Super Week,Control,Raid,3,3,2,New York Subliners,1,14:58
-20,75,Los Angeles Guerrillas,OpTic Chicago,Super Week,Hardpoint,Garrison,1,250,234,Los Angeles Guerrillas,16,10:47
-20,76,Los Angeles Guerrillas,OpTic Chicago,Super Week,Search and Destroy,Moscow,2,3,6,OpTic Chicago,3,9:43
-20,77,Los Angeles Guerrillas,OpTic Chicago,Super Week,Control,Raid,3,1,3,OpTic Chicago,2,12:47
-20,78,Los Angeles Guerrillas,OpTic Chicago,Super Week,Hardpoint,Moscow,4,191,250,OpTic Chicago,59,10:48
-21,79,Florida Mutineers,Atlanta FaZe,Super Week,Hardpoint,Garrison,1,250,196,Florida Mutineers,54,11:38
-21,80,Florida Mutineers,Atlanta FaZe,Super Week,Search and Destroy,Moscow,2,1,6,Atlanta FaZe,5,6:06
-21,81,Florida Mutineers,Atlanta FaZe,Super Week,Control,Garrison,3,2,3,Atlanta FaZe,1,11:17
-21,82,Florida Mutineers,Atlanta FaZe,Super Week,Hardpoint,Moscow,4,190,250,Atlanta FaZe,60,10:48
-22,83,London Royal Ravens,Los Angeles Thieves,Super Week,Hardpoint,Moscow,1,137,250,Los Angeles Thieves,113,9:26
-22,84,London Royal Ravens,Los Angeles Thieves,Super Week,Search and Destroy,Garrison,2,4,6,Los Angeles Thieves,2,12:34
-22,85,London Royal Ravens,Los Angeles Thieves,Super Week,Control,Garrison,3,3,1,London Royal Ravens,2,7:14
-22,86,London Royal Ravens,Los Angeles Thieves,Super Week,Hardpoint,Garrison,4,192,250,Los Angeles Thieves,58,11:44
-23,87,Paris Legion,Toronto Ultra,Super Week,Hardpoint,Raid,1,250,225,Paris Legion,25,9:38
-23,88,Paris Legion,Toronto Ultra,Super Week,Search and Destroy,Moscow,2,0,6,Toronto Ultra,6,5:41
-23,89,Paris Legion,Toronto Ultra,Super Week,Control,Raid,3,0,3,Toronto Ultra,3,10:10
-23,90,Paris Legion,Toronto Ultra,Super Week,Hardpoint,Garrison,4,250,211,Paris Legion,39,11:13
-23,91,Paris Legion,Toronto Ultra,Super Week,Search and Destroy,Miami,5,6,3,Paris Legion,3,11:08
-24,92,New York Subliners,Dallas Empire,Super Week,Hardpoint,Checkmate,1,250,138,New York Subliners,112,9:10
-24,93,New York Subliners,Dallas Empire,Super Week,Search and Destroy,Checkmate,2,6,3,New York Subliners,3,7:32
-24,94,New York Subliners,Dallas Empire,Super Week,Control,Raid,3,2,3,Dallas Empire,1,16:06
-24,95,New York Subliners,Dallas Empire,Super Week,Hardpoint,Garrison,4,171,250,Dallas Empire,79,10:35
-24,96,New York Subliners,Dallas Empire,Super Week,Search and Destroy,Miami,5,3,6,Dallas Empire,3,10:07
-25,97,Paris Legion,Atlanta FaZe,Super Week,Hardpoint,Checkmate,1,250,249,Paris Legion,1,11:45
-25,98,Paris Legion,Atlanta FaZe,Super Week,Search and Destroy,Checkmate,2,5,6,Atlanta FaZe,1,12:24
-25,99,Paris Legion,Atlanta FaZe,Super Week,Control,Garrison,3,3,1,Paris Legion,2,13:18
-25,100,Paris Legion,Atlanta FaZe,Super Week,Hardpoint,Raid,4,218,250,Atlanta FaZe,32,9:23
-25,101,Paris Legion,Atlanta FaZe,Super Week,Search and Destroy,Raid,5,4,6,Atlanta FaZe,2,9:40
-26,102,London Royal Ravens,Minnesota ROKKR,Super Week,Hardpoint,Raid,1,157,250,Minnesota ROKKR,93,8:25
-26,103,London Royal Ravens,Minnesota ROKKR,Super Week,Search and Destroy,Moscow,2,4,6,Minnesota ROKKR,2,7:22
-26,104,London Royal Ravens,Minnesota ROKKR,Super Week,Control,Raid,3,2,3,Minnesota ROKKR,1,15:34
-27,105,Los Angeles Guerrillas,Toronto Ultra,Super Week,Hardpoint,Crossroads,1,242,250,Toronto Ultra,8,12:30
-27,106,Los Angeles Guerrillas,Toronto Ultra,Super Week,Search and Destroy,Moscow,2,6,1,Los Angeles Guerrillas,5,5:45
-27,107,Los Angeles Guerrillas,Toronto Ultra,Super Week,Control,Raid,3,3,1,Los Angeles Guerrillas,2,12:07
-27,108,Los Angeles Guerrillas,Toronto Ultra,Super Week,Hardpoint,Garrison,4,199,250,Toronto Ultra,51,10:44
-27,109,Los Angeles Guerrillas,Toronto Ultra,Super Week,Search and Destroy,Raid,5,6,1,Los Angeles Guerrillas,5,6:49
-28,110,Seattle Surge,New York Subliners,Super Week,Hardpoint,Raid,1,250,205,Seattle Surge,45,9:40
-28,111,Seattle Surge,New York Subliners,Super Week,Search and Destroy,Miami,2,3,6,New York Subliners,3,10:29
-28,112,Seattle Surge,New York Subliners,Super Week,Control,Raid,3,0,3,New York Subliners,3,9:28
-28,113,Seattle Surge,New York Subliners,Super Week,Hardpoint,Moscow,4,226,250,New York Subliners,24,11:29
-29,114,Florida Mutineers,OpTic Chicago,Super Week,Hardpoint,Garrison,1,250,229,Florida Mutineers,21,12:01
-29,115,Florida Mutineers,OpTic Chicago,Super Week,Search and Destroy,Checkmate,2,5,6,OpTic Chicago,1,
-29,116,Florida Mutineers,OpTic Chicago,Super Week,Control,Checkmate,3,2,3,OpTic Chicago,1,13:57
-29,117,Florida Mutineers,OpTic Chicago,Super Week,Hardpoint,Checkmate,4,178,250,OpTic Chicago,72,10:30
-30,118,Los Angeles Thieves,Dallas Empire,Super Week,Hardpoint,Raid,1,212,250,Dallas Empire,38,9:28
-30,119,Los Angeles Thieves,Dallas Empire,Super Week,Search and Destroy,Checkmate,2,5,6,Dallas Empire,1,12:16
-30,120,Los Angeles Thieves,Dallas Empire,Super Week,Control,Raid,3,1,3,Dallas Empire,2,12:54
-31,121,London Royal Ravens,Toronto Ultra,Major 1,Hardpoint,Garrison,1,142,250,Toronto Ultra,108,10:30
-31,122,London Royal Ravens,Toronto Ultra,Major 1,Search and Destroy,Garrison,2,6,3,London Royal Ravens,3,
-31,123,London Royal Ravens,Toronto Ultra,Major 1,Control,Raid,3,0,3,Toronto Ultra,3,9:12
-31,124,London Royal Ravens,Toronto Ultra,Major 1,Hardpoint,Moscow,4,250,202,London Royal Ravens,48,
-31,125,London Royal Ravens,Toronto Ultra,Major 1,Search and Destroy,Moscow,5,4,6,Toronto Ultra,2,10:55
-32,126,Florida Mutineers,Seattle Surge,Major 1,Hardpoint,Crossroads,1,250,235,Florida Mutineers,15,11:14
-32,127,Florida Mutineers,Seattle Surge,Major 1,Search and Destroy,Checkmate,2,5,6,Seattle Surge,1,12:48
-32,128,Florida Mutineers,Seattle Surge,Major 1,Control,Garrison,3,3,0,Florida Mutineers,3,6:21
-32,129,Florida Mutineers,Seattle Surge,Major 1,Hardpoint,Raid,4,250,157,Florida Mutineers,93,8:20
-33,130,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Hardpoint,Checkmate,1,250,191,Los Angeles Guerrillas,59,10:25
-33,131,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Search and Destroy,Raid,2,6,5,Los Angeles Guerrillas,1,12:33
-33,132,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Control,Raid,3,3,1,Los Angeles Guerrillas,2,12:46
-34,133,New York Subliners,OpTic Chicago,Major 1,Hardpoint,Checkmate,1,180,250,OpTic Chicago,70,10:41
-34,134,New York Subliners,OpTic Chicago,Major 1,Search and Destroy,Moscow,2,1,6,OpTic Chicago,5,8:09
-34,135,New York Subliners,OpTic Chicago,Major 1,Control,Raid,3,1,3,OpTic Chicago,2,11:13
-35,136,Florida Mutineers,Paris Legion,Major 1,Hardpoint,Garrison,1,129,250,Paris Legion,121,8:53
-35,137,Florida Mutineers,Paris Legion,Major 1,Search and Destroy,Miami,2,6,4,Florida Mutineers,2,14:38
-35,138,Florida Mutineers,Paris Legion,Major 1,Control,Checkmate,3,3,2,Florida Mutineers,1,11:37
-35,139,Florida Mutineers,Paris Legion,Major 1,Hardpoint,Raid,4,250,239,Florida Mutineers,11,9:54
-36,140,Toronto Ultra,Minnesota ROKKR,Major 1,Hardpoint,Moscow,1,241,218,Toronto Ultra,23,12:39
-36,141,Toronto Ultra,Minnesota ROKKR,Major 1,Search and Destroy,Checkmate,2,5,6,Minnesota ROKKR,1,11:56
-36,142,Toronto Ultra,Minnesota ROKKR,Major 1,Control,Raid,3,1,3,Minnesota ROKKR,2,13:06
-36,143,Toronto Ultra,Minnesota ROKKR,Major 1,Hardpoint,Garrison,4,250,228,Toronto Ultra,22,11:37
-36,144,Toronto Ultra,Minnesota ROKKR,Major 1,Search and Destroy,Miami,5,6,1,Toronto Ultra,5,8:25
-37,145,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Hardpoint,Checkmate,1,220,250,Atlanta FaZe,30,11:32
-37,146,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Search and Destroy,Moscow,2,3,6,Atlanta FaZe,3,8:03
-37,147,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Control,Garrison,3,1,3,Atlanta FaZe,2,11:54
-38,148,OpTic Chicago,Dallas Empire,Major 1,Hardpoint,Garrison,1,149,250,Dallas Empire,101,9:32
-38,149,OpTic Chicago,Dallas Empire,Major 1,Search and Destroy,Moscow,2,6,2,OpTic Chicago,4,7:19
-38,150,OpTic Chicago,Dallas Empire,Major 1,Control,Raid,3,3,2,OpTic Chicago,1,
-38,151,OpTic Chicago,Dallas Empire,Major 1,Hardpoint,Moscow,4,157,250,Dallas Empire,93,11:07
-38,152,OpTic Chicago,Dallas Empire,Major 1,Search and Destroy,Checkmate,5,5,6,Dallas Empire,1,13:37
-39,153,Florida Mutineers,New York Subliners,Major 1,Hardpoint,Garrison,1,250,241,Florida Mutineers,9,
-39,154,Florida Mutineers,New York Subliners,Major 1,Search and Destroy,Checkmate,2,6,5,Florida Mutineers,1,13:53
-39,155,Florida Mutineers,New York Subliners,Major 1,Control,Checkmate,3,1,3,New York Subliners,2,10:31
-39,156,Florida Mutineers,New York Subliners,Major 1,Hardpoint,Checkmate,4,193,250,New York Subliners,57,9:51
-39,157,Florida Mutineers,New York Subliners,Major 1,Search and Destroy,Miami,5,3,6,New York Subliners,3,12:11
-40,158,Toronto Ultra,Los Angeles Thieves,Major 1,Hardpoint,Crossroads,1,154,250,Los Angeles Thieves,96,9:51
-40,159,Toronto Ultra,Los Angeles Thieves,Major 1,Search and Destroy,Moscow,2,1,6,Los Angeles Thieves,5,7:25
-40,160,Toronto Ultra,Los Angeles Thieves,Major 1,Control,Checkmate,3,2,3,Los Angeles Thieves,1,12:38
-41,161,New York Subliners,Los Angeles Guerrillas,Major 1,Hardpoint,Checkmate,1,250,189,New York Subliners,61,10:39
-41,162,New York Subliners,Los Angeles Guerrillas,Major 1,Search and Destroy,Miami,2,3,6,Los Angeles Guerrillas,3,10:40
-41,163,New York Subliners,Los Angeles Guerrillas,Major 1,Control,Garrison,3,3,0,New York Subliners,3,8:36
-41,164,New York Subliners,Los Angeles Guerrillas,Major 1,Hardpoint,Raid,4,250,227,New York Subliners,23,9:42
-42,165,Los Angeles Thieves,OpTic Chicago,Major 1,Hardpoint,Crossroads,1,190,250,OpTic Chicago,60,10:28
-42,166,Los Angeles Thieves,OpTic Chicago,Major 1,Search and Destroy,Raid,2,6,5,Los Angeles Thieves,1,14:54
-42,167,Los Angeles Thieves,OpTic Chicago,Major 1,Control,Checkmate,3,1,3,OpTic Chicago,2,8:15
-42,168,Los Angeles Thieves,OpTic Chicago,Major 1,Hardpoint,Raid,4,166,250,OpTic Chicago,84,8:31
-43,169,OpTic Chicago,New York Subliners,Major 1,Hardpoint,Crossroads,1,155,250,New York Subliners,95,9:02
-43,170,OpTic Chicago,New York Subliners,Major 1,Search and Destroy,Garrison,2,1,6,New York Subliners,5,8:56
-43,171,OpTic Chicago,New York Subliners,Major 1,Control,Checkmate,3,1,3,New York Subliners,2,11:46
-44,172,Atlanta FaZe,Dallas Empire,Major 1,Hardpoint,Crossroads,1,250,144,Atlanta FaZe,106,10:14
-44,173,Atlanta FaZe,Dallas Empire,Major 1,Search and Destroy,Miami,2,6,2,Atlanta FaZe,4,9:42
-44,174,Atlanta FaZe,Dallas Empire,Major 1,Control,Raid,3,3,0,Atlanta FaZe,3,9:24
-45,175,New York Subliners,Dallas Empire,Major 1,Hardpoint,Crossroads,1,213,250,Dallas Empire,37,11:22
-45,176,New York Subliners,Dallas Empire,Major 1,Search and Destroy,Checkmate,2,5,6,Dallas Empire,1,11:21
-45,177,New York Subliners,Dallas Empire,Major 1,Control,Checkmate,3,2,3,Dallas Empire,1,13:08
-46,178,Dallas Empire,Atlanta FaZe,Major 1,Hardpoint,Moscow,1,176,250,Atlanta FaZe,74,10:19
-46,179,Dallas Empire,Atlanta FaZe,Major 1,Search and Destroy,Garrison,2,3,6,Atlanta FaZe,3,11:49
-46,180,Dallas Empire,Atlanta FaZe,Major 1,Control,Garrison,3,1,3,Atlanta FaZe,2,6:05
-46,181,Dallas Empire,Atlanta FaZe,Major 1,Hardpoint,Checkmate,4,250,104,Dallas Empire,146,8:57
-46,182,Dallas Empire,Atlanta FaZe,Major 1,Search and Destroy,Moscow,5,1,6,Atlanta FaZe,5,6:52
-46,183,Dallas Empire,Atlanta FaZe,Major 1,Control,Raid,6,3,0,Dallas Empire,3,8:36
-46,184,Dallas Empire,Atlanta FaZe,Major 1,Search and Destroy,Raid,7,2,6,Atlanta FaZe,4,7:13
-47,185,New York Subliners,Atlanta FaZe,Stage 2 Week 1,Hardpoint,Garrison,1,202,250,Atlanta FaZe,48,10:11
-47,186,New York Subliners,Atlanta FaZe,Stage 2 Week 1,Search and Destroy,Express,2,6,5,New York Subliners,1,10:03
-47,187,New York Subliners,Atlanta FaZe,Stage 2 Week 1,Control,Raid,3,1,3,Atlanta FaZe,2,11:22
-47,188,New York Subliners,Atlanta FaZe,Stage 2 Week 1,Hardpoint,Apocalypse,4,195,250,Atlanta FaZe,55,9:50
-48,189,Seattle Surge,Florida Mutineers,Stage 2 Week 1,Hardpoint,Apocalypse,1,250,104,Seattle Surge,146,8:27
-48,190,Seattle Surge,Florida Mutineers,Stage 2 Week 1,Search and Destroy,Checkmate,2,6,3,Seattle Surge,3,10:27
-48,191,Seattle Surge,Florida Mutineers,Stage 2 Week 1,Control,Checkmate,3,0,3,Florida Mutineers,3,8:16
-48,192,Seattle Surge,Florida Mutineers,Stage 2 Week 1,Hardpoint,Checkmate,4,250,224,Seattle Surge,26,12:07
-49,193,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Hardpoint,Garrison,1,183,250,Los Angeles Thieves,67,
-49,194,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Search and Destroy,Raid,2,6,4,Toronto Ultra,2,9:26
-49,195,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Control,Raid,3,1,3,Los Angeles Thieves,2,12:59
-49,196,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Hardpoint,Checkmate,4,250,115,Toronto Ultra,135,8:24
-49,197,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Search and Destroy,Miami,5,5,6,Los Angeles Thieves,1,15:42
-50,198,Minnesota ROKKR,Paris Legion,Stage 2 Week 1,Hardpoint,Raid,1,216,250,Paris Legion,34,9:07
-50,199,Minnesota ROKKR,Paris Legion,Stage 2 Week 1,Search and Destroy,Miami,2,5,6,Paris Legion,1,14:11
-50,200,Minnesota ROKKR,Paris Legion,Stage 2 Week 1,Control,Raid,3,0,3,Paris Legion,3,6:58
-51,201,Paris Legion,OpTic Chicago,Stage 2 Week 1,Hardpoint,Checkmate,1,184,250,OpTic Chicago,66,9:35
-51,202,Paris Legion,OpTic Chicago,Stage 2 Week 1,Search and Destroy,Express,2,6,4,Paris Legion,2,10:33
-51,203,Paris Legion,OpTic Chicago,Stage 2 Week 1,Control,Raid,3,0,3,OpTic Chicago,3,10:10
-51,204,Paris Legion,OpTic Chicago,Stage 2 Week 1,Hardpoint,Apocalypse,4,225,250,OpTic Chicago,25,10:52
-52,205,Minnesota ROKKR,Florida Mutineers,Stage 2 Week 1,Hardpoint,Checkmate,1,214,250,Florida Mutineers,36,10:31
-52,206,Minnesota ROKKR,Florida Mutineers,Stage 2 Week 1,Search and Destroy,Express,2,5,6,Florida Mutineers,1,11:11
-52,207,Minnesota ROKKR,Florida Mutineers,Stage 2 Week 1,Control,Checkmate,3,1,3,Florida Mutineers,2,11:27
-53,208,Seattle Surge,Dallas Empire,Stage 2 Week 1,Hardpoint,Moscow,1,135,250,Dallas Empire,115,9:24
-53,209,Seattle Surge,Dallas Empire,Stage 2 Week 1,Search and Destroy,Checkmate,2,5,6,Dallas Empire,1,10:57
-53,210,Seattle Surge,Dallas Empire,Stage 2 Week 1,Control,Garrison,3,3,2,Seattle Surge,1,11:32
-53,211,Seattle Surge,Dallas Empire,Stage 2 Week 1,Hardpoint,Raid,4,250,149,Seattle Surge,101,8:26
-53,212,Seattle Surge,Dallas Empire,Stage 2 Week 1,Search and Destroy,Express,5,5,6,Dallas Empire,1,11:40
-54,213,London Royal Ravens,Los Angeles Guerrillas,Stage 2 Week 1,Hardpoint,Apocalypse,1,250,189,London Royal Ravens,61,10:23
-54,214,London Royal Ravens,Los Angeles Guerrillas,Stage 2 Week 1,Search and Destroy,Miami,2,6,2,London Royal Ravens,4,9:28
-54,215,London Royal Ravens,Los Angeles Guerrillas,Stage 2 Week 1,Control,Checkmate,3,3,2,London Royal Ravens,1,11:06
-55,216,Toronto Ultra,Atlanta FaZe,Stage 2 Week 1,Hardpoint,Garrison,1,143,250,Atlanta FaZe,107,9:45
-55,217,Toronto Ultra,Atlanta FaZe,Stage 2 Week 1,Search and Destroy,Moscow,2,3,6,Atlanta FaZe,3,8:51
-55,218,Toronto Ultra,Atlanta FaZe,Stage 2 Week 1,Control,Raid,3,0,3,Atlanta FaZe,3,
-56,219,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Hardpoint,Checkmate,1,216,250,Los Angeles Thieves,34,10:11
-56,220,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Search and Destroy,Moscow,2,4,6,Los Angeles Thieves,2,9:09
-56,221,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Control,Raid,3,3,2,New York Subliners,1,13:18
-56,222,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Hardpoint,Moscow,4,250,211,New York Subliners,39,10:40
-56,223,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Search and Destroy,Checkmate,5,6,3,New York Subliners,3,8:43
-57,224,Paris Legion,Dallas Empire,Stage 2 Week 2,Hardpoint,Garrison,1,200,250,Dallas Empire,50,11:47
-57,225,Paris Legion,Dallas Empire,Stage 2 Week 2,Search and Destroy,Express,2,6,3,Paris Legion,3,7:58
-57,226,Paris Legion,Dallas Empire,Stage 2 Week 2,Control,Raid,3,2,3,Dallas Empire,1,14:51
-57,227,Paris Legion,Dallas Empire,Stage 2 Week 2,Hardpoint,Raid,4,190,250,Dallas Empire,60,8:46
-58,228,Minnesota ROKKR,OpTic Chicago,Stage 2 Week 2,Hardpoint,Raid,1,250,81,Minnesota ROKKR,169,
-58,229,Minnesota ROKKR,OpTic Chicago,Stage 2 Week 2,Search and Destroy,Raid,2,6,4,Minnesota ROKKR,2,10:09
-58,230,Minnesota ROKKR,OpTic Chicago,Stage 2 Week 2,Control,Raid,3,3,1,Minnesota ROKKR,2,12:39
-59,231,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,Hardpoint,Checkmate,1,243,250,Los Angeles Thieves,7,11:34
-59,232,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,Search and Destroy,Raid,2,6,2,London Royal Ravens,4,
-59,233,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,Control,Checkmate,3,3,0,London Royal Ravens,3,4:17
-59,234,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,Hardpoint,Moscow,4,250,245,London Royal Ravens,5,11:37
-60,235,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,Hardpoint,Checkmate,1,170,250,New York Subliners,80,9:55
-60,236,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,Search and Destroy,Moscow,2,6,4,Los Angeles Guerrillas,2,9:59
-60,237,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,Control,Checkmate,3,2,3,New York Subliners,1,10:45
-60,238,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,Hardpoint,Garrison,4,241,250,New York Subliners,9,
-61,239,London Royal Ravens,New York Subliners,Stage 2 Week 2,Hardpoint,Checkmate,1,209,250,New York Subliners,41,10:42
-61,240,London Royal Ravens,New York Subliners,Stage 2 Week 2,Search and Destroy,Express,2,5,6,New York Subliners,1,10:00
-61,241,London Royal Ravens,New York Subliners,Stage 2 Week 2,Control,Checkmate,3,3,2,London Royal Ravens,1,14:20
-61,242,London Royal Ravens,New York Subliners,Stage 2 Week 2,Hardpoint,Moscow,4,230,250,New York Subliners,20,11:25
-62,243,Los Angeles Thieves,Atlanta FaZe,Stage 2 Week 2,Hardpoint,Garrison,1,155,250,Atlanta FaZe,95,9:26
-62,244,Los Angeles Thieves,Atlanta FaZe,Stage 2 Week 2,Search and Destroy,Raid,2,3,6,Atlanta FaZe,3,8:18
-62,245,Los Angeles Thieves,Atlanta FaZe,Stage 2 Week 2,Control,Checkmate,3,0,3,Atlanta FaZe,3,7:20
-63,246,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Hardpoint,Checkmate,1,177,250,Toronto Ultra,73,10:53
-63,247,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Search and Destroy,Express,2,6,2,Los Angeles Guerrillas,4,8:29
-63,248,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Control,Checkmate,3,3,0,Los Angeles Guerrillas,3,7:12
-63,249,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Hardpoint,Raid,4,230,250,Toronto Ultra,20,10:20
-63,250,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Search and Destroy,Raid,5,0,6,Toronto Ultra,6,5:26
-64,251,Seattle Surge,Paris Legion,Stage 2 Week 2,Hardpoint,Moscow,1,250,197,Seattle Surge,53,11:01
-64,252,Seattle Surge,Paris Legion,Stage 2 Week 2,Search and Destroy,Miami,2,6,1,Seattle Surge,5,9:14
-64,253,Seattle Surge,Paris Legion,Stage 2 Week 2,Control,Garrison,3,3,0,Seattle Surge,3,7:23
-65,254,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Hardpoint,Checkmate,1,180,250,Dallas Empire,70,10:20
-65,255,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Search and Destroy,Moscow,2,6,3,Minnesota ROKKR,3,8:58
-65,256,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Control,Raid,3,3,2,Minnesota ROKKR,1,16:37
-65,257,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Hardpoint,Raid,4,181,250,Dallas Empire,69,9:16
-65,258,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Search and Destroy,Express,5,6,4,Minnesota ROKKR,2,8:18
-66,259,Florida Mutineers,OpTic Chicago,Stage 2 Week 2,Hardpoint,Raid,1,250,221,Florida Mutineers,29,9:53
-66,260,Florida Mutineers,OpTic Chicago,Stage 2 Week 2,Search and Destroy,Checkmate,2,6,5,Florida Mutineers,1,
-66,261,Florida Mutineers,OpTic Chicago,Stage 2 Week 2,Control,Checkmate,3,3,2,Florida Mutineers,1,
-67,262,Florida Mutineers,Dallas Empire,Stage 2 Week 3,Hardpoint,Checkmate,1,213,250,Dallas Empire,37,11:01
-67,263,Florida Mutineers,Dallas Empire,Stage 2 Week 3,Search and Destroy,Checkmate,2,4,6,Dallas Empire,2,10:34
-67,264,Florida Mutineers,Dallas Empire,Stage 2 Week 3,Control,Checkmate,3,2,3,Dallas Empire,1,11:04
-68,265,Seattle Surge,OpTic Chicago,Stage 2 Week 3,Hardpoint,Raid,1,226,250,OpTic Chicago,24,9:56
-68,266,Seattle Surge,OpTic Chicago,Stage 2 Week 3,Search and Destroy,Checkmate,2,2,6,OpTic Chicago,4,9:54
-68,267,Seattle Surge,OpTic Chicago,Stage 2 Week 3,Control,Raid,3,2,3,OpTic Chicago,1,14:38
-69,268,London Royal Ravens,Toronto Ultra,Stage 2 Week 3,Hardpoint,Checkmate,1,140,250,Toronto Ultra,110,9:01
-69,269,London Royal Ravens,Toronto Ultra,Stage 2 Week 3,Search and Destroy,Raid,2,5,6,Toronto Ultra,1,10:09
-69,270,London Royal Ravens,Toronto Ultra,Stage 2 Week 3,Control,Garrison,3,1,3,Toronto Ultra,2,
-70,271,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Hardpoint,Moscow,1,176,250,Atlanta FaZe,74,9:59
-70,272,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Search and Destroy,Miami,2,6,2,Los Angeles Guerrillas,4,10:00
-70,273,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Control,Checkmate,3,2,3,Atlanta FaZe,1,11:57
-70,274,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Hardpoint,Apocalypse,4,250,154,Los Angeles Guerrillas,96,8:37
-70,275,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Search and Destroy,Express,5,6,0,Los Angeles Guerrillas,6,5:39
-71,276,Paris Legion,Florida Mutineers,Stage 2 Week 3,Hardpoint,Checkmate,1,250,237,Paris Legion,13,11:59
-71,277,Paris Legion,Florida Mutineers,Stage 2 Week 3,Search and Destroy,Express,2,4,6,Florida Mutineers,2,6:21
-71,278,Paris Legion,Florida Mutineers,Stage 2 Week 3,Control,Garrison,3,3,1,Paris Legion,2,12:10
-71,279,Paris Legion,Florida Mutineers,Stage 2 Week 3,Hardpoint,Garrison,4,250,174,Paris Legion,76,11:04
-72,280,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Hardpoint,Raid,1,250,235,Seattle Surge,15,10:44
-72,281,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Search and Destroy,Express,2,6,4,Seattle Surge,2,12:22
-72,282,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Control,Raid,3,1,3,Minnesota ROKKR,2,13:45
-72,283,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Hardpoint,Garrison,4,197,250,Minnesota ROKKR,53,10:40
-72,284,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Search and Destroy,Miami,5,2,6,Minnesota ROKKR,4,11:02
-73,285,Toronto Ultra,New York Subliners,Stage 2 Week 3,Hardpoint,Raid,1,176,250,New York Subliners,74,8:49
-73,286,Toronto Ultra,New York Subliners,Stage 2 Week 3,Search and Destroy,Checkmate,2,4,6,New York Subliners,2,11:42
-73,287,Toronto Ultra,New York Subliners,Stage 2 Week 3,Control,Raid,3,3,1,Toronto Ultra,2,10:54
-73,288,Toronto Ultra,New York Subliners,Stage 2 Week 3,Hardpoint,Checkmate,4,244,250,New York Subliners,6,11:52
-74,289,London Royal Ravens,Atlanta FaZe,Stage 2 Week 3,Hardpoint,Garrison,1,119,250,Atlanta FaZe,131,10:17
-74,290,London Royal Ravens,Atlanta FaZe,Stage 2 Week 3,Search and Destroy,Express,2,3,6,Atlanta FaZe,3,8:59
-74,291,London Royal Ravens,Atlanta FaZe,Stage 2 Week 3,Control,Garrison,3,0,3,Atlanta FaZe,3,8:43
-75,292,Los Angeles Guerrillas,Los Angeles Thieves,Stage 2 Week 3,Hardpoint,Raid,1,250,161,Los Angeles Guerrillas,89,9:18
-75,293,Los Angeles Guerrillas,Los Angeles Thieves,Stage 2 Week 3,Search and Destroy,Miami,2,6,5,Los Angeles Guerrillas,1,14:51
-75,294,Los Angeles Guerrillas,Los Angeles Thieves,Stage 2 Week 3,Control,Raid,3,3,2,Los Angeles Guerrillas,1,14:19
-76,295,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Hardpoint,Moscow,1,244,250,Dallas Empire,6,
-76,296,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Search and Destroy,Raid,2,6,2,OpTic Chicago,4,6:19
-76,297,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Control,Checkmate,3,2,3,Dallas Empire,1,15:56
-76,298,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Hardpoint,Checkmate,4,250,108,OpTic Chicago,142,8:49
-76,299,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Search and Destroy,Checkmate,5,6,1,OpTic Chicago,5,9:06
-77,300,Los Angeles Thieves,Paris Legion,Major 2,Hardpoint,Checkmate,1,250,203,Los Angeles Thieves,47,10:59
-77,301,Los Angeles Thieves,Paris Legion,Major 2,Search and Destroy,Raid,2,6,0,Los Angeles Thieves,6,5:33
-77,302,Los Angeles Thieves,Paris Legion,Major 2,Control,Checkmate,3,3,0,Los Angeles Thieves,3,6:57
-78,303,Florida Mutineers,Los Angeles Guerrillas,Major 2,Hardpoint,Moscow,1,250,169,Florida Mutineers,81,9:07
-78,304,Florida Mutineers,Los Angeles Guerrillas,Major 2,Search and Destroy,Express,2,6,4,Florida Mutineers,2,9:07
-78,305,Florida Mutineers,Los Angeles Guerrillas,Major 2,Control,Checkmate,3,3,0,Florida Mutineers,3,8:19
-79,306,Dallas Empire,New York Subliners,Major 2,Hardpoint,Moscow,1,250,215,Dallas Empire,35,11:27
-79,307,Dallas Empire,New York Subliners,Major 2,Search and Destroy,Express,2,6,0,Dallas Empire,6,7:21
-79,308,Dallas Empire,New York Subliners,Major 2,Control,Checkmate,3,3,1,Dallas Empire,2,13:25
-80,309,Toronto Ultra,OpTic Chicago,Major 2,Hardpoint,Checkmate,1,236,250,OpTic Chicago,14,11:39
-80,310,Toronto Ultra,OpTic Chicago,Major 2,Search and Destroy,Moscow,2,6,5,Toronto Ultra,1,14:15
-80,311,Toronto Ultra,OpTic Chicago,Major 2,Control,Raid,3,3,1,Toronto Ultra,2,13:06
-80,312,Toronto Ultra,OpTic Chicago,Major 2,Hardpoint,Raid,4,250,234,Toronto Ultra,16,9:56
-81,313,Los Angeles Thieves,London Royal Ravens,Major 2,Hardpoint,Apocalypse,1,163,250,London Royal Ravens,87,9:38
-81,314,Los Angeles Thieves,London Royal Ravens,Major 2,Search and Destroy,Miami,2,2,6,London Royal Ravens,4,9:14
-81,315,Los Angeles Thieves,London Royal Ravens,Major 2,Control,Checkmate,3,3,1,Los Angeles Thieves,2,
-81,316,Los Angeles Thieves,London Royal Ravens,Major 2,Hardpoint,Raid,4,250,189,Los Angeles Thieves,61,9:23
-81,317,Los Angeles Thieves,London Royal Ravens,Major 2,Search and Destroy,Moscow,5,6,4,Los Angeles Thieves,2,10:36
-82,318,Florida Mutineers,Seattle Surge,Major 2,Hardpoint,Moscow,1,250,244,Florida Mutineers,6,11:34
-82,319,Florida Mutineers,Seattle Surge,Major 2,Search and Destroy,Express,2,5,6,Seattle Surge,1,9:37
-82,320,Florida Mutineers,Seattle Surge,Major 2,Control,Garrison,3,1,3,Seattle Surge,2,8:29
-82,321,Florida Mutineers,Seattle Surge,Major 2,Hardpoint,Checkmate,4,222,250,Seattle Surge,28,10:51
-83,322,Dallas Empire,Minnesota ROKKR,Major 2,Hardpoint,Moscow,1,170,250,Minnesota ROKKR,80,11:19
-83,323,Dallas Empire,Minnesota ROKKR,Major 2,Search and Destroy,Raid,2,6,5,Dallas Empire,1,11:08
-83,324,Dallas Empire,Minnesota ROKKR,Major 2,Control,Raid,3,3,2,Dallas Empire,1,15:39
-83,325,Dallas Empire,Minnesota ROKKR,Major 2,Hardpoint,Checkmate,4,212,250,Minnesota ROKKR,38,12:12
-83,326,Dallas Empire,Minnesota ROKKR,Major 2,Search and Destroy,Miami,5,6,5,Dallas Empire,1,
-84,327,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Moscow,1,114,250,Atlanta FaZe,136,8:35
-84,328,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Raid,2,6,2,Toronto Ultra,4,6:01
-84,329,Toronto Ultra,Atlanta FaZe,Major 2,Control,Raid,3,0,3,Atlanta FaZe,3,6:48
-84,330,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Checkmate,4,228,250,Atlanta FaZe,22,11:12
-85,331,Seattle Surge,OpTic Chicago,Major 2,Hardpoint,Raid,1,250,202,Seattle Surge,48,9:25
-85,332,Seattle Surge,OpTic Chicago,Major 2,Search and Destroy,Checkmate,2,2,6,OpTic Chicago,4,6:43
-85,333,Seattle Surge,OpTic Chicago,Major 2,Control,Raid,3,1,3,OpTic Chicago,2,11:19
-85,334,Seattle Surge,OpTic Chicago,Major 2,Hardpoint,Garrison,4,183,250,OpTic Chicago,67,10:45
-86,335,Los Angeles Thieves,New York Subliners,Major 2,Hardpoint,Checkmate,1,250,200,Los Angeles Thieves,50,11:13
-86,336,Los Angeles Thieves,New York Subliners,Major 2,Search and Destroy,Checkmate,2,6,1,Los Angeles Thieves,5,6:50
-86,337,Los Angeles Thieves,New York Subliners,Major 2,Control,Checkmate,3,3,1,Los Angeles Thieves,2,9:45
-87,338,Los Angeles Thieves,Toronto Ultra,Major 2,Hardpoint,Raid,1,213,250,Toronto Ultra,37,9:27
-87,339,Los Angeles Thieves,Toronto Ultra,Major 2,Search and Destroy,Moscow,2,5,6,Toronto Ultra,1,11:25
-87,340,Los Angeles Thieves,Toronto Ultra,Major 2,Control,Garrison,3,0,3,Toronto Ultra,3,10:33
-88,341,OpTic Chicago,Minnesota ROKKR,Major 2,Hardpoint,Garrison,1,192,250,Minnesota ROKKR,58,10:47
-88,342,OpTic Chicago,Minnesota ROKKR,Major 2,Search and Destroy,Express,2,6,2,OpTic Chicago,4,9:37
-88,343,OpTic Chicago,Minnesota ROKKR,Major 2,Control,Garrison,3,1,3,Minnesota ROKKR,2,9:27
-88,344,OpTic Chicago,Minnesota ROKKR,Major 2,Hardpoint,Moscow,4,250,138,OpTic Chicago,112,8:58
-88,345,OpTic Chicago,Minnesota ROKKR,Major 2,Search and Destroy,Moscow,5,5,6,Minnesota ROKKR,1,11:03
-89,346,Dallas Empire,Atlanta FaZe,Major 2,Hardpoint,Garrison,1,155,250,Atlanta FaZe,95,10:43
-89,347,Dallas Empire,Atlanta FaZe,Major 2,Search and Destroy,Express,2,6,2,Dallas Empire,4,9:45
-89,348,Dallas Empire,Atlanta FaZe,Major 2,Control,Raid,3,0,3,Atlanta FaZe,3,9:51
-89,349,Dallas Empire,Atlanta FaZe,Major 2,Hardpoint,Checkmate,4,222,250,Atlanta FaZe,28,11:28
-90,350,Toronto Ultra,Minnesota ROKKR,Major 2,Hardpoint,Raid,1,219,250,Minnesota ROKKR,31,9:47
-90,351,Toronto Ultra,Minnesota ROKKR,Major 2,Search and Destroy,Express,2,6,4,Toronto Ultra,2,7:49
-90,352,Toronto Ultra,Minnesota ROKKR,Major 2,Control,Raid,3,3,2,Toronto Ultra,1,17:08
-90,353,Toronto Ultra,Minnesota ROKKR,Major 2,Hardpoint,Garrison,4,250,155,Toronto Ultra,95,10:24
-91,354,Toronto Ultra,Dallas Empire,Major 2,Hardpoint,Checkmate,1,203,250,Dallas Empire,47,12:12
-91,355,Toronto Ultra,Dallas Empire,Major 2,Search and Destroy,Raid,2,6,3,Toronto Ultra,3,9:28
-91,356,Toronto Ultra,Dallas Empire,Major 2,Control,Raid,3,3,2,Toronto Ultra,1,17:12
-91,357,Toronto Ultra,Dallas Empire,Major 2,Hardpoint,Raid,4,250,206,Toronto Ultra,44,9:26
-92,358,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Garrison,1,198,250,Atlanta FaZe,52,11:15
-92,359,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Miami,2,6,3,Toronto Ultra,3,11:23
-92,360,Toronto Ultra,Atlanta FaZe,Major 2,Control,Checkmate,3,3,2,Toronto Ultra,1,11:49
-92,361,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Apocalypse,4,147,250,Atlanta FaZe,103,8:31
-92,362,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Moscow,5,5,6,Atlanta FaZe,1,11:57
-92,363,Toronto Ultra,Atlanta FaZe,Major 2,Control,Raid,6,3,0,Toronto Ultra,3,9:32
-92,364,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Express,7,6,0,Toronto Ultra,6,7:24
-92,365,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Checkmate,8,250,156,Toronto Ultra,94,9:46
-93,366,Paris Legion,Dallas Empire,Stage 3 Week 1,Hardpoint,Garrison,1,250,111,Paris Legion,139,8:31
-93,367,Paris Legion,Dallas Empire,Stage 3 Week 1,Search and Destroy,Express,2,0,6,Dallas Empire,6,5:07
-93,368,Paris Legion,Dallas Empire,Stage 3 Week 1,Control,Checkmate,3,1,3,Dallas Empire,2,8:22
-93,369,Paris Legion,Dallas Empire,Stage 3 Week 1,Hardpoint,Checkmate,4,135,250,Dallas Empire,115,9:45
-94,370,Florida Mutineers,Toronto Ultra,Stage 3 Week 1,Hardpoint,Checkmate,1,161,250,Toronto Ultra,89,10:02
-94,371,Florida Mutineers,Toronto Ultra,Stage 3 Week 1,Search and Destroy,Express,2,5,6,Toronto Ultra,1,11:08
-94,372,Florida Mutineers,Toronto Ultra,Stage 3 Week 1,Control,Raid,3,2,3,Toronto Ultra,1,15:25
-95,373,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Hardpoint,Apocalypse,1,250,223,Seattle Surge,27,10:49
-95,374,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Search and Destroy,Moscow,2,6,4,Seattle Surge,2,11:05
-95,375,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Control,Raid,3,0,3,Los Angeles Thieves,3,6:53
-95,376,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Hardpoint,Checkmate,4,233,250,Los Angeles Thieves,17,
-95,377,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Search and Destroy,Raid,5,4,6,Los Angeles Thieves,2,
-96,378,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,Hardpoint,Garrison,1,207,250,OpTic Chicago,43,11:20
-96,379,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,Search and Destroy,Moscow,2,4,6,OpTic Chicago,2,
-96,380,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,Control,Checkmate,3,3,2,London Royal Ravens,1,12:12
-96,381,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,Hardpoint,Moscow,4,152,250,OpTic Chicago,98,11:14
-97,382,Los Angeles Guerrillas,Paris Legion,Stage 3 Week 1,Hardpoint,Moscow,1,250,152,Los Angeles Guerrillas,98,10:34
-97,383,Los Angeles Guerrillas,Paris Legion,Stage 3 Week 1,Search and Destroy,Moscow,2,6,2,Los Angeles Guerrillas,4,8:52
-97,384,Los Angeles Guerrillas,Paris Legion,Stage 3 Week 1,Control,Raid,3,3,2,Los Angeles Guerrillas,1,15:09
-98,385,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,Hardpoint,Raid,1,250,144,Florida Mutineers,106,8:10
-98,386,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,Search and Destroy,Moscow,2,6,5,Florida Mutineers,1,11:31
-98,387,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,Control,Raid,3,2,3,Minnesota ROKKR,1,15:22
-98,388,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,Hardpoint,Garrison,4,250,189,Florida Mutineers,61,10:36
-99,389,Seattle Surge,OpTic Chicago,Stage 3 Week 1,Hardpoint,Moscow,1,240,250,OpTic Chicago,10,11:59
-99,390,Seattle Surge,OpTic Chicago,Stage 3 Week 1,Search and Destroy,Moscow,2,4,6,OpTic Chicago,2,9:59
-99,391,Seattle Surge,OpTic Chicago,Stage 3 Week 1,Control,Checkmate,3,1,3,OpTic Chicago,2,11:09
-100,392,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,Hardpoint,Raid,1,250,163,London Royal Ravens,87,8:46
-100,393,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,Search and Destroy,Miami,2,1,6,Los Angeles Thieves,5,6:49
-100,394,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,Control,Checkmate,3,1,3,Los Angeles Thieves,2,8:45
-100,395,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,Hardpoint,Garrison,4,161,250,Los Angeles Thieves,89,10:45
-101,396,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Hardpoint,Garrison,1,250,211,New York Subliners,39,11:45
-101,397,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Search and Destroy,Express,2,3,6,Atlanta FaZe,3,8:21
-101,398,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Control,Garrison,3,2,3,Atlanta FaZe,1,15:07
-101,399,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Hardpoint,Apocalypse,4,250,241,New York Subliners,9,10:32
-101,400,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Search and Destroy,Raid,5,6,5,New York Subliners,1,9:15
-102,401,Dallas Empire,Toronto Ultra,Stage 3 Week 1,Hardpoint,Checkmate,1,242,250,Toronto Ultra,8,
-102,402,Dallas Empire,Toronto Ultra,Stage 3 Week 1,Search and Destroy,Miami,2,3,6,Toronto Ultra,3,11:14
-102,403,Dallas Empire,Toronto Ultra,Stage 3 Week 1,Control,Raid,3,2,3,Toronto Ultra,1,14:30
-103,404,London Royal Ravens,New York Subliners,Stage 3 Week 2,Hardpoint,Moscow,1,181,250,New York Subliners,69,10:18
-103,405,London Royal Ravens,New York Subliners,Stage 3 Week 2,Search and Destroy,Express,2,6,2,London Royal Ravens,4,6:16
-103,406,London Royal Ravens,New York Subliners,Stage 3 Week 2,Control,Checkmate,3,3,0,London Royal Ravens,3,9:42
-103,407,London Royal Ravens,New York Subliners,Stage 3 Week 2,Hardpoint,Garrison,4,192,250,New York Subliners,58,10:32
-103,408,London Royal Ravens,New York Subliners,Stage 3 Week 2,Search and Destroy,Raid,5,6,4,London Royal Ravens,2,10:22
-104,409,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Hardpoint,Raid,1,160,250,Atlanta FaZe,90,8:55
-104,410,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Search and Destroy,Express,2,6,1,Los Angeles Thieves,5,5:48
-104,411,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Control,Raid,3,1,3,Atlanta FaZe,2,12:31
-104,412,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Hardpoint,Moscow,4,250,224,Los Angeles Thieves,26,
-104,413,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Search and Destroy,Checkmate,5,3,6,Atlanta FaZe,3,9:13
-105,414,Los Angeles Guerrillas,Toronto Ultra,Stage 3 Week 2,Hardpoint,Apocalypse,1,247,250,Toronto Ultra,3,
-105,415,Los Angeles Guerrillas,Toronto Ultra,Stage 3 Week 2,Search and Destroy,Express,2,5,6,Toronto Ultra,1,11:02
-105,416,Los Angeles Guerrillas,Toronto Ultra,Stage 3 Week 2,Control,Raid,3,0,3,Toronto Ultra,3,7:54
-106,417,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,Hardpoint,Checkmate,1,250,169,Paris Legion,81,9:33
-106,418,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,Search and Destroy,Miami,2,2,6,Minnesota ROKKR,4,9:41
-106,419,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,Control,Garrison,3,0,3,Minnesota ROKKR,3,6:07
-106,420,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,Hardpoint,Apocalypse,4,151,250,Minnesota ROKKR,99,9:25
-107,421,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Hardpoint,Apocalypse,1,250,196,London Royal Ravens,54,9:09
-107,422,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Search and Destroy,Checkmate,2,4,6,Atlanta FaZe,2,11:58
-107,423,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Control,Garrison,3,3,2,London Royal Ravens,1,11:35
-107,424,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Hardpoint,Moscow,4,189,250,Atlanta FaZe,61,10:39
-107,425,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Search and Destroy,Express,5,4,6,Atlanta FaZe,2,11:31
-108,426,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Hardpoint,Moscow,1,231,250,Dallas Empire,19,12:28
-108,427,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Search and Destroy,Express,2,6,3,Los Angeles Guerrillas,3,8:52
-108,428,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Control,Raid,3,3,0,Los Angeles Guerrillas,3,7:49
-108,429,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Hardpoint,Garrison,4,202,250,Dallas Empire,48,10:48
-108,430,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Search and Destroy,Raid,5,3,6,Dallas Empire,3,7:05
-109,431,Seattle Surge,New York Subliners,Stage 3 Week 2,Hardpoint,Moscow,1,130,250,New York Subliners,120,8:44
-109,432,Seattle Surge,New York Subliners,Stage 3 Week 2,Search and Destroy,Raid,2,5,6,New York Subliners,1,10:47
-109,433,Seattle Surge,New York Subliners,Stage 3 Week 2,Control,Checkmate,3,2,3,New York Subliners,1,10:58
-110,434,Paris Legion,Florida Mutineers,Stage 3 Week 2,Hardpoint,Garrison,1,250,218,Paris Legion,32,11:44
-110,435,Paris Legion,Florida Mutineers,Stage 3 Week 2,Search and Destroy,Moscow,2,5,6,Florida Mutineers,1,12:38
-110,436,Paris Legion,Florida Mutineers,Stage 3 Week 2,Control,Raid,3,3,1,Paris Legion,2,12:00
-110,437,Paris Legion,Florida Mutineers,Stage 3 Week 2,Hardpoint,Moscow,4,250,119,Paris Legion,131,
-111,438,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,Hardpoint,Raid,1,250,203,Minnesota ROKKR,47,8:59
-111,439,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,Search and Destroy,Checkmate,2,1,6,Toronto Ultra,5,8:26
-111,440,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,Control,Garrison,3,2,3,Toronto Ultra,1,14:12
-111,441,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,Hardpoint,Apocalypse,4,135,250,Toronto Ultra,115,8:20
-112,442,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,Hardpoint,Checkmate,1,250,205,Los Angeles Thieves,45,11:15
-112,443,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,Search and Destroy,Express,2,3,6,OpTic Chicago,3,9:00
-112,444,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,Control,Raid,3,3,2,Los Angeles Thieves,1,13:41
-112,445,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,Hardpoint,Apocalypse,4,250,117,Los Angeles Thieves,133,8:37
+Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Score,Map Winner,Total Game Time,Map VOD
+1,1,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,Hardpoint,Garrison,1,194,250,Los Angeles Thieves,,https://youtu.be/MOJL3t9lufQ?t=363
+1,2,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,Search and Destroy,Miami,2,6,4,Minnesota ROKKR,11:07,https://youtu.be/MOJL3t9lufQ?t=1642
+1,3,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,Control,Garrison,3,1,3,Los Angeles Thieves,10:24,https://youtu.be/MOJL3t9lufQ?t=3203
+1,4,Minnesota ROKKR,Los Angeles Thieves,Stage 1 Week 1,Hardpoint,Moscow,4,60,250,Los Angeles Thieves,8:04,https://youtu.be/MOJL3t9lufQ?t=4332
+2,5,Seattle Surge,Dallas Empire,Stage 1 Week 1,Hardpoint,Crossroads,1,98,250,Dallas Empire,8:39,https://youtu.be/WgTjc8Mnl0g?t=506
+2,6,Seattle Surge,Dallas Empire,Stage 1 Week 1,Search and Destroy,Miami,2,2,6,Dallas Empire,9:51,https://youtu.be/WgTjc8Mnl0g?t=1472
+2,7,Seattle Surge,Dallas Empire,Stage 1 Week 1,Control,Garrison,3,1,3,Dallas Empire,8:15,https://youtu.be/WgTjc8Mnl0g?t=2816
+3,8,Paris Legion,OpTic Chicago,Stage 1 Week 1,Hardpoint,Raid,1,102,250,OpTic Chicago,7:37,https://youtu.be/ZL4ySDQjrl4?t=334
+3,9,Paris Legion,OpTic Chicago,Stage 1 Week 1,Search and Destroy,Checkmate,2,4,6,OpTic Chicago,9:14,https://youtu.be/ZL4ySDQjrl4?t=1167
+3,10,Paris Legion,OpTic Chicago,Stage 1 Week 1,Control,Raid,3,2,3,OpTic Chicago,13:13,https://youtu.be/ZL4ySDQjrl4?t=2453
+4,11,Los Angeles Guerrillas,Atlanta FaZe,Stage 1 Week 1,Hardpoint,Crossroads,1,156,250,Atlanta FaZe,8:49,https://youtu.be/D6Vj8kwvY8Q?t=498
+4,12,Los Angeles Guerrillas,Atlanta FaZe,Stage 1 Week 1,Search and Destroy,Garrison,2,4,6,Atlanta FaZe,12:01,https://youtu.be/D6Vj8kwvY8Q?t=1432
+4,13,Los Angeles Guerrillas,Atlanta FaZe,Stage 1 Week 1,Control,Garrison,3,1,3,Atlanta FaZe,11:39,https://youtu.be/D6Vj8kwvY8Q?t=3256
+5,14,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Hardpoint,Crossroads,1,199,250,Los Angeles Guerrillas,10:56,https://youtu.be/vh7kFgrrIHc?t=1365
+5,15,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Search and Destroy,Miami,2,2,6,Los Angeles Guerrillas,10:12,https://youtu.be/vh7kFgrrIHc?t=2356
+5,16,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Control,Checkmate,3,3,1,Paris Legion,10:29,https://youtu.be/vh7kFgrrIHc?t=3911
+5,17,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Hardpoint,Garrison,4,250,198,Paris Legion,10:56,https://youtu.be/vh7kFgrrIHc?t=4996
+5,18,Paris Legion,Los Angeles Guerrillas,Stage 1 Week 1,Search and Destroy,Raid,5,4,6,Los Angeles Guerrillas,11:48,https://youtu.be/vh7kFgrrIHc?t=6047
+6,19,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,Hardpoint,Garrison,1,250,164,Toronto Ultra,10:11,https://youtu.be/6nrr8gWcgQU?t=740
+6,20,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,Search and Destroy,Miami,2,6,4,Toronto Ultra,14:11,https://youtu.be/6nrr8gWcgQU?t=1788
+6,21,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,Control,Garrison,3,2,3,Florida Mutineers,15:43,https://youtu.be/6nrr8gWcgQU?t=3416
+6,22,Toronto Ultra,Florida Mutineers,Stage 1 Week 1,Hardpoint,Crossroads,4,250,177,Toronto Ultra,10:34,https://youtu.be/6nrr8gWcgQU?t=5133
+7,23,New York Subliners,Los Angeles Thieves,Stage 1 Week 1,Hardpoint,Moscow,1,241,250,Los Angeles Thieves,11:54,https://youtu.be/2seJ8hw2W48?t=1719
+7,24,New York Subliners,Los Angeles Thieves,Stage 1 Week 1,Search and Destroy,Miami,2,5,6,Los Angeles Thieves,12:33,https://youtu.be/2seJ8hw2W48?t=2711
+7,25,New York Subliners,Los Angeles Thieves,Stage 1 Week 1,Control,Raid,3,2,3,Los Angeles Thieves,14:33,https://youtu.be/2seJ8hw2W48?t=4315
+8,26,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Hardpoint,Crossroads,1,250,229,Seattle Surge,11:30,https://youtu.be/zqo4-l25Qcc?t=463
+8,27,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Search and Destroy,Checkmate,2,6,5,Seattle Surge,11:50,https://youtu.be/zqo4-l25Qcc?t=1526
+8,28,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Control,Garrison,3,1,3,London Royal Ravens,11:56,https://youtu.be/zqo4-l25Qcc?t=3212
+8,29,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Hardpoint,Checkmate,4,115,250,London Royal Ravens,7:50,https://youtu.be/zqo4-l25Qcc?t=4468
+8,30,Seattle Surge,London Royal Ravens,Stage 1 Week 1,Search and Destroy,Raid,5,6,2,Seattle Surge,9:42,https://youtu.be/zqo4-l25Qcc?t=5356
+9,31,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Hardpoint,Checkmate,1,201,250,Dallas Empire,11:50,https://youtu.be/oTxIBSsflQ0?t=1759
+9,32,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Search and Destroy,Moscow,2,6,3,Minnesota ROKKR,9:08,https://youtu.be/oTxIBSsflQ0?t=2781
+9,33,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Control,Garrison,3,3,2,Minnesota ROKKR,13:04,https://youtu.be/oTxIBSsflQ0?t=4125
+9,34,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Hardpoint,Garrison,4,201,250,Dallas Empire,12:24,https://youtu.be/oTxIBSsflQ0?t=5521
+9,35,Minnesota ROKKR,Dallas Empire,Stage 1 Week 1,Search and Destroy,Garrison,5,6,2,Minnesota ROKKR,8:05,https://youtu.be/oTxIBSsflQ0?t=6694
+10,36,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Hardpoint,Garrison,1,250,225,OpTic Chicago,12:15,https://youtu.be/gWnckFjeIlc?t=324
+10,37,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Search and Destroy,Miami,2,0,6,Atlanta FaZe,7:48,https://youtu.be/gWnckFjeIlc?t=1465
+10,38,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Control,Checkmate,3,3,2,OpTic Chicago,11:50,https://youtu.be/gWnckFjeIlc?t=2641
+10,39,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Hardpoint,Moscow,4,245,250,Atlanta FaZe,11:46,https://youtu.be/gWnckFjeIlc?t=3885
+10,40,OpTic Chicago,Atlanta FaZe,Stage 1 Week 1,Search and Destroy,Moscow,5,1,6,Atlanta FaZe,6:15,https://youtu.be/gWnckFjeIlc?t=5161
+11,41,Los Angeles Guerrillas,Florida Mutineers,Super Week,Hardpoint,Crossroads,1,250,133,Los Angeles Guerrillas,9:20,https://youtu.be/5xXKtppxqZ0?t=478
+11,42,Los Angeles Guerrillas,Florida Mutineers,Super Week,Search and Destroy,Miami,2,3,6,Florida Mutineers,10:53,https://youtu.be/5xXKtppxqZ0?t=1378
+11,43,Los Angeles Guerrillas,Florida Mutineers,Super Week,Control,Garrison,3,2,3,Florida Mutineers,14:13,https://youtu.be/5xXKtppxqZ0?t=2750
+11,44,Los Angeles Guerrillas,Florida Mutineers,Super Week,Hardpoint,Garrison,4,172,250,Florida Mutineers,10:34,https://youtu.be/5xXKtppxqZ0?t=4059
+12,45,Toronto Ultra,Atlanta FaZe,Super Week,Hardpoint,Raid,1,247,250,Atlanta FaZe,10:02,https://youtu.be/ApM3PbaOzFA?t=339
+12,46,Toronto Ultra,Atlanta FaZe,Super Week,Search and Destroy,Raid,2,6,3,Toronto Ultra,8:14,https://youtu.be/ApM3PbaOzFA?t=1380
+12,47,Toronto Ultra,Atlanta FaZe,Super Week,Control,Raid,3,0,3,Atlanta FaZe,7:36,https://youtu.be/ApM3PbaOzFA?t=2987
+12,48,Toronto Ultra,Atlanta FaZe,Super Week,Hardpoint,Garrison,4,128,250,Atlanta FaZe,8:53,https://youtu.be/ApM3PbaOzFA?t=3874
+13,49,Paris Legion,Florida Mutineers,Super Week,Hardpoint,Garrison,1,222,220,Paris Legion,12:22,https://youtu.be/7p835_EQCR4?t=409
+13,50,Paris Legion,Florida Mutineers,Super Week,Search and Destroy,Checkmate,2,6,4,Paris Legion,12:13,https://youtu.be/7p835_EQCR4?t=1769
+13,51,Paris Legion,Florida Mutineers,Super Week,Control,Raid,3,3,1,Paris Legion,11:58,https://youtu.be/7p835_EQCR4?t=3189
+14,52,New York Subliners,London Royal Ravens,Super Week,Hardpoint,Garrison,1,250,151,New York Subliners,10:01,https://youtu.be/cp-ygBBiMtE?t=301
+14,53,New York Subliners,London Royal Ravens,Super Week,Search and Destroy,Checkmate,2,6,1,New York Subliners,7:07,https://youtu.be/cp-ygBBiMtE?t=1252
+14,54,New York Subliners,London Royal Ravens,Super Week,Control,Checkmate,3,3,0,New York Subliners,5:41,https://youtu.be/cp-ygBBiMtE?t=2612
+15,55,Seattle Surge,Minnesota ROKKR,Super Week,Hardpoint,Checkmate,1,163,250,Minnesota ROKKR,10:01,https://youtu.be/ETdDoG6ErRk?t=269
+15,56,Seattle Surge,Minnesota ROKKR,Super Week,Search and Destroy,Raid,2,5,6,Minnesota ROKKR,11:00,https://youtu.be/ETdDoG6ErRk?t=1289
+15,57,Seattle Surge,Minnesota ROKKR,Super Week,Control,Raid,3,2,3,Minnesota ROKKR,15:23,https://youtu.be/ETdDoG6ErRk?t=2685
+16,58,London Royal Ravens,Dallas Empire,Super Week,Hardpoint,Moscow,1,250,160,London Royal Ravens,11:03,https://youtu.be/qBtZutICJ6E?t=709
+16,59,London Royal Ravens,Dallas Empire,Super Week,Search and Destroy,Moscow,2,3,6,Dallas Empire,8:12,https://youtu.be/qBtZutICJ6E?t=1700
+16,60,London Royal Ravens,Dallas Empire,Super Week,Control,Garrison,3,2,3,Dallas Empire,13:07,https://youtu.be/qBtZutICJ6E?t=2904
+16,61,London Royal Ravens,Dallas Empire,Super Week,Hardpoint,Garrison,4,235,228,London Royal Ravens,12:43,https://youtu.be/qBtZutICJ6E?t=4169
+16,62,London Royal Ravens,Dallas Empire,Super Week,Search and Destroy,Miami,5,4,6,Dallas Empire,12:28,https://youtu.be/qBtZutICJ6E?t=5416
+17,63,Seattle Surge,Los Angeles Thieves,Super Week,Hardpoint,Checkmate,1,231,250,Los Angeles Thieves,12:31,https://youtu.be/oTjvvY09Wvc?t=273
+17,64,Seattle Surge,Los Angeles Thieves,Super Week,Search and Destroy,Raid,2,6,4,Seattle Surge,8:36,https://youtu.be/oTjvvY09Wvc?t=1384
+17,65,Seattle Surge,Los Angeles Thieves,Super Week,Control,Raid,3,2,3,Los Angeles Thieves,14:15,https://youtu.be/oTjvvY09Wvc?t=2680
+17,66,Seattle Surge,Los Angeles Thieves,Super Week,Hardpoint,Moscow,4,250,222,Seattle Surge,10:57,https://youtu.be/oTjvvY09Wvc?t=4046
+17,67,Seattle Surge,Los Angeles Thieves,Super Week,Search and Destroy,Moscow,5,0,6,Los Angeles Thieves,6:02,https://youtu.be/oTjvvY09Wvc?t=5156
+18,68,Toronto Ultra,OpTic Chicago,Super Week,Hardpoint,Checkmate,1,68,250,OpTic Chicago,7:29,https://youtu.be/zMY98eV8R4M?t=283
+18,69,Toronto Ultra,OpTic Chicago,Super Week,Search and Destroy,Raid,2,6,4,Toronto Ultra,11:22,https://youtu.be/zMY98eV8R4M?t=1097
+18,70,Toronto Ultra,OpTic Chicago,Super Week,Control,Raid,3,1,3,OpTic Chicago,11:56,https://youtu.be/zMY98eV8R4M?t=2510
+18,71,Toronto Ultra,OpTic Chicago,Super Week,Hardpoint,Raid,4,218,250,OpTic Chicago,9:38,https://youtu.be/zMY98eV8R4M?t=3659
+19,72,New York Subliners,Minnesota ROKKR,Super Week,Hardpoint,Raid,1,250,82,New York Subliners,6:37,https://youtu.be/wozOoRzSCT8?t=449
+19,73,New York Subliners,Minnesota ROKKR,Super Week,Search and Destroy,Moscow,2,6,0,New York Subliners,5:05,https://youtu.be/wozOoRzSCT8?t=1709
+19,74,New York Subliners,Minnesota ROKKR,Super Week,Control,Raid,3,3,2,New York Subliners,14:58,https://youtu.be/wozOoRzSCT8?t=2701
+20,75,Los Angeles Guerrillas,OpTic Chicago,Super Week,Hardpoint,Garrison,1,250,234,Los Angeles Guerrillas,10:47,https://youtu.be/durOg_h8Y74?t=286
+20,76,Los Angeles Guerrillas,OpTic Chicago,Super Week,Search and Destroy,Moscow,2,3,6,OpTic Chicago,9:43,https://youtu.be/durOg_h8Y74?t=1587
+20,77,Los Angeles Guerrillas,OpTic Chicago,Super Week,Control,Raid,3,1,3,OpTic Chicago,12:47,https://youtu.be/durOg_h8Y74?t=2928
+20,78,Los Angeles Guerrillas,OpTic Chicago,Super Week,Hardpoint,Moscow,4,191,250,OpTic Chicago,10:48,https://youtu.be/durOg_h8Y74?t=4185
+21,79,Florida Mutineers,Atlanta FaZe,Super Week,Hardpoint,Garrison,1,250,196,Florida Mutineers,11:38,https://youtu.be/aPQy5_GsMrQ?t=411
+21,80,Florida Mutineers,Atlanta FaZe,Super Week,Search and Destroy,Moscow,2,1,6,Atlanta FaZe,6:06,https://youtu.be/aPQy5_GsMrQ?t=1669
+21,81,Florida Mutineers,Atlanta FaZe,Super Week,Control,Garrison,3,2,3,Atlanta FaZe,11:17,https://youtu.be/aPQy5_GsMrQ?t=2929
+21,82,Florida Mutineers,Atlanta FaZe,Super Week,Hardpoint,Moscow,4,190,250,Atlanta FaZe,10:48,https://youtu.be/aPQy5_GsMrQ?t=4154
+22,83,London Royal Ravens,Los Angeles Thieves,Super Week,Hardpoint,Moscow,1,137,250,Los Angeles Thieves,9:26,https://youtu.be/9C6Riw5aH5Q?t=420
+22,84,London Royal Ravens,Los Angeles Thieves,Super Week,Search and Destroy,Garrison,2,4,6,Los Angeles Thieves,12:34,https://youtu.be/9C6Riw5aH5Q?t=1280
+22,85,London Royal Ravens,Los Angeles Thieves,Super Week,Control,Garrison,3,3,1,London Royal Ravens,7:14,https://youtu.be/9C6Riw5aH5Q?t=2776
+22,86,London Royal Ravens,Los Angeles Thieves,Super Week,Hardpoint,Garrison,4,192,250,Los Angeles Thieves,11:44,https://youtu.be/9C6Riw5aH5Q?t=3993
+23,87,Paris Legion,Toronto Ultra,Super Week,Hardpoint,Raid,1,250,225,Paris Legion,9:38,https://youtu.be/-4ZzA0gvCu0?t=255
+23,88,Paris Legion,Toronto Ultra,Super Week,Search and Destroy,Moscow,2,0,6,Toronto Ultra,5:41,https://youtu.be/-4ZzA0gvCu0?t=1170
+23,89,Paris Legion,Toronto Ultra,Super Week,Control,Raid,3,0,3,Toronto Ultra,10:10,https://youtu.be/-4ZzA0gvCu0?t=2170
+23,90,Paris Legion,Toronto Ultra,Super Week,Hardpoint,Garrison,4,250,211,Paris Legion,11:13,https://youtu.be/-4ZzA0gvCu0?t=3200
+23,91,Paris Legion,Toronto Ultra,Super Week,Search and Destroy,Miami,5,6,3,Paris Legion,11:08,https://youtu.be/-4ZzA0gvCu0?t=4640
+24,92,New York Subliners,Dallas Empire,Super Week,Hardpoint,Checkmate,1,250,138,New York Subliners,9:10,https://youtu.be/Qx06squmROY?t=389
+24,93,New York Subliners,Dallas Empire,Super Week,Search and Destroy,Checkmate,2,6,3,New York Subliners,7:32,https://youtu.be/Qx06squmROY?t=1301
+24,94,New York Subliners,Dallas Empire,Super Week,Control,Raid,3,2,3,Dallas Empire,16:06,https://youtu.be/Qx06squmROY?t=2441
+24,95,New York Subliners,Dallas Empire,Super Week,Hardpoint,Garrison,4,171,250,Dallas Empire,10:35,https://youtu.be/Qx06squmROY?t=4127
+24,96,New York Subliners,Dallas Empire,Super Week,Search and Destroy,Miami,5,3,6,Dallas Empire,10:07,https://youtu.be/Qx06squmROY?t=5176
+25,97,Paris Legion,Atlanta FaZe,Super Week,Hardpoint,Checkmate,1,250,249,Paris Legion,11:45,https://youtu.be/acumTWEe3Uo?t=400
+25,98,Paris Legion,Atlanta FaZe,Super Week,Search and Destroy,Checkmate,2,5,6,Atlanta FaZe,12:24,https://youtu.be/acumTWEe3Uo?t=1475
+25,99,Paris Legion,Atlanta FaZe,Super Week,Control,Garrison,3,3,1,Paris Legion,13:18,https://youtu.be/acumTWEe3Uo?t=2962
+25,100,Paris Legion,Atlanta FaZe,Super Week,Hardpoint,Raid,4,218,250,Atlanta FaZe,9:23,https://youtu.be/acumTWEe3Uo?t=4861
+25,101,Paris Legion,Atlanta FaZe,Super Week,Search and Destroy,Raid,5,4,6,Atlanta FaZe,9:40,https://youtu.be/acumTWEe3Uo?t=5856
+26,102,London Royal Ravens,Minnesota ROKKR,Super Week,Hardpoint,Raid,1,157,250,Minnesota ROKKR,8:25,https://youtu.be/fhh_n380YXs?t=397
+26,103,London Royal Ravens,Minnesota ROKKR,Super Week,Search and Destroy,Moscow,2,4,6,Minnesota ROKKR,7:22,https://youtu.be/fhh_n380YXs?t=1248
+26,104,London Royal Ravens,Minnesota ROKKR,Super Week,Control,Raid,3,2,3,Minnesota ROKKR,15:34,https://youtu.be/fhh_n380YXs?t=2427
+27,105,Los Angeles Guerrillas,Toronto Ultra,Super Week,Hardpoint,Crossroads,1,242,250,Toronto Ultra,12:30,https://youtu.be/cIcxxKiR3q4?t=597
+27,106,Los Angeles Guerrillas,Toronto Ultra,Super Week,Search and Destroy,Moscow,2,6,1,Los Angeles Guerrillas,5:45,https://youtu.be/cIcxxKiR3q4?t=1654
+27,107,Los Angeles Guerrillas,Toronto Ultra,Super Week,Control,Raid,3,3,1,Los Angeles Guerrillas,12:07,https://youtu.be/cIcxxKiR3q4?t=2649
+27,108,Los Angeles Guerrillas,Toronto Ultra,Super Week,Hardpoint,Garrison,4,199,250,Toronto Ultra,10:44,https://youtu.be/cIcxxKiR3q4?t=3792
+27,109,Los Angeles Guerrillas,Toronto Ultra,Super Week,Search and Destroy,Raid,5,6,1,Los Angeles Guerrillas,6:49,https://youtu.be/cIcxxKiR3q4?t=4897
+28,110,Seattle Surge,New York Subliners,Super Week,Hardpoint,Raid,1,250,205,Seattle Surge,9:40,https://youtu.be/RV56WQ05uR8?t=377
+28,111,Seattle Surge,New York Subliners,Super Week,Search and Destroy,Miami,2,3,6,New York Subliners,10:29,https://youtu.be/RV56WQ05uR8?t=1276
+28,112,Seattle Surge,New York Subliners,Super Week,Control,Raid,3,0,3,New York Subliners,9:28,https://youtu.be/RV56WQ05uR8?t=2639
+28,113,Seattle Surge,New York Subliners,Super Week,Hardpoint,Moscow,4,226,250,New York Subliners,11:29,https://youtu.be/RV56WQ05uR8?t=3623
+29,114,Florida Mutineers,OpTic Chicago,Super Week,Hardpoint,Garrison,1,250,229,Florida Mutineers,12:01,https://youtu.be/gR8nmIGQCjg?t=895
+29,115,Florida Mutineers,OpTic Chicago,Super Week,Search and Destroy,Checkmate,2,5,6,OpTic Chicago,,https://youtu.be/gR8nmIGQCjg?t=1992
+29,116,Florida Mutineers,OpTic Chicago,Super Week,Control,Checkmate,3,2,3,OpTic Chicago,13:57,https://youtu.be/gR8nmIGQCjg?t=4009
+29,117,Florida Mutineers,OpTic Chicago,Super Week,Hardpoint,Checkmate,4,178,250,OpTic Chicago,10:30,https://youtu.be/gR8nmIGQCjg?t=5315
+30,118,Los Angeles Thieves,Dallas Empire,Super Week,Hardpoint,Raid,1,212,250,Dallas Empire,9:28,https://youtu.be/Q22Rz4UyNI8?t=568
+30,119,Los Angeles Thieves,Dallas Empire,Super Week,Search and Destroy,Checkmate,2,5,6,Dallas Empire,12:16,https://youtu.be/Q22Rz4UyNI8?t=1470
+30,120,Los Angeles Thieves,Dallas Empire,Super Week,Control,Raid,3,1,3,Dallas Empire,12:54,https://youtu.be/Q22Rz4UyNI8?t=2929
+31,121,London Royal Ravens,Toronto Ultra,Major 1,Hardpoint,Garrison,1,142,250,Toronto Ultra,10:30,https://youtu.be/toJhDmvhPGQ?t=456
+31,122,London Royal Ravens,Toronto Ultra,Major 1,Search and Destroy,Garrison,2,6,3,London Royal Ravens,,https://youtu.be/toJhDmvhPGQ?t=1641
+31,123,London Royal Ravens,Toronto Ultra,Major 1,Control,Raid,3,0,3,Toronto Ultra,9:12,https://youtu.be/toJhDmvhPGQ?t=2986
+31,124,London Royal Ravens,Toronto Ultra,Major 1,Hardpoint,Moscow,4,250,202,London Royal Ravens,,https://youtu.be/toJhDmvhPGQ?t=3925
+31,125,London Royal Ravens,Toronto Ultra,Major 1,Search and Destroy,Moscow,5,4,6,Toronto Ultra,10:55,https://youtu.be/toJhDmvhPGQ?t=5022
+32,126,Florida Mutineers,Seattle Surge,Major 1,Hardpoint,Crossroads,1,250,235,Florida Mutineers,11:14,https://youtu.be/br7uI7oWuN4?t=601
+32,127,Florida Mutineers,Seattle Surge,Major 1,Search and Destroy,Checkmate,2,5,6,Seattle Surge,12:48,https://youtu.be/br7uI7oWuN4?t=1601
+32,128,Florida Mutineers,Seattle Surge,Major 1,Control,Garrison,3,3,0,Florida Mutineers,6:21,https://youtu.be/br7uI7oWuN4?t=3206
+32,129,Florida Mutineers,Seattle Surge,Major 1,Hardpoint,Raid,4,250,157,Florida Mutineers,8:20,https://youtu.be/br7uI7oWuN4?t=4580
+33,130,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Hardpoint,Checkmate,1,250,191,Los Angeles Guerrillas,10:25,https://youtu.be/VUkIKgv0ltA?t=385
+33,131,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Search and Destroy,Raid,2,6,5,Los Angeles Guerrillas,12:33,https://youtu.be/VUkIKgv0ltA?t=1314
+33,132,Los Angeles Guerrillas,Los Angeles Thieves,Major 1,Control,Raid,3,3,1,Los Angeles Guerrillas,12:46,https://youtu.be/VUkIKgv0ltA?t=2882
+34,133,New York Subliners,OpTic Chicago,Major 1,Hardpoint,Checkmate,1,180,250,OpTic Chicago,10:41,https://youtu.be/f6mCTrifiWU?t=294
+34,134,New York Subliners,OpTic Chicago,Major 1,Search and Destroy,Moscow,2,1,6,OpTic Chicago,8:09,https://youtu.be/f6mCTrifiWU?t=1285
+34,135,New York Subliners,OpTic Chicago,Major 1,Control,Raid,3,1,3,OpTic Chicago,11:13,https://youtu.be/f6mCTrifiWU?t=2379
+35,136,Florida Mutineers,Paris Legion,Major 1,Hardpoint,Garrison,1,129,250,Paris Legion,8:53,https://youtu.be/M8V6AbVCwTE?t=424
+35,137,Florida Mutineers,Paris Legion,Major 1,Search and Destroy,Miami,2,6,4,Florida Mutineers,14:38,https://youtu.be/M8V6AbVCwTE?t=1280
+35,138,Florida Mutineers,Paris Legion,Major 1,Control,Checkmate,3,3,2,Florida Mutineers,11:37,https://youtu.be/M8V6AbVCwTE?t=2871
+35,139,Florida Mutineers,Paris Legion,Major 1,Hardpoint,Raid,4,250,239,Florida Mutineers,9:54,https://youtu.be/M8V6AbVCwTE?t=4084
+36,140,Toronto Ultra,Minnesota ROKKR,Major 1,Hardpoint,Moscow,1,241,218,Toronto Ultra,12:39,https://youtu.be/nswk3oH6sfY?t=316
+36,141,Toronto Ultra,Minnesota ROKKR,Major 1,Search and Destroy,Checkmate,2,5,6,Minnesota ROKKR,11:56,https://youtu.be/nswk3oH6sfY?t=1396
+36,142,Toronto Ultra,Minnesota ROKKR,Major 1,Control,Raid,3,1,3,Minnesota ROKKR,13:06,https://youtu.be/nswk3oH6sfY?t=2851
+36,143,Toronto Ultra,Minnesota ROKKR,Major 1,Hardpoint,Garrison,4,250,228,Toronto Ultra,11:37,https://youtu.be/nswk3oH6sfY?t=4063
+36,144,Toronto Ultra,Minnesota ROKKR,Major 1,Search and Destroy,Miami,5,6,1,Toronto Ultra,8:25,https://youtu.be/nswk3oH6sfY?t=5148
+37,145,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Hardpoint,Checkmate,1,220,250,Atlanta FaZe,11:32,https://youtu.be/pPhDSJWY-Dw?t=396
+37,146,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Search and Destroy,Moscow,2,3,6,Atlanta FaZe,8:03,https://youtu.be/pPhDSJWY-Dw?t=1772
+37,147,Los Angeles Guerrillas,Atlanta FaZe,Major 1,Control,Garrison,3,1,3,Atlanta FaZe,11:54,https://youtu.be/pPhDSJWY-Dw?t=2967
+38,148,OpTic Chicago,Dallas Empire,Major 1,Hardpoint,Garrison,1,149,250,Dallas Empire,9:32,https://youtu.be/4nTuMG0eIxk?t=246
+38,149,OpTic Chicago,Dallas Empire,Major 1,Search and Destroy,Moscow,2,6,2,OpTic Chicago,7:19,https://youtu.be/4nTuMG0eIxk?t=1218
+38,150,OpTic Chicago,Dallas Empire,Major 1,Control,Raid,3,3,2,OpTic Chicago,,https://youtu.be/4nTuMG0eIxk?t=2949
+38,151,OpTic Chicago,Dallas Empire,Major 1,Hardpoint,Moscow,4,157,250,Dallas Empire,11:07,https://youtu.be/4nTuMG0eIxk?t=5002
+38,152,OpTic Chicago,Dallas Empire,Major 1,Search and Destroy,Checkmate,5,5,6,Dallas Empire,13:37,https://youtu.be/4nTuMG0eIxk?t=6091
+39,153,Florida Mutineers,New York Subliners,Major 1,Hardpoint,Garrison,1,250,241,Florida Mutineers,,https://youtu.be/k7ddxV5iGtA?t=314
+39,154,Florida Mutineers,New York Subliners,Major 1,Search and Destroy,Checkmate,2,6,5,Florida Mutineers,13:53,https://youtu.be/k7ddxV5iGtA?t=1376
+39,155,Florida Mutineers,New York Subliners,Major 1,Control,Checkmate,3,1,3,New York Subliners,10:31,https://youtu.be/k7ddxV5iGtA?t=2908
+39,156,Florida Mutineers,New York Subliners,Major 1,Hardpoint,Checkmate,4,193,250,New York Subliners,9:51,https://youtu.be/k7ddxV5iGtA?t=4324
+39,157,Florida Mutineers,New York Subliners,Major 1,Search and Destroy,Miami,5,3,6,New York Subliners,12:11,https://youtu.be/k7ddxV5iGtA?t=5353
+40,158,Toronto Ultra,Los Angeles Thieves,Major 1,Hardpoint,Crossroads,1,154,250,Los Angeles Thieves,9:51,https://youtu.be/A0NWue-n8-g?t=621
+40,159,Toronto Ultra,Los Angeles Thieves,Major 1,Search and Destroy,Moscow,2,1,6,Los Angeles Thieves,7:25,https://youtu.be/A0NWue-n8-g?t=1470
+40,160,Toronto Ultra,Los Angeles Thieves,Major 1,Control,Checkmate,3,2,3,Los Angeles Thieves,12:38,https://youtu.be/A0NWue-n8-g?t=2480
+41,161,New York Subliners,Los Angeles Guerrillas,Major 1,Hardpoint,Checkmate,1,250,189,New York Subliners,10:39,https://youtu.be/xud9ve25rYM?t=410
+41,162,New York Subliners,Los Angeles Guerrillas,Major 1,Search and Destroy,Miami,2,3,6,Los Angeles Guerrillas,10:40,https://youtu.be/xud9ve25rYM?t=1358
+41,163,New York Subliners,Los Angeles Guerrillas,Major 1,Control,Garrison,3,3,0,New York Subliners,8:36,https://youtu.be/xud9ve25rYM?t=2687
+41,164,New York Subliners,Los Angeles Guerrillas,Major 1,Hardpoint,Raid,4,250,227,New York Subliners,9:42,https://youtu.be/xud9ve25rYM?t=3629
+42,165,Los Angeles Thieves,OpTic Chicago,Major 1,Hardpoint,Crossroads,1,190,250,OpTic Chicago,10:28,https://youtu.be/JPZ6zpU2p8I?t=245
+42,166,Los Angeles Thieves,OpTic Chicago,Major 1,Search and Destroy,Raid,2,6,5,Los Angeles Thieves,14:54,https://youtu.be/JPZ6zpU2p8I?t=1235
+42,167,Los Angeles Thieves,OpTic Chicago,Major 1,Control,Checkmate,3,1,3,OpTic Chicago,8:15,https://youtu.be/JPZ6zpU2p8I?t=2878
+42,168,Los Angeles Thieves,OpTic Chicago,Major 1,Hardpoint,Raid,4,166,250,OpTic Chicago,8:31,https://youtu.be/JPZ6zpU2p8I?t=3849
+43,169,OpTic Chicago,New York Subliners,Major 1,Hardpoint,Crossroads,1,155,250,New York Subliners,9:02,https://youtu.be/wqjy9eREVhQ?t=407
+43,170,OpTic Chicago,New York Subliners,Major 1,Search and Destroy,Garrison,2,1,6,New York Subliners,8:56,https://youtu.be/wqjy9eREVhQ?t=1268
+43,171,OpTic Chicago,New York Subliners,Major 1,Control,Checkmate,3,1,3,New York Subliners,11:46,https://youtu.be/wqjy9eREVhQ?t=2431
+44,172,Atlanta FaZe,Dallas Empire,Major 1,Hardpoint,Crossroads,1,250,144,Atlanta FaZe,10:14,https://youtu.be/XQ3FVqDWgE0?t=1059
+44,173,Atlanta FaZe,Dallas Empire,Major 1,Search and Destroy,Miami,2,6,2,Atlanta FaZe,9:42,https://youtu.be/XQ3FVqDWgE0?t=2048
+44,174,Atlanta FaZe,Dallas Empire,Major 1,Control,Raid,3,3,0,Atlanta FaZe,9:24,https://youtu.be/XQ3FVqDWgE0?t=3309
+45,175,New York Subliners,Dallas Empire,Major 1,Hardpoint,Crossroads,1,213,250,Dallas Empire,11:22,https://youtu.be/rc89biX2DkI?t=613
+45,176,New York Subliners,Dallas Empire,Major 1,Search and Destroy,Checkmate,2,5,6,Dallas Empire,11:21,https://youtu.be/rc89biX2DkI?t=1638
+45,177,New York Subliners,Dallas Empire,Major 1,Control,Checkmate,3,2,3,Dallas Empire,13:08,https://youtu.be/rc89biX2DkI?t=3130
+46,178,Dallas Empire,Atlanta FaZe,Major 1,Hardpoint,Moscow,1,176,250,Atlanta FaZe,10:19,https://youtu.be/OkW_emHf5RU?t=620
+46,179,Dallas Empire,Atlanta FaZe,Major 1,Search and Destroy,Garrison,2,3,6,Atlanta FaZe,11:49,https://youtu.be/OkW_emHf5RU?t=1597
+46,180,Dallas Empire,Atlanta FaZe,Major 1,Control,Garrison,3,1,3,Atlanta FaZe,6:05,https://youtu.be/OkW_emHf5RU?t=3685
+46,181,Dallas Empire,Atlanta FaZe,Major 1,Hardpoint,Checkmate,4,250,104,Dallas Empire,8:57,https://youtu.be/OkW_emHf5RU?t=4497
+46,182,Dallas Empire,Atlanta FaZe,Major 1,Search and Destroy,Moscow,5,1,6,Atlanta FaZe,6:52,https://youtu.be/OkW_emHf5RU?t=5453
+46,183,Dallas Empire,Atlanta FaZe,Major 1,Control,Raid,6,3,0,Dallas Empire,8:36,https://youtu.be/OkW_emHf5RU?t=6367
+46,184,Dallas Empire,Atlanta FaZe,Major 1,Search and Destroy,Raid,7,2,6,Atlanta FaZe,7:13,https://youtu.be/OkW_emHf5RU?t=7390
+47,185,New York Subliners,Atlanta FaZe,Stage 2 Week 1,Hardpoint,Garrison,1,202,250,Atlanta FaZe,10:11,https://youtu.be/yxlT-jZSX6E?t=479
+47,186,New York Subliners,Atlanta FaZe,Stage 2 Week 1,Search and Destroy,Express,2,6,5,New York Subliners,10:03,https://youtu.be/yxlT-jZSX6E?t=1476
+47,187,New York Subliners,Atlanta FaZe,Stage 2 Week 1,Control,Raid,3,1,3,Atlanta FaZe,11:22,https://youtu.be/yxlT-jZSX6E?t=2875
+47,188,New York Subliners,Atlanta FaZe,Stage 2 Week 1,Hardpoint,Apocalypse,4,195,250,Atlanta FaZe,9:50,https://youtu.be/yxlT-jZSX6E?t=4011
+48,189,Seattle Surge,Florida Mutineers,Stage 2 Week 1,Hardpoint,Apocalypse,1,250,104,Seattle Surge,8:27,https://youtu.be/js3nT7pqZxs?t=490
+48,190,Seattle Surge,Florida Mutineers,Stage 2 Week 1,Search and Destroy,Checkmate,2,6,3,Seattle Surge,10:27,https://youtu.be/js3nT7pqZxs?t=1379
+48,191,Seattle Surge,Florida Mutineers,Stage 2 Week 1,Control,Checkmate,3,0,3,Florida Mutineers,8:16,https://youtu.be/js3nT7pqZxs?t=2823
+48,192,Seattle Surge,Florida Mutineers,Stage 2 Week 1,Hardpoint,Checkmate,4,250,224,Seattle Surge,12:07,https://youtu.be/js3nT7pqZxs?t=3743
+49,193,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Hardpoint,Garrison,1,183,250,Los Angeles Thieves,,https://youtu.be/Cjn4zVgrAno?t=306
+49,194,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Search and Destroy,Raid,2,6,4,Toronto Ultra,9:26,https://youtu.be/Cjn4zVgrAno?t=1376
+49,195,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Control,Raid,3,1,3,Los Angeles Thieves,12:59,https://youtu.be/Cjn4zVgrAno?t=2675
+49,196,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Hardpoint,Checkmate,4,250,115,Toronto Ultra,8:24,https://youtu.be/Cjn4zVgrAno?t=3962
+49,197,Toronto Ultra,Los Angeles Thieves,Stage 2 Week 1,Search and Destroy,Miami,5,5,6,Los Angeles Thieves,15:42,https://youtu.be/Cjn4zVgrAno?t=4944
+50,198,Minnesota ROKKR,Paris Legion,Stage 2 Week 1,Hardpoint,Raid,1,216,250,Paris Legion,9:07,https://youtu.be/9c9SH71wCN4?t=361
+50,199,Minnesota ROKKR,Paris Legion,Stage 2 Week 1,Search and Destroy,Miami,2,5,6,Paris Legion,14:11,https://youtu.be/9c9SH71wCN4?t=1302
+50,200,Minnesota ROKKR,Paris Legion,Stage 2 Week 1,Control,Raid,3,0,3,Paris Legion,6:58,https://youtu.be/9c9SH71wCN4?t=2876
+51,201,Paris Legion,OpTic Chicago,Stage 2 Week 1,Hardpoint,Checkmate,1,184,250,OpTic Chicago,9:35,https://youtu.be/ka-lUY-C4jM?t=473
+51,202,Paris Legion,OpTic Chicago,Stage 2 Week 1,Search and Destroy,Express,2,6,4,Paris Legion,10:33,https://youtu.be/ka-lUY-C4jM?t=1373
+51,203,Paris Legion,OpTic Chicago,Stage 2 Week 1,Control,Raid,3,0,3,OpTic Chicago,10:10,https://youtu.be/ka-lUY-C4jM?t=2727
+51,204,Paris Legion,OpTic Chicago,Stage 2 Week 1,Hardpoint,Apocalypse,4,225,250,OpTic Chicago,10:52,https://youtu.be/ka-lUY-C4jM?t=3801
+52,205,Minnesota ROKKR,Florida Mutineers,Stage 2 Week 1,Hardpoint,Checkmate,1,214,250,Florida Mutineers,10:31,https://youtu.be/GDgb1XT0-ok?t=713
+52,206,Minnesota ROKKR,Florida Mutineers,Stage 2 Week 1,Search and Destroy,Express,2,5,6,Florida Mutineers,11:11,https://youtu.be/GDgb1XT0-ok?t=1704
+52,207,Minnesota ROKKR,Florida Mutineers,Stage 2 Week 1,Control,Checkmate,3,1,3,Florida Mutineers,11:27,https://youtu.be/GDgb1XT0-ok?t=3176
+53,208,Seattle Surge,Dallas Empire,Stage 2 Week 1,Hardpoint,Moscow,1,135,250,Dallas Empire,9:24,https://youtu.be/-Wd7Yt2_M_I?t=337
+53,209,Seattle Surge,Dallas Empire,Stage 2 Week 1,Search and Destroy,Checkmate,2,5,6,Dallas Empire,10:57,https://youtu.be/-Wd7Yt2_M_I?t=1272
+53,210,Seattle Surge,Dallas Empire,Stage 2 Week 1,Control,Garrison,3,3,2,Seattle Surge,11:32,https://youtu.be/-Wd7Yt2_M_I?t=2750
+53,211,Seattle Surge,Dallas Empire,Stage 2 Week 1,Hardpoint,Raid,4,250,149,Seattle Surge,8:26,https://youtu.be/-Wd7Yt2_M_I?t=3950
+53,212,Seattle Surge,Dallas Empire,Stage 2 Week 1,Search and Destroy,Express,5,5,6,Dallas Empire,11:40,https://youtu.be/-Wd7Yt2_M_I?t=4916
+54,213,London Royal Ravens,Los Angeles Guerrillas,Stage 2 Week 1,Hardpoint,Apocalypse,1,250,189,London Royal Ravens,10:23,https://youtu.be/Vn0bTvX4TFU?t=474
+54,214,London Royal Ravens,Los Angeles Guerrillas,Stage 2 Week 1,Search and Destroy,Miami,2,6,2,London Royal Ravens,9:28,https://youtu.be/Vn0bTvX4TFU?t=1467
+54,215,London Royal Ravens,Los Angeles Guerrillas,Stage 2 Week 1,Control,Checkmate,3,3,2,London Royal Ravens,11:06,https://youtu.be/Vn0bTvX4TFU?t=3024
+55,216,Toronto Ultra,Atlanta FaZe,Stage 2 Week 1,Hardpoint,Garrison,1,143,250,Atlanta FaZe,9:45,https://youtu.be/I7k2UekgJ-0?t=322
+55,217,Toronto Ultra,Atlanta FaZe,Stage 2 Week 1,Search and Destroy,Moscow,2,3,6,Atlanta FaZe,8:51,https://youtu.be/I7k2UekgJ-0?t=1268
+55,218,Toronto Ultra,Atlanta FaZe,Stage 2 Week 1,Control,Raid,3,0,3,Atlanta FaZe,,https://youtu.be/I7k2UekgJ-0?t=2574
+56,219,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Hardpoint,Checkmate,1,216,250,Los Angeles Thieves,10:11,https://youtu.be/GZA1WjjH2Zg?t=385
+56,220,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Search and Destroy,Moscow,2,4,6,Los Angeles Thieves,9:09,https://youtu.be/GZA1WjjH2Zg?t=1372
+56,221,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Control,Raid,3,3,2,New York Subliners,13:18,https://youtu.be/GZA1WjjH2Zg?t=2702
+56,222,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Hardpoint,Moscow,4,250,211,New York Subliners,10:40,https://youtu.be/GZA1WjjH2Zg?t=3998
+56,223,New York Subliners,Los Angeles Thieves,Stage 2 Week 1,Search and Destroy,Checkmate,5,6,3,New York Subliners,8:43,https://youtu.be/GZA1WjjH2Zg?t=5132
+57,224,Paris Legion,Dallas Empire,Stage 2 Week 2,Hardpoint,Garrison,1,200,250,Dallas Empire,11:47,https://youtu.be/WqtSLqvQcyY?t=354
+57,225,Paris Legion,Dallas Empire,Stage 2 Week 2,Search and Destroy,Express,2,6,3,Paris Legion,7:58,https://youtu.be/WqtSLqvQcyY?t=1401
+57,226,Paris Legion,Dallas Empire,Stage 2 Week 2,Control,Raid,3,2,3,Dallas Empire,14:51,https://youtu.be/WqtSLqvQcyY?t=2582
+57,227,Paris Legion,Dallas Empire,Stage 2 Week 2,Hardpoint,Raid,4,190,250,Dallas Empire,8:46,https://youtu.be/WqtSLqvQcyY?t=4028
+58,228,Minnesota ROKKR,OpTic Chicago,Stage 2 Week 2,Hardpoint,Raid,1,250,81,Minnesota ROKKR,,https://youtu.be/k2CLweEppuE?t=267
+58,229,Minnesota ROKKR,OpTic Chicago,Stage 2 Week 2,Search and Destroy,Raid,2,6,4,Minnesota ROKKR,10:09,https://youtu.be/k2CLweEppuE?t=1108
+58,230,Minnesota ROKKR,OpTic Chicago,Stage 2 Week 2,Control,Raid,3,3,1,Minnesota ROKKR,12:39,https://youtu.be/k2CLweEppuE?t=2423
+59,231,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,Hardpoint,Checkmate,1,243,250,Los Angeles Thieves,11:34,https://youtu.be/_mEV-lOAgdU?t=626
+59,232,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,Search and Destroy,Raid,2,6,2,London Royal Ravens,,https://youtu.be/_mEV-lOAgdU?t=1693
+59,233,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,Control,Checkmate,3,3,0,London Royal Ravens,4:17,https://youtu.be/_mEV-lOAgdU?t=2888
+59,234,London Royal Ravens,Los Angeles Thieves,Stage 2 Week 2,Hardpoint,Moscow,4,250,245,London Royal Ravens,11:37,https://youtu.be/_mEV-lOAgdU?t=3555
+60,235,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,Hardpoint,Checkmate,1,170,250,New York Subliners,9:55,https://youtu.be/3pZyhFxZBA8?t=323
+60,236,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,Search and Destroy,Moscow,2,6,4,Los Angeles Guerrillas,9:59,https://youtu.be/3pZyhFxZBA8?t=1273
+60,237,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,Control,Checkmate,3,2,3,New York Subliners,10:45,https://youtu.be/3pZyhFxZBA8?t=2621
+60,238,Los Angeles Guerrillas,New York Subliners,Stage 2 Week 2,Hardpoint,Garrison,4,241,250,New York Subliners,,https://youtu.be/3pZyhFxZBA8?t=3764
+61,239,London Royal Ravens,New York Subliners,Stage 2 Week 2,Hardpoint,Checkmate,1,209,250,New York Subliners,10:42,https://youtu.be/ksUrn5L7twM?t=462
+61,240,London Royal Ravens,New York Subliners,Stage 2 Week 2,Search and Destroy,Express,2,5,6,New York Subliners,10:00,https://youtu.be/ksUrn5L7twM?t=1475
+61,241,London Royal Ravens,New York Subliners,Stage 2 Week 2,Control,Checkmate,3,3,2,London Royal Ravens,14:20,https://youtu.be/ksUrn5L7twM?t=2836
+61,242,London Royal Ravens,New York Subliners,Stage 2 Week 2,Hardpoint,Moscow,4,230,250,New York Subliners,11:25,https://youtu.be/ksUrn5L7twM?t=4639
+62,243,Los Angeles Thieves,Atlanta FaZe,Stage 2 Week 2,Hardpoint,Garrison,1,155,250,Atlanta FaZe,9:26,https://youtu.be/joK6e0ez_CE?t=2486
+62,244,Los Angeles Thieves,Atlanta FaZe,Stage 2 Week 2,Search and Destroy,Raid,2,3,6,Atlanta FaZe,8:18,https://youtu.be/joK6e0ez_CE?t=3349
+62,245,Los Angeles Thieves,Atlanta FaZe,Stage 2 Week 2,Control,Checkmate,3,0,3,Atlanta FaZe,7:20,https://youtu.be/joK6e0ez_CE?t=4519
+63,246,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Hardpoint,Checkmate,1,177,250,Toronto Ultra,10:53,https://youtu.be/aOICTF3SK1E?t=308
+63,247,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Search and Destroy,Express,2,6,2,Los Angeles Guerrillas,8:29,https://youtu.be/aOICTF3SK1E?t=1303
+63,248,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Control,Checkmate,3,3,0,Los Angeles Guerrillas,7:12,https://youtu.be/aOICTF3SK1E?t=2432
+63,249,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Hardpoint,Raid,4,230,250,Toronto Ultra,10:20,https://youtu.be/aOICTF3SK1E?t=3251
+63,250,Los Angeles Guerrillas,Toronto Ultra,Stage 2 Week 2,Search and Destroy,Raid,5,0,6,Toronto Ultra,5:26,https://youtu.be/aOICTF3SK1E?t=4269
+64,251,Seattle Surge,Paris Legion,Stage 2 Week 2,Hardpoint,Moscow,1,250,197,Seattle Surge,11:01,https://youtu.be/F1_GEZj-U4E?t=400
+64,252,Seattle Surge,Paris Legion,Stage 2 Week 2,Search and Destroy,Miami,2,6,1,Seattle Surge,9:14,https://youtu.be/F1_GEZj-U4E?t=1391
+64,253,Seattle Surge,Paris Legion,Stage 2 Week 2,Control,Garrison,3,3,0,Seattle Surge,7:23,https://youtu.be/F1_GEZj-U4E?t=2519
+65,254,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Hardpoint,Checkmate,1,180,250,Dallas Empire,10:20,https://youtu.be/krbOYhcjVZU?t=368
+65,255,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Search and Destroy,Moscow,2,6,3,Minnesota ROKKR,8:58,https://youtu.be/krbOYhcjVZU?t=1373
+65,256,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Control,Raid,3,3,2,Minnesota ROKKR,16:37,https://youtu.be/krbOYhcjVZU?t=2601
+65,257,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Hardpoint,Raid,4,181,250,Dallas Empire,9:16,https://youtu.be/krbOYhcjVZU?t=4126
+65,258,Minnesota ROKKR,Dallas Empire,Stage 2 Week 2,Search and Destroy,Express,5,6,4,Minnesota ROKKR,8:18,https://youtu.be/krbOYhcjVZU?t=5137
+66,259,Florida Mutineers,OpTic Chicago,Stage 2 Week 2,Hardpoint,Raid,1,250,221,Florida Mutineers,9:53,https://youtu.be/Kpbx-1j3OAg?t=371
+66,260,Florida Mutineers,OpTic Chicago,Stage 2 Week 2,Search and Destroy,Checkmate,2,6,5,Florida Mutineers,,https://youtu.be/Kpbx-1j3OAg?t=1314
+66,261,Florida Mutineers,OpTic Chicago,Stage 2 Week 2,Control,Checkmate,3,3,2,Florida Mutineers,,https://youtu.be/Kpbx-1j3OAg?t=2784
+67,262,Florida Mutineers,Dallas Empire,Stage 2 Week 3,Hardpoint,Checkmate,1,213,250,Dallas Empire,11:01,https://youtu.be/rF4JPRQ3C7Q?t=953
+67,263,Florida Mutineers,Dallas Empire,Stage 2 Week 3,Search and Destroy,Checkmate,2,4,6,Dallas Empire,10:34,https://youtu.be/rF4JPRQ3C7Q?t=2101
+67,264,Florida Mutineers,Dallas Empire,Stage 2 Week 3,Control,Checkmate,3,2,3,Dallas Empire,11:04,https://youtu.be/rF4JPRQ3C7Q?t=3507
+68,265,Seattle Surge,OpTic Chicago,Stage 2 Week 3,Hardpoint,Raid,1,226,250,OpTic Chicago,9:56,https://youtu.be/RbYt6eapC5c?t=326
+68,266,Seattle Surge,OpTic Chicago,Stage 2 Week 3,Search and Destroy,Checkmate,2,2,6,OpTic Chicago,9:54,https://youtu.be/RbYt6eapC5c?t=1309
+68,267,Seattle Surge,OpTic Chicago,Stage 2 Week 3,Control,Raid,3,2,3,OpTic Chicago,14:38,https://youtu.be/RbYt6eapC5c?t=2640
+69,268,London Royal Ravens,Toronto Ultra,Stage 2 Week 3,Hardpoint,Checkmate,1,140,250,Toronto Ultra,9:01,https://youtu.be/VqOoBQs50YE?t=420
+69,269,London Royal Ravens,Toronto Ultra,Stage 2 Week 3,Search and Destroy,Raid,2,5,6,Toronto Ultra,10:09,https://youtu.be/VqOoBQs50YE?t=1314
+69,270,London Royal Ravens,Toronto Ultra,Stage 2 Week 3,Control,Garrison,3,1,3,Toronto Ultra,,https://youtu.be/VqOoBQs50YE?t=2653
+70,271,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Hardpoint,Moscow,1,176,250,Atlanta FaZe,9:59,https://youtu.be/cryc9UQtIys?t=331
+70,272,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Search and Destroy,Miami,2,6,2,Los Angeles Guerrillas,10:00,https://youtu.be/cryc9UQtIys?t=1308
+70,273,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Control,Checkmate,3,2,3,Atlanta FaZe,11:57,https://youtu.be/cryc9UQtIys?t=2640
+70,274,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Hardpoint,Apocalypse,4,250,154,Los Angeles Guerrillas,8:37,https://youtu.be/cryc9UQtIys?t=3864
+70,275,Los Angeles Guerrillas,Atlanta FaZe,Stage 2 Week 3,Search and Destroy,Express,5,6,0,Los Angeles Guerrillas,5:39,https://youtu.be/cryc9UQtIys?t=4814
+71,276,Paris Legion,Florida Mutineers,Stage 2 Week 3,Hardpoint,Checkmate,1,250,237,Paris Legion,11:59,https://youtu.be/r6iQj91pv5Y?t=334
+71,277,Paris Legion,Florida Mutineers,Stage 2 Week 3,Search and Destroy,Express,2,4,6,Florida Mutineers,6:21,https://youtu.be/r6iQj91pv5Y?t=1487
+71,278,Paris Legion,Florida Mutineers,Stage 2 Week 3,Control,Garrison,3,3,1,Paris Legion,12:10,https://youtu.be/r6iQj91pv5Y?t=2624
+71,279,Paris Legion,Florida Mutineers,Stage 2 Week 3,Hardpoint,Garrison,4,250,174,Paris Legion,11:04,https://youtu.be/r6iQj91pv5Y?t=3831
+72,280,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Hardpoint,Raid,1,250,235,Seattle Surge,10:44,https://youtu.be/zg8g6rPsjok?t=307
+72,281,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Search and Destroy,Express,2,6,4,Seattle Surge,12:22,https://youtu.be/zg8g6rPsjok?t=1400
+72,282,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Control,Raid,3,1,3,Minnesota ROKKR,13:45,https://youtu.be/zg8g6rPsjok?t=2875
+72,283,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Hardpoint,Garrison,4,197,250,Minnesota ROKKR,10:40,https://youtu.be/zg8g6rPsjok?t=4164
+72,284,Seattle Surge,Minnesota ROKKR,Stage 2 Week 3,Search and Destroy,Miami,5,2,6,Minnesota ROKKR,11:02,https://youtu.be/zg8g6rPsjok?t=5225
+73,285,Toronto Ultra,New York Subliners,Stage 2 Week 3,Hardpoint,Raid,1,176,250,New York Subliners,8:49,https://youtu.be/ScMb8KzxK20?t=356
+73,286,Toronto Ultra,New York Subliners,Stage 2 Week 3,Search and Destroy,Checkmate,2,4,6,New York Subliners,11:42,https://youtu.be/ScMb8KzxK20?t=1283
+73,287,Toronto Ultra,New York Subliners,Stage 2 Week 3,Control,Raid,3,3,1,Toronto Ultra,10:54,https://youtu.be/ScMb8KzxK20?t=2719
+73,288,Toronto Ultra,New York Subliners,Stage 2 Week 3,Hardpoint,Checkmate,4,244,250,New York Subliners,11:52,https://youtu.be/ScMb8KzxK20?t=3847
+74,289,London Royal Ravens,Atlanta FaZe,Stage 2 Week 3,Hardpoint,Garrison,1,119,250,Atlanta FaZe,10:17,https://youtu.be/Mky9daj1bMY?t=402
+74,290,London Royal Ravens,Atlanta FaZe,Stage 2 Week 3,Search and Destroy,Express,2,3,6,Atlanta FaZe,8:59,https://youtu.be/Mky9daj1bMY?t=1394
+74,291,London Royal Ravens,Atlanta FaZe,Stage 2 Week 3,Control,Garrison,3,0,3,Atlanta FaZe,8:43,https://youtu.be/Mky9daj1bMY?t=2699
+75,292,Los Angeles Guerrillas,Los Angeles Thieves,Stage 2 Week 3,Hardpoint,Raid,1,250,161,Los Angeles Guerrillas,9:18,https://youtu.be/Bwl_kg5MIiM?t=434
+75,293,Los Angeles Guerrillas,Los Angeles Thieves,Stage 2 Week 3,Search and Destroy,Miami,2,6,5,Los Angeles Guerrillas,14:51,https://youtu.be/Bwl_kg5MIiM?t=1376
+75,294,Los Angeles Guerrillas,Los Angeles Thieves,Stage 2 Week 3,Control,Raid,3,3,2,Los Angeles Guerrillas,14:19,https://youtu.be/Bwl_kg5MIiM?t=3072
+76,295,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Hardpoint,Moscow,1,244,250,Dallas Empire,,https://youtu.be/Ciwsgykgmdw?t=366
+76,296,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Search and Destroy,Raid,2,6,2,OpTic Chicago,6:19,https://youtu.be/Ciwsgykgmdw?t=1497
+76,297,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Control,Checkmate,3,2,3,Dallas Empire,15:56,https://youtu.be/Ciwsgykgmdw?t=2597
+76,298,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Hardpoint,Checkmate,4,250,108,OpTic Chicago,8:49,https://youtu.be/Ciwsgykgmdw?t=4039
+76,299,OpTic Chicago,Dallas Empire,Stage 2 Week 3,Search and Destroy,Checkmate,5,6,1,OpTic Chicago,9:06,https://youtu.be/Ciwsgykgmdw?t=5106
+77,300,Los Angeles Thieves,Paris Legion,Major 2,Hardpoint,Checkmate,1,250,203,Los Angeles Thieves,10:59,https://youtu.be/Jm8xBObvItE?t=457
+77,301,Los Angeles Thieves,Paris Legion,Major 2,Search and Destroy,Raid,2,6,0,Los Angeles Thieves,5:33,https://youtu.be/Jm8xBObvItE?t=1443
+77,302,Los Angeles Thieves,Paris Legion,Major 2,Control,Checkmate,3,3,0,Los Angeles Thieves,6:57,https://youtu.be/Jm8xBObvItE?t=2616
+78,303,Florida Mutineers,Los Angeles Guerrillas,Major 2,Hardpoint,Moscow,1,250,169,Florida Mutineers,9:07,https://youtu.be/z6s_Y1BL144?t=332
+78,304,Florida Mutineers,Los Angeles Guerrillas,Major 2,Search and Destroy,Express,2,6,4,Florida Mutineers,9:07,https://youtu.be/z6s_Y1BL144?t=1274
+78,305,Florida Mutineers,Los Angeles Guerrillas,Major 2,Control,Checkmate,3,3,0,Florida Mutineers,8:19,https://youtu.be/z6s_Y1BL144?t=2618
+79,306,Dallas Empire,New York Subliners,Major 2,Hardpoint,Moscow,1,250,215,Dallas Empire,11:27,https://youtu.be/SryXsgY5ChA?t=416
+79,307,Dallas Empire,New York Subliners,Major 2,Search and Destroy,Express,2,6,0,Dallas Empire,7:21,https://youtu.be/SryXsgY5ChA?t=1427
+79,308,Dallas Empire,New York Subliners,Major 2,Control,Checkmate,3,3,1,Dallas Empire,13:25,https://youtu.be/SryXsgY5ChA?t=2467
+80,309,Toronto Ultra,OpTic Chicago,Major 2,Hardpoint,Checkmate,1,236,250,OpTic Chicago,11:39,https://youtu.be/9HhRT6JUyMI?t=448
+80,310,Toronto Ultra,OpTic Chicago,Major 2,Search and Destroy,Moscow,2,6,5,Toronto Ultra,14:15,https://youtu.be/9HhRT6JUyMI?t=1490
+80,311,Toronto Ultra,OpTic Chicago,Major 2,Control,Raid,3,3,1,Toronto Ultra,13:06,https://youtu.be/9HhRT6JUyMI?t=3152
+80,312,Toronto Ultra,OpTic Chicago,Major 2,Hardpoint,Raid,4,250,234,Toronto Ultra,9:56,https://youtu.be/9HhRT6JUyMI?t=4394
+81,313,Los Angeles Thieves,London Royal Ravens,Major 2,Hardpoint,Apocalypse,1,163,250,London Royal Ravens,9:38,https://youtu.be/q-Y_Wkvc9UM?t=790
+81,314,Los Angeles Thieves,London Royal Ravens,Major 2,Search and Destroy,Miami,2,2,6,London Royal Ravens,9:14,https://youtu.be/q-Y_Wkvc9UM?t=1693
+81,315,Los Angeles Thieves,London Royal Ravens,Major 2,Control,Checkmate,3,3,1,Los Angeles Thieves,,https://youtu.be/q-Y_Wkvc9UM?t=2978
+81,316,Los Angeles Thieves,London Royal Ravens,Major 2,Hardpoint,Raid,4,250,189,Los Angeles Thieves,9:23,https://youtu.be/q-Y_Wkvc9UM?t=4243
+81,317,Los Angeles Thieves,London Royal Ravens,Major 2,Search and Destroy,Moscow,5,6,4,Los Angeles Thieves,10:36,https://youtu.be/q-Y_Wkvc9UM?t=5288
+82,318,Florida Mutineers,Seattle Surge,Major 2,Hardpoint,Moscow,1,250,244,Florida Mutineers,11:34,https://youtu.be/n3dXoi6NmEg?t=432
+82,319,Florida Mutineers,Seattle Surge,Major 2,Search and Destroy,Express,2,5,6,Seattle Surge,9:37,https://youtu.be/n3dXoi6NmEg?t=1428
+82,320,Florida Mutineers,Seattle Surge,Major 2,Control,Garrison,3,1,3,Seattle Surge,8:29,https://youtu.be/n3dXoi6NmEg?t=2727
+82,321,Florida Mutineers,Seattle Surge,Major 2,Hardpoint,Checkmate,4,222,250,Seattle Surge,10:51,https://youtu.be/n3dXoi6NmEg?t=3693
+83,322,Dallas Empire,Minnesota ROKKR,Major 2,Hardpoint,Moscow,1,170,250,Minnesota ROKKR,11:19,https://youtu.be/jbK9_i_NP40?t=433
+83,323,Dallas Empire,Minnesota ROKKR,Major 2,Search and Destroy,Raid,2,6,5,Dallas Empire,11:08,https://youtu.be/jbK9_i_NP40?t=1433
+83,324,Dallas Empire,Minnesota ROKKR,Major 2,Control,Raid,3,3,2,Dallas Empire,15:39,https://youtu.be/jbK9_i_NP40?t=2906
+83,325,Dallas Empire,Minnesota ROKKR,Major 2,Hardpoint,Checkmate,4,212,250,Minnesota ROKKR,12:12,https://youtu.be/jbK9_i_NP40?t=4390
+83,326,Dallas Empire,Minnesota ROKKR,Major 2,Search and Destroy,Miami,5,6,5,Dallas Empire,,https://youtu.be/jbK9_i_NP40?t=5547
+84,327,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Moscow,1,114,250,Atlanta FaZe,8:35,https://youtu.be/0d6aUrW8N94?t=357
+84,328,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Raid,2,6,2,Toronto Ultra,6:01,https://youtu.be/0d6aUrW8N94?t=1195
+84,329,Toronto Ultra,Atlanta FaZe,Major 2,Control,Raid,3,0,3,Atlanta FaZe,6:48,https://youtu.be/0d6aUrW8N94?t=2190
+84,330,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Checkmate,4,228,250,Atlanta FaZe,11:12,https://youtu.be/0d6aUrW8N94?t=2989
+85,331,Seattle Surge,OpTic Chicago,Major 2,Hardpoint,Raid,1,250,202,Seattle Surge,9:25,https://youtu.be/nk8fuYzGGlI?t=410
+85,332,Seattle Surge,OpTic Chicago,Major 2,Search and Destroy,Checkmate,2,2,6,OpTic Chicago,6:43,https://youtu.be/nk8fuYzGGlI?t=1319
+85,333,Seattle Surge,OpTic Chicago,Major 2,Control,Raid,3,1,3,OpTic Chicago,11:19,https://youtu.be/nk8fuYzGGlI?t=2327
+85,334,Seattle Surge,OpTic Chicago,Major 2,Hardpoint,Garrison,4,183,250,OpTic Chicago,10:45,https://youtu.be/nk8fuYzGGlI?t=3482
+86,335,Los Angeles Thieves,New York Subliners,Major 2,Hardpoint,Checkmate,1,250,200,Los Angeles Thieves,11:13,https://youtu.be/SYc_CP1HDQM?t=449
+86,336,Los Angeles Thieves,New York Subliners,Major 2,Search and Destroy,Checkmate,2,6,1,Los Angeles Thieves,6:50,https://youtu.be/SYc_CP1HDQM?t=1446
+86,337,Los Angeles Thieves,New York Subliners,Major 2,Control,Checkmate,3,3,1,Los Angeles Thieves,9:45,https://youtu.be/SYc_CP1HDQM?t=2430
+87,338,Los Angeles Thieves,Toronto Ultra,Major 2,Hardpoint,Raid,1,213,250,Toronto Ultra,9:27,https://youtu.be/XLnXnwkNOqw?t=432
+87,339,Los Angeles Thieves,Toronto Ultra,Major 2,Search and Destroy,Moscow,2,5,6,Toronto Ultra,11:25,https://youtu.be/XLnXnwkNOqw?t=1335
+87,340,Los Angeles Thieves,Toronto Ultra,Major 2,Control,Garrison,3,0,3,Toronto Ultra,10:33,https://youtu.be/XLnXnwkNOqw?t=2802
+88,341,OpTic Chicago,Minnesota ROKKR,Major 2,Hardpoint,Garrison,1,192,250,Minnesota ROKKR,10:47,https://youtu.be/nfS5K_8h_A0?t=442
+88,342,OpTic Chicago,Minnesota ROKKR,Major 2,Search and Destroy,Express,2,6,2,OpTic Chicago,9:37,https://youtu.be/nfS5K_8h_A0?t=1434
+88,343,OpTic Chicago,Minnesota ROKKR,Major 2,Control,Garrison,3,1,3,Minnesota ROKKR,9:27,https://youtu.be/nfS5K_8h_A0?t=2721
+88,344,OpTic Chicago,Minnesota ROKKR,Major 2,Hardpoint,Moscow,4,250,138,OpTic Chicago,8:58,https://youtu.be/nfS5K_8h_A0?t=3711
+88,345,OpTic Chicago,Minnesota ROKKR,Major 2,Search and Destroy,Moscow,5,5,6,Minnesota ROKKR,11:03,https://youtu.be/nfS5K_8h_A0?t=4634
+89,346,Dallas Empire,Atlanta FaZe,Major 2,Hardpoint,Garrison,1,155,250,Atlanta FaZe,10:43,https://youtu.be/QlR7BOWU794?t=310
+89,347,Dallas Empire,Atlanta FaZe,Major 2,Search and Destroy,Express,2,6,2,Dallas Empire,9:45,https://youtu.be/QlR7BOWU794?t=1361
+89,348,Dallas Empire,Atlanta FaZe,Major 2,Control,Raid,3,0,3,Atlanta FaZe,9:51,https://youtu.be/QlR7BOWU794?t=2568
+89,349,Dallas Empire,Atlanta FaZe,Major 2,Hardpoint,Checkmate,4,222,250,Atlanta FaZe,11:28,https://youtu.be/QlR7BOWU794?t=3597
+90,350,Toronto Ultra,Minnesota ROKKR,Major 2,Hardpoint,Raid,1,219,250,Minnesota ROKKR,9:47,https://youtu.be/W53hrbNGa5I?t=510
+90,351,Toronto Ultra,Minnesota ROKKR,Major 2,Search and Destroy,Express,2,6,4,Toronto Ultra,7:49,https://youtu.be/W53hrbNGa5I?t=1411
+90,352,Toronto Ultra,Minnesota ROKKR,Major 2,Control,Raid,3,3,2,Toronto Ultra,17:08,https://youtu.be/W53hrbNGa5I?t=2623
+90,353,Toronto Ultra,Minnesota ROKKR,Major 2,Hardpoint,Garrison,4,250,155,Toronto Ultra,10:24,https://youtu.be/W53hrbNGa5I?t=4145
+91,354,Toronto Ultra,Dallas Empire,Major 2,Hardpoint,Checkmate,1,203,250,Dallas Empire,12:12,https://youtu.be/pT5DI5i1whY?t=403
+91,355,Toronto Ultra,Dallas Empire,Major 2,Search and Destroy,Raid,2,6,3,Toronto Ultra,9:28,https://youtu.be/pT5DI5i1whY?t=1506
+91,356,Toronto Ultra,Dallas Empire,Major 2,Control,Raid,3,3,2,Toronto Ultra,17:12,https://youtu.be/pT5DI5i1whY?t=2783
+91,357,Toronto Ultra,Dallas Empire,Major 2,Hardpoint,Raid,4,250,206,Toronto Ultra,9:26,https://youtu.be/pT5DI5i1whY?t=4292
+92,358,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Garrison,1,198,250,Atlanta FaZe,11:15,https://youtu.be/BfPCQ7CssLg?t=492
+92,359,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Miami,2,6,3,Toronto Ultra,11:23,https://youtu.be/BfPCQ7CssLg?t=1536
+92,360,Toronto Ultra,Atlanta FaZe,Major 2,Control,Checkmate,3,3,2,Toronto Ultra,11:49,https://youtu.be/BfPCQ7CssLg?t=2881
+92,361,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Apocalypse,4,147,250,Atlanta FaZe,8:31,https://youtu.be/BfPCQ7CssLg?t=4081
+92,362,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Moscow,5,5,6,Atlanta FaZe,11:57,https://youtu.be/BfPCQ7CssLg?t=5013
+92,363,Toronto Ultra,Atlanta FaZe,Major 2,Control,Raid,6,3,0,Toronto Ultra,9:32,https://youtu.be/BfPCQ7CssLg?t=6637
+92,364,Toronto Ultra,Atlanta FaZe,Major 2,Search and Destroy,Express,7,6,0,Toronto Ultra,7:24,https://youtu.be/BfPCQ7CssLg?t=7879
+92,365,Toronto Ultra,Atlanta FaZe,Major 2,Hardpoint,Checkmate,8,250,156,Toronto Ultra,9:46,https://youtu.be/BfPCQ7CssLg?t=8871
+93,366,Paris Legion,Dallas Empire,Stage 3 Week 1,Hardpoint,Garrison,1,250,111,Paris Legion,8:31,https://youtu.be/96ZEG-cvQ-I?t=3106
+93,367,Paris Legion,Dallas Empire,Stage 3 Week 1,Search and Destroy,Express,2,0,6,Dallas Empire,5:07,https://youtu.be/96ZEG-cvQ-I?t=3925
+93,368,Paris Legion,Dallas Empire,Stage 3 Week 1,Control,Checkmate,3,1,3,Dallas Empire,8:22,https://youtu.be/96ZEG-cvQ-I?t=4849
+93,369,Paris Legion,Dallas Empire,Stage 3 Week 1,Hardpoint,Checkmate,4,135,250,Dallas Empire,9:45,https://youtu.be/96ZEG-cvQ-I?t=5830
+94,370,Florida Mutineers,Toronto Ultra,Stage 3 Week 1,Hardpoint,Checkmate,1,161,250,Toronto Ultra,10:02,https://youtu.be/IdglUNIORbE?t=413
+94,371,Florida Mutineers,Toronto Ultra,Stage 3 Week 1,Search and Destroy,Express,2,5,6,Toronto Ultra,11:08,https://youtu.be/IdglUNIORbE?t=1376
+94,372,Florida Mutineers,Toronto Ultra,Stage 3 Week 1,Control,Raid,3,2,3,Toronto Ultra,15:25,https://youtu.be/IdglUNIORbE?t=2743
+95,373,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Hardpoint,Apocalypse,1,250,223,Seattle Surge,10:49,https://youtu.be/k0ex59KY8TA?t=464
+95,374,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Search and Destroy,Moscow,2,6,4,Seattle Surge,11:05,https://youtu.be/k0ex59KY8TA?t=1546
+95,375,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Control,Raid,3,0,3,Los Angeles Thieves,6:53,https://youtu.be/k0ex59KY8TA?t=3047
+95,376,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Hardpoint,Checkmate,4,233,250,Los Angeles Thieves,,https://youtu.be/k0ex59KY8TA?t=3885
+95,377,Seattle Surge,Los Angeles Thieves,Stage 3 Week 1,Search and Destroy,Raid,5,4,6,Los Angeles Thieves,,https://youtu.be/k0ex59KY8TA?t=5055
+96,378,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,Hardpoint,Garrison,1,207,250,OpTic Chicago,11:20,https://youtu.be/hw237E96qB4?t=82
+96,379,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,Search and Destroy,Moscow,2,4,6,OpTic Chicago,,https://youtu.be/hw237E96qB4?t=1077
+96,380,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,Control,Checkmate,3,3,2,London Royal Ravens,12:12,https://youtu.be/hw237E96qB4?t=2731
+96,381,London Royal Ravens,OpTic Chicago,Stage 3 Week 1,Hardpoint,Moscow,4,152,250,OpTic Chicago,11:14,https://youtu.be/hw237E96qB4?t=3988
+97,382,Los Angeles Guerrillas,Paris Legion,Stage 3 Week 1,Hardpoint,Moscow,1,250,152,Los Angeles Guerrillas,10:34,https://youtu.be/x2VqZNP7o7s?t=496
+97,383,Los Angeles Guerrillas,Paris Legion,Stage 3 Week 1,Search and Destroy,Moscow,2,6,2,Los Angeles Guerrillas,8:52,https://youtu.be/x2VqZNP7o7s?t=1479
+97,384,Los Angeles Guerrillas,Paris Legion,Stage 3 Week 1,Control,Raid,3,3,2,Los Angeles Guerrillas,15:09,https://youtu.be/x2VqZNP7o7s?t=2720
+98,385,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,Hardpoint,Raid,1,250,144,Florida Mutineers,8:10,https://youtu.be/EQLC63BDRQg?t=450
+98,386,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,Search and Destroy,Moscow,2,6,5,Florida Mutineers,11:31,https://youtu.be/EQLC63BDRQg?t=1228
+98,387,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,Control,Raid,3,2,3,Minnesota ROKKR,15:22,https://youtu.be/EQLC63BDRQg?t=2709
+98,388,Florida Mutineers,Minnesota ROKKR,Stage 3 Week 1,Hardpoint,Garrison,4,250,189,Florida Mutineers,10:36,https://youtu.be/EQLC63BDRQg?t=4152
+99,389,Seattle Surge,OpTic Chicago,Stage 3 Week 1,Hardpoint,Moscow,1,240,250,OpTic Chicago,11:59,https://youtu.be/RbdY0TZlo4A?t=347
+99,390,Seattle Surge,OpTic Chicago,Stage 3 Week 1,Search and Destroy,Moscow,2,4,6,OpTic Chicago,9:59,https://youtu.be/RbdY0TZlo4A?t=1428
+99,391,Seattle Surge,OpTic Chicago,Stage 3 Week 1,Control,Checkmate,3,1,3,OpTic Chicago,11:09,https://youtu.be/RbdY0TZlo4A?t=2739
+100,392,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,Hardpoint,Raid,1,250,163,London Royal Ravens,8:46,https://youtu.be/89FdhuAIg1o?t=517
+100,393,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,Search and Destroy,Miami,2,1,6,Los Angeles Thieves,6:49,https://youtu.be/89FdhuAIg1o?t=1401
+100,394,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,Control,Checkmate,3,1,3,Los Angeles Thieves,8:45,https://youtu.be/89FdhuAIg1o?t=2437
+100,395,London Royal Ravens,Los Angeles Thieves,Stage 3 Week 1,Hardpoint,Garrison,4,161,250,Los Angeles Thieves,10:45,https://youtu.be/89FdhuAIg1o?t=3438
+101,396,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Hardpoint,Garrison,1,250,211,New York Subliners,11:45,https://youtu.be/hUT0jixYEuE?t=493
+101,397,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Search and Destroy,Express,2,3,6,Atlanta FaZe,8:21,https://youtu.be/hUT0jixYEuE?t=1554
+101,398,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Control,Garrison,3,2,3,Atlanta FaZe,15:07,https://youtu.be/hUT0jixYEuE?t=2792
+101,399,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Hardpoint,Apocalypse,4,250,241,New York Subliners,10:32,https://youtu.be/hUT0jixYEuE?t=4250
+101,400,New York Subliners,Atlanta FaZe,Stage 3 Week 1,Search and Destroy,Raid,5,6,5,New York Subliners,9:15,https://youtu.be/hUT0jixYEuE?t=5316
+102,401,Dallas Empire,Toronto Ultra,Stage 3 Week 1,Hardpoint,Checkmate,1,242,250,Toronto Ultra,,https://youtu.be/9Rqgcu_PNac?t=372
+102,402,Dallas Empire,Toronto Ultra,Stage 3 Week 1,Search and Destroy,Miami,2,3,6,Toronto Ultra,11:14,https://youtu.be/9Rqgcu_PNac?t=1477
+102,403,Dallas Empire,Toronto Ultra,Stage 3 Week 1,Control,Raid,3,2,3,Toronto Ultra,14:30,https://youtu.be/9Rqgcu_PNac?t=2835
+103,404,London Royal Ravens,New York Subliners,Stage 3 Week 2,Hardpoint,Moscow,1,181,250,New York Subliners,10:18,https://youtu.be/VkKRfx4npPg?t=488
+103,405,London Royal Ravens,New York Subliners,Stage 3 Week 2,Search and Destroy,Express,2,6,2,London Royal Ravens,6:16,https://youtu.be/VkKRfx4npPg?t=1479
+103,406,London Royal Ravens,New York Subliners,Stage 3 Week 2,Control,Checkmate,3,3,0,London Royal Ravens,9:42,https://youtu.be/VkKRfx4npPg?t=2528
+103,407,London Royal Ravens,New York Subliners,Stage 3 Week 2,Hardpoint,Garrison,4,192,250,New York Subliners,10:32,https://youtu.be/VkKRfx4npPg?t=3578
+103,408,London Royal Ravens,New York Subliners,Stage 3 Week 2,Search and Destroy,Raid,5,6,4,London Royal Ravens,10:22,https://youtu.be/VkKRfx4npPg?t=4634
+104,409,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Hardpoint,Raid,1,160,250,Atlanta FaZe,8:55,https://youtu.be/0pSJFl2BJpU?t=463
+104,410,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Search and Destroy,Express,2,6,1,Los Angeles Thieves,5:48,https://youtu.be/0pSJFl2BJpU?t=1358
+104,411,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Control,Raid,3,1,3,Atlanta FaZe,12:31,https://youtu.be/0pSJFl2BJpU?t=2384
+104,412,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Hardpoint,Moscow,4,250,224,Los Angeles Thieves,,https://youtu.be/0pSJFl2BJpU?t=3573
+104,413,Los Angeles Thieves,Atlanta FaZe,Stage 3 Week 2,Search and Destroy,Checkmate,5,3,6,Atlanta FaZe,9:13,https://youtu.be/0pSJFl2BJpU?t=4749
+105,414,Los Angeles Guerrillas,Toronto Ultra,Stage 3 Week 2,Hardpoint,Apocalypse,1,247,250,Toronto Ultra,,https://youtu.be/4VXh7Tcj88Y?t=464
+105,415,Los Angeles Guerrillas,Toronto Ultra,Stage 3 Week 2,Search and Destroy,Express,2,5,6,Toronto Ultra,11:02,https://youtu.be/4VXh7Tcj88Y?t=1452
+105,416,Los Angeles Guerrillas,Toronto Ultra,Stage 3 Week 2,Control,Raid,3,0,3,Toronto Ultra,7:54,https://youtu.be/4VXh7Tcj88Y?t=6518
+106,417,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,Hardpoint,Checkmate,1,250,169,Paris Legion,9:33,https://youtu.be/t4-UUohdF00?t=510
+106,418,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,Search and Destroy,Miami,2,2,6,Minnesota ROKKR,9:41,https://youtu.be/t4-UUohdF00?t=1419
+106,419,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,Control,Garrison,3,0,3,Minnesota ROKKR,6:07,https://youtu.be/t4-UUohdF00?t=2641
+106,420,Paris Legion,Minnesota ROKKR,Stage 3 Week 2,Hardpoint,Apocalypse,4,151,250,Minnesota ROKKR,9:25,https://youtu.be/t4-UUohdF00?t=3435
+107,421,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Hardpoint,Apocalypse,1,250,196,London Royal Ravens,9:09,https://youtu.be/SB0iIFUgUJM?t=453
+107,422,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Search and Destroy,Checkmate,2,4,6,Atlanta FaZe,11:58,https://youtu.be/SB0iIFUgUJM?t=1361
+107,423,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Control,Garrison,3,3,2,London Royal Ravens,11:35,https://youtu.be/SB0iIFUgUJM?t=2813
+107,424,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Hardpoint,Moscow,4,189,250,Atlanta FaZe,10:39,https://youtu.be/SB0iIFUgUJM?t=3987
+107,425,London Royal Ravens,Atlanta FaZe,Stage 3 Week 2,Search and Destroy,Express,5,4,6,Atlanta FaZe,11:31,https://youtu.be/SB0iIFUgUJM?t=5005
+108,426,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Hardpoint,Moscow,1,231,250,Dallas Empire,12:28,https://youtu.be/6IPp5HwWMLM?t=506
+108,427,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Search and Destroy,Express,2,6,3,Los Angeles Guerrillas,8:52,https://youtu.be/6IPp5HwWMLM?t=1630
+108,428,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Control,Raid,3,3,0,Los Angeles Guerrillas,7:49,https://youtu.be/6IPp5HwWMLM?t=2901
+108,429,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Hardpoint,Garrison,4,202,250,Dallas Empire,10:48,https://youtu.be/6IPp5HwWMLM?t=3770
+108,430,Los Angeles Guerrillas,Dallas Empire,Stage 3 Week 2,Search and Destroy,Raid,5,3,6,Dallas Empire,7:05,https://youtu.be/6IPp5HwWMLM?t=4807
+109,431,Seattle Surge,New York Subliners,Stage 3 Week 2,Hardpoint,Moscow,1,130,250,New York Subliners,8:44,https://youtu.be/LvPS9urrQrE?t=345
+109,432,Seattle Surge,New York Subliners,Stage 3 Week 2,Search and Destroy,Raid,2,5,6,New York Subliners,10:47,https://youtu.be/LvPS9urrQrE?t=1237
+109,433,Seattle Surge,New York Subliners,Stage 3 Week 2,Control,Checkmate,3,2,3,New York Subliners,10:58,https://youtu.be/LvPS9urrQrE?t=2639
+110,434,Paris Legion,Florida Mutineers,Stage 3 Week 2,Hardpoint,Garrison,1,250,218,Paris Legion,11:44,https://youtu.be/wV17c5Q_ibs?t=498
+110,435,Paris Legion,Florida Mutineers,Stage 3 Week 2,Search and Destroy,Moscow,2,5,6,Florida Mutineers,12:38,https://youtu.be/wV17c5Q_ibs?t=1551
+110,436,Paris Legion,Florida Mutineers,Stage 3 Week 2,Control,Raid,3,3,1,Paris Legion,12:00,https://youtu.be/wV17c5Q_ibs?t=3072
+110,437,Paris Legion,Florida Mutineers,Stage 3 Week 2,Hardpoint,Moscow,4,250,119,Paris Legion,,https://youtu.be/wV17c5Q_ibs?t=4257
+111,438,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,Hardpoint,Raid,1,250,203,Minnesota ROKKR,8:59,https://youtu.be/wlrXdrrHhNQ?t=465
+111,439,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,Search and Destroy,Checkmate,2,1,6,Toronto Ultra,8:26,https://youtu.be/wlrXdrrHhNQ?t=1378
+111,440,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,Control,Garrison,3,2,3,Toronto Ultra,14:12,https://youtu.be/wlrXdrrHhNQ?t=2558
+111,441,Minnesota ROKKR,Toronto Ultra,Stage 3 Week 2,Hardpoint,Apocalypse,4,135,250,Toronto Ultra,8:20,https://youtu.be/wlrXdrrHhNQ?t=3900
+112,442,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,Hardpoint,Checkmate,1,250,205,Los Angeles Thieves,11:15,https://youtu.be/MA_JZgcYA3c?t=343
+112,443,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,Search and Destroy,Express,2,3,6,OpTic Chicago,9:00,https://youtu.be/MA_JZgcYA3c?t=1493
+112,444,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,Control,Raid,3,3,2,Los Angeles Thieves,13:41,https://youtu.be/MA_JZgcYA3c?t=2697
+112,445,Los Angeles Thieves,OpTic Chicago,Stage 3 Week 2,Hardpoint,Apocalypse,4,250,117,Los Angeles Thieves,8:37,https://youtu.be/MA_JZgcYA3c?t=4005
+113,446,Los Angeles Guerrillas,Minnesota ROKKR,Stage 3 Week 3,Hardpoint,Apocalypse,1,198,250,Minnesota ROKKR,10:08,https://youtu.be/utWS2f1Gp5E?t=513
+113,447,Los Angeles Guerrillas,Minnesota ROKKR,Stage 3 Week 3,Search and Destroy,Moscow,2,6,5,Los Angeles Guerrillas,10:48,https://youtu.be/utWS2f1Gp5E?t=1472
+113,448,Los Angeles Guerrillas,Minnesota ROKKR,Stage 3 Week 3,Control,Raid,3,0,3,Minnesota ROKKR,9:35,https://youtu.be/utWS2f1Gp5E?t=2925
+113,449,Los Angeles Guerrillas,Minnesota ROKKR,Stage 3 Week 3,Hardpoint,Checkmate,4,250,145,Los Angeles Guerrillas,9:04,https://youtu.be/utWS2f1Gp5E?t=3964
+113,450,Los Angeles Guerrillas,Minnesota ROKKR,Stage 3 Week 3,Search and Destroy,Miami,5,4,6,Minnesota ROKKR,12:32,https://youtu.be/utWS2f1Gp5E?t=5363
+114,451,New York Subliners,OpTic Chicago,Stage 3 Week 3,Hardpoint,Apocalypse,1,250,92,New York Subliners,7:33,https://youtu.be/PR1WIJSMfIg?t=498
+114,452,New York Subliners,OpTic Chicago,Stage 3 Week 3,Search and Destroy,Express,2,6,2,New York Subliners,6:54,https://youtu.be/PR1WIJSMfIg?t=1329
+114,453,New York Subliners,OpTic Chicago,Stage 3 Week 3,Control,Checkmate,3,1,3,OpTic Chicago,10:52,https://youtu.be/PR1WIJSMfIg?t=2475
+114,454,New York Subliners,OpTic Chicago,Stage 3 Week 3,Hardpoint,Moscow,4,250,230,New York Subliners,10:47,https://youtu.be/PR1WIJSMfIg?t=3601
+115,455,Seattle Surge,Atlanta FaZe,Stage 3 Week 3,Hardpoint,Apocalypse,1,250,188,Seattle Surge,9:42,https://youtu.be/gkiE8s_8avE?t=478
+115,456,Seattle Surge,Atlanta FaZe,Stage 3 Week 3,Search and Destroy,Checkmate,2,4,6,Atlanta FaZe,10:23,https://youtu.be/gkiE8s_8avE?t=1450
+115,457,Seattle Surge,Atlanta FaZe,Stage 3 Week 3,Control,Garrison,3,1,3,Atlanta FaZe,9:49,https://youtu.be/gkiE8s_8avE?t=2782
+115,458,Seattle Surge,Atlanta FaZe,Stage 3 Week 3,Hardpoint,Moscow,4,158,250,Atlanta FaZe,10:06,https://youtu.be/gkiE8s_8avE?t=3817
+116,459,Florida Mutineers,Dallas Empire,Stage 3 Week 3,Hardpoint,Moscow,1,230,198,Florida Mutineers,,https://youtu.be/ESGEASQVSqM?t=445
+116,460,Florida Mutineers,Dallas Empire,Stage 3 Week 3,Search and Destroy,Express,2,6,3,Florida Mutineers,9:01,https://youtu.be/ESGEASQVSqM?t=1592
+116,461,Florida Mutineers,Dallas Empire,Stage 3 Week 3,Control,Checkmate,3,3,1,Florida Mutineers,8:47,https://youtu.be/ESGEASQVSqM?t=2817
+117,462,Paris Legion,Toronto Ultra,Stage 3 Week 3,Hardpoint,Garrison,1,210,226,Toronto Ultra,,https://youtu.be/XB1DNQS0LgU?t=483
+117,463,Paris Legion,Toronto Ultra,Stage 3 Week 3,Search and Destroy,Raid,2,3,6,Toronto Ultra,8:01,https://youtu.be/XB1DNQS0LgU?t=1593
+117,464,Paris Legion,Toronto Ultra,Stage 3 Week 3,Control,Garrison,3,1,3,Toronto Ultra,12:29,https://youtu.be/XB1DNQS0LgU?t=3113
+118,465,New York Subliners,Los Angeles Thieves,Stage 3 Week 3,Hardpoint,Garrison,1,250,93,New York Subliners,9:09,https://youtu.be/3OeVrb-ILVM?t=572
+118,466,New York Subliners,Los Angeles Thieves,Stage 3 Week 3,Search and Destroy,Miami,2,6,5,New York Subliners,13:22,https://youtu.be/3OeVrb-ILVM?t=1485
+118,467,New York Subliners,Los Angeles Thieves,Stage 3 Week 3,Control,Raid,3,2,3,Los Angeles Thieves,,https://youtu.be/3OeVrb-ILVM?t=3043
+118,468,New York Subliners,Los Angeles Thieves,Stage 3 Week 3,Hardpoint,Raid,4,250,219,New York Subliners,,https://youtu.be/3OeVrb-ILVM?t=4611
+119,469,Los Angeles Guerrillas,Florida Mutineers,Stage 3 Week 3,Hardpoint,Checkmate,1,155,250,Florida Mutineers,9:55,https://youtu.be/3XfVXb5xs3I?t=1398
+119,470,Los Angeles Guerrillas,Florida Mutineers,Stage 3 Week 3,Search and Destroy,Express,2,6,5,Los Angeles Guerrillas,12:31,https://youtu.be/3XfVXb5xs3I?t=2335
+119,471,Los Angeles Guerrillas,Florida Mutineers,Stage 3 Week 3,Control,Garrison,3,1,3,Florida Mutineers,12:24,https://youtu.be/3XfVXb5xs3I?t=3820
+119,472,Los Angeles Guerrillas,Florida Mutineers,Stage 3 Week 3,Hardpoint,Garrison,4,250,139,Los Angeles Guerrillas,9:12,https://youtu.be/3XfVXb5xs3I?t=5013
+119,473,Los Angeles Guerrillas,Florida Mutineers,Stage 3 Week 3,Search and Destroy,Moscow,5,4,6,Florida Mutineers,14:04,https://youtu.be/3XfVXb5xs3I?t=5954
+120,474,London Royal Ravens,Seattle Surge,Stage 3 Week 3,Hardpoint,Moscow,1,250,112,London Royal Ravens,9:27,https://youtu.be/UpTGnrobNZo?t=478
+120,475,London Royal Ravens,Seattle Surge,Stage 3 Week 3,Search and Destroy,Express,2,2,6,Seattle Surge,9:38,https://youtu.be/UpTGnrobNZo?t=1421
+120,476,London Royal Ravens,Seattle Surge,Stage 3 Week 3,Control,Garrison,3,3,2,London Royal Ravens,12:14,https://youtu.be/UpTGnrobNZo?t=2610
+120,477,London Royal Ravens,Seattle Surge,Stage 3 Week 3,Hardpoint,Apocalypse,4,250,75,London Royal Ravens,7:48,https://youtu.be/UpTGnrobNZo?t=3908
+121,478,OpTic Chicago,Atlanta FaZe,Stage 3 Week 3,Hardpoint,Raid,1,88,250,Atlanta FaZe,7:34,https://youtu.be/zEoUToI3nBo?t=606
+121,479,OpTic Chicago,Atlanta FaZe,Stage 3 Week 3,Search and Destroy,Moscow,2,2,6,Atlanta FaZe,7:26,https://youtu.be/zEoUToI3nBo?t=1394
+121,480,OpTic Chicago,Atlanta FaZe,Stage 3 Week 3,Control,Raid,3,0,3,Atlanta FaZe,7:42,https://youtu.be/zEoUToI3nBo?t=2517
+122,481,Minnesota ROKKR,Dallas Empire,Stage 3 Week 3,Hardpoint,Moscow,1,232,250,Dallas Empire,11:15,https://youtu.be/Kif0HLiHP6c?t=87
+122,482,Minnesota ROKKR,Dallas Empire,Stage 3 Week 3,Search and Destroy,Miami,2,4,6,Dallas Empire,12:46,https://youtu.be/Kif0HLiHP6c?t=1142
+122,483,Minnesota ROKKR,Dallas Empire,Stage 3 Week 3,Control,Raid,3,3,2,Minnesota ROKKR,14:33,https://youtu.be/Kif0HLiHP6c?t=2631
+122,484,Minnesota ROKKR,Dallas Empire,Stage 3 Week 3,Hardpoint,Apocalypse,4,177,250,Dallas Empire,9:37,https://youtu.be/Kif0HLiHP6c?t=4046
