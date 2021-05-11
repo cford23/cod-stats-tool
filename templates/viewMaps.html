@@ -56,6 +56,42 @@
             {% for table in tables %}
                 {{ table|safe }}
             {% endfor %}
+            <div class="mapData">
+                <table>
+                    <thead>
+                        <tr>
+                            {% for col in data[0] %}
+                            <td>
+                                <strong>{{ col }}</strong>
+                            </td>
+                        {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in data %}
+                            <tr>
+                                <td>{{ row['Team 1'] }}</td>
+                                <td>{{ row['Team 2'] }}</td>
+                                <td>{{ row['Event'] }}</td>
+                                <td>{{ row['Mode'] }}</td>
+                                <td>{{ row['Map'] }}</td>
+                                <td>{{ row['Map Number'] }}</td>
+                                <td>{{ row['Team 1 Score'] }}</td>
+                                <td>{{ row['Team 2 Score'] }}</td>
+                                <td>{{ row['Map Winner'] }}</td>
+                                <td>{{ row['Total Game Time'] }}</td>
+                                {% if row['Map VOD']|string|length > 3 %}
+                                    <td>
+                                        <a href="{{ row['Map VOD'] }}">VOD</a>
+                                    </td>
+                                {% else %}
+                                    <td>No VOD</td>
+                                {% endif %}
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
         </div>
 
         {% endblock %}
