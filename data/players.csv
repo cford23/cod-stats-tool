@@ -4391,3 +4391,75 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 138,549,Major 3,Atlanta FaZe,New York Subliners,Search and Destroy,Raid,Cellium,,7,1,7.00,8,6,,Win,,,,,,,,,,,,,,,,,,
 138,549,Major 3,Atlanta FaZe,New York Subliners,Search and Destroy,Raid,Simp,,4,2,2.00,6,2,,Win,,,,,,,,,,,,,,,,,,
 138,549,Major 3,Atlanta FaZe,New York Subliners,Search and Destroy,Raid,aBeZy,,5,4,1.25,9,1,,Win,,,,,,,,,,,,,,,,,,
+139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Skrapz,2080,18,27,0.67,45,-9,4363,Loss,117,1,38,9,31,38,,,,,,,,,,,,
+139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Zaptius,1875,20,28,0.71,48,-8,3590,Loss,28,4,14,5,0,5,,,,,,,,,,,,
+139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Aqua,2890,28,26,1.08,54,2,4618,Loss,35,16,0,0,19,0,,,,,,,,,,,,
+139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Temp,1810,18,22,0.82,40,-4,3640,Loss,46,0,8,38,0,0,,,,,,,,,,,,
+139,550,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,Arcitys,2355,22,23,0.96,45,-1,5297,Win,34,9,8,0,3,14,,,,,,,,,,,,
+139,550,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,Cellium,2240,26,19,1.37,45,7,4295,Win,50,18,31,0,0,1,,,,,,,,,,,,
+139,550,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,Simp,4645,34,20,1.70,54,14,5664,Win,132,19,54,15,32,12,,,,,,,,,,,,
+139,550,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,aBeZy,1855,21,22,0.95,43,-1,4132,Win,59,29,3,23,0,4,,,,,,,,,,,,
+139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,Skrapz,1860,8,1,8.00,9,7,1473,Win,,,,,,,1,0,1,3,1.14,210.43,,,,,,
+139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,Zaptius,765,5,4,1.25,9,1,915,Win,,,,,,,2,2,2,0,0.71,130.71,,,,,,
+139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,Aqua,350,3,4,0.75,7,-1,1099,Win,,,,,,,0,0,0,0,0.43,157,,,,,,
+139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,Temp,875,10,4,2.50,14,6,2039,Win,,,,,,,2,0,0,0,1.43,291.29,,,,,,
+139,551,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Standoff,Arcitys,170,0,6,0.00,6,-6,685,Loss,,,,,,,0,0,0,0,0,97.86,,,,,,
+139,551,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Standoff,Cellium,520,4,7,0.57,11,-3,1098,Loss,,,,,,,0,0,1,0,0.57,156.86,,,,,,
+139,551,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Standoff,Simp,515,4,7,0.57,11,-3,1044,Loss,,,,,,,0,1,2,0,0.57,149.14,,,,,,
+139,551,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Standoff,aBeZy,415,5,6,0.83,11,-1,947,Loss,,,,,,,2,4,0,0,0.71,135.29,,,,,,
+139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Skrapz,1940,20,28,0.71,48,-8,4266,Loss,,,,,,,,,,,,,3,11,6,9,2,1066.5
+139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Zaptius,4625,24,25,0.96,49,-1,3871,Loss,,,,,,,,,,,,,7,15,7,9,5,967.75
+139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Aqua,2950,24,28,0.86,52,-4,5168,Loss,,,,,,,,,,,,,2,14,8,10,5,1292
+139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Temp,3525,27,24,1.13,51,3,5448,Loss,,,,,,,,,,,,,7,10,3,17,7,1362
+139,552,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Arcitys,3500,30,25,1.20,55,5,5671,Win,,,,,,,,,,,,,6,10,6,20,14,1417.75
+139,552,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Cellium,4190,29,23,1.26,52,6,5332,Win,,,,,,,,,,,,,7,15,5,14,7,1333
+139,552,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Simp,5065,27,21,1.29,48,6,5066,Win,,,,,,,,,,,,,9,10,6,17,7,1266.5
+139,552,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,aBeZy,2040,19,26,0.73,45,-7,3871,Win,,,,,,,,,,,,,5,10,2,9,4,967.75
+139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Skrapz,2100,22,27,0.81,49,-5,4685,Loss,54,2,0,0,26,26,,,,,,,,,,,,
+139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Zaptius,1645,16,21,0.76,37,-5,3413,Loss,95,32,8,29,2,24,,,,,,,,,,,,
+139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Aqua,1960,18,20,0.90,38,-2,4328,Loss,75,7,24,20,0,24,,,,,,,,,,,,
+139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Temp,2900,24,20,1.20,44,4,4392,Loss,60,12,4,12,26,6,,,,,,,,,,,,
+139,553,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Arcitys,2850,25,18,1.39,43,7,3963,Win,77,2,22,53,0,0,,,,,,,,,,,,
+139,553,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Cellium,2480,22,22,1.00,44,0,4900,Win,111,33,39,2,2,35,,,,,,,,,,,,
+139,553,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Simp,2250,18,19,0.95,37,-1,3667,Win,82,21,17,1,40,3,,,,,,,,,,,,
+139,553,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Raid,aBeZy,5915,23,21,1.10,44,2,4809,Win,65,33,20,0,10,2,,,,,,,,,,,,
+140,554,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Raid,Cammy,1495,17,23,0.74,40,-6,3850,Loss,53,13,22,0,18,0,,,,,,,,,,,,
+140,554,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Raid,Bance,2215,19,26,0.73,45,-7,4044,Loss,86,32,0,10,33,11,,,,,,,,,,,,
+140,554,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Raid,Insight,1550,16,22,0.73,38,-6,3462,Loss,75,8,1,37,29,0,,,,,,,,,,,,
+140,554,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Raid,CleanX,1780,19,24,0.79,43,-5,3323,Loss,46,7,33,0,1,5,,,,,,,,,,,,
+140,554,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Raid,Owakening,1660,22,22,1.00,44,0,4158,Win,29,0,18,0,11,0,,,,,,,,,,,,
+140,554,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Raid,Skyz,3960,24,13,1.85,37,11,4137,Win,173,6,59,63,20,25,,,,,,,,,,,,
+140,554,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Raid,Havok,1995,24,18,1.33,42,6,4244,Win,31,8,8,0,15,0,,,,,,,,,,,,
+140,554,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Raid,Neptune,3130,25,18,1.39,43,7,4034,Win,114,22,19,32,28,13,,,,,,,,,,,,
+140,555,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Standoff,Cammy,100,2,8,0.25,10,-6,892,Loss,,,,,,,1,1,0,0,0.25,111.5,,,,,,
+140,555,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Standoff,Bance,375,5,7,0.71,12,-2,1137,Loss,,,,,,,2,3,0,0,0.63,142.13,,,,,,
+140,555,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Standoff,Insight,400,5,6,0.83,11,-1,1354,Loss,,,,,,,0,0,0,0,0.63,169.25,,,,,,
+140,555,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Standoff,CleanX,450,5,6,0.83,11,-1,1478,Loss,,,,,,,1,0,0,0,0.63,184.75,,,,,,
+140,555,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Standoff,Owakening,675,6,4,1.50,10,2,1348,Win,,,,,,,0,0,1,0,0.75,168.5,,,,,,
+140,555,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Standoff,Skyz,425,4,5,0.80,9,-1,1263,Win,,,,,,,2,2,0,0,0.5,157.88,,,,,,
+140,555,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Standoff,Havok,1355,8,4,2.00,12,4,1256,Win,,,,,,,2,2,1,0,1,157,,,,,,
+140,555,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Standoff,Neptune,750,9,4,2.25,13,5,1688,Win,,,,,,,0,0,0,0,1.13,211,,,,,,
+140,556,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Control,Raid,Cammy,2025,13,9,1.44,22,4,2853,Win,,,,,,,,,,,,,4,4,4,9,2,951
+140,556,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Control,Raid,Bance,1925,17,14,1.21,31,3,2890,Win,,,,,,,,,,,,,5,2,1,15,5,963.33
+140,556,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Control,Raid,Insight,2550,11,6,1.83,17,5,1682,Win,,,,,,,,,,,,,5,4,3,7,4,560.67
+140,556,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Control,Raid,CleanX,1940,15,15,1.00,30,0,3049,Win,,,,,,,,,,,,,2,4,4,11,7,1016.33
+140,556,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Control,Raid,Owakening,1175,10,13,0.77,23,-3,2464,Loss,,,,,,,,,,,,,2,7,4,3,2,821.33
+140,556,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Control,Raid,Skyz,1100,7,12,0.58,19,-5,1927,Loss,,,,,,,,,,,,,2,6,3,1,1,642.33
+140,556,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Control,Raid,Havok,875,12,18,0.67,30,-6,1896,Loss,,,,,,,,,,,,,1,11,5,1,1,632
+140,556,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Control,Raid,Neptune,2600,15,13,1.15,28,2,2396,Loss,,,,,,,,,,,,,3,14,9,1,0,798.67
+140,557,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Moscow,Cammy,1490,15,17,0.88,32,-2,3131,Win,131,28,38,23,42,,,,,,,,,,,,,
+140,557,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Moscow,Bance,2800,20,15,1.33,35,5,3752,Win,53,28,16,4,5,,,,,,,,,,,,,
+140,557,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Moscow,Insight,1385,15,16,0.94,31,-1,3507,Win,60,21,2,0,37,,,,,,,,,,,,,
+140,557,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Moscow,CleanX,1645,18,19,0.95,37,-1,4084,Win,62,7,31,0,24,,,,,,,,,,,,,
+140,557,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Moscow,Owakening,1410,14,19,0.74,33,-5,3095,Loss,35,14,13,8,0,,,,,,,,,,,,,
+140,557,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Moscow,Skyz,2410,20,17,1.18,37,3,3322,Loss,141,44,39,58,0,,,,,,,,,,,,,
+140,557,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Moscow,Havok,1670,21,16,1.31,37,5,3952,Loss,57,34,6,12,5,,,,,,,,,,,,,
+140,557,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Moscow,Neptune,910,12,16,0.75,28,-4,2599,Loss,21,0,21,0,0,,,,,,,,,,,,,
+140,558,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Miami,Cammy,200,3,8,0.38,11,-5,1444,Loss,,,,,,,0,2,0,0,0.33,160.44,,,,,,
+140,558,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Miami,Bance,,5,8,0.63,13,-3,,Loss,,,,,,,,,,,,,,,,,,
+140,558,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Miami,Insight,625,7,7,1.00,14,0,1327,Loss,,,,,,,0,0,0,0,0.78,147.44,,,,,,
+140,558,Stage 4 Week 1,Toronto Ultra,Florida Mutineers,Search and Destroy,Miami,CleanX,700,6,8,0.75,14,-2,1372,Loss,,,,,,,0,1,2,0,0.67,152.44,,,,,,
+140,558,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Miami,Owakening,850,6,4,1.50,10,2,863,Win,,,,,,,0,0,1,1,0.67,95.89,,,,,,
+140,558,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Miami,Skyz,790,9,7,1.29,16,2,1755,Win,,,,,,,3,0,0,0,1,195,,,,,,
+140,558,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Miami,Havok,1275,10,5,2.00,15,5,1352,Win,,,,,,,4,1,0,0,1.11,150.22,,,,,,
+140,558,Stage 4 Week 1,Florida Mutineers,Toronto Ultra,Search and Destroy,Miami,Neptune,1025,5,5,1.00,10,0,1528,Win,,,,,,,1,0,0,2,0.56,169.78,,,,,,
