@@ -4703,3 +4703,51 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 148,588,Stage 4 Week 1,Atlanta FaZe,OpTic Chicago,Control,Raid,Cellium,1865,18,12,1.50,30,6,3110,Win,,,,,,,,,,,,,2,7,3,11,4,1036.67
 148,588,Stage 4 Week 1,Atlanta FaZe,OpTic Chicago,Control,Raid,Simp,2665,18,14,1.29,32,4,3606,Win,,,,,,,,,,,,,5,5,4,13,7,1202
 148,588,Stage 4 Week 1,Atlanta FaZe,OpTic Chicago,Control,Raid,aBeZy,1900,18,10,1.80,28,8,3115,Win,,,,,,,,,,,,,4,6,3,12,5,1038.33
+149,589,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Hardpoint,Checkmate,Octane,3680,26,21,1.24,47,5,5450,Loss,70,17,11,2,40,0,,,,,,,,,,,,
+149,589,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Hardpoint,Checkmate,Prestinni,2610,28,28,1.00,56,0,4986,Loss,48,22,3,6,16,1,,,,,,,,,,,,
+149,589,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Hardpoint,Checkmate,Classic,1535,15,27,0.56,42,-12,4021,Loss,83,7,17,29,12,18,,,,,,,,,,,,
+149,589,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Hardpoint,Checkmate,Gunless,2360,24,26,0.92,50,-2,4736,Loss,49,5,43,0,1,0,,,,,,,,,,,,
+149,589,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Hardpoint,Checkmate,Arcitys,2440,21,23,0.91,44,-2,4646,Win,37,9,8,1,19,0,,,,,,,,,,,,
+149,589,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Hardpoint,Checkmate,Cellium,3130,25,24,1.04,49,1,5305,Win,86,54,12,0,0,20,,,,,,,,,,,,
+149,589,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Hardpoint,Checkmate,Simp,2825,22,22,1.00,44,0,4157,Win,136,8,21,37,12,58,,,,,,,,,,,,
+149,589,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Hardpoint,Checkmate,aBeZy,3150,34,24,1.42,58,10,5920,Win,33,25,0,4,4,0,,,,,,,,,,,,
+149,590,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Search and Destroy,Raid,Octane,250,3,9,0.33,12,-6,1286,Loss,,,,,,,0,1,0,0,0.27,116.91,,,,,,
+149,590,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Search and Destroy,Raid,Prestinni,625,7,9,0.78,16,-2,1535,Loss,,,,,,,3,3,0,0,0.64,139.55,,,,,,
+149,590,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Search and Destroy,Raid,Classic,350,1,9,0.11,10,-8,458,Loss,,,,,,,0,2,3,0,0.09,41.64,,,,,,
+149,590,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Search and Destroy,Raid,Gunless,1850,14,8,1.75,22,6,2867,Loss,,,,,,,2,0,0,0,1.27,260.64,,,,,,
+149,590,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Search and Destroy,Raid,Arcitys,750,5,7,0.71,12,-2,1246,Win,,,,,,,1,2,1,0,0.45,113.27,,,,,,
+149,590,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Search and Destroy,Raid,Cellium,2075,14,6,2.33,20,8,2575,Win,,,,,,,3,0,0,0,1.27,234.09,,,,,,
+149,590,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Search and Destroy,Raid,Simp,1040,11,6,1.83,17,5,1920,Win,,,,,,,1,0,1,0,1,174.55,,,,,,
+149,590,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Search and Destroy,Raid,aBeZy,765,5,6,0.83,11,-1,1361,Win,,,,,,,1,3,0,2,0.45,123.73,,,,,,
+149,591,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Control,Garrison,Octane,1350,12,20,0.60,32,-8,3115,Loss,,,,,,,,,,,,,1,4,0,8,7,1038.33
+149,591,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Control,Garrison,Prestinni,940,10,20,0.50,30,-10,2338,Loss,,,,,,,,,,,,,1,6,0,4,3,779.33
+149,591,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Control,Garrison,Classic,2200,15,18,0.83,33,-3,2779,Loss,,,,,,,,,,,,,3,6,3,9,9,926.33
+149,591,Stage 4 Week 2,Seattle Surge,Atlanta FaZe,Control,Garrison,Gunless,1675,15,19,0.79,34,-4,3076,Loss,,,,,,,,,,,,,3,3,2,12,13,1025.33
+149,591,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Control,Garrison,Arcitys,3425,21,13,1.62,34,8,4138,Win,,,,,,,,,,,,,7,15,12,6,3,1379.33
+149,591,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Control,Garrison,Cellium,5800,18,10,1.80,28,8,3469,Win,,,,,,,,,,,,,11,11,9,7,4,1156.33
+149,591,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Control,Garrison,Simp,2950,18,17,1.06,35,1,3400,Win,,,,,,,,,,,,,8,11,8,7,3,1133.33
+149,591,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Control,Garrison,aBeZy,3175,20,12,1.67,32,8,3136,Win,,,,,,,,,,,,,9,16,10,4,3,1045.33
+150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,Shotzzy,3035,27,15,1.80,42,12,3884,Win,144,25,51,11,27,30,,,,,,,,,,,,
+150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,Crimsix,2985,19,17,1.12,36,2,3854,Win,105,9,60,2,34,0,,,,,,,,,,,,
+150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,iLLeY,1370,19,24,0.79,43,-5,4747,Win,19,0,19,0,0,0,,,,,,,,,,,,
+150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,Vivid,1750,20,21,0.95,41,-1,3261,Win,76,0,36,0,31,9,,,,,,,,,,,,
+150,592,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Raid,Cheen,1615,14,21,0.67,35,-7,2644,Loss,109,19,0,85,5,0,,,,,,,,,,,,
+150,592,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Raid,Assault,2210,27,21,1.29,48,6,4860,Loss,29,2,5,9,8,5,,,,,,,,,,,,
+150,592,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Raid,Silly,1140,16,27,0.59,43,-11,3440,Loss,39,28,0,10,1,0,,,,,,,,,,,,
+150,592,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Raid,Apathy,2465,20,16,1.25,36,4,3475,Loss,57,19,0,19,19,0,,,,,,,,,,,,
+150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,Shotzzy,2225,12,4,3.00,16,8,2418,Win,,,,,,,3,0,0,0,1.33,268.67,,,,,,
+150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,Crimsix,400,6,6,1.00,12,0,1437,Win,,,,,,,2,0,0,0,0.67,159.67,,,,,,
+150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,iLLeY,730,6,5,1.20,11,1,1691,Win,,,,,,,1,0,2,0,0.67,187.89,,,,,,
+150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,Vivid,650,7,6,1.17,13,1,1162,Win,,,,,,,0,3,1,0,0.78,129.11,,,,,,
+150,593,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Miami,Cheen,400,5,8,0.63,13,-3,1203,Loss,,,,,,,1,4,0,0,0.56,133.67,,,,,,
+150,593,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Miami,Assault,400,5,8,0.63,13,-3,1387,Loss,,,,,,,0,1,0,0,0.56,154.11,,,,,,
+150,593,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Miami,Silly,375,2,7,0.29,9,-5,550,Loss,,,,,,,0,1,1,1,0.22,61.11,,,,,,
+150,593,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Miami,Apathy,650,9,8,1.13,17,1,1548,Loss,,,,,,,2,0,0,0,1,172,,,,,,
+150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,Shotzzy,2665,15,12,1.25,27,3,2721,Win,,,,,,,,,,,,,7,8,4,7,5,680.25
+150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,Crimsix,2865,20,15,1.33,35,5,4024,Win,,,,,,,,,,,,,3,10,5,10,6,1006
+150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,iLLeY,2450,24,15,1.60,39,9,4361,Win,,,,,,,,,,,,,4,14,8,10,7,1090.25
+150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,Vivid,2030,12,18,0.67,30,-6,2421,Win,,,,,,,,,,,,,6,5,2,7,5,605.25
+150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Cheen,1225,16,18,0.89,34,-2,3403,Loss,,,,,,,,,,,,,0,6,1,10,5,850.75
+150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Assault,1275,14,15,0.93,29,-1,2918,Loss,,,,,,,,,,,,,0,4,2,10,7,729.5
+150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Silly,1400,12,17,0.71,29,-5,2710,Loss,,,,,,,,,,,,,1,5,4,7,7,677.5
+150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Apathy,1730,18,21,0.86,39,-3,3348,Loss,,,,,,,,,,,,,1,7,4,11,8,837
