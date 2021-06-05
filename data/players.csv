@@ -4751,3 +4751,75 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Assault,1275,14,15,0.93,29,-1,2918,Loss,,,,,,,,,,,,,0,4,2,10,7,729.5
 150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Silly,1400,12,17,0.71,29,-5,2710,Loss,,,,,,,,,,,,,1,5,4,7,7,677.5
 150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Apathy,1730,18,21,0.86,39,-3,3348,Loss,,,,,,,,,,,,,1,7,4,11,8,837
+151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Skrapz,4270,27,24,1.13,51,3,4651,Loss,48,0,15,15,18,,,,,,,,,,,,,
+151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Zaptius,1560,17,27,0.63,44,-10,3482,Loss,41,21,3,17,0,,,,,,,,,,,,,
+151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Aqua,4920,29,23,1.26,52,6,5219,Loss,110,45,0,57,8,,,,,,,,,,,,,
+151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Temp,2305,20,24,0.83,44,-4,3674,Loss,63,22,36,5,0,,,,,,,,,,,,,
+151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,Kenny,2720,27,22,1.23,49,5,5291,Win,92,70,2,0,20,,,,,,,,,,,,,
+151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,TJHaly,3555,26,25,1.04,51,1,4611,Win,88,22,54,0,12,,,,,,,,,,,,,
+151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,Drazah,1790,23,27,0.85,50,-4,4648,Win,25,1,24,0,0,,,,,,,,,,,,,
+151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,Venom,1925,22,19,1.16,41,3,3817,Win,66,8,7,23,28,,,,,,,,,,,,,
+151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Skrapz,380,4,7,0.57,11,-3,1130,Win,,,,,,,0,2,0,0,0.44,125.56,,,,,,
+151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Zaptius,1025,10,5,2.00,15,5,1502,Win,,,,,,,4,0,2,0,1.11,166.89,,,,,,
+151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Aqua,705,7,5,1.40,12,2,1661,Win,,,,,,,1,1,0,0,0.78,184.56,,,,,,
+151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Temp,850,7,5,1.40,12,2,1641,Win,,,,,,,0,1,1,0,0.78,182.33,,,,,,
+151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Kenny,500,6,6,1.00,12,0,1667,Loss,,,,,,,0,0,0,0,0.67,185.22,,,,,,
+151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,TJHaly,605,6,8,0.75,14,-2,1342,Loss,,,,,,,3,4,0,0,0.67,149.11,,,,,,
+151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Drazah,225,4,8,0.50,12,-4,1274,Loss,,,,,,,1,0,0,0,0.44,141.56,,,,,,
+151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Venom,850,6,6,1.00,12,0,1385,Loss,,,,,,,0,1,1,1,0.67,153.89,,,,,,
+151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Skrapz,3370,15,17,0.88,32,-2,3199,Win,,,,,,,,,,,,,8,8,6,7,5,639.8
+151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Zaptius,4350,19,12,1.58,31,7,2751,Win,,,,,,,,,,,,,9,10,7,9,6,550.2
+151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Aqua,3265,18,13,1.38,31,5,3302,Win,,,,,,,,,,,,,8,12,7,6,4,660.4
+151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Temp,2350,14,14,1.00,28,0,3047,Win,,,,,,,,,,,,,7,9,4,5,3,609.4
+151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,Kenny,2045,12,17,0.71,29,-5,3458,Loss,,,,,,,,,,,,,4,3,1,9,6,691.6
+151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,TJHaly,1690,15,17,0.88,32,-2,2853,Loss,,,,,,,,,,,,,2,9,6,6,3,570.6
+151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,Drazah,2825,16,15,1.07,31,1,3580,Loss,,,,,,,,,,,,,6,10,8,6,5,716
+151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,Venom,1325,13,17,0.76,30,-4,2601,Loss,,,,,,,,,,,,,3,3,2,10,7,520.2
+151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Skrapz,3370,25,21,1.19,46,4,5080,Win,89,19,51,8,4,7,,,,,,,,,,,,
+151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Zaptius,2235,22,20,1.10,42,2,3428,Win,74,6,4,2,6,56,,,,,,,,,,,,
+151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Aqua,2395,25,23,1.09,48,2,4152,Win,55,9,6,26,2,12,,,,,,,,,,,,
+151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Temp,2280,21,21,1.00,42,0,4335,Win,86,2,13,19,51,1,,,,,,,,,,,,
+151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Kenny,3115,29,24,1.21,53,5,5353,Loss,76,17,24,35,0,0,,,,,,,,,,,,
+151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,TJHaly,1410,13,22,0.59,35,-9,3771,Loss,69,29,0,14,17,9,,,,,,,,,,,,
+151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Drazah,1615,21,24,0.88,45,-3,3607,Loss,21,14,1,0,6,0,,,,,,,,,,,,
+151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Venom,2210,22,23,0.96,45,-1,4025,Loss,16,5,2,3,0,6,,,,,,,,,,,,
+152,599,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Apocalypse,Owakening,3880,26,27,0.96,53,-1,4503,Win,80,0,40,7,33,0,,,,,,,,,,,,
+152,599,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Apocalypse,Skyz,3255,26,23,1.13,49,3,5373,Win,58,15,33,10,0,0,,,,,,,,,,,,
+152,599,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Apocalypse,Havok,2190,26,30,0.87,56,-4,4922,Win,74,5,12,27,18,12,,,,,,,,,,,,
+152,599,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Apocalypse,Neptune,2600,29,26,1.12,55,3,4915,Win,46,8,0,4,30,4,,,,,,,,,,,,
+152,599,Stage 4 Week 2,New York Subliners,Florida Mutineers,Hardpoint,Apocalypse,Asim,3730,25,26,0.96,51,-1,4370,Loss,50,8,9,5,4,24,,,,,,,,,,,,
+152,599,Stage 4 Week 2,New York Subliners,Florida Mutineers,Hardpoint,Apocalypse,Clayster,2385,25,35,0.71,60,-10,5491,Loss,80,30,19,7,2,22,,,,,,,,,,,,
+152,599,Stage 4 Week 2,New York Subliners,Florida Mutineers,Hardpoint,Apocalypse,Mack,4395,34,21,1.62,55,13,5377,Loss,121,40,22,9,2,48,,,,,,,,,,,,
+152,599,Stage 4 Week 2,New York Subliners,Florida Mutineers,Hardpoint,Apocalypse,Hydra,1785,22,25,0.88,47,-3,4003,Loss,41,9,0,10,0,22,,,,,,,,,,,,
+152,600,Stage 4 Week 2,Florida Mutineers,New York Subliners,Search and Destroy,Standoff,Owakening,705,8,6,1.33,14,2,1636,Loss,,,,,,,1,0,0,0,0.89,181.78,,,,,,
+152,600,Stage 4 Week 2,Florida Mutineers,New York Subliners,Search and Destroy,Standoff,Skyz,350,4,8,0.50,12,-4,838,Loss,,,,,,,0,2,0,0,0.44,93.11,,,,,,
+152,600,Stage 4 Week 2,Florida Mutineers,New York Subliners,Search and Destroy,Standoff,Havok,600,5,7,0.71,12,-2,1252,Loss,,,,,,,1,0,2,0,0.56,139.11,,,,,,
+152,600,Stage 4 Week 2,Florida Mutineers,New York Subliners,Search and Destroy,Standoff,Neptune,625,6,7,0.86,13,-1,1059,Loss,,,,,,,2,2,1,0,0.67,117.67,,,,,,
+152,600,Stage 4 Week 2,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Asim,2950,11,4,2.75,15,7,1911,Win,,,,,,,0,1,1,1,1.22,212.33,,,,,,
+152,600,Stage 4 Week 2,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Clayster,325,6,7,0.86,13,-1,1452,Win,,,,,,,3,1,0,0,0.67,161.33,,,,,,
+152,600,Stage 4 Week 2,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Mack,300,2,6,0.33,8,-4,989,Win,,,,,,,1,1,1,0,0.22,109.89,,,,,,
+152,600,Stage 4 Week 2,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Hydra,1700,9,6,1.50,15,3,1397,Win,,,,,,,0,1,0,1,1,155.22,,,,,,
+152,601,Stage 4 Week 2,Florida Mutineers,New York Subliners,Control,Raid,Owakening,3605,33,35,0.94,68,-2,7090,Win,,,,,,,,,,,,,6,20,10,13,9,1418
+152,601,Stage 4 Week 2,Florida Mutineers,New York Subliners,Control,Raid,Skyz,5835,33,22,1.50,55,11,5280,Win,,,,,,,,,,,,,9,22,10,11,3,1056
+152,601,Stage 4 Week 2,Florida Mutineers,New York Subliners,Control,Raid,Havok,3425,27,31,0.87,58,-4,5050,Win,,,,,,,,,,,,,9,18,6,9,1,1010
+152,601,Stage 4 Week 2,Florida Mutineers,New York Subliners,Control,Raid,Neptune,3690,32,30,1.07,62,2,6669,Win,,,,,,,,,,,,,7,19,10,13,10,1333.8
+152,601,Stage 4 Week 2,New York Subliners,Florida Mutineers,Control,Raid,Asim,3730,32,29,1.10,61,3,6024,Loss,,,,,,,,,,,,,6,16,6,16,11,1204.8
+152,601,Stage 4 Week 2,New York Subliners,Florida Mutineers,Control,Raid,Clayster,3075,30,34,0.88,64,-4,6517,Loss,,,,,,,,,,,,,5,9,6,21,12,1303.4
+152,601,Stage 4 Week 2,New York Subliners,Florida Mutineers,Control,Raid,Mack,2950,25,30,0.83,55,-5,5390,Loss,,,,,,,,,,,,,6,11,6,14,4,1078
+152,601,Stage 4 Week 2,New York Subliners,Florida Mutineers,Control,Raid,Hydra,2800,31,32,0.97,63,-1,5784,Loss,,,,,,,,,,,,,5,8,2,23,9,1156.8
+152,602,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Checkmate,Owakening,,28,27,1.04,55,1,,Loss,,,,,,,,,,,,,,,,,,
+152,602,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Checkmate,Skyz,,37,23,1.61,60,14,,Loss,,,,,,,,,,,,,,,,,,
+152,602,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Checkmate,Havok,,30,32,0.94,62,-2,,Loss,,,,,,,,,,,,,,,,,,
+152,602,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Checkmate,Neptune,,25,25,1.00,50,0,,Loss,,,,,,,,,,,,,,,,,,
+152,602,Stage 4 Week 2,New York Subliners,Florida Mutineers,Hardpoint,Checkmate,Asim,,20,38,0.53,58,-18,,Win,,,,,,,,,,,,,,,,,,
+152,602,Stage 4 Week 2,New York Subliners,Florida Mutineers,Hardpoint,Checkmate,Clayster,,26,29,0.90,55,-3,,Win,,,,,,,,,,,,,,,,,,
+152,602,Stage 4 Week 2,New York Subliners,Florida Mutineers,Hardpoint,Checkmate,Mack,,30,30,1.00,60,0,,Win,,,,,,,,,,,,,,,,,,
+152,602,Stage 4 Week 2,New York Subliners,Florida Mutineers,Hardpoint,Checkmate,Hydra,,31,23,1.35,54,8,,Win,,,,,,,,,,,,,,,,,,
+152,603,Stage 4 Week 2,Florida Mutineers,New York Subliners,Search and Destroy,Express,Owakening,190,3,8,0.38,11,-5,811,Loss,,,,,,,1,2,0,0,0.38,101.38,,,,,,
+152,603,Stage 4 Week 2,Florida Mutineers,New York Subliners,Search and Destroy,Express,Skyz,530,6,7,0.86,13,-1,1151,Loss,,,,,,,0,0,0,0,0.75,143.88,,,,,,
+152,603,Stage 4 Week 2,Florida Mutineers,New York Subliners,Search and Destroy,Express,Havok,500,5,7,0.71,12,-2,1000,Loss,,,,,,,0,1,0,1,0.63,125,,,,,,
+152,603,Stage 4 Week 2,Florida Mutineers,New York Subliners,Search and Destroy,Express,Neptune,675,3,7,0.43,10,-4,707,Loss,,,,,,,2,2,2,1,0.38,88.38,,,,,,
+152,603,Stage 4 Week 2,New York Subliners,Florida Mutineers,Search and Destroy,Express,Asim,1725,11,4,2.75,15,7,1370,Win,,,,,,,3,1,1,1,1.38,171.25,,,,,,
+152,603,Stage 4 Week 2,New York Subliners,Florida Mutineers,Search and Destroy,Express,Clayster,800,8,3,2.67,11,5,1845,Win,,,,,,,1,0,0,0,1,230.63,,,,,,
+152,603,Stage 4 Week 2,New York Subliners,Florida Mutineers,Search and Destroy,Express,Mack,750,7,4,1.75,11,3,1484,Win,,,,,,,0,1,0,1,0.88,185.5,,,,,,
+152,603,Stage 4 Week 2,New York Subliners,Florida Mutineers,Search and Destroy,Express,Hydra,450,3,6,0.50,9,-3,820,Win,,,,,,,1,1,1,0,0.38,102.5,,,,,,
