@@ -1,31 +1,31 @@
 Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engagements,Differential,Damage,Map Result,Total Hill Time,P1 Time,P2 Time,P3 Time,P4 Time,P5 Time,First Bloods,First Deaths,Bombs Planted,Bombs Defused,Avg SnD Kills/Round,Avg SnD Dmg/Round,Tiers Captured,Offense Kills,Offense OBJ Kills,Defense Kills,Defense OBJ Kills,Avg Control Dmg/Round
 1,1,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Kenny,,32,28,1.14,60,4,,Win,,,,,,,,,,,,,,,,,,
-1,1,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,TJHaly,,22,28,0.79,50,-6,,Win,,,,,,,,,,,,,,,,,,
-1,1,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Slasher,,28,23,1.22,51,5,,Win,,,,,,,,,,,,,,,,,,
+1,1,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,TJHaLy,,22,28,0.79,50,-6,,Win,,,,,,,,,,,,,,,,,,
+1,1,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,SlasheR,,28,23,1.22,51,5,,Win,,,,,,,,,,,,,,,,,,
 1,1,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Temp,,25,26,0.96,51,-1,,Win,,,,,,,,,,,,,,,,,,
 1,1,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Accuracy,,31,30,1.03,61,1,,Loss,,,,,,,,,,,,,,,,,,
 1,1,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Attach,,32,24,1.33,56,8,,Loss,,,,,,,,,,,,,,,,,,
 1,1,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,MajorManiak,,23,26,0.88,49,-3,,Loss,,,,,,,,,,,,,,,,,,
 1,1,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Priestahh,,19,28,0.68,47,-9,,Loss,,,,,,,,,,,,,,,,,,
 1,2,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Kenny,525,6,6,1.00,12,0,1114,Loss,,,,,,,0,2,0,0,0.67,123.78,,,,,,
-1,2,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,TJHaly,450,6,8,0.75,14,-2,1647,Loss,,,,,,,2,0,0,0,0.67,170.33,,,,,,
-1,2,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Slasher,665,7,7,1.00,14,0,1581,Loss,,,,,,,1,1,0,0,0.78,175.67,,,,,,
+1,2,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,TJHaLy,450,6,8,0.75,14,-2,1647,Loss,,,,,,,2,0,0,0,0.67,170.33,,,,,,
+1,2,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,SlasheR,665,7,7,1.00,14,0,1581,Loss,,,,,,,1,1,0,0,0.78,175.67,,,,,,
 1,2,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Temp,575,6,8,0.75,14,-2,1335,Loss,,,,,,,1,3,1,0,0.56,116.11,,,,,,
 1,2,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Accuracy,1725,9,5,1.80,14,4,2129,Win,,,,,,,2,1,0,0,0.89,212.89,,,,,,
 1,2,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Attach,450,5,8,0.63,13,-3,816,Win,,,,,,,1,2,1,0,0.44,60.67,,,,,,
 1,2,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,MajorManiak,475,6,7,0.86,13,-1,1394,Win,,,,,,,1,0,0,0,0.44,107.11,,,,,,
 1,2,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Priestahh,875,9,5,1.80,14,4,2049,Win,,,,,,,2,1,1,0,1,227.67,,,,,,
 1,3,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,Kenny,3765,21,17,1.24,38,4,3979,Win,,,,,,,,,,,,,6,10,6,11,6,1040
-1,3,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,TJHaly,4590,24,22,1.09,46,2,3778,Win,,,,,,,,,,,,,8,12,8,12,6,1070.67
-1,3,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,Slasher,1980,16,19,0.84,35,-3,3405,Win,,,,,,,,,,,,,4,7,6,9,3,895
+1,3,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,TJHaLy,4590,24,22,1.09,46,2,3778,Win,,,,,,,,,,,,,8,12,8,12,6,1070.67
+1,3,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,SlasheR,1980,16,19,0.84,35,-3,3405,Win,,,,,,,,,,,,,4,7,6,9,3,895
 1,3,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,Temp,2475,21,16,1.31,37,5,3324,Win,,,,,,,,,,,,,5,10,1,11,5,751.67
 1,3,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Control,Garrison,Accuracy,2350,19,19,1.00,38,0,3918,Loss,,,,,,,,,,,,,2,10,5,9,1,1159.33
 1,3,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Control,Garrison,Attach,2700,17,20,0.85,37,-3,3474,Loss,,,,,,,,,,,,,1,8,8,9,4,899
 1,3,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Control,Garrison,MajorManiak,3200,26,19,1.37,45,7,4391,Loss,,,,,,,,,,,,,3,13,5,13,9,1139
 1,3,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Control,Garrison,Priestahh,1575,11,24,0.46,35,-13,3132,Loss,,,,,,,,,,,,,3,5,5,6,2,808.67
 1,4,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,Kenny,1715,18,17,1.06,35,1,3760,Win,62,3,12,26,21,,,,,,,,,,,,,
-1,4,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,TJHaly,2695,26,15,1.73,41,11,4055,Win,24,12,8,4,0,,,,,,,,,,,,,
-1,4,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,Slasher,2055,15,15,1.00,30,0,2984,Win,125,11,64,32,18,,,,,,,,,,,,,
+1,4,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,TJHaLy,2695,26,15,1.73,41,11,4055,Win,24,12,8,4,0,,,,,,,,,,,,,
+1,4,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,SlasheR,2055,15,15,1.00,30,0,2984,Win,125,11,64,32,18,,,,,,,,,,,,,
 1,4,Stage 1 Week 1,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,Temp,1830,21,13,1.62,34,8,3563,Win,62,11,27,12,12,,,,,,,,,,,,,
 1,4,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Moscow,Accuracy,1535,20,22,0.91,42,-2,3097,Loss,30,28,0,2,0,,,,,,,,,,,,,
 1,4,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Moscow,Attach,1250,12,19,0.63,31,-7,2139,Loss,14,11,3,0,0,,,,,,,,,,,,,
@@ -176,24 +176,24 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 6,22,Stage 1 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Crossroads,Slacked,2380,24,29,0.83,53,-5,4546,Loss,61,30,14,15,2,,,,,,,,,,,,,
 6,22,Stage 1 Week 1,Florida Mutineers,Toronto Ultra,Hardpoint,Crossroads,Neptune,4050,37,28,1.32,65,9,5986,Loss,56,29,18,9,0,,,,,,,,,,,,,
 7,23,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,Kenny,2350,28,24,1.17,52,4,4657,Win,71,22,9,30,10,,,,,,,,,,,,,
-7,23,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,TJHaly,2930,25,30,0.83,55,-5,4365,Win,90,17,5,44,24,,,,,,,,,,,,,
-7,23,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,Slasher,3035,30,28,1.07,58,2,5310,Win,90,50,28,0,12,,,,,,,,,,,,,
+7,23,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,TJHaLy,2930,25,30,0.83,55,-5,4365,Win,90,17,5,44,24,,,,,,,,,,,,,
+7,23,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,SlasheR,3035,30,28,1.07,58,2,5310,Win,90,50,28,0,12,,,,,,,,,,,,,
 7,23,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,Temp,2185,24,23,1.04,47,1,4388,Win,61,16,11,1,33,,,,,,,,,,,,,
 7,23,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Asim,2805,33,26,1.27,59,7,5377,Loss,45,15,22,3,5,,,,,,,,,,,,,
 7,23,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Clayster,3310,29,28,1.04,57,1,5375,Loss,73,32,16,24,1,,,,,,,,,,,,,
 7,23,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Diamondcon,1755,23,27,0.85,50,-4,4379,Loss,37,0,8,19,10,,,,,,,,,,,,,
 7,23,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Mack,1890,20,26,0.77,46,-6,3767,Loss,121,25,53,9,34,,,,,,,,,,,,,
 7,24,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,Kenny,2075,16,7,2.29,23,9,3298,Win,,,,,,,1,1,1,0,1.45,299.82,,,,,,
-7,24,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,TJHaly,290,5,10,0.50,15,-5,1535,Win,,,,,,,1,3,0,0,0.45,139.55,,,,,,
-7,24,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,Slasher,525,7,8,0.88,15,-1,1121,Win,,,,,,,1,1,0,0,0.64,101.91,,,,,,
+7,24,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,TJHaLy,290,5,10,0.50,15,-5,1535,Win,,,,,,,1,3,0,0,0.45,139.55,,,,,,
+7,24,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,SlasheR,525,7,8,0.88,15,-1,1121,Win,,,,,,,1,1,0,0,0.64,101.91,,,,,,
 7,24,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,Temp,1815,8,8,1.00,16,0,1454,Win,,,,,,,1,2,1,0,0.73,132.18,,,,,,
 7,24,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Miami,Asim,465,4,9,0.44,13,-5,1128,Loss,,,,,,,1,2,0,0,0.36,102.55,,,,,,
 7,24,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Miami,Clayster,875,11,9,1.22,20,2,2299,Loss,,,,,,,1,1,0,0,1,209,,,,,,
 7,24,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Miami,Diamondcon,1100,12,8,1.50,20,4,2119,Loss,,,,,,,3,0,1,0,1.09,192.64,,,,,,
 7,24,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Miami,Mack,340,5,10,0.50,15,-5,1113,Loss,,,,,,,2,1,0,0,0.45,101.18,,,,,,
 7,25,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,Kenny,3040,29,32,0.91,61,-3,5469,Win,,,,,,,,,,,,,7,16,3,13,5,1093.8
-7,25,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,TJHaly,6015,38,32,1.19,70,6,6256,Win,,,,,,,,,,,,,7,24,9,14,7,1251.2
-7,25,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,Slasher,4690,30,28,1.07,58,2,5088,Win,,,,,,,,,,,,,10,20,8,10,8,1017.6
+7,25,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,TJHaLy,6015,38,32,1.19,70,6,6256,Win,,,,,,,,,,,,,7,24,9,14,7,1251.2
+7,25,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,SlasheR,4690,30,28,1.07,58,2,5088,Win,,,,,,,,,,,,,10,20,8,10,8,1017.6
 7,25,Stage 1 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,Temp,2380,24,30,0.80,54,-6,4915,Win,,,,,,,,,,,,,5,13,1,11,3,983
 7,25,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Control,Raid,Asim,4800,34,28,1.21,62,6,6214,Loss,,,,,,,,,,,,,5,12,3,22,4,1242.8
 7,25,Stage 1 Week 1,New York Subliners,Los Angeles Thieves,Control,Raid,Clayster,3625,37,28,1.32,65,9,6295,Loss,,,,,,,,,,,,,4,17,7,20,4,1259
@@ -496,40 +496,40 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 16,62,Super Week,London Royal Ravens,Dallas Empire,Search and Destroy,Miami,Seany,225,1,7,0.14,8,-6,953,Loss,,,,,,,0,0,0,0,0.1,95.3,,,,,,
 16,62,Super Week,London Royal Ravens,Dallas Empire,Search and Destroy,Miami,Alexx,450,4,9,0.44,13,-5,1091,Loss,,,,,,,0,2,2,0,0.4,109.1,,,,,,
 17,63,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Kenny,3140,34,32,1.06,66,2,5825,Win,57,5,25,6,21,0,,,,,,,,,,,,
-17,63,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,TJHaly,3050,29,29,1.00,58,0,6195,Win,95,7,47,15,24,2,,,,,,,,,,,,
-17,63,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Slasher,2425,28,34,0.82,62,-6,5131,Win,89,17,41,17,5,9,,,,,,,,,,,,
+17,63,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,TJHaLy,3050,29,29,1.00,58,0,6195,Win,95,7,47,15,24,2,,,,,,,,,,,,
+17,63,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,SlasheR,2425,28,34,0.82,62,-6,5131,Win,89,17,41,17,5,9,,,,,,,,,,,,
 17,63,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Temp,3635,33,25,1.32,58,8,6610,Win,65,9,3,12,20,21,,,,,,,,,,,,
 17,63,Super Week,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Octane,2555,25,28,0.89,53,-3,4919,Loss,81,40,23,6,12,0,,,,,,,,,,,,
 17,63,Super Week,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Prestinni,3190,33,33,1.00,66,0,6582,Loss,30,5,6,0,17,2,,,,,,,,,,,,
 17,63,Super Week,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Loony,3590,30,26,1.15,56,4,5202,Loss,123,27,23,14,4,55,,,,,,,,,,,,
 17,63,Super Week,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Gunless,2395,32,37,0.86,69,-5,5538,Loss,63,13,2,0,46,2,,,,,,,,,,,,
 17,64,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Kenny,690,5,7,0.71,12,-2,1491,Loss,,,,,,,0,1,1,0,0.5,149.1,,,,,,
-17,64,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,TJHaly,850,11,7,1.57,18,4,1685,Loss,,,,,,,4,3,0,0,1.1,168.5,,,,,,
-17,64,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Slasher,525,6,8,0.75,14,-2,1232,Loss,,,,,,,0,0,0,0,0.6,123.2,,,,,,
+17,64,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,TJHaLy,850,11,7,1.57,18,4,1685,Loss,,,,,,,4,3,0,0,1.1,168.5,,,,,,
+17,64,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,SlasheR,525,6,8,0.75,14,-2,1232,Loss,,,,,,,0,0,0,0,0.6,123.2,,,,,,
 17,64,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Temp,775,7,8,0.88,15,-1,1552,Loss,,,,,,,1,1,2,0,0.7,155.2,,,,,,
 17,64,Super Week,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Octane,900,10,5,2.00,15,5,2446,Win,,,,,,,1,0,0,0,1,244.6,,,,,,
 17,64,Super Week,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Prestinni,425,5,7,0.71,12,-2,1355,Win,,,,,,,2,2,0,0,0.5,135.5,,,,,,
 17,64,Super Week,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Loony,900,9,7,1.29,16,2,1256,Win,,,,,,,2,2,2,0,0.9,125.6,,,,,,
 17,64,Super Week,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Gunless,475,6,10,0.60,16,-4,1564,Win,,,,,,,0,1,1,0,0.6,156.4,,,,,,
 17,65,Super Week,Los Angeles Thieves,Seattle Surge,Control,Raid,Kenny,2475,22,26,0.85,48,-4,3688,Win,,,,,,,,,,,,,6,11,1,11,9,737.6
-17,65,Super Week,Los Angeles Thieves,Seattle Surge,Control,Raid,TJHaly,4540,30,27,1.11,57,3,6160,Win,,,,,,,,,,,,,7,4,4,26,9,1232
-17,65,Super Week,Los Angeles Thieves,Seattle Surge,Control,Raid,Slasher,4265,24,21,1.14,45,3,5806,Win,,,,,,,,,,,,,8,8,4,16,11,1161.2
+17,65,Super Week,Los Angeles Thieves,Seattle Surge,Control,Raid,TJHaLy,4540,30,27,1.11,57,3,6160,Win,,,,,,,,,,,,,7,4,4,26,9,1232
+17,65,Super Week,Los Angeles Thieves,Seattle Surge,Control,Raid,SlasheR,4265,24,21,1.14,45,3,5806,Win,,,,,,,,,,,,,8,8,4,16,11,1161.2
 17,65,Super Week,Los Angeles Thieves,Seattle Surge,Control,Raid,Temp,5655,34,22,1.55,56,12,5808,Win,,,,,,,,,,,,,5,16,4,18,7,1161.6
 17,65,Super Week,Seattle Surge,Los Angeles Thieves,Control,Raid,Octane,4300,24,21,1.14,45,3,4853,Loss,,,,,,,,,,,,,11,15,7,9,4,970.6
 17,65,Super Week,Seattle Surge,Los Angeles Thieves,Control,Raid,Prestinni,2175,28,29,0.97,57,-1,5575,Loss,,,,,,,,,,,,,5,18,3,10,3,1115
 17,65,Super Week,Seattle Surge,Los Angeles Thieves,Control,Raid,Loony,3495,20,30,0.67,50,-10,3788,Loss,,,,,,,,,,,,,9,11,5,9,5,757.6
 17,65,Super Week,Seattle Surge,Los Angeles Thieves,Control,Raid,Gunless,3575,24,31,0.77,55,-7,5253,Loss,,,,,,,,,,,,,6,15,5,9,7,1050.6
 17,66,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,Kenny,1285,18,29,0.62,47,-11,3776,Loss,9,8,1,0,0,,,,,,,,,,,,,
-17,66,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,TJHaly,3575,32,22,1.45,54,10,5824,Loss,73,35,24,2,12,,,,,,,,,,,,,
-17,66,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,Slasher,2065,26,25,1.04,51,1,4338,Loss,71,9,14,43,5,,,,,,,,,,,,,
+17,66,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,TJHaLy,3575,32,22,1.45,54,10,5824,Loss,73,35,24,2,12,,,,,,,,,,,,,
+17,66,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,SlasheR,2065,26,25,1.04,51,1,4338,Loss,71,9,14,43,5,,,,,,,,,,,,,
 17,66,Super Week,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,Temp,2300,17,25,0.68,42,-8,3579,Loss,84,15,35,31,3,,,,,,,,,,,,,
 17,66,Super Week,Seattle Surge,Los Angeles Thieves,Hardpoint,Moscow,Octane,2950,27,22,1.23,49,5,4698,Win,81,25,28,5,23,,,,,,,,,,,,,
 17,66,Super Week,Seattle Surge,Los Angeles Thieves,Hardpoint,Moscow,Prestinni,2265,27,23,1.17,50,4,4524,Win,67,13,19,3,32,,,,,,,,,,,,,
 17,66,Super Week,Seattle Surge,Los Angeles Thieves,Hardpoint,Moscow,Loony,2330,23,23,1.00,46,0,4410,Win,69,24,7,5,33,,,,,,,,,,,,,
 17,66,Super Week,Seattle Surge,Los Angeles Thieves,Hardpoint,Moscow,Gunless,2370,24,25,0.96,49,-1,4221,Win,100,7,26,30,37,,,,,,,,,,,,,
 17,67,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Kenny,150,2,4,0.50,6,-2,671,Win,,,,,,,0,0,0,0,0.33,111.83,,,,,,
-17,67,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,TJHaly,5530,12,0,12.00,12,12,1664,Win,,,,,,,5,0,0,0,2,277.33,,,,,,
-17,67,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Slasher,850,5,2,2.50,7,3,849,Win,,,,,,,0,0,0,0,0.83,141.5,,,,,,
+17,67,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,TJHaLy,5530,12,0,12.00,12,12,1664,Win,,,,,,,5,0,0,0,2,277.33,,,,,,
+17,67,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,SlasheR,850,5,2,2.50,7,3,849,Win,,,,,,,0,0,0,0,0.83,141.5,,,,,,
 17,67,Super Week,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Temp,525,4,3,1.33,7,1,821,Win,,,,,,,1,0,1,0,0.67,136.83,,,,,,
 17,67,Super Week,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Octane,175,3,6,0.50,9,-3,1388,Loss,,,,,,,0,0,0,0,0.5,231.33,,,,,,
 17,67,Super Week,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Prestinni,225,3,6,0.50,9,-3,498,Loss,,,,,,,0,3,0,0,0.5,83,,,,,,
@@ -656,32 +656,32 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,Simp,2195,21,20,1.05,41,1,4225,Win,79,24,13,32,10,,,,,,,,,,,,,
 21,82,Super Week,Atlanta FaZe,Florida Mutineers,Hardpoint,Moscow,aBeZy,3085,27,22,1.23,49,5,4974,Win,73,32,23,16,2,,,,,,,,,,,,,
 22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Kenny,1910,25,24,1.04,49,1,4816,Win,38,22,14,0,2,,,,,,,,,,,,,
-22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,TJHaly,1665,17,20,0.85,37,-3,3603,Win,63,24,2,11,26,,,,,,,,,,,,,
-22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Slasher,2180,25,14,1.79,39,11,3541,Win,69,14,13,6,36,,,,,,,,,,,,,
+22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,TJHaLy,1665,17,20,0.85,37,-3,3603,Win,63,24,2,11,26,,,,,,,,,,,,,
+22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,SlasheR,2180,25,14,1.79,39,11,3541,Win,69,14,13,6,36,,,,,,,,,,,,,
 22,83,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Temp,3625,26,14,1.86,40,12,5107,Win,114,53,32,6,23,,,,,,,,,,,,,
 22,83,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Parasite,1760,20,23,0.87,43,-3,3176,Loss,50,15,14,21,0,,,,,,,,,,,,,
 22,83,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Dylan,1650,12,26,0.46,38,-14,2773,Loss,54,3,19,30,2,,,,,,,,,,,,,
 22,83,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Seany,2265,18,21,0.86,39,-3,3367,Loss,28,11,4,13,0,,,,,,,,,,,,,
 22,83,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Alexx,2280,22,23,0.96,45,-1,3962,Loss,15,12,0,3,0,,,,,,,,,,,,,
 22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,Kenny,525,6,7,0.86,13,-1,1580,Win,,,,,,,2,2,0,0,0.6,158,,,,,,
-22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,TJHaly,750,10,6,1.67,16,4,2201,Win,,,,,,,1,2,0,0,1,220.1,,,,,,
-22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,Slasher,1000,9,4,2.25,13,5,1589,Win,,,,,,,0,1,0,2,0.9,158.9,,,,,,
+22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,TJHaLy,750,10,6,1.67,16,4,2201,Win,,,,,,,1,2,0,0,1,220.1,,,,,,
+22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,SlasheR,1000,9,4,2.25,13,5,1589,Win,,,,,,,0,1,0,2,0.9,158.9,,,,,,
 22,84,Super Week,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Garrison,Temp,650,3,7,0.43,10,-4,974,Win,,,,,,,0,2,3,0,0.3,97.4,,,,,,
 22,84,Super Week,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Garrison,Parasite,565,6,6,1.00,12,0,1086,Loss,,,,,,,2,2,0,0,0.6,108.6,,,,,,
 22,84,Super Week,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Garrison,Dylan,590,3,10,0.30,13,-7,897,Loss,,,,,,,1,1,2,0,0.3,89.7,,,,,,
 22,84,Super Week,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Garrison,Seany,725,7,8,0.88,15,-1,1930,Loss,,,,,,,3,0,0,0,0.7,193,,,,,,
 22,84,Super Week,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Garrison,Alexx,1075,8,6,1.33,14,2,1803,Loss,,,,,,,1,0,0,2,0.8,180.3,,,,,,
 22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,Kenny,1875,17,16,1.06,33,1,2895,Loss,,,,,,,,,,,,,0,8,7,9,4,723.75
-22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,TJHaly,1425,17,16,1.06,33,1,3209,Loss,,,,,,,,,,,,,0,9,6,8,5,802.25
-22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,Slasher,925,10,14,0.71,24,-4,2547,Loss,,,,,,,,,,,,,0,2,1,8,4,636.75
+22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,TJHaLy,1425,17,16,1.06,33,1,3209,Loss,,,,,,,,,,,,,0,9,6,8,5,802.25
+22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,SlasheR,925,10,14,0.71,24,-4,2547,Loss,,,,,,,,,,,,,0,2,1,8,4,636.75
 22,85,Super Week,Los Angeles Thieves,London Royal Ravens,Control,Garrison,Temp,450,8,19,0.42,27,-11,1975,Loss,,,,,,,,,,,,,0,3,2,5,1,493.75
 22,85,Super Week,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Parasite,2000,14,11,1.27,25,3,2315,Win,,,,,,,,,,,,,6,8,4,6,3,578.75
 22,85,Super Week,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Dylan,1790,21,18,1.17,39,3,4027,Win,,,,,,,,,,,,,2,5,5,16,11,1006.75
 22,85,Super Week,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Seany,1425,15,13,1.15,28,2,2906,Win,,,,,,,,,,,,,2,9,5,6,4,726.5
 22,85,Super Week,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Alexx,1625,15,10,1.50,25,5,2459,Win,,,,,,,,,,,,,2,7,3,8,2,614.75
 22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Kenny,2225,27,27,1.00,54,0,5361,Win,43,13,10,3,5,12,,,,,,,,,,,,
-22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,TJHaly,2160,19,26,0.73,45,-7,4005,Win,93,0,19,30,33,11,,,,,,,,,,,,
-22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Slasher,3370,39,25,1.56,64,14,5721,Win,75,23,23,0,25,4,,,,,,,,,,,,
+22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,TJHaLy,2160,19,26,0.73,45,-7,4005,Win,93,0,19,30,33,11,,,,,,,,,,,,
+22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,SlasheR,3370,39,25,1.56,64,14,5721,Win,75,23,23,0,25,4,,,,,,,,,,,,
 22,86,Super Week,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Temp,2595,29,28,1.04,57,1,5175,Win,61,13,0,0,2,46,,,,,,,,,,,,
 22,86,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Parasite,1895,17,26,0.65,43,-9,3626,Loss,117,30,53,23,8,3,,,,,,,,,,,,
 22,86,Super Week,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Dylan,2680,27,33,0.82,60,-6,4806,Loss,58,27,2,1,16,12,,,,,,,,,,,,
@@ -936,24 +936,24 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 29,117,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Checkmate,Envoy,3320,27,27,1.00,54,0,4602,Win,159,34,23,35,9,58,,,,,,,,,,,,
 29,117,Super Week,OpTic Chicago,Florida Mutineers,Hardpoint,Checkmate,Scump,2315,24,23,1.04,47,1,4720,Win,44,25,0,0,19,0,,,,,,,,,,,,
 30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,Kenny,3135,30,24,1.25,54,6,5558,Loss,32,4,22,0,6,0,,,,,,,,,,,,
-30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,TJHaly,1925,22,25,0.88,47,-3,3861,Loss,65,22,15,9,7,12,,,,,,,,,,,,
-30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,Slasher,2460,21,19,1.11,40,2,3450,Loss,117,18,5,35,58,1,,,,,,,,,,,,
+30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,TJHaLy,1925,22,25,0.88,47,-3,3861,Loss,65,22,15,9,7,12,,,,,,,,,,,,
+30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,SlasheR,2460,21,19,1.11,40,2,3450,Loss,117,18,5,35,58,1,,,,,,,,,,,,
 30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,Temp,1850,13,22,0.59,35,-9,3085,Loss,35,0,0,26,0,9,,,,,,,,,,,,
 30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Shotzzy,2030,18,24,0.75,42,-6,4054,Win,81,7,23,21,12,18,,,,,,,,,,,,
 30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Crimsix,2340,19,21,0.90,40,-2,3775,Win,115,23,24,46,19,3,,,,,,,,,,,,
 30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,iLLeY,2605,25,22,1.14,47,3,3878,Win,47,8,23,1,0,15,,,,,,,,,,,,
 30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Huke,2865,28,19,1.47,47,9,5175,Win,63,0,15,9,35,4,,,,,,,,,,,,
 30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,Kenny,1095,10,8,1.25,18,2,1856,Loss,,,,,,,2,3,0,1,0.91,168.73,,,,,,
-30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,TJHaly,615,8,9,0.89,17,-1,1611,Loss,,,,,,,1,3,1,0,0.73,146.45,,,,,,
-30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,Slasher,555,6,9,0.67,15,-3,1612,Loss,,,,,,,1,0,0,0,0.55,146.55,,,,,,
+30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,TJHaLy,615,8,9,0.89,17,-1,1611,Loss,,,,,,,1,3,1,0,0.73,146.45,,,,,,
+30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,SlasheR,555,6,9,0.67,15,-3,1612,Loss,,,,,,,1,0,0,0,0.55,146.55,,,,,,
 30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,Temp,690,6,8,0.75,14,-2,1726,Loss,,,,,,,0,1,2,0,0.55,156.91,,,,,,
 30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Shotzzy,1750,10,8,1.25,18,2,1619,Win,,,,,,,1,1,1,0,0.91,147.18,,,,,,
 30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Crimsix,1240,8,7,1.14,15,1,2199,Win,,,,,,,4,2,0,1,0.73,199.91,,,,,,
 30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,iLLeY,1290,10,7,1.43,17,3,1938,Win,,,,,,,0,0,1,0,0.91,176.18,,,,,,
 30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Huke,525,6,8,0.75,14,-2,1648,Win,,,,,,,2,1,0,0,0.55,149.82,,,,,,
 30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,Kenny,2950,27,25,1.08,52,2,4861,Loss,,,,,,,,,,,,,5,12,4,15,11,1215.25
-30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,TJHaly,1810,26,33,0.79,59,-7,4998,Loss,,,,,,,,,,,,,2,12,2,14,13,1249.5
-30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,Slasher,2740,19,21,0.90,40,-2,3827,Loss,,,,,,,,,,,,,3,8,0,11,4,956.75
+30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,TJHaLy,1810,26,33,0.79,59,-7,4998,Loss,,,,,,,,,,,,,2,12,2,14,13,1249.5
+30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,SlasheR,2740,19,21,0.90,40,-2,3827,Loss,,,,,,,,,,,,,3,8,0,11,4,956.75
 30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,Temp,3240,22,30,0.73,52,-8,4550,Loss,,,,,,,,,,,,,4,9,4,13,7,1137.5
 30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Shotzzy,3600,23,22,1.05,45,1,4534,Win,,,,,,,,,,,,,5,6,1,17,4,1133.5
 30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Crimsix,4125,23,23,1.00,46,0,4667,Win,,,,,,,,,,,,,10,14,7,9,2,1166.75
@@ -1032,24 +1032,24 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Loony,1540,14,18,0.78,32,-4,2497,Loss,68,7,15,11,35,0,,,,,,,,,,,,
 32,129,Major 1,Seattle Surge,Florida Mutineers,Hardpoint,Raid,Gunless,2335,20,19,1.05,39,1,4073,Loss,94,0,0,48,18,28,,,,,,,,,,,,
 33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,Kenny,1765,20,25,0.80,45,-5,4791,Loss,43,9,4,0,14,16,,,,,,,,,,,,
-33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,TJHaly,3480,33,30,1.10,63,3,4607,Loss,47,11,5,10,16,5,,,,,,,,,,,,
-33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,Slasher,2315,19,25,0.76,44,-6,3938,Loss,112,5,0,12,34,61,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,TJHaLy,3480,33,30,1.10,63,3,4607,Loss,47,11,5,10,16,5,,,,,,,,,,,,
+33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,SlasheR,2315,19,25,0.76,44,-6,3938,Loss,112,5,0,12,34,61,,,,,,,,,,,,
 33,130,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Checkmate,Temp,2380,19,25,0.76,44,-6,4587,Loss,49,13,0,9,27,0,,,,,,,,,,,,
 33,130,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Checkmate,Vivid,2020,26,26,1.00,52,0,4658,Win,38,7,16,1,0,14,,,,,,,,,,,,
 33,130,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Checkmate,Assault,2590,22,30,0.73,52,-8,4568,Win,135,43,43,19,30,0,,,,,,,,,,,,
 33,130,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Checkmate,Silly,2355,28,23,1.22,51,5,4950,Win,67,27,32,0,8,0,,,,,,,,,,,,
 33,130,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Checkmate,Apathy,3330,31,22,1.41,53,9,5399,Win,93,30,1,37,8,17,,,,,,,,,,,,
 33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,Kenny,615,4,10,0.40,14,-6,1464,Loss,,,,,,,1,1,1,0,0.36,133.09,,,,,,
-33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,TJHaly,520,5,9,0.56,14,-4,761,Loss,,,,,,,2,3,0,0,0.45,69.18,,,,,,
-33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,Slasher,865,10,9,1.11,19,1,2523,Loss,,,,,,,1,1,1,1,0.91,229.36,,,,,,
+33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,TJHaLy,520,5,9,0.56,14,-4,761,Loss,,,,,,,2,3,0,0,0.45,69.18,,,,,,
+33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,SlasheR,865,10,9,1.11,19,1,2523,Loss,,,,,,,1,1,1,1,0.91,229.36,,,,,,
 33,131,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,Temp,965,9,10,0.90,19,-1,1561,Loss,,,,,,,1,1,3,0,0.82,141.91,,,,,,
 33,131,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Vivid,550,7,9,0.78,16,-2,1402,Win,,,,,,,1,2,0,1,0.64,127.45,,,,,,
 33,131,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Assault,1540,10,5,2.00,15,5,2292,Win,,,,,,,2,2,0,1,0.91,208.36,,,,,,
 33,131,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Silly,1100,12,7,1.71,19,5,2194,Win,,,,,,,1,1,0,1,1.09,199.45,,,,,,
 33,131,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Apathy,1175,9,7,1.29,16,2,1755,Win,,,,,,,2,0,2,0,0.82,159.55,,,,,,
 33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Kenny,3575,24,25,0.96,49,-1,4999,Loss,,,,,,,,,,,,,5,9,1,15,11,1249.75
-33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,TJHaly,2825,25,30,0.83,55,-5,4285,Loss,,,,,,,,,,,,,4,13,4,12,7,1071.25
-33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Slasher,3540,27,23,1.17,50,4,5023,Loss,,,,,,,,,,,,,6,15,9,12,9,1255.75
+33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,TJHaLy,2825,25,30,0.83,55,-5,4285,Loss,,,,,,,,,,,,,4,13,4,12,7,1071.25
+33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,SlasheR,3540,27,23,1.17,50,4,5023,Loss,,,,,,,,,,,,,6,15,9,12,9,1255.75
 33,132,Major 1,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Temp,2075,22,27,0.81,49,-5,5086,Loss,,,,,,,,,,,,,3,13,4,9,4,1271.5
 33,132,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Vivid,3100,28,27,1.04,55,1,4984,Win,,,,,,,,,,,,,4,12,7,16,9,1246
 33,132,Major 1,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Assault,3575,24,24,1.00,48,0,5159,Win,,,,,,,,,,,,,8,13,9,11,7,1289.75
@@ -1260,24 +1260,24 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 40,158,Major 1,Toronto Ultra,Los Angeles Thieves,Hardpoint,Crossroads,Methodz,3275,27,24,1.13,51,3,5661,Loss,55,32,1,8,14,,,,,,,,,,,,,
 40,158,Major 1,Toronto Ultra,Los Angeles Thieves,Hardpoint,Crossroads,CleanX,1745,18,30,0.60,48,-12,3755,Loss,14,0,0,13,1,,,,,,,,,,,,,
 40,158,Major 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Crossroads,Kenny,3300,30,22,1.36,52,8,5278,Win,70,8,15,47,0,,,,,,,,,,,,,
-40,158,Major 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Crossroads,TJHaly,2995,25,30,0.83,55,-5,4978,Win,95,31,15,34,15,,,,,,,,,,,,,
-40,158,Major 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Crossroads,Slasher,2990,24,23,1.04,47,1,4368,Win,102,39,30,17,16,,,,,,,,,,,,,
+40,158,Major 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Crossroads,TJHaLy,2995,25,30,0.83,55,-5,4978,Win,95,31,15,34,15,,,,,,,,,,,,,
+40,158,Major 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Crossroads,SlasheR,2990,24,23,1.04,47,1,4368,Win,102,39,30,17,16,,,,,,,,,,,,,
 40,158,Major 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Crossroads,Temp,4535,34,23,1.48,57,11,4915,Win,21,5,11,5,0,,,,,,,,,,,,,
 40,159,Major 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,Bance,325,2,7,0.29,9,-5,590,Loss,,,,,,,0,2,1,0,0.29,84.29,,,,,,
 40,159,Major 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,Cammy,150,3,6,0.50,9,-3,613,Loss,,,,,,,1,0,0,0,0.43,87.57,,,,,,
 40,159,Major 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,Methodz,415,6,6,1.00,12,0,1425,Loss,,,,,,,1,0,0,0,0.86,203.57,,,,,,
 40,159,Major 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,CleanX,325,3,6,0.50,9,-3,810,Loss,,,,,,,0,3,0,0,0.43,115.71,,,,,,
 40,159,Major 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,Kenny,275,6,5,1.20,11,1,1293,Win,,,,,,,1,0,0,0,0.86,184.71,,,,,,
-40,159,Major 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,TJHaly,890,10,2,5.00,12,8,1358,Win,,,,,,,2,1,0,0,1.43,194,,,,,,
-40,159,Major 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,Slasher,550,4,4,1.00,8,0,959,Win,,,,,,,1,1,0,1,0.57,137,,,,,,
+40,159,Major 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,TJHaLy,890,10,2,5.00,12,8,1358,Win,,,,,,,2,1,0,0,1.43,194,,,,,,
+40,159,Major 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,SlasheR,550,4,4,1.00,8,0,959,Win,,,,,,,1,1,0,1,0.57,137,,,,,,
 40,159,Major 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,Temp,1165,5,3,1.67,8,2,986,Win,,,,,,,1,0,1,0,0.71,140.86,,,,,,
 40,160,Major 1,Toronto Ultra,Los Angeles Thieves,Control,Checkmate,Bance,3065,22,28,0.79,50,-6,3866,Loss,,,,,,,,,,,,,6,11,5,11,11,773.2
 40,160,Major 1,Toronto Ultra,Los Angeles Thieves,Control,Checkmate,Cammy,3400,25,25,1.00,50,0,5075,Loss,,,,,,,,,,,,,6,15,8,10,7,1015
 40,160,Major 1,Toronto Ultra,Los Angeles Thieves,Control,Checkmate,Methodz,1980,24,25,0.96,49,-1,4876,Loss,,,,,,,,,,,,,2,11,2,13,7,975.2
 40,160,Major 1,Toronto Ultra,Los Angeles Thieves,Control,Checkmate,CleanX,2900,31,25,1.24,56,6,5785,Loss,,,,,,,,,,,,,4,20,7,11,5,1157
 40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,Kenny,3225,32,27,1.19,59,5,5992,Win,,,,,,,,,,,,,0,12,9,20,8,1198.4
-40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,TJHaly,2115,17,29,0.59,46,-12,4231,Win,,,,,,,,,,,,,2,3,3,14,1,846.2
-40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,Slasher,3300,32,21,1.52,53,11,5283,Win,,,,,,,,,,,,,2,11,8,21,11,1056.6
+40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,TJHaLy,2115,17,29,0.59,46,-12,4231,Win,,,,,,,,,,,,,2,3,3,14,1,846.2
+40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,SlasheR,3300,32,21,1.52,53,11,5283,Win,,,,,,,,,,,,,2,11,8,21,11,1056.6
 40,160,Major 1,Los Angeles Thieves,Toronto Ultra,Control,Checkmate,Temp,2300,21,25,0.84,46,-4,3901,Win,,,,,,,,,,,,,2,9,5,12,5,780.2
 41,161,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Checkmate,Vivid,3350,30,26,1.15,56,4,5166,Loss,10,3,0,1,3,3,,,,,,,,,,,,
 41,161,Major 1,Los Angeles Guerrillas,New York Subliners,Hardpoint,Checkmate,Assault,2325,26,26,1.00,52,0,5113,Loss,66,48,10,4,4,0,,,,,,,,,,,,
@@ -1312,32 +1312,32 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 41,164,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Raid,Diamondcon,1330,18,26,0.69,44,-8,3228,Win,47,25,7,3,0,12,,,,,,,,,,,,
 41,164,Major 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Raid,Mack,2960,29,17,1.71,46,12,4621,Win,129,6,13,48,29,33,,,,,,,,,,,,
 42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,Kenny,2060,26,28,0.93,54,-2,4715,Loss,65,13,15,4,33,,,,,,,,,,,,,
-42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,TJHaly,2630,28,29,0.97,57,-1,4633,Loss,73,32,38,3,0,,,,,,,,,,,,,
-42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,Slasher,2430,25,27,0.93,52,-2,4623,Loss,69,17,2,17,33,,,,,,,,,,,,,
+42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,TJHaLy,2630,28,29,0.97,57,-1,4633,Loss,73,32,38,3,0,,,,,,,,,,,,,
+42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,SlasheR,2430,25,27,0.93,52,-2,4623,Loss,69,17,2,17,33,,,,,,,,,,,,,
 42,165,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Crossroads,Temp,1725,23,29,0.79,52,-6,4443,Loss,4,3,1,0,0,,,,,,,,,,,,,
 42,165,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Crossroads,FORMAL,2745,33,25,1.32,58,8,5425,Win,63,14,4,45,0,,,,,,,,,,,,,
 42,165,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Crossroads,Dashy,2230,24,27,0.89,51,-3,4191,Win,51,26,0,25,0,,,,,,,,,,,,,
 42,165,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Crossroads,Envoy,3340,26,23,1.13,49,3,5180,Win,93,6,56,31,0,,,,,,,,,,,,,
 42,165,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Crossroads,Scump,2545,30,27,1.11,57,3,5252,Win,72,29,8,17,18,,,,,,,,,,,,,
 42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,Kenny,880,7,10,0.70,17,-3,1543,Win,,,,,,,0,1,1,1,0.64,140.27,,,,,,
-42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,TJHaly,840,8,7,1.14,15,1,1937,Win,,,,,,,1,2,1,0,0.73,176.09,,,,,,
-42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,Slasher,675,7,9,0.78,16,-2,1833,Win,,,,,,,1,1,0,1,0.64,166.64,,,,,,
+42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,TJHaLy,840,8,7,1.14,15,1,1937,Win,,,,,,,1,2,1,0,0.73,176.09,,,,,,
+42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,SlasheR,675,7,9,0.78,16,-2,1833,Win,,,,,,,1,1,0,1,0.64,166.64,,,,,,
 42,166,Major 1,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Raid,Temp,1100,10,9,1.11,19,1,1760,Win,,,,,,,3,2,1,0,0.91,160,,,,,,
 42,166,Major 1,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Raid,FORMAL,1300,9,7,1.29,16,2,2127,Loss,,,,,,,2,1,0,0,0.82,193.36,,,,,,
 42,166,Major 1,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Raid,Dashy,565,9,9,1.00,18,0,2302,Loss,,,,,,,0,0,0,0,0.82,209.27,,,,,,
 42,166,Major 1,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Raid,Envoy,975,7,8,0.88,15,-1,1410,Loss,,,,,,,1,3,3,0,0.64,128.18,,,,,,
 42,166,Major 1,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Raid,Scump,775,10,9,1.11,19,1,2046,Loss,,,,,,,3,1,0,0,0.91,186,,,,,,
 42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,Kenny,1600,17,17,1.00,34,0,3354,Loss,,,,,,,,,,,,,1,5,4,12,6,838.5
-42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,TJHaly,1325,16,19,0.84,35,-3,3655,Loss,,,,,,,,,,,,,0,9,3,7,5,913.75
-42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,Slasher,1055,13,18,0.72,31,-5,2258,Loss,,,,,,,,,,,,,0,7,4,6,4,564.5
+42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,TJHaLy,1325,16,19,0.84,35,-3,3655,Loss,,,,,,,,,,,,,0,9,3,7,5,913.75
+42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,SlasheR,1055,13,18,0.72,31,-5,2258,Loss,,,,,,,,,,,,,0,7,4,6,4,564.5
 42,167,Major 1,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,Temp,2075,17,16,1.06,33,1,3221,Loss,,,,,,,,,,,,,2,10,6,7,7,805.25
 42,167,Major 1,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,FORMAL,1115,16,16,1.00,32,0,3424,Win,,,,,,,,,,,,,2,7,3,9,8,856
 42,167,Major 1,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Dashy,3705,21,13,1.62,34,8,3586,Win,,,,,,,,,,,,,4,13,10,8,4,896.5
 42,167,Major 1,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Envoy,2265,18,19,0.95,37,-1,3803,Win,,,,,,,,,,,,,5,9,6,9,7,950.75
 42,167,Major 1,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Scump,1450,15,15,1.00,30,0,2429,Win,,,,,,,,,,,,,3,7,5,8,4,607.25
 42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,Kenny,1545,17,19,0.89,36,-2,3177,Loss,61,29,14,0,0,18,,,,,,,,,,,,
-42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,TJHaly,1615,18,21,0.86,39,-3,2989,Loss,72,22,13,37,0,0,,,,,,,,,,,,
-42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,Slasher,1500,16,19,0.84,35,-3,2597,Loss,85,31,19,19,0,16,,,,,,,,,,,,
+42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,TJHaLy,1615,18,21,0.86,39,-3,2989,Loss,72,22,13,37,0,0,,,,,,,,,,,,
+42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,SlasheR,1500,16,19,0.84,35,-3,2597,Loss,85,31,19,19,0,16,,,,,,,,,,,,
 42,168,Major 1,Los Angeles Thieves,OpTic Chicago,Hardpoint,Raid,Temp,1270,10,17,0.59,27,-7,2765,Loss,25,2,6,17,0,0,,,,,,,,,,,,
 42,168,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Raid,FORMAL,3290,22,15,1.47,37,7,3423,Win,95,19,45,0,2,29,,,,,,,,,,,,
 42,168,Major 1,OpTic Chicago,Los Angeles Thieves,Hardpoint,Raid,Dashy,2335,16,16,1.00,32,0,3837,Win,93,22,10,25,36,0,,,,,,,,,,,,
@@ -1540,40 +1540,40 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 49,193,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Hardpoint,Garrison,Insight,,29,25,1.16,54,4,,Loss,19,,,,,,,,,,,,,,,,,
 49,193,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Hardpoint,Garrison,CleanX,,24,27,0.89,51,-3,,Loss,83,,,,,,,,,,,,,,,,,
 49,193,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Garrison,Kenny,,23,23,1.00,46,0,,Win,53,,,,,,,,,,,,,,,,,
-49,193,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Garrison,TJHaly,,25,28,0.89,53,-3,,Win,43,,,,,,,,,,,,,,,,,
-49,193,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Garrison,Slasher,,32,25,1.28,57,7,,Win,111,,,,,,,,,,,,,,,,,
+49,193,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Garrison,TJHaLy,,25,28,0.89,53,-3,,Win,43,,,,,,,,,,,,,,,,,
+49,193,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Garrison,SlasheR,,32,25,1.28,57,7,,Win,111,,,,,,,,,,,,,,,,,
 49,193,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Garrison,Temp,,25,28,0.89,53,-3,,Win,77,,,,,,,,,,,,,,,,,
 49,194,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Raid,Cammy,600,8,8,1.00,16,0,1444,Win,,,,,,,0,0,1,0,0.8,144.4,,,,,,
 49,194,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Raid,Bance,625,2,7,0.29,9,-5,1064,Win,,,,,,,1,3,3,0,0.2,106.4,,,,,,
 49,194,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Raid,Insight,950,11,6,1.83,17,5,2447,Win,,,,,,,4,1,0,0,1.1,244.7,,,,,,
 49,194,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Raid,CleanX,975,9,5,1.80,14,4,1332,Win,,,,,,,0,1,0,0,0.9,133.2,,,,,,
 49,194,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Raid,Kenny,680,6,8,0.75,14,-2,1258,Loss,,,,,,,2,2,1,0,0.6,125.8,,,,,,
-49,194,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Raid,TJHaly,680,8,6,1.33,14,2,1933,Loss,,,,,,,1,2,0,0,0.8,193.3,,,,,,
-49,194,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Raid,Slasher,650,5,8,0.63,13,-3,1578,Loss,,,,,,,1,1,0,1,0.5,157.8,,,,,,
+49,194,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Raid,TJHaLy,680,8,6,1.33,14,2,1933,Loss,,,,,,,1,2,0,0,0.8,193.3,,,,,,
+49,194,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Raid,SlasheR,650,5,8,0.63,13,-3,1578,Loss,,,,,,,1,1,0,1,0.5,157.8,,,,,,
 49,194,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Raid,Temp,690,7,8,0.88,15,-1,1306,Loss,,,,,,,1,0,0,0,0.7,130.6,,,,,,
 49,195,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Control,Raid,Cammy,2050,22,31,0.71,53,-9,5071,Loss,,,,,,,,,,,,,3,10,5,12,6,1267.75
 49,195,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Control,Raid,Bance,2550,25,22,1.14,47,3,4817,Loss,,,,,,,,,,,,,3,14,5,11,4,1204.25
 49,195,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Control,Raid,Insight,1925,20,27,0.74,47,-7,4599,Loss,,,,,,,,,,,,,4,10,0,10,4,1149.75
 49,195,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Control,Raid,CleanX,3975,30,22,1.36,52,8,5226,Loss,,,,,,,,,,,,,3,17,9,13,3,1306.5
 49,195,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Control,Raid,Kenny,1940,22,24,0.92,46,-2,3564,Win,,,,,,,,,,,,,4,7,1,15,7,891
-49,195,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Control,Raid,TJHaly,3300,31,27,1.15,58,4,5248,Win,,,,,,,,,,,,,4,12,5,19,6,1312
-49,195,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Control,Raid,Slasher,3815,22,21,1.05,43,1,5018,Win,,,,,,,,,,,,,8,8,5,14,7,1254.5
+49,195,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Control,Raid,TJHaLy,3300,31,27,1.15,58,4,5248,Win,,,,,,,,,,,,,4,12,5,19,6,1312
+49,195,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Control,Raid,SlasheR,3815,22,21,1.05,43,1,5018,Win,,,,,,,,,,,,,8,8,5,14,7,1254.5
 49,195,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Control,Raid,Temp,2700,27,25,1.08,52,2,5183,Win,,,,,,,,,,,,,5,16,4,11,7,1295.75
 49,196,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Hardpoint,Checkmate,Cammy,1540,16,18,0.89,34,-2,3446,Win,66,8,19,16,4,19,,,,,,,,,,,,
 49,196,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Hardpoint,Checkmate,Bance,2025,18,17,1.06,35,1,3469,Win,65,29,22,3,9,2,,,,,,,,,,,,
 49,196,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Hardpoint,Checkmate,Insight,7250,28,14,2.00,42,14,4987,Win,117,35,8,41,0,33,,,,,,,,,,,,
 49,196,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Hardpoint,Checkmate,CleanX,2385,27,19,1.42,46,8,4687,Win,48,3,33,3,9,0,,,,,,,,,,,,
 49,196,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,Kenny,1085,16,24,0.67,40,-8,3239,Loss,21,1,9,11,0,0,,,,,,,,,,,,
-49,196,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,TJHaly,1770,17,24,0.71,41,-7,2858,Loss,37,16,2,8,11,0,,,,,,,,,,,,
-49,196,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,Slasher,1840,19,18,1.06,37,1,4045,Loss,70,18,5,6,41,0,,,,,,,,,,,,
+49,196,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,TJHaLy,1770,17,24,0.71,41,-7,2858,Loss,37,16,2,8,11,0,,,,,,,,,,,,
+49,196,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,SlasheR,1840,19,18,1.06,37,1,4045,Loss,70,18,5,6,41,0,,,,,,,,,,,,
 49,196,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,Temp,1485,16,23,0.70,39,-7,3719,Loss,21,2,1,1,17,0,,,,,,,,,,,,
 49,197,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Miami,Cammy,475,6,8,0.75,14,-2,2259,Loss,,,,,,,2,0,0,0,0.55,205.36,,,,,,
 49,197,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Miami,Bance,625,4,9,0.44,13,-5,770,Loss,,,,,,,2,4,3,0,0.36,70,,,,,,
 49,197,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Miami,Insight,2575,18,8,2.25,26,10,3831,Loss,,,,,,,1,0,1,0,1.64,348.27,,,,,,
 49,197,Stage 2 Week 1,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Miami,CleanX,700,7,8,0.88,15,-1,1649,Loss,,,,,,,1,1,0,1,0.64,149.91,,,,,,
 49,197,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Miami,Kenny,625,7,9,0.78,16,-2,1782,Win,,,,,,,1,2,0,0,0.64,162,,,,,,
-49,197,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Miami,TJHaly,1075,11,7,1.57,18,4,1643,Win,,,,,,,1,2,0,2,1,149.36,,,,,,
-49,197,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Miami,Slasher,765,8,10,0.80,18,-2,2046,Win,,,,,,,2,1,2,0,0.73,186,,,,,,
+49,197,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Miami,TJHaLy,1075,11,7,1.57,18,4,1643,Win,,,,,,,1,2,0,2,1,149.36,,,,,,
+49,197,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Miami,SlasheR,765,8,10,0.80,18,-2,2046,Win,,,,,,,2,1,2,0,0.73,186,,,,,,
 49,197,Stage 2 Week 1,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Miami,Temp,700,7,9,0.78,16,-2,1901,Win,,,,,,,1,1,1,0,0.64,172.82,,,,,,
 50,198,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Hardpoint,Raid,Accuracy,3355,20,16,1.25,36,4,3972,Loss,75,16,28,31,0,0,,,,,,,,,,,,
 50,198,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Hardpoint,Raid,Attach,1950,19,18,1.06,37,1,3733,Loss,37,17,7,6,0,7,,,,,,,,,,,,
@@ -1748,40 +1748,40 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 56,219,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Checkmate,Diamondcon,2495,28,24,1.17,52,4,4999,Loss,102,7,10,37,26,22,,,,,,,,,,,,
 56,219,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Checkmate,Mack,2395,23,26,0.88,49,-3,4334,Loss,71,7,9,0,0,55,,,,,,,,,,,,
 56,219,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,Kenny,2200,23,27,0.85,50,-4,4550,Win,68,6,17,0,43,2,,,,,,,,,,,,
-56,219,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,TJHaly,1880,24,30,0.80,54,-6,4448,Win,71,17,31,7,5,11,,,,,,,,,,,,
-56,219,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,Slasher,2735,30,25,1.20,55,5,5643,Win,94,27,29,18,11,9,,,,,,,,,,,,
+56,219,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,TJHaLy,1880,24,30,0.80,54,-6,4448,Win,71,17,31,7,5,11,,,,,,,,,,,,
+56,219,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,SlasheR,2735,30,25,1.20,55,5,5643,Win,94,27,29,18,11,9,,,,,,,,,,,,
 56,219,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,Temp,2895,26,22,1.18,48,4,4827,Win,93,39,23,0,28,3,,,,,,,,,,,,
 56,220,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Moscow,Asim,715,7,7,1.00,14,0,1485,Loss,,,,,,,2,3,0,0,0.7,148.5,,,,,,
 56,220,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Moscow,Clayster,825,11,7,1.57,18,4,2490,Loss,,,,,,,2,2,0,0,1.1,249,,,,,,
 56,220,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Moscow,Diamondcon,150,2,9,0.22,11,-7,860,Loss,,,,,,,0,0,0,0,0.2,86,,,,,,
 56,220,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Moscow,Mack,865,10,8,1.25,18,2,1695,Loss,,,,,,,0,1,2,0,1,169.5,,,,,,
 56,220,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,Kenny,325,5,9,0.56,14,-4,1627,Win,,,,,,,1,1,0,0,0.5,162.7,,,,,,
-56,220,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,TJHaly,455,5,8,0.63,13,-3,1315,Win,,,,,,,3,2,0,0,0.5,131.5,,,,,,
-56,220,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,Slasher,1570,12,5,2.40,17,7,1797,Win,,,,,,,0,0,0,0,1.2,179.7,,,,,,
+56,220,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,TJHaLy,455,5,8,0.63,13,-3,1315,Win,,,,,,,3,2,0,0,0.5,131.5,,,,,,
+56,220,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,SlasheR,1570,12,5,2.40,17,7,1797,Win,,,,,,,0,0,0,0,1.2,179.7,,,,,,
 56,220,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,Temp,800,9,8,1.13,17,1,1555,Win,,,,,,,2,1,0,1,0.9,155.5,,,,,,
 56,221,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Control,Raid,Asim,3525,24,31,0.77,55,-7,4214,Win,,,,,,,,,,,,,9,17,10,7,4,842.8
 56,221,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Control,Raid,Clayster,6300,33,29,1.14,62,4,6394,Win,,,,,,,,,,,,,11,18,7,15,5,1278.8
 56,221,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Control,Raid,Diamondcon,3525,26,22,1.18,48,4,5647,Win,,,,,,,,,,,,,10,11,5,15,10,1129.4
 56,221,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Control,Raid,Mack,4475,24,27,0.89,51,-3,4837,Win,,,,,,,,,,,,,11,15,6,9,3,967.4
 56,221,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,Kenny,4190,32,25,1.28,57,7,6055,Loss,,,,,,,,,,,,,5,14,8,18,12,1211
-56,221,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,TJHaly,3140,26,32,0.81,58,-6,5172,Loss,,,,,,,,,,,,,6,11,5,15,6,1034.4
-56,221,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,Slasher,3265,26,23,1.13,49,3,5072,Loss,,,,,,,,,,,,,6,15,9,11,1,1014.4
+56,221,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,TJHaLy,3140,26,32,0.81,58,-6,5172,Loss,,,,,,,,,,,,,6,11,5,15,6,1034.4
+56,221,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,SlasheR,3265,26,23,1.13,49,3,5072,Loss,,,,,,,,,,,,,6,15,9,11,1,1014.4
 56,221,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Control,Raid,Temp,2640,24,27,0.89,51,-3,4210,Loss,,,,,,,,,,,,,5,9,6,15,10,842
 56,222,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Asim,3560,23,23,1.00,46,0,4857,Win,54,25,5,6,18,,,,,,,,,,,,,
 56,222,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Clayster,3130,25,19,1.32,44,6,4232,Win,117,9,46,62,0,,,,,,,,,,,,,
 56,222,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Diamondcon,2405,30,21,1.43,51,9,5244,Win,54,20,22,12,0,,,,,,,,,,,,,
 56,222,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Mack,1850,24,23,1.04,47,1,4246,Win,50,23,11,16,0,,,,,,,,,,,,,
 56,222,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,Kenny,2185,24,24,1.00,48,0,4232,Loss,90,36,6,4,44,,,,,,,,,,,,,
-56,222,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,TJHaly,1610,18,29,0.62,47,-11,4539,Loss,72,35,17,0,20,,,,,,,,,,,,,
-56,222,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,Slasher,2505,31,24,1.29,55,7,5205,Loss,72,18,34,0,20,,,,,,,,,,,,,
+56,222,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,TJHaLy,1610,18,29,0.62,47,-11,4539,Loss,72,35,17,0,20,,,,,,,,,,,,,
+56,222,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,SlasheR,2505,31,24,1.29,55,7,5205,Loss,72,18,34,0,20,,,,,,,,,,,,,
 56,222,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,Temp,1430,13,25,0.52,38,-12,3092,Loss,81,28,16,17,20,,,,,,,,,,,,,
 56,223,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Checkmate,Asim,475,4,5,0.80,9,-1,1001,Win,,,,,,,1,4,0,0,0.44,111.22,,,,,,
 56,223,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Checkmate,Clayster,3015,12,4,3.00,16,8,2091,Win,,,,,,,3,0,1,0,1.33,232.33,,,,,,
 56,223,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Checkmate,Diamondcon,750,6,4,1.50,10,2,1238,Win,,,,,,,0,0,0,0,0.67,137.56,,,,,,
 56,223,Stage 2 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Checkmate,Mack,550,6,5,1.20,11,1,1170,Win,,,,,,,0,1,1,0,0.67,130,,,,,,
 56,223,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,Kenny,615,7,6,1.17,13,1,1783,Loss,,,,,,,2,2,0,0,0.78,198.11,,,,,,
-56,223,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,TJHaly,375,4,6,0.67,10,-2,1465,Loss,,,,,,,0,1,0,1,0.44,162.78,,,,,,
-56,223,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,Slasher,340,3,7,0.43,10,-4,1058,Loss,,,,,,,0,1,0,0,0.33,117.56,,,,,,
+56,223,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,TJHaLy,375,4,6,0.67,10,-2,1465,Loss,,,,,,,0,1,0,1,0.44,162.78,,,,,,
+56,223,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,SlasheR,340,3,7,0.43,10,-4,1058,Loss,,,,,,,0,1,0,0,0.33,117.56,,,,,,
 56,223,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,Temp,240,4,9,0.44,13,-5,901,Loss,,,,,,,3,0,0,0,0.44,100.11,,,,,,
 57,224,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Garrison,Shotzzy,2830,26,24,1.08,50,2,4865,Win,112,38,40,17,0,17,,,,,,,,,,,,
 57,224,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Garrison,Crimsix,3090,34,25,1.36,59,9,6354,Win,48,8,16,23,0,1,,,,,,,,,,,,
@@ -1844,32 +1844,32 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 59,231,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Checkmate,Seany,2560,18,25,0.72,43,-7,4321,Loss,78,9,14,3,15,37,,,,,,,,,,,,
 59,231,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Checkmate,Zed,2255,28,26,1.08,54,2,4504,Loss,78,48,7,5,0,18,,,,,,,,,,,,
 59,231,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Checkmate,Kenny,3880,39,26,1.50,65,13,6786,Win,74,17,20,8,18,11,,,,,,,,,,,,
-59,231,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Checkmate,TJHaly,2955,25,27,0.93,52,-2,4668,Win,125,23,15,19,56,12,,,,,,,,,,,,
-59,231,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Checkmate,Slasher,2120,22,26,0.85,48,-4,4587,Win,94,29,7,2,44,12,,,,,,,,,,,,
+59,231,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Checkmate,TJHaLy,2955,25,27,0.93,52,-2,4668,Win,125,23,15,19,56,12,,,,,,,,,,,,
+59,231,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Checkmate,SlasheR,2120,22,26,0.85,48,-4,4587,Win,94,29,7,2,44,12,,,,,,,,,,,,
 59,231,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Checkmate,Venom,2460,22,25,0.88,47,-3,4536,Win,51,38,0,0,13,0,,,,,,,,,,,,
 59,232,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Raid,PaulEhx,640,5,5,1.00,10,0,1164,Win,,,,,,,2,1,1,0,0.63,145.5,,,,,,
 59,232,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Raid,Dylan,880,7,6,1.17,13,1,916,Win,,,,,,,2,1,1,0,0.88,114.5,,,,,,
 59,232,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Raid,Seany,650,6,5,1.20,11,1,1178,Win,,,,,,,1,0,1,0,0.75,147.25,,,,,,
 59,232,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Raid,Zed,870,10,5,2.00,15,5,1754,Win,,,,,,,1,1,0,0,1.25,219.25,,,,,,
 59,232,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Raid,Kenny,425,7,7,1.00,14,0,1663,Loss,,,,,,,2,2,0,0,0.88,207.88,,,,,,
-59,232,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Raid,TJHaly,545,5,6,0.83,11,-1,1361,Loss,,,,,,,0,3,0,1,0.63,170.13,,,,,,
-59,232,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Raid,Slasher,605,5,7,0.71,12,-2,1013,Loss,,,,,,,0,0,1,0,0.63,126.63,,,,,,
+59,232,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Raid,TJHaLy,545,5,6,0.83,11,-1,1361,Loss,,,,,,,0,3,0,1,0.63,170.13,,,,,,
+59,232,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Raid,SlasheR,605,5,7,0.71,12,-2,1013,Loss,,,,,,,0,0,1,0,0.63,126.63,,,,,,
 59,232,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Raid,Venom,240,4,8,0.50,12,-4,1048,Loss,,,,,,,1,1,0,0,0.5,131,,,,,,
 59,233,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,PaulEhx,2450,16,3,5.33,19,13,2912,Win,,,,,,,,,,,,,2,5,5,11,3,970.67
 59,233,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Dylan,2565,11,4,2.75,15,7,1874,Win,,,,,,,,,,,,,4,2,2,9,8,624.67
 59,233,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Seany,1790,12,5,2.40,17,7,1994,Win,,,,,,,,,,,,,3,4,2,8,6,664.67
 59,233,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Zed,1500,11,7,1.57,18,4,1647,Win,,,,,,,,,,,,,4,2,1,9,5,549
 59,233,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Kenny,150,3,13,0.23,16,-10,1167,Loss,,,,,,,,,,,,,0,2,0,1,1,389
-59,233,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,TJHaly,450,7,14,0.50,21,-7,1382,Loss,,,,,,,,,,,,,0,6,2,1,0,460.67
-59,233,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Slasher,275,3,11,0.27,14,-8,1139,Loss,,,,,,,,,,,,,0,3,2,0,0,379.67
+59,233,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,TJHaLy,450,7,14,0.50,21,-7,1382,Loss,,,,,,,,,,,,,0,6,2,1,0,460.67
+59,233,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,SlasheR,275,3,11,0.27,14,-8,1139,Loss,,,,,,,,,,,,,0,3,2,0,0,379.67
 59,233,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Venom,575,6,12,0.50,18,-6,1261,Loss,,,,,,,,,,,,,0,6,5,0,0,420.33
 59,234,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,PaulEhx,2490,26,19,1.37,45,7,5098,Win,68,3,1,16,48,,,,,,,,,,,,,
 59,234,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Dylan,2400,25,26,0.96,51,-1,4920,Win,73,26,35,0,12,,,,,,,,,,,,,
 59,234,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Seany,1475,14,19,0.74,33,-5,4113,Win,56,4,22,30,0,,,,,,,,,,,,,
 59,234,Stage 2 Week 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Zed,2805,23,23,1.00,46,0,3444,Win,83,27,23,11,22,,,,,,,,,,,,,
 59,234,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Kenny,3155,24,22,1.09,46,2,4998,Loss,84,0,23,61,0,,,,,,,,,,,,,
-59,234,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,TJHaly,2660,22,24,0.92,46,-2,3436,Loss,57,46,5,0,6,,,,,,,,,,,,,
-59,234,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Slasher,1965,19,24,0.79,43,-5,4256,Loss,72,16,37,2,17,,,,,,,,,,,,,
+59,234,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,TJHaLy,2660,22,24,0.92,46,-2,3436,Loss,57,46,5,0,6,,,,,,,,,,,,,
+59,234,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,SlasheR,1965,19,24,0.79,43,-5,4256,Loss,72,16,37,2,17,,,,,,,,,,,,,
 59,234,Stage 2 Week 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Venom,2070,22,18,1.22,40,4,3492,Loss,95,59,7,25,4,,,,,,,,,,,,,
 60,235,Stage 2 Week 2,New York Subliners,Los Angeles Guerrillas,Hardpoint,Checkmate,Asim,2750,34,23,1.48,57,11,5351,Win,63,7,31,8,17,0,,,,,,,,,,,,
 60,235,Stage 2 Week 2,New York Subliners,Los Angeles Guerrillas,Hardpoint,Checkmate,Clayster,1785,22,25,0.88,47,-3,4335,Win,56,11,0,20,23,2,,,,,,,,,,,,
@@ -1936,24 +1936,24 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 61,242,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Moscow,Diamondcon,1810,22,21,1.05,43,1,3622,Win,64,0,28,17,19,,,,,,,,,,,,,
 61,242,Stage 2 Week 2,New York Subliners,London Royal Ravens,Hardpoint,Moscow,Mack,1980,23,23,1.00,46,0,4318,Win,83,17,39,15,12,,,,,,,,,,,,,
 62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,Kenny,1340,15,27,0.56,42,-12,3716,Loss,49,1,33,4,11,0,,,,,,,,,,,,
-62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,TJHaly,1885,19,21,0.90,40,-2,3575,Loss,49,4,30,0,9,6,,,,,,,,,,,,
-62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,Slasher,2255,22,27,0.81,49,-5,4050,Loss,52,16,6,11,12,7,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,TJHaLy,1885,19,21,0.90,40,-2,3575,Loss,49,4,30,0,9,6,,,,,,,,,,,,
+62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,SlasheR,2255,22,27,0.81,49,-5,4050,Loss,52,16,6,11,12,7,,,,,,,,,,,,
 62,243,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Garrison,Venom,1265,15,23,0.65,38,-8,3034,Loss,42,2,12,3,5,20,,,,,,,,,,,,
 62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Arcitys,2810,17,15,1.13,32,2,3978,Win,95,1,30,27,34,3,,,,,,,,,,,,
 62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Cellium,2125,23,18,1.28,41,5,4778,Win,45,21,0,1,8,15,,,,,,,,,,,,
 62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,Simp,3240,28,20,1.40,48,8,4891,Win,58,2,18,28,9,1,,,,,,,,,,,,
 62,243,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Garrison,aBeZy,2975,30,18,1.67,48,12,4376,Win,79,23,11,36,9,0,,,,,,,,,,,,
 62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Kenny,1300,8,6,1.33,14,2,1616,Loss,,,,,,,1,0,0,0,0.89,179.56,,,,,,
-62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,TJHaly,325,4,8,0.50,12,-4,598,Loss,,,,,,,2,4,0,0,0.44,66.44,,,,,,
-62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Slasher,525,4,6,0.67,10,-2,1637,Loss,,,,,,,0,0,1,1,0.44,181.89,,,,,,
+62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,TJHaLy,325,4,8,0.50,12,-4,598,Loss,,,,,,,2,4,0,0,0.44,66.44,,,,,,
+62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,SlasheR,525,4,6,0.67,10,-2,1637,Loss,,,,,,,0,0,1,1,0.44,181.89,,,,,,
 62,244,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Venom,575,5,6,0.83,11,-1,1276,Loss,,,,,,,1,2,1,0,0.56,141.78,,,,,,
 62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Arcitys,825,6,7,0.86,13,-1,1581,Win,,,,,,,3,1,2,0,0.67,175.67,,,,,,
 62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Cellium,2100,8,3,2.67,11,5,1640,Win,,,,,,,0,1,1,0,0.89,182.22,,,,,,
 62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Simp,680,3,6,0.50,9,-3,874,Win,,,,,,,1,0,2,0,0.33,97.11,,,,,,
 62,244,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,aBeZy,1250,9,5,1.80,14,4,1604,Win,,,,,,,2,2,0,0,1,178.22,,,,,,
 62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,Kenny,960,10,19,0.53,29,-9,2897,Loss,,,,,,,,,,,,,0,5,5,5,1,965.67
-62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,TJHaly,680,9,20,0.45,29,-11,1767,Loss,,,,,,,,,,,,,0,2,0,7,5,589
-62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,Slasher,1545,16,16,1.00,32,0,3198,Loss,,,,,,,,,,,,,0,3,3,13,6,1066
+62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,TJHaLy,680,9,20,0.45,29,-11,1767,Loss,,,,,,,,,,,,,0,2,0,7,5,589
+62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,SlasheR,1545,16,16,1.00,32,0,3198,Loss,,,,,,,,,,,,,0,3,3,13,6,1066
 62,245,Stage 2 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Checkmate,Venom,1200,16,22,0.73,38,-6,2906,Loss,,,,,,,,,,,,,0,3,4,13,12,968.67
 62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Arcitys,4775,27,11,2.45,38,16,3749,Win,,,,,,,,,,,,,6,20,10,7,9,1249.67
 62,245,Stage 2 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Checkmate,Cellium,2895,18,11,1.64,29,7,3459,Win,,,,,,,,,,,,,5,13,10,5,5,1153
@@ -2332,24 +2332,24 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 75,292,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Silly,4550,30,12,2.50,42,18,4587,Win,101,16,2,46,11,26,,,,,,,,,,,,
 75,292,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Apathy,4025,23,19,1.21,42,4,4425,Win,72,2,50,0,5,15,,,,,,,,,,,,
 75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,Temp,1670,20,26,0.77,46,-6,3829,Loss,27,18,0,0,9,0,,,,,,,,,,,,
-75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,TJHaly,2105,21,26,0.81,47,-5,4296,Loss,69,19,0,0,43,7,,,,,,,,,,,,
-75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,Slasher,1450,16,26,0.62,42,-10,3110,Loss,46,10,4,31,1,0,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,TJHaLy,2105,21,26,0.81,47,-5,4296,Loss,69,19,0,0,43,7,,,,,,,,,,,,
+75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,SlasheR,1450,16,26,0.62,42,-10,3110,Loss,46,10,4,31,1,0,,,,,,,,,,,,
 75,292,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,Venom,1630,18,21,0.86,39,-3,3430,Loss,73,15,2,0,56,0,,,,,,,,,,,,
 75,293,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Vivid,675,9,9,1.00,18,0,2295,Win,,,,,,,3,1,1,0,0.82,208.64,,,,,,
 75,293,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Assault,800,11,7,1.57,18,4,2618,Win,,,,,,,4,0,0,0,1,238,,,,,,
 75,293,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Silly,2500,11,3,3.67,14,8,2023,Win,,,,,,,0,0,0,0,1,183.91,,,,,,
 75,293,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Apathy,775,5,8,0.63,13,-3,1419,Win,,,,,,,0,3,1,0,0.45,129,,,,,,
 75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,Temp,650,6,8,0.75,14,-2,1039,Loss,,,,,,,0,1,1,0,0.55,94.45,,,,,,
-75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,TJHaly,400,5,10,0.50,15,-5,1644,Loss,,,,,,,2,2,1,0,0.45,149.45,,,,,,
-75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,Slasher,605,7,9,0.78,16,-2,2041,Loss,,,,,,,2,2,1,0,0.64,185.55,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,TJHaLy,400,5,10,0.50,15,-5,1644,Loss,,,,,,,2,2,1,0,0.45,149.45,,,,,,
+75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,SlasheR,605,7,9,0.78,16,-2,2041,Loss,,,,,,,2,2,1,0,0.64,185.55,,,,,,
 75,293,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,Venom,750,9,9,1.00,18,0,1658,Loss,,,,,,,0,2,0,0,0.82,150.73,,,,,,
 75,294,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Vivid,5225,36,27,1.33,63,9,6179,Win,,,,,,,,,,,,,6,15,5,21,10,1235.8
 75,294,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Assault,3700,22,20,1.10,42,2,4660,Win,,,,,,,,,,,,,6,11,4,11,8,932
 75,294,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Silly,3440,31,27,1.15,58,4,6135,Win,,,,,,,,,,,,,5,12,9,19,13,1227
 75,294,Stage 2 Week 3,Los Angeles Guerrillas,Los Angeles Thieves,Control,Raid,Apathy,2825,27,28,0.96,55,-1,5193,Win,,,,,,,,,,,,,4,12,3,15,6,1038.6
 75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Temp,3450,18,30,0.60,48,-12,4501,Loss,,,,,,,,,,,,,8,7,4,11,3,900.2
-75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,TJHaly,4200,36,32,1.13,68,4,6116,Loss,,,,,,,,,,,,,6,25,15,11,8,1223.2
-75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Slasher,3790,25,22,1.14,47,3,4969,Loss,,,,,,,,,,,,,8,16,12,9,7,993.8
+75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,TJHaLy,4200,36,32,1.13,68,4,6116,Loss,,,,,,,,,,,,,6,25,15,11,8,1223.2
+75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,SlasheR,3790,25,22,1.14,47,3,4969,Loss,,,,,,,,,,,,,8,16,12,9,7,993.8
 75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Venom,2775,23,32,0.72,55,-9,4938,Loss,,,,,,,,,,,,,6,11,7,12,8,987.6
 76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Shotzzy,,23,19,1.21,42,4,,Win,,,,,,,,,,,,,,,,,,
 76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Crimsix,,23,23,1.00,46,0,,Win,,,,,,,,,,,,,,,,,,
@@ -2392,7 +2392,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 76,299,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,Envoy,725,6,3,2.00,9,3,1218,Win,,,,,,,1,1,0,0,0.86,174,,,,,,
 76,299,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,Scump,1700,9,4,2.25,13,5,1467,Win,,,,,,,1,0,0,0,1.29,209.57,,,,,,
 77,300,Major 2,Los Angeles Thieves,Paris Legion,Hardpoint,Checkmate,Kenny,4065,32,25,1.28,57,7,5852,Win,93,13,10,17,21,32,,,,,,,,,,,,
-77,300,Major 2,Los Angeles Thieves,Paris Legion,Hardpoint,Checkmate,TJHaly,2015,24,31,0.77,55,-7,4446,Win,87,34,0,12,24,17,,,,,,,,,,,,
+77,300,Major 2,Los Angeles Thieves,Paris Legion,Hardpoint,Checkmate,TJHaLy,2015,24,31,0.77,55,-7,4446,Win,87,34,0,12,24,17,,,,,,,,,,,,
 77,300,Major 2,Los Angeles Thieves,Paris Legion,Hardpoint,Checkmate,Drazah,4810,36,22,1.64,58,14,6070,Win,67,30,23,6,4,4,,,,,,,,,,,,
 77,300,Major 2,Los Angeles Thieves,Paris Legion,Hardpoint,Checkmate,Venom,2120,21,28,0.75,49,-7,4631,Win,69,10,0,22,34,3,,,,,,,,,,,,
 77,300,Major 2,Paris Legion,Los Angeles Thieves,Hardpoint,Checkmate,Skrapz,3995,34,28,1.21,62,6,5793,Loss,34,14,0,0,14,6,,,,,,,,,,,,
@@ -2400,7 +2400,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 77,300,Major 2,Paris Legion,Los Angeles Thieves,Hardpoint,Checkmate,Aqua,2155,25,28,0.89,53,-3,5365,Loss,55,16,32,0,0,7,,,,,,,,,,,,
 77,300,Major 2,Paris Legion,Los Angeles Thieves,Hardpoint,Checkmate,Fire,1740,13,29,0.45,42,-16,3906,Loss,106,15,25,11,26,29,,,,,,,,,,,,
 77,301,Major 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Kenny,1750,6,1,6.00,7,5,1320,Win,,,,,,,0,1,2,1,1,220,,,,,,
-77,301,Major 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,TJHaly,1115,7,1,7.00,8,6,975,Win,,,,,,,2,0,0,0,1.17,162.5,,,,,,
+77,301,Major 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,TJHaLy,1115,7,1,7.00,8,6,975,Win,,,,,,,2,0,0,0,1.17,162.5,,,,,,
 77,301,Major 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Drazah,250,2,1,2.00,3,1,585,Win,,,,,,,0,1,0,0,0.33,97.5,,,,,,
 77,301,Major 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Venom,1450,9,2,4.50,11,7,1650,Win,,,,,,,2,0,0,1,1.5,275,,,,,,
 77,301,Major 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Skrapz,250,3,6,0.50,9,-3,782,Loss,,,,,,,2,1,0,0,0.5,130.33,,,,,,
@@ -2408,7 +2408,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 77,301,Major 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Aqua,50,1,6,0.17,7,-5,634,Loss,,,,,,,0,0,0,0,0.17,105.67,,,,,,
 77,301,Major 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Fire,75,1,6,0.17,7,-5,554,Loss,,,,,,,0,0,0,0,0.17,92.33,,,,,,
 77,302,Major 2,Los Angeles Thieves,Paris Legion,Control,Checkmate,Kenny,2850,16,14,1.14,30,2,3223,Win,,,,,,,,,,,,,6,4,4,12,5,1074.33
-77,302,Major 2,Los Angeles Thieves,Paris Legion,Control,Checkmate,TJHaly,2515,14,11,1.27,25,3,1951,Win,,,,,,,,,,,,,6,2,0,12,11,650.33
+77,302,Major 2,Los Angeles Thieves,Paris Legion,Control,Checkmate,TJHaLy,2515,14,11,1.27,25,3,1951,Win,,,,,,,,,,,,,6,2,0,12,11,650.33
 77,302,Major 2,Los Angeles Thieves,Paris Legion,Control,Checkmate,Drazah,2065,17,9,1.89,26,8,3408,Win,,,,,,,,,,,,,4,2,1,15,12,1136
 77,302,Major 2,Los Angeles Thieves,Paris Legion,Control,Checkmate,Venom,1800,16,13,1.23,29,3,3010,Win,,,,,,,,,,,,,4,6,5,10,7,1003.33
 77,302,Major 2,Paris Legion,Los Angeles Thieves,Control,Checkmate,Skrapz,2725,16,15,1.07,31,1,2823,Loss,,,,,,,,,,,,,5,13,12,3,3,941
@@ -2500,7 +2500,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 81,313,Major 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Apocalypse,Seany,3510,30,18,1.67,48,12,4388,Win,45,13,9,23,0,0,,,,,,,,,,,,
 81,313,Major 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Apocalypse,Zed,1975,20,20,1.00,40,0,3623,Win,84,3,29,0,7,45,,,,,,,,,,,,
 81,313,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Apocalypse,Kenny,1560,17,24,0.71,41,-7,3700,Loss,57,21,22,4,10,0,,,,,,,,,,,,
-81,313,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Apocalypse,TJHaly,1550,17,28,0.61,45,-11,3280,Loss,34,7,6,13,8,0,,,,,,,,,,,,
+81,313,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Apocalypse,TJHaLy,1550,17,28,0.61,45,-11,3280,Loss,34,7,6,13,8,0,,,,,,,,,,,,
 81,313,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Apocalypse,Drazah,1895,21,20,1.05,41,1,3756,Loss,48,3,0,1,36,8,,,,,,,,,,,,
 81,313,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Apocalypse,Venom,1585,18,24,0.75,42,-6,3607,Loss,36,5,0,4,13,14,,,,,,,,,,,,
 81,314,Major 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,PaulEhx,1525,11,3,3.67,14,8,2081,Win,,,,,,,2,1,0,0,1.38,260.13,,,,,,
@@ -2508,7 +2508,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 81,314,Major 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,Seany,420,3,3,1.00,6,0,796,Win,,,,,,,2,0,0,1,0.38,99.5,,,,,,
 81,314,Major 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,Zed,350,5,6,0.83,11,-1,759,Win,,,,,,,0,2,0,0,0.63,94.88,,,,,,
 81,314,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Kenny,750,8,6,1.33,14,2,1740,Loss,,,,,,,2,0,0,0,1,217.5,,,,,,
-81,314,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,TJHaly,240,2,6,0.33,8,-4,735,Loss,,,,,,,1,2,0,0,0.25,91.88,,,,,,
+81,314,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,TJHaLy,240,2,6,0.33,8,-4,735,Loss,,,,,,,1,2,0,0,0.25,91.88,,,,,,
 81,314,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Drazah,290,4,7,0.57,11,-3,564,Loss,,,,,,,0,2,0,0,0.5,70.5,,,,,,
 81,314,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Venom,350,2,7,0.29,9,-5,911,Loss,,,,,,,0,1,2,0,0.25,113.88,,,,,,
 81,315,Major 2,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,PaulEhx,,14,16,0.88,30,-2,,Loss,,,,,,,,,,,,,,,,,,
@@ -2516,7 +2516,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 81,315,Major 2,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Seany,,15,15,1.00,30,0,,Loss,,,,,,,,,,,,,,,,,,
 81,315,Major 2,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Zed,,16,21,0.76,37,-5,,Loss,,,,,,,,,,,,,,,,,,
 81,315,Major 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Kenny,,16,17,0.94,33,-1,,Win,,,,,,,,,,,,,,,,,,
-81,315,Major 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,TJHaly,,18,16,1.13,34,2,,Win,,,,,,,,,,,,,,,,,,
+81,315,Major 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,TJHaLy,,18,16,1.13,34,2,,Win,,,,,,,,,,,,,,,,,,
 81,315,Major 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Drazah,,18,16,1.13,34,2,,Win,,,,,,,,,,,,,,,,,,
 81,315,Major 2,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Venom,,23,15,1.53,38,8,,Win,,,,,,,,,,,,,,,,,,
 81,316,Major 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,PaulEhx,2165,23,18,1.28,41,5,4458,Loss,88,0,30,10,48,0,,,,,,,,,,,,
@@ -2524,7 +2524,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 81,316,Major 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Seany,1750,16,20,0.80,36,-4,3315,Loss,104,40,0,19,45,0,,,,,,,,,,,,
 81,316,Major 2,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Zed,1665,23,26,0.88,49,-3,4021,Loss,17,0,0,4,13,0,,,,,,,,,,,,
 81,316,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Kenny,2610,25,21,1.19,46,4,4644,Win,61,9,29,23,0,0,,,,,,,,,,,,
-81,316,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,TJHaly,3820,22,18,1.22,40,4,4212,Win,92,3,17,4,4,64,,,,,,,,,,,,
+81,316,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,TJHaLy,3820,22,18,1.22,40,4,4212,Win,92,3,17,4,4,64,,,,,,,,,,,,
 81,316,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Drazah,2025,16,18,0.89,34,-2,3602,Win,79,36,16,19,0,8,,,,,,,,,,,,
 81,316,Major 2,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Venom,2205,26,21,1.24,47,5,4624,Win,79,0,19,31,29,0,,,,,,,,,,,,
 81,317,Major 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Moscow,PaulEhx,240,4,8,0.50,12,-4,920,Loss,,,,,,,0,1,0,0,0.4,92,,,,,,
@@ -2532,7 +2532,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 81,317,Major 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Moscow,Seany,580,8,7,1.14,15,1,1579,Loss,,,,,,,2,1,0,0,0.8,157.9,,,,,,
 81,317,Major 2,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Moscow,Zed,825,8,7,1.14,15,1,1165,Loss,,,,,,,1,2,0,0,0.8,116.5,,,,,,
 81,317,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Moscow,Kenny,1400,8,5,1.60,13,3,1373,Win,,,,,,,1,2,1,0,0.8,137.3,,,,,,
-81,317,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Moscow,TJHaly,715,7,8,0.88,15,-1,1625,Win,,,,,,,2,1,0,0,0.7,162.5,,,,,,
+81,317,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Moscow,TJHaLy,715,7,8,0.88,15,-1,1625,Win,,,,,,,2,1,0,0,0.7,162.5,,,,,,
 81,317,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Moscow,Drazah,940,7,4,1.75,11,3,1347,Win,,,,,,,0,0,0,1,0.7,134.7,,,,,,
 81,317,Major 2,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Moscow,Venom,790,7,8,0.88,15,-1,1503,Win,,,,,,,3,1,2,0,0.7,150.3,,,,,,
 82,318,Major 2,Seattle Surge,Florida Mutineers,Hardpoint,Moscow,Octane,2660,16,23,0.70,39,-7,4319,Loss,75,15,18,36,6,,,,,,,,,,,,,
@@ -2672,7 +2672,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 85,334,Major 2,OpTic Chicago,Seattle Surge,Hardpoint,Garrison,Envoy,2240,23,25,0.92,48,-2,4223,Win,88,41,4,21,17,5,,,,,,,,,,,,
 85,334,Major 2,OpTic Chicago,Seattle Surge,Hardpoint,Garrison,Scump,2095,22,24,0.92,46,-2,3430,Win,74,17,2,14,7,34,,,,,,,,,,,,
 86,335,Major 2,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,Kenny,4450,31,26,1.19,57,5,6562,Win,61,3,6,20,7,25,,,,,,,,,,,,
-86,335,Major 2,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,TJHaly,3095,30,26,1.15,56,4,5455,Win,87,40,1,31,14,1,,,,,,,,,,,,
+86,335,Major 2,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,TJHaLy,3095,30,26,1.15,56,4,5455,Win,87,40,1,31,14,1,,,,,,,,,,,,
 86,335,Major 2,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,Drazah,2560,29,26,1.12,55,3,5217,Win,67,17,0,5,5,40,,,,,,,,,,,,
 86,335,Major 2,Los Angeles Thieves,New York Subliners,Hardpoint,Checkmate,Venom,2630,27,25,1.08,52,2,4440,Win,63,47,4,0,12,0,,,,,,,,,,,,
 86,335,Major 2,New York Subliners,Los Angeles Thieves,Hardpoint,Checkmate,Asim,2075,22,33,0.67,55,-11,4175,Loss,34,5,2,9,11,7,,,,,,,,,,,,
@@ -2680,7 +2680,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 86,335,Major 2,New York Subliners,Los Angeles Thieves,Hardpoint,Checkmate,Diamondcon,1545,21,31,0.68,52,-10,5228,Loss,26,0,7,6,5,8,,,,,,,,,,,,
 86,335,Major 2,New York Subliners,Los Angeles Thieves,Hardpoint,Checkmate,Mack,2965,30,26,1.15,56,4,5676,Loss,100,2,39,28,27,4,,,,,,,,,,,,
 86,336,Major 2,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,Kenny,400,6,4,1.50,10,2,1204,Win,,,,,,,1,0,0,0,0.86,172,,,,,,
-86,336,Major 2,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,TJHaly,600,5,2,2.50,7,3,1217,Win,,,,,,,0,0,0,0,0.71,173.86,,,,,,
+86,336,Major 2,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,TJHaLy,600,5,2,2.50,7,3,1217,Win,,,,,,,0,0,0,0,0.71,173.86,,,,,,
 86,336,Major 2,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,Drazah,855,6,2,3.00,8,4,1594,Win,,,,,,,1,0,0,0,0.86,227.71,,,,,,
 86,336,Major 2,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,Venom,1815,9,4,2.25,13,5,1323,Win,,,,,,,4,1,0,0,1.29,189,,,,,,
 86,336,Major 2,New York Subliners,Los Angeles Thieves,Search and Destroy,Checkmate,Asim,125,2,7,0.29,9,-5,709,Loss,,,,,,,1,5,0,0,0.29,101.29,,,,,,
@@ -2688,7 +2688,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 86,336,Major 2,New York Subliners,Los Angeles Thieves,Search and Destroy,Checkmate,Diamondcon,230,3,7,0.43,10,-4,1155,Loss,,,,,,,0,0,0,0,0.43,165,,,,,,
 86,336,Major 2,New York Subliners,Los Angeles Thieves,Search and Destroy,Checkmate,Mack,300,3,6,0.50,9,-3,785,Loss,,,,,,,0,0,0,0,0.43,112.14,,,,,,
 86,337,Major 2,Los Angeles Thieves,New York Subliners,Control,Checkmate,Kenny,2450,20,17,1.18,37,3,3905,Win,,,,,,,,,,,,,4,10,5,10,6,976.25
-86,337,Major 2,Los Angeles Thieves,New York Subliners,Control,Checkmate,TJHaly,3590,28,20,1.40,48,8,4731,Win,,,,,,,,,,,,,4,13,10,15,9,1182.75
+86,337,Major 2,Los Angeles Thieves,New York Subliners,Control,Checkmate,TJHaLy,3590,28,20,1.40,48,8,4731,Win,,,,,,,,,,,,,4,13,10,15,9,1182.75
 86,337,Major 2,Los Angeles Thieves,New York Subliners,Control,Checkmate,Drazah,2280,18,19,0.95,37,-1,3789,Win,,,,,,,,,,,,,4,10,7,8,3,947.25
 86,337,Major 2,Los Angeles Thieves,New York Subliners,Control,Checkmate,Venom,1850,25,21,1.19,46,4,4453,Win,,,,,,,,,,,,,1,11,5,14,6,1113.25
 86,337,Major 2,New York Subliners,Los Angeles Thieves,Control,Checkmate,Asim,1790,19,26,0.73,45,-7,3821,Loss,,,,,,,,,,,,,1,12,6,7,4,955.25
@@ -2700,7 +2700,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 87,338,Major 2,Toronto Ultra,Los Angeles Thieves,Hardpoint,Raid,Insight,2660,23,19,1.21,42,4,4719,Win,146,15,29,36,27,39,,,,,,,,,,,,
 87,338,Major 2,Toronto Ultra,Los Angeles Thieves,Hardpoint,Raid,CleanX,2595,33,23,1.43,56,10,4481,Win,20,3,10,0,7,0,,,,,,,,,,,,
 87,338,Major 2,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,Kenny,2825,29,23,1.26,52,6,4979,Loss,44,13,13,18,0,0,,,,,,,,,,,,
-87,338,Major 2,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,TJHaly,1915,19,25,0.76,44,-6,3791,Loss,66,23,27,16,0,0,,,,,,,,,,,,
+87,338,Major 2,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,TJHaLy,1915,19,25,0.76,44,-6,3791,Loss,66,23,27,16,0,0,,,,,,,,,,,,
 87,338,Major 2,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,Drazah,1380,9,25,0.36,34,-16,3065,Loss,78,29,33,4,12,0,,,,,,,,,,,,
 87,338,Major 2,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,Venom,2015,25,24,1.04,49,1,4313,Loss,62,6,27,0,0,29,,,,,,,,,,,,
 87,339,Major 2,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,Cammy,515,7,7,1.00,14,0,1672,Win,,,,,,,3,0,0,0,0.64,152,,,,,,
@@ -2708,7 +2708,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 87,339,Major 2,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,Insight,800,8,5,1.60,13,3,1520,Win,,,,,,,3,1,0,1,0.73,138.18,,,,,,
 87,339,Major 2,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,CleanX,565,7,7,1.00,14,0,1510,Win,,,,,,,1,1,0,0,0.64,137.27,,,,,,
 87,339,Major 2,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,Kenny,575,6,10,0.60,16,-4,1350,Loss,,,,,,,1,2,0,0,0.55,122.73,,,,,,
-87,339,Major 2,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,TJHaly,1650,7,8,0.88,15,-1,1427,Loss,,,,,,,0,1,2,0,0.64,129.73,,,,,,
+87,339,Major 2,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,TJHaLy,1650,7,8,0.88,15,-1,1427,Loss,,,,,,,0,1,2,0,0.64,129.73,,,,,,
 87,339,Major 2,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,Drazah,440,4,7,0.57,11,-3,977,Loss,,,,,,,1,0,0,1,0.36,88.82,,,,,,
 87,339,Major 2,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,Venom,740,6,9,0.67,15,-3,1711,Loss,,,,,,,1,5,1,1,0.55,155.55,,,,,,
 87,340,Major 2,Toronto Ultra,Los Angeles Thieves,Control,Garrison,Cammy,2890,28,17,1.65,45,11,5113,Win,,,,,,,,,,,,,3,8,3,20,8,1704.33
@@ -2716,7 +2716,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 87,340,Major 2,Toronto Ultra,Los Angeles Thieves,Control,Garrison,Insight,1415,12,13,0.92,25,-1,3174,Win,,,,,,,,,,,,,4,4,0,8,6,1058
 87,340,Major 2,Toronto Ultra,Los Angeles Thieves,Control,Garrison,CleanX,3050,21,20,1.05,41,1,4023,Win,,,,,,,,,,,,,6,6,3,15,11,1341
 87,340,Major 2,Los Angeles Thieves,Toronto Ultra,Control,Garrison,Kenny,1915,16,20,0.80,36,-4,3983,Loss,,,,,,,,,,,,,3,11,8,5,4,1327.67
-87,340,Major 2,Los Angeles Thieves,Toronto Ultra,Control,Garrison,TJHaly,2750,20,21,0.95,41,-1,4157,Loss,,,,,,,,,,,,,4,13,11,7,7,1385.67
+87,340,Major 2,Los Angeles Thieves,Toronto Ultra,Control,Garrison,TJHaLy,2750,20,21,0.95,41,-1,4157,Loss,,,,,,,,,,,,,4,13,11,7,7,1385.67
 87,340,Major 2,Los Angeles Thieves,Toronto Ultra,Control,Garrison,Drazah,1605,14,22,0.64,36,-8,3191,Loss,,,,,,,,,,,,,2,9,6,5,3,1063.67
 87,340,Major 2,Los Angeles Thieves,Toronto Ultra,Control,Garrison,Venom,1825,16,21,0.76,37,-5,2858,Loss,,,,,,,,,,,,,4,11,5,5,1,952.67
 88,341,Major 2,OpTic Chicago,Minnesota ROKKR,Hardpoint,Garrison,FORMAL,1410,13,22,0.59,35,-9,3360,Loss,21,0,2,6,10,3,,,,,,,,,,,,
@@ -2980,7 +2980,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 95,373,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Apocalypse,Loony,2330,22,22,1.00,44,0,4547,Win,81,16,29,11,15,10,,,,,,,,,,,,
 95,373,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Apocalypse,Gunless,2465,32,25,1.28,57,7,4424,Win,91,72,0,10,9,0,,,,,,,,,,,,
 95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Kenny,2205,29,28,1.04,57,1,4786,Loss,21,2,13,0,0,6,,,,,,,,,,,,
-95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,TJHaly,2030,18,27,0.67,45,-9,4196,Loss,109,5,38,20,23,23,,,,,,,,,,,,
+95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,TJHaLy,2030,18,27,0.67,45,-9,4196,Loss,109,5,38,20,23,23,,,,,,,,,,,,
 95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Drazah,2435,21,23,0.91,44,-2,4066,Loss,63,17,5,13,0,28,,,,,,,,,,,,
 95,373,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Venom,1910,21,28,0.75,49,-7,4659,Loss,60,2,6,1,16,35,,,,,,,,,,,,
 95,374,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Octane,825,9,5,1.80,14,4,1878,Win,,,,,,,3,1,0,1,0.9,187.8,,,,,,
@@ -2988,7 +2988,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 95,374,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Loony,175,2,7,0.29,9,-5,638,Win,,,,,,,0,3,0,0,0.2,63.8,,,,,,
 95,374,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Moscow,Gunless,790,10,7,1.43,17,3,2051,Win,,,,,,,1,1,0,0,1,205.1,,,,,,
 95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Kenny,290,3,7,0.43,10,-4,971,Loss,,,,,,,0,1,0,0,0.3,97.1,,,,,,
-95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,TJHaly,705,7,8,0.88,15,-1,1178,Loss,,,,,,,1,2,0,0,0.7,117.8,,,,,,
+95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,TJHaLy,705,7,8,0.88,15,-1,1178,Loss,,,,,,,1,2,0,0,0.7,117.8,,,,,,
 95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Drazah,380,5,7,0.71,12,-2,1143,Loss,,,,,,,0,1,0,0,0.5,114.3,,,,,,
 95,374,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Moscow,Venom,995,12,9,1.33,21,3,1886,Loss,,,,,,,4,1,2,0,1.2,188.6,,,,,,
 95,375,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Octane,2000,17,12,1.42,29,5,2747,Loss,,,,,,,,,,,,,3,8,4,9,7,915.67
@@ -2996,7 +2996,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 95,375,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Loony,1020,7,18,0.39,25,-11,1783,Loss,,,,,,,,,,,,,2,4,2,3,0,594.33
 95,375,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Gunless,1000,11,15,0.73,26,-4,2344,Loss,,,,,,,,,,,,,1,6,0,5,4,781.33
 95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Kenny,5050,18,8,2.25,26,10,3014,Win,,,,,,,,,,,,,8,14,11,4,1,1004.67
-95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,TJHaly,1815,13,11,1.18,24,2,2325,Win,,,,,,,,,,,,,6,6,2,7,3,775
+95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,TJHaLy,1815,13,11,1.18,24,2,2325,Win,,,,,,,,,,,,,6,6,2,7,3,775
 95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Drazah,2430,19,13,1.46,32,6,3796,Win,,,,,,,,,,,,,8,11,5,8,3,1265.33
 95,375,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Venom,1775,13,11,1.18,24,2,2590,Win,,,,,,,,,,,,,6,4,3,9,3,863.33
 95,376,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Octane,,35,30,1.17,65,5,,Loss,,,,,,,,,,,,,,,,,,
@@ -3004,7 +3004,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 95,376,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Loony,,21,24,0.88,45,-3,,Loss,,,,,,,,,,,,,,,,,,
 95,376,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Checkmate,Gunless,,21,32,0.66,53,-11,,Loss,,,,,,,,,,,,,,,,,,
 95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Kenny,,31,28,1.11,59,3,,Win,,,,,,,,,,,,,,,,,,
-95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,TJHaly,,25,26,0.96,51,-1,,Win,,,,,,,,,,,,,,,,,,
+95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,TJHaLy,,25,26,0.96,51,-1,,Win,,,,,,,,,,,,,,,,,,
 95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Drazah,,33,26,1.27,59,7,,Win,,,,,,,,,,,,,,,,,,
 95,376,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Checkmate,Venom,,29,24,1.21,53,5,,Win,,,,,,,,,,,,,,,,,,
 95,377,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Octane,,11,8,1.38,19,3,,Loss,,,,,,,,,,,,,,,,,,
@@ -3012,7 +3012,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 95,377,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Loony,,4,6,0.67,10,-2,,Loss,,,,,,,,,,,,,,,,,,
 95,377,Stage 3 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Gunless,,6,6,1.00,12,0,,Loss,,,,,,,,,,,,,,,,,,
 95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Kenny,,6,6,1.00,12,0,,Win,,,,,,,,,,,,,,,,,,
-95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,TJHaly,,3,6,0.50,9,-3,,Win,,,,,,,,,,,,,,,,,,
+95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,TJHaLy,,3,6,0.50,9,-3,,Win,,,,,,,,,,,,,,,,,,
 95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Drazah,,14,5,2.80,19,9,,Win,,,,,,,,,,,,,,,,,,
 95,377,Stage 3 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Venom,,4,8,0.50,12,-4,,Win,,,,,,,,,,,,,,,,,,
 96,378,Stage 3 Week 1,London Royal Ravens,OpTic Chicago,Hardpoint,Garrison,PaulEhx,2860,25,24,1.04,49,1,4699,Loss,46,5,3,13,18,7,,,,,,,,,,,,
@@ -3132,7 +3132,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 100,392,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Seany,3460,24,18,1.33,42,6,4140,Win,110,0,53,56,1,0,,,,,,,,,,,,
 100,392,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Zed,2095,20,18,1.11,38,2,3547,Win,69,5,2,15,35,12,,,,,,,,,,,,
 100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Kenny,2915,27,19,1.42,46,8,4446,Loss,38,13,17,5,0,3,,,,,,,,,,,,
-100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,TJHaly,1315,13,25,0.52,38,-12,3317,Loss,25,22,2,0,0,1,,,,,,,,,,,,
+100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,TJHaLy,1315,13,25,0.52,38,-12,3317,Loss,25,22,2,0,0,1,,,,,,,,,,,,
 100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Drazah,1620,15,17,0.88,32,-2,3073,Loss,55,9,6,10,24,6,,,,,,,,,,,,
 100,392,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Venom,1300,16,21,0.76,37,-5,3165,Loss,69,35,0,17,0,17,,,,,,,,,,,,
 100,393,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,PaulEhx,190,2,6,0.33,8,-4,446,Loss,,,,,,,0,1,0,0,0.29,63.71,,,,,,
@@ -3140,7 +3140,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 100,393,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,Seany,65,2,7,0.29,9,-5,770,Loss,,,,,,,0,1,0,0,0.29,110,,,,,,
 100,393,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Miami,Zed,250,2,6,0.33,8,-4,759,Loss,,,,,,,0,3,0,1,0.29,108.43,,,,,,
 100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Kenny,1150,6,1,6.00,7,5,1673,Win,,,,,,,2,0,1,0,0.86,239,,,,,,
-100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,TJHaly,675,6,2,3.00,8,4,1098,Win,,,,,,,2,0,0,0,0.86,156.86,,,,,,
+100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,TJHaLy,675,6,2,3.00,8,4,1098,Win,,,,,,,2,0,0,0,0.86,156.86,,,,,,
 100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Drazah,675,6,2,3.00,8,4,653,Win,,,,,,,0,0,1,0,0.86,93.29,,,,,,
 100,393,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Miami,Venom,1600,8,2,4.00,10,6,1404,Win,,,,,,,3,0,0,0,1.14,200.57,,,,,,
 100,394,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,PaulEhx,2055,15,23,0.65,38,-8,3531,Loss,,,,,,,,,,,,,4,11,7,4,3,882.75
@@ -3148,7 +3148,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 100,394,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Seany,1940,19,20,0.95,39,-1,3927,Loss,,,,,,,,,,,,,2,9,8,10,6,981.75
 100,394,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Zed,1990,14,18,0.78,32,-4,2684,Loss,,,,,,,,,,,,,3,11,9,3,4,671
 100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Kenny,4035,29,16,1.81,45,13,4903,Win,,,,,,,,,,,,,6,14,11,15,9,1225.75
-100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,TJHaly,4250,24,16,1.50,40,8,4053,Win,,,,,,,,,,,,,7,11,5,13,8,1013.25
+100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,TJHaLy,4250,24,16,1.50,40,8,4053,Win,,,,,,,,,,,,,7,11,5,13,8,1013.25
 100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Drazah,2925,14,15,0.93,29,-1,3184,Win,,,,,,,,,,,,,8,8,7,6,9,796
 100,394,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Checkmate,Venom,2475,13,17,0.76,30,-4,3097,Win,,,,,,,,,,,,,7,8,8,5,3,774.25
 100,395,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,PaulEhx,2840,28,28,1.00,56,0,6295,Loss,42,10,8,0,14,10,,,,,,,,,,,,
@@ -3156,7 +3156,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 100,395,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Seany,1865,19,28,0.68,47,-9,4051,Loss,55,29,0,13,5,8,,,,,,,,,,,,
 100,395,Stage 3 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Garrison,Zed,1860,20,24,0.83,44,-4,4123,Loss,39,32,5,1,0,1,,,,,,,,,,,,
 100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Kenny,4360,33,21,1.57,54,12,5937,Win,26,4,0,4,15,3,,,,,,,,,,,,
-100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,TJHaly,3220,21,25,0.84,46,-4,5196,Win,74,0,14,50,8,2,,,,,,,,,,,,
+100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,TJHaLy,3220,21,25,0.84,46,-4,5196,Win,74,0,14,50,8,2,,,,,,,,,,,,
 100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Drazah,1650,19,22,0.86,41,-3,4152,Win,43,0,19,9,0,15,,,,,,,,,,,,
 100,395,Stage 3 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Garrison,Venom,3450,32,18,1.78,50,14,4709,Win,121,8,37,10,34,32,,,,,,,,,,,,
 101,396,Stage 3 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Arcitys,2125,20,27,0.74,47,-7,4508,Loss,79,1,25,53,0,0,,,,,,,,,,,,
@@ -3264,7 +3264,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 103,408,Stage 3 Week 2,New York Subliners,London Royal Ravens,Search and Destroy,Raid,Mack,590,4,7,0.57,11,-3,1359,Loss,,,,,,,1,3,1,1,0.4,135.9,,,,,,
 103,408,Stage 3 Week 2,New York Subliners,London Royal Ravens,Search and Destroy,Raid,Hydra,330,4,8,0.50,12,-4,843,Loss,,,,,,,1,1,0,0,0.4,84.3,,,,,,
 104,409,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Raid,Kenny,1325,15,26,0.58,41,-11,3394,Loss,35,13,0,0,22,0,,,,,,,,,,,,
-104,409,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Raid,TJHaly,1465,15,23,0.65,38,-8,3180,Loss,32,8,0,1,13,10,,,,,,,,,,,,
+104,409,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Raid,TJHaLy,1465,15,23,0.65,38,-8,3180,Loss,32,8,0,1,13,10,,,,,,,,,,,,
 104,409,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Raid,Drazah,4190,20,20,1.00,40,0,3279,Loss,104,27,2,0,52,23,,,,,,,,,,,,
 104,409,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Raid,Venom,1140,10,21,0.48,31,-11,2596,Loss,82,29,0,0,53,0,,,,,,,,,,,,
 104,409,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Raid,Arcitys,2390,21,19,1.11,40,2,4647,Win,37,20,0,17,0,0,,,,,,,,,,,,
@@ -3272,7 +3272,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 104,409,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Raid,Simp,3185,27,14,1.93,41,13,4216,Win,90,0,55,31,0,4,,,,,,,,,,,,
 104,409,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Raid,aBeZy,3560,25,13,1.92,38,12,3769,Win,79,18,27,18,0,16,,,,,,,,,,,,
 104,410,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Express,Kenny,1650,7,2,3.50,9,5,1433,Win,,,,,,,2,1,1,1,1,204.71,,,,,,
-104,410,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Express,TJHaly,550,6,5,1.20,11,1,1108,Win,,,,,,,2,1,0,0,0.86,158.29,,,,,,
+104,410,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Express,TJHaLy,550,6,5,1.20,11,1,1108,Win,,,,,,,2,1,0,0,0.86,158.29,,,,,,
 104,410,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Express,Drazah,400,4,4,1.00,8,0,1174,Win,,,,,,,0,0,0,0,0.57,167.71,,,,,,
 104,410,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Express,Venom,1305,7,3,2.33,10,4,1387,Win,,,,,,,0,1,2,0,1,198.14,,,,,,
 104,410,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Express,Arcitys,250,1,6,0.17,7,-5,414,Loss,,,,,,,0,2,2,0,0.14,59.14,,,,,,
@@ -3280,7 +3280,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 104,410,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Express,Simp,265,4,6,0.67,10,-2,1028,Loss,,,,,,,1,1,0,0,0.57,146.86,,,,,,
 104,410,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Express,aBeZy,500,6,6,1.00,12,0,1222,Loss,,,,,,,1,1,0,0,0.86,174.57,,,,,,
 104,411,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,Kenny,2975,23,24,0.96,47,-1,5109,Loss,,,,,,,,,,,,,3,8,6,15,9,1277.25
-104,411,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,TJHaly,2955,18,27,0.67,45,-9,4358,Loss,,,,,,,,,,,,,6,7,1,11,3,1089.5
+104,411,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,TJHaLy,2955,18,27,0.67,45,-9,4358,Loss,,,,,,,,,,,,,6,7,1,11,3,1089.5
 104,411,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,Drazah,2345,22,23,0.96,45,-1,3920,Loss,,,,,,,,,,,,,4,13,3,9,8,980
 104,411,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,Venom,2025,15,27,0.56,42,-12,3289,Loss,,,,,,,,,,,,,6,6,3,9,5,822.25
 104,411,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Raid,Arcitys,5750,33,16,2.06,49,17,5964,Win,,,,,,,,,,,,,8,21,15,12,3,1491
@@ -3288,7 +3288,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 104,411,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Raid,Simp,2805,21,19,1.11,40,2,4269,Win,,,,,,,,,,,,,6,12,4,9,7,1067.25
 104,411,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Raid,aBeZy,2875,25,26,0.96,51,-1,5297,Win,,,,,,,,,,,,,5,12,6,13,6,1324.25
 104,412,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Moscow,Kenny,,16,22,0.73,38,-6,,Win,,,,,,,,,,,,,,,,,,
-104,412,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Moscow,TJHaly,,20,23,0.87,43,-3,,Win,,,,,,,,,,,,,,,,,,
+104,412,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Moscow,TJHaLy,,20,23,0.87,43,-3,,Win,,,,,,,,,,,,,,,,,,
 104,412,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Moscow,Drazah,,26,21,1.24,47,5,,Win,,,,,,,,,,,,,,,,,,
 104,412,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Moscow,Venom,,19,23,0.83,42,-4,,Win,,,,,,,,,,,,,,,,,,
 104,412,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Moscow,Arcitys,,27,15,1.80,42,12,,Loss,,,,,,,,,,,,,,,,,,
@@ -3296,7 +3296,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 104,412,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Moscow,Simp,,23,22,1.05,45,1,,Loss,,,,,,,,,,,,,,,,,,
 104,412,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Moscow,aBeZy,,20,21,0.95,41,-1,,Loss,,,,,,,,,,,,,,,,,,
 104,413,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Checkmate,Kenny,300,4,7,0.57,11,-3,974,Loss,,,,,,,0,1,0,0,0.44,108.22,,,,,,
-104,413,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Checkmate,TJHaly,150,2,8,0.25,10,-6,1486,Loss,,,,,,,1,0,0,0,0.22,165.11,,,,,,
+104,413,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Checkmate,TJHaLy,150,2,8,0.25,10,-6,1486,Loss,,,,,,,1,0,0,0,0.22,165.11,,,,,,
 104,413,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Checkmate,Drazah,575,7,7,1.00,14,0,1672,Loss,,,,,,,0,2,0,0,0.78,185.78,,,,,,
 104,413,Stage 3 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Checkmate,Venom,1150,5,7,0.71,12,-2,1261,Loss,,,,,,,1,4,1,0,0.56,140.11,,,,,,
 104,413,Stage 3 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Checkmate,Arcitys,275,3,4,0.75,7,-1,795,Win,,,,,,,0,0,0,0,0.33,88.33,,,,,,
@@ -3532,7 +3532,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 112,442,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Hardpoint,Checkmate,Envoy,3260,29,25,1.16,54,4,5791,Loss,57,8,24,2,23,0,,,,,,,,,,,,
 112,442,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Hardpoint,Checkmate,FORMAL,2425,19,26,0.73,45,-7,4105,Loss,46,32,0,0,12,2,,,,,,,,,,,,
 112,442,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Checkmate,Kenny,4125,27,22,1.23,49,5,5120,Win,108,9,42,9,6,42,,,,,,,,,,,,
-112,442,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Checkmate,TJHaly,1910,21,26,0.81,47,-5,4555,Win,99,27,19,43,6,4,,,,,,,,,,,,
+112,442,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Checkmate,TJHaLy,1910,21,26,0.81,47,-5,4555,Win,99,27,19,43,6,4,,,,,,,,,,,,
 112,442,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Checkmate,Drazah,3780,29,22,1.32,51,7,4787,Win,61,30,13,0,18,0,,,,,,,,,,,,
 112,442,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Checkmate,Venom,2380,24,26,0.92,50,-2,5064,Win,27,16,0,0,8,3,,,,,,,,,,,,
 112,443,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Express,Scump,975,11,4,2.75,15,7,1602,Win,,,,,,,2,0,1,0,1.22,178,,,,,,
@@ -3540,7 +3540,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 112,443,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Express,Envoy,150,2,7,0.29,9,-5,790,Win,,,,,,,1,2,0,0,0.22,87.78,,,,,,
 112,443,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Express,FORMAL,700,5,5,1.00,10,0,1335,Win,,,,,,,0,2,0,1,0.56,148.33,,,,,,
 112,443,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Express,Kenny,700,7,6,1.17,13,1,1428,Loss,,,,,,,0,0,0,0,0.78,158.67,,,,,,
-112,443,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Express,TJHaly,300,4,8,0.50,12,-4,1455,Loss,,,,,,,3,2,0,0,0.444,161.67,,,,,,
+112,443,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Express,TJHaLy,300,4,8,0.50,12,-4,1455,Loss,,,,,,,3,2,0,0,0.444,161.67,,,,,,
 112,443,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Express,Drazah,625,6,8,0.75,14,-2,1335,Loss,,,,,,,2,0,1,0,0.67,148.33,,,,,,
 112,443,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Express,Venom,525,3,8,0.38,11,-5,673,Loss,,,,,,,0,2,2,1,0.33,74.78,,,,,,
 112,444,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Control,Raid,Scump,3015,25,28,0.89,53,-3,4490,Loss,,,,,,,,,,,,,9,11,8,14,2,898
@@ -3548,7 +3548,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 112,444,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Control,Raid,Envoy,2575,25,31,0.81,56,-6,4515,Loss,,,,,,,,,,,,,5,9,5,16,9,903
 112,444,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Control,Raid,FORMAL,3460,22,22,1.00,44,0,4181,Loss,,,,,,,,,,,,,7,8,2,14,8,836.2
 112,444,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Control,Raid,Kenny,6600,24,23,1.04,47,1,4733,Win,,,,,,,,,,,,,7,9,5,15,9,946.6
-112,444,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Control,Raid,TJHaly,5105,25,26,0.96,51,-1,4789,Win,,,,,,,,,,,,,12,12,5,13,6,957.8
+112,444,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Control,Raid,TJHaLy,5105,25,26,0.96,51,-1,4789,Win,,,,,,,,,,,,,12,12,5,13,6,957.8
 112,444,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Control,Raid,Drazah,3300,23,19,1.21,42,4,4578,Win,,,,,,,,,,,,,8,14,7,9,4,915.6
 112,444,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Control,Raid,Venom,4825,30,24,1.25,54,6,5480,Win,,,,,,,,,,,,,10,22,13,8,3,1096
 112,445,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Hardpoint,Apocalypse,Scump,1505,17,21,0.81,38,-4,3586,Loss,20,1,0,12,0,7,,,,,,,,,,,,
@@ -3556,7 +3556,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 112,445,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Hardpoint,Apocalypse,Envoy,1675,17,19,0.89,36,-2,3636,Loss,40,14,0,0,8,18,,,,,,,,,,,,
 112,445,Stage 3 Week 2,OpTic Chicago,Los Angeles Thieves,Hardpoint,Apocalypse,FORMAL,1140,13,19,0.68,32,-6,3514,Loss,50,22,11,17,0,0,,,,,,,,,,,,
 112,445,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Apocalypse,Kenny,2610,25,13,1.92,38,12,4289,Win,71,13,50,8,0,0,,,,,,,,,,,,
-112,445,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Apocalypse,TJHaly,1915,19,18,1.06,37,1,3531,Win,77,21,3,16,24,13,,,,,,,,,,,,
+112,445,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Apocalypse,TJHaLy,1915,19,18,1.06,37,1,3531,Win,77,21,3,16,24,13,,,,,,,,,,,,
 112,445,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Apocalypse,Drazah,1600,15,18,0.83,33,-3,3162,Win,54,0,16,0,34,4,,,,,,,,,,,,
 112,445,Stage 3 Week 2,Los Angeles Thieves,OpTic Chicago,Hardpoint,Apocalypse,Venom,1300,17,19,0.89,36,-2,3301,Win,65,20,15,11,2,17,,,,,,,,,,,,
 113,446,Stage 3 Week 3,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Apocalypse,Cheen,1545,21,26,0.81,47,-5,4502,Loss,28,6,1,0,20,1,,,,,,,,,,,,
@@ -4564,7 +4564,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 144,571,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Apocalypse,Classic,1715,20,24,0.83,44,-4,3205,Win,73,22,27,5,6,13,,,,,,,,,,,,
 144,571,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Apocalypse,Gunless,1495,18,16,1.13,34,2,3430,Win,40,8,0,7,17,8,,,,,,,,,,,,
 144,571,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Kenny,2260,21,20,1.05,41,1,4108,Loss,35,16,4,15,0,0,,,,,,,,,,,,
-144,571,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,TJHaly,1565,16,25,0.64,41,-9,3469,Loss,26,0,11,13,2,0,,,,,,,,,,,,
+144,571,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,TJHaLy,1565,16,25,0.64,41,-9,3469,Loss,26,0,11,13,2,0,,,,,,,,,,,,
 144,571,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Drazah,2350,23,19,1.21,42,4,4031,Loss,36,0,9,0,9,18,,,,,,,,,,,,
 144,571,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Apocalypse,Venom,1220,14,20,0.70,34,-6,3010,Loss,69,26,42,1,0,0,,,,,,,,,,,,
 144,572,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Standoff,Octane,640,7,7,1.00,14,0,1493,Loss,,,,,,,1,3,0,0,0.78,165.89,,,,,,
@@ -4572,7 +4572,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 144,572,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Standoff,Classic,600,6,7,0.86,13,-1,845,Loss,,,,,,,0,0,1,0,0.67,93.89,,,,,,
 144,572,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Standoff,Gunless,325,3,8,0.38,11,-5,923,Loss,,,,,,,0,2,0,0,0.33,102.56,,,,,,
 144,572,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Standoff,Kenny,375,6,5,1.20,11,1,1346,Win,,,,,,,1,0,0,0,0.67,149.56,,,,,,
-144,572,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Standoff,TJHaly,700,8,4,2.00,12,4,1493,Win,,,,,,,1,0,0,0,0.89,165.89,,,,,,
+144,572,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Standoff,TJHaLy,700,8,4,2.00,12,4,1493,Win,,,,,,,1,0,0,0,0.89,165.89,,,,,,
 144,572,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Standoff,Drazah,515,6,7,0.86,13,-1,1126,Win,,,,,,,4,2,0,0,0.67,125.11,,,,,,
 144,572,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Standoff,Venom,2140,10,4,2.50,14,6,1846,Win,,,,,,,1,0,3,0,1.11,205.11,,,,,,
 144,573,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Octane,5065,31,22,1.41,53,9,5272,Loss,,,,,,,,,,,,,8,8,6,23,12,1054.4
@@ -4580,7 +4580,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 144,573,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Classic,3050,23,31,0.74,54,-8,5284,Loss,,,,,,,,,,,,,7,8,5,15,7,1056.8
 144,573,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Control,Raid,Gunless,4900,36,29,1.24,65,7,5653,Loss,,,,,,,,,,,,,8,11,8,25,10,1130.6
 144,573,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Kenny,4375,27,32,0.84,59,-5,5736,Win,,,,,,,,,,,,,9,20,9,7,3,1147.2
-144,573,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,TJHaly,3015,27,27,1.00,54,0,5079,Win,,,,,,,,,,,,,6,18,6,9,6,1015.8
+144,573,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,TJHaLy,3015,27,27,1.00,54,0,5079,Win,,,,,,,,,,,,,6,18,6,9,6,1015.8
 144,573,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Drazah,5055,26,22,1.18,48,4,4761,Win,,,,,,,,,,,,,9,18,8,8,8,952.2
 144,573,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Control,Raid,Venom,3150,33,33,1.00,66,0,6324,Win,,,,,,,,,,,,,6,24,9,9,6,1264.8
 144,574,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Moscow,Octane,4145,28,18,1.56,46,10,4418,Win,53,30,13,0,10,,,,,,,,,,,,,
@@ -4588,7 +4588,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 144,574,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Moscow,Classic,1355,15,24,0.63,39,-9,3328,Win,51,14,15,12,10,,,,,,,,,,,,,
 144,574,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Hardpoint,Moscow,Gunless,3050,21,19,1.11,40,2,4501,Win,157,78,21,55,3,,,,,,,,,,,,,
 144,574,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,Kenny,3925,23,21,1.10,44,2,4666,Loss,52,1,11,0,40,,,,,,,,,,,,,
-144,574,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,TJHaly,2050,16,23,0.70,39,-7,3971,Loss,38,4,5,23,6,,,,,,,,,,,,,
+144,574,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,TJHaLy,2050,16,23,0.70,39,-7,3971,Loss,38,4,5,23,6,,,,,,,,,,,,,
 144,574,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,Drazah,1770,21,23,0.91,44,-2,3995,Loss,29,7,14,8,0,,,,,,,,,,,,,
 144,574,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Hardpoint,Moscow,Venom,1465,20,24,0.83,44,-4,3488,Loss,39,12,18,9,0,,,,,,,,,,,,,
 144,575,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Octane,325,5,6,0.83,11,-1,786,Loss,,,,,,,0,0,0,0,0.71,112.29,,,,,,
@@ -4596,7 +4596,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 144,575,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Classic,200,1,7,0.14,8,-6,685,Loss,,,,,,,0,1,1,0,0.14,97.86,,,,,,
 144,575,Stage 4 Week 1,Seattle Surge,Los Angeles Thieves,Search and Destroy,Raid,Gunless,400,6,6,1.00,12,0,1255,Loss,,,,,,,1,1,0,0,0.86,179.29,,,,,,
 144,575,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Kenny,2025,8,4,2.00,12,4,1482,Win,,,,,,,2,0,2,0,1.14,211.71,,,,,,
-144,575,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,TJHaly,430,5,5,1.00,10,0,812,Win,,,,,,,1,0,0,0,0.71,116,,,,,,
+144,575,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,TJHaLy,430,5,5,1.00,10,0,812,Win,,,,,,,1,0,0,0,0.71,116,,,,,,
 144,575,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Drazah,490,6,3,2.00,9,3,956,Win,,,,,,,2,0,0,0,0.86,136.57,,,,,,
 144,575,Stage 4 Week 1,Los Angeles Thieves,Seattle Surge,Search and Destroy,Raid,Venom,1100,6,3,2.00,9,3,1265,Win,,,,,,,0,2,0,1,0.86,180.71,,,,,,
 145,576,Stage 4 Week 1,New York Subliners,Los Angeles Guerrillas,Hardpoint,Apocalypse,Asim,2160,21,22,0.95,43,-1,4070,Win,40,4,0,0,16,20,,,,,,,,,,,,
@@ -4756,7 +4756,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Aqua,4920,29,23,1.26,52,6,5219,Loss,110,45,0,57,8,,,,,,,,,,,,,
 151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Temp,2305,20,24,0.83,44,-4,3674,Loss,63,22,36,5,0,,,,,,,,,,,,,
 151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,Kenny,2720,27,22,1.23,49,5,5291,Win,92,70,2,0,20,,,,,,,,,,,,,
-151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,TJHaly,3555,26,25,1.04,51,1,4611,Win,88,22,54,0,12,,,,,,,,,,,,,
+151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,TJHaLy,3555,26,25,1.04,51,1,4611,Win,88,22,54,0,12,,,,,,,,,,,,,
 151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,Drazah,1790,23,27,0.85,50,-4,4648,Win,25,1,24,0,0,,,,,,,,,,,,,
 151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,Venom,1925,22,19,1.16,41,3,3817,Win,66,8,7,23,28,,,,,,,,,,,,,
 151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Skrapz,380,4,7,0.57,11,-3,1130,Win,,,,,,,0,2,0,0,0.44,125.56,,,,,,
@@ -4764,7 +4764,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Aqua,705,7,5,1.40,12,2,1661,Win,,,,,,,1,1,0,0,0.78,184.56,,,,,,
 151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Temp,850,7,5,1.40,12,2,1641,Win,,,,,,,0,1,1,0,0.78,182.33,,,,,,
 151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Kenny,500,6,6,1.00,12,0,1667,Loss,,,,,,,0,0,0,0,0.67,185.22,,,,,,
-151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,TJHaly,605,6,8,0.75,14,-2,1342,Loss,,,,,,,3,4,0,0,0.67,149.11,,,,,,
+151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,TJHaLy,605,6,8,0.75,14,-2,1342,Loss,,,,,,,3,4,0,0,0.67,149.11,,,,,,
 151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Drazah,225,4,8,0.50,12,-4,1274,Loss,,,,,,,1,0,0,0,0.44,141.56,,,,,,
 151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Venom,850,6,6,1.00,12,0,1385,Loss,,,,,,,0,1,1,1,0.67,153.89,,,,,,
 151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Skrapz,3370,15,17,0.88,32,-2,3199,Win,,,,,,,,,,,,,8,8,6,7,5,639.8
@@ -4772,7 +4772,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Aqua,3265,18,13,1.38,31,5,3302,Win,,,,,,,,,,,,,8,12,7,6,4,660.4
 151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Temp,2350,14,14,1.00,28,0,3047,Win,,,,,,,,,,,,,7,9,4,5,3,609.4
 151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,Kenny,2045,12,17,0.71,29,-5,3458,Loss,,,,,,,,,,,,,4,3,1,9,6,691.6
-151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,TJHaly,1690,15,17,0.88,32,-2,2853,Loss,,,,,,,,,,,,,2,9,6,6,3,570.6
+151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,TJHaLy,1690,15,17,0.88,32,-2,2853,Loss,,,,,,,,,,,,,2,9,6,6,3,570.6
 151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,Drazah,2825,16,15,1.07,31,1,3580,Loss,,,,,,,,,,,,,6,10,8,6,5,716
 151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,Venom,1325,13,17,0.76,30,-4,2601,Loss,,,,,,,,,,,,,3,3,2,10,7,520.2
 151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Skrapz,3370,25,21,1.19,46,4,5080,Win,89,19,51,8,4,7,,,,,,,,,,,,
@@ -4780,7 +4780,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Aqua,2395,25,23,1.09,48,2,4152,Win,55,9,6,26,2,12,,,,,,,,,,,,
 151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Temp,2280,21,21,1.00,42,0,4335,Win,86,2,13,19,51,1,,,,,,,,,,,,
 151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Kenny,3115,29,24,1.21,53,5,5353,Loss,76,17,24,35,0,0,,,,,,,,,,,,
-151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,TJHaly,1410,13,22,0.59,35,-9,3771,Loss,69,29,0,14,17,9,,,,,,,,,,,,
+151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,TJHaLy,1410,13,22,0.59,35,-9,3771,Loss,69,29,0,14,17,9,,,,,,,,,,,,
 151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Drazah,1615,21,24,0.88,45,-3,3607,Loss,21,14,1,0,6,0,,,,,,,,,,,,
 151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Venom,2210,22,23,0.96,45,-1,4025,Loss,16,5,2,3,0,6,,,,,,,,,,,,
 152,599,Stage 4 Week 2,Florida Mutineers,New York Subliners,Hardpoint,Apocalypse,Owakening,3880,26,27,0.96,53,-1,4503,Win,80,0,40,7,33,0,,,,,,,,,,,,
@@ -4944,7 +4944,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 156,618,Stage 4 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Raid,Silly,1505,18,24,0.75,42,-6,3946,Loss,54,6,0,5,27,16,,,,,,,,,,,,
 156,618,Stage 4 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Raid,Apathy,1705,20,24,0.83,44,-4,3621,Loss,53,11,0,18,24,0,,,,,,,,,,,,
 157,619,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Apocalypse,Kenny,1825,16,19,0.84,35,-3,3987,Loss,56,4,0,44,8,0,,,,,,,,,,,,
-157,619,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Apocalypse,TJHaly,2500,18,21,0.86,39,-3,3564,Loss,71,6,0,11,54,0,,,,,,,,,,,,
+157,619,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Apocalypse,TJHaLy,2500,18,21,0.86,39,-3,3564,Loss,71,6,0,11,54,0,,,,,,,,,,,,
 157,619,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Apocalypse,Drazah,1925,19,20,0.95,39,-1,3625,Loss,53,27,0,16,10,0,,,,,,,,,,,,
 157,619,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Hardpoint,Apocalypse,Venom,2260,20,19,1.05,39,1,3695,Loss,15,10,4,0,1,0,,,,,,,,,,,,
 157,619,Stage 4 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Apocalypse,Arcitys,2155,22,17,1.29,39,5,3441,Win,59,16,18,3,16,6,,,,,,,,,,,,
@@ -4952,7 +4952,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 157,619,Stage 4 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Apocalypse,Simp,1980,16,22,0.73,38,-6,3829,Win,85,12,35,0,23,15,,,,,,,,,,,,
 157,619,Stage 4 Week 2,Atlanta FaZe,Los Angeles Thieves,Hardpoint,Apocalypse,aBeZy,1765,20,18,1.11,38,2,3295,Win,46,2,24,6,0,14,,,,,,,,,,,,
 157,620,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Kenny,300,2,6,0.33,8,-4,733,Loss,,,,,,,0,1,1,0,0.33,122.17,,,,,,
-157,620,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,TJHaly,165,2,6,0.33,8,-4,673,Loss,,,,,,,0,3,0,0,0.33,112.17,,,,,,
+157,620,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,TJHaLy,165,2,6,0.33,8,-4,673,Loss,,,,,,,0,3,0,0,0.33,112.17,,,,,,
 157,620,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Drazah,125,2,6,0.33,8,-4,1228,Loss,,,,,,,0,0,0,0,0.33,204.67,,,,,,
 157,620,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Search and Destroy,Raid,Venom,250,3,6,0.50,9,-3,990,Loss,,,,,,,0,2,1,0,0.5,165,,,,,,
 157,620,Stage 4 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Arcitys,850,4,0,4.00,4,4,1037,Win,,,,,,,0,0,2,0,0.67,172.83,,,,,,
@@ -4960,7 +4960,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 157,620,Stage 4 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,Simp,865,6,3,2.00,9,3,1067,Win,,,,,,,1,0,1,1,1,177.83,,,,,,
 157,620,Stage 4 Week 2,Atlanta FaZe,Los Angeles Thieves,Search and Destroy,Raid,aBeZy,490,6,5,1.20,11,1,875,Win,,,,,,,4,0,0,0,1,145.83,,,,,,
 157,621,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,Kenny,4325,25,22,1.14,47,3,4896,Loss,,,,,,,,,,,,,7,12,7,13,6,1224
-157,621,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,TJHaly,2210,24,28,0.86,52,-4,3954,Loss,,,,,,,,,,,,,2,13,4,11,2,988.5
+157,621,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,TJHaLy,2210,24,28,0.86,52,-4,3954,Loss,,,,,,,,,,,,,2,13,4,11,2,988.5
 157,621,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,Drazah,2355,16,26,0.62,42,-10,4269,Loss,,,,,,,,,,,,,4,11,8,5,3,1067.25
 157,621,Stage 4 Week 2,Los Angeles Thieves,Atlanta FaZe,Control,Raid,Venom,2000,18,27,0.67,45,-9,4199,Loss,,,,,,,,,,,,,4,8,2,10,3,1049.75
 157,621,Stage 4 Week 2,Atlanta FaZe,Los Angeles Thieves,Control,Raid,Arcitys,4275,22,21,1.05,43,1,4786,Win,,,,,,,,,,,,,9,9,4,13,9,1196.5
@@ -5071,3 +5071,67 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 160,634,Stage 4 Week 3,OpTic Chicago,Seattle Surge,Search and Destroy,Raid,Dashy,,9,8,1.13,17,1,,Loss,,,,,,,,,,,,,,,,,,
 160,634,Stage 4 Week 3,OpTic Chicago,Seattle Surge,Search and Destroy,Raid,Envoy,,6,7,0.86,13,-1,,Loss,,,,,,,,,,,,,,,,,,
 160,634,Stage 4 Week 3,OpTic Chicago,Seattle Surge,Search and Destroy,Raid,Scump,,6,6,1.00,12,0,,Loss,,,,,,,,,,,,,,,,,,
+161,635,Stage 4 Week 3,New York Subliners,London Royal Ravens,Hardpoint,Checkmate,Asim,1785,18,21,0.86,39,-3,3605,Win,41,15,4,7,15,0,,,,,,,,,,,,
+161,635,Stage 4 Week 3,New York Subliners,London Royal Ravens,Hardpoint,Checkmate,Clayster,2230,18,16,1.13,34,2,3406,Win,112,34,14,17,0,47,,,,,,,,,,,,
+161,635,Stage 4 Week 3,New York Subliners,London Royal Ravens,Hardpoint,Checkmate,Mack,4285,31,15,2.07,46,16,5015,Win,76,13,25,24,12,2,,,,,,,,,,,,
+161,635,Stage 4 Week 3,New York Subliners,London Royal Ravens,Hardpoint,Checkmate,Hydra,3330,25,12,2.08,37,13,4230,Win,68,22,32,4,10,0,,,,,,,,,,,,
+161,635,Stage 4 Week 3,London Royal Ravens,New York Subliners,Hardpoint,Checkmate,PaulEhx,1635,18,21,0.86,39,-3,3703,Loss,53,18,0,9,22,4,,,,,,,,,,,,
+161,635,Stage 4 Week 3,London Royal Ravens,New York Subliners,Hardpoint,Checkmate,Afro,1645,16,22,0.73,38,-6,3408,Loss,47,14,22,11,0,0,,,,,,,,,,,,
+161,635,Stage 4 Week 3,London Royal Ravens,New York Subliners,Hardpoint,Checkmate,Seany,1325,15,26,0.58,41,-11,3681,Loss,27,8,11,8,0,0,,,,,,,,,,,,
+161,635,Stage 4 Week 3,London Royal Ravens,New York Subliners,Hardpoint,Checkmate,Alexx,1170,15,23,0.65,38,-8,2945,Loss,32,6,15,4,7,0,,,,,,,,,,,,
+161,636,Stage 4 Week 3,New York Subliners,London Royal Ravens,Search and Destroy,Standoff,Asim,880,5,7,0.71,12,-2,1282,Win,,,,,,,2,3,1,1,0.45,116.55,,,,,,
+161,636,Stage 4 Week 3,New York Subliners,London Royal Ravens,Search and Destroy,Standoff,Clayster,340,5,8,0.63,13,-3,1177,Win,,,,,,,1,3,0,0,0.45,107,,,,,,
+161,636,Stage 4 Week 3,New York Subliners,London Royal Ravens,Search and Destroy,Standoff,Mack,750,10,6,1.67,16,4,2109,Win,,,,,,,1,0,0,0,0.91,191.73,,,,,,
+161,636,Stage 4 Week 3,New York Subliners,London Royal Ravens,Search and Destroy,Standoff,Hydra,1125,13,8,1.63,21,5,2805,Win,,,,,,,1,0,0,0,1.18,255,,,,,,
+161,636,Stage 4 Week 3,London Royal Ravens,New York Subliners,Search and Destroy,Standoff,PaulEhx,1005,11,7,1.57,18,4,2912,Loss,,,,,,,3,1,1,0,1,264.73,,,,,,
+161,636,Stage 4 Week 3,London Royal Ravens,New York Subliners,Search and Destroy,Standoff,Afro,450,6,9,0.67,15,-3,1713,Loss,,,,,,,1,0,0,0,0.55,155.73,,,,,,
+161,636,Stage 4 Week 3,London Royal Ravens,New York Subliners,Search and Destroy,Standoff,Seany,560,7,9,0.78,16,-2,1423,Loss,,,,,,,2,3,0,0,0.64,129.36,,,,,,
+161,636,Stage 4 Week 3,London Royal Ravens,New York Subliners,Search and Destroy,Standoff,Alexx,390,5,9,0.56,14,-4,911,Loss,,,,,,,0,1,1,0,0.45,82.82,,,,,,
+161,637,Stage 4 Week 3,New York Subliners,London Royal Ravens,Control,Raid,Asim,2215,16,25,0.64,41,-9,3823,Win,,,,,,,,,,,,,4,7,1,9,5,955.75
+161,637,Stage 4 Week 3,New York Subliners,London Royal Ravens,Control,Raid,Clayster,2100,20,28,0.71,48,-8,4281,Win,,,,,,,,,,,,,1,7,1,13,6,1070.25
+161,637,Stage 4 Week 3,New York Subliners,London Royal Ravens,Control,Raid,Mack,3055,21,20,1.05,41,1,4530,Win,,,,,,,,,,,,,2,8,3,13,5,1132.5
+161,637,Stage 4 Week 3,New York Subliners,London Royal Ravens,Control,Raid,Hydra,1825,17,26,0.65,43,-9,3477,Win,,,,,,,,,,,,,3,5,1,12,4,869.25
+161,637,Stage 4 Week 3,London Royal Ravens,New York Subliners,Control,Raid,PaulEhx,3390,26,22,1.18,48,4,4510,Loss,,,,,,,,,,,,,2,12,7,14,4,1127.5
+161,637,Stage 4 Week 3,London Royal Ravens,New York Subliners,Control,Raid,Afro,3525,26,17,1.53,43,9,4554,Loss,,,,,,,,,,,,,6,11,5,15,8,1138.5
+161,637,Stage 4 Week 3,London Royal Ravens,New York Subliners,Control,Raid,Seany,4130,23,18,1.28,41,5,5103,Loss,,,,,,,,,,,,,4,10,5,13,5,1275.75
+161,637,Stage 4 Week 3,London Royal Ravens,New York Subliners,Control,Raid,Alexx,3275,23,17,1.35,40,6,4173,Loss,,,,,,,,,,,,,3,14,6,9,5,1043.25
+162,638,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Kenny,4175,30,20,1.50,50,10,5012,Loss,23,8,12,0,3,0,,,,,,,,,,,,
+162,638,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,TJHaLy,2500,17,28,0.61,45,-11,3812,Loss,19,3,3,0,3,10,,,,,,,,,,,,
+162,638,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Huke,2480,23,23,1.00,46,0,3588,Loss,72,6,9,0,41,16,,,,,,,,,,,,
+162,638,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,SlasheR,2330,25,21,1.19,46,4,4963,Loss,79,8,53,0,12,6,,,,,,,,,,,,
+162,638,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,MajorManiak,1715,20,23,0.87,43,-3,4630,Win,45,5,11,13,16,0,,,,,,,,,,,,
+162,638,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Attach,1915,23,19,1.21,42,4,4008,Win,87,26,1,34,15,11,,,,,,,,,,,,
+162,638,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Standy,3965,28,24,1.17,52,4,5314,Win,94,14,8,50,1,21,,,,,,,,,,,,
+162,638,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Priestahh,2215,21,29,0.72,50,-8,4086,Win,72,12,0,40,4,16,,,,,,,,,,,,
+162,639,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,Kenny,580,5,3,1.67,8,2,933,Win,,,,,,,2,1,1,0,0.71,133.29,,,,,,
+162,639,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,TJHaLy,465,5,4,1.25,9,1,513,Win,,,,,,,0,0,0,0,0.71,73.29,,,,,,
+162,639,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,Huke,2500,11,3,3.67,14,8,1492,Win,,,,,,,3,1,0,1,1.57,213.14,,,,,,
+162,639,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,SlasheR,720,3,2,1.50,5,1,1324,Win,,,,,,,0,0,0,0,0.43,189.14,,,,,,
+162,639,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,MajorManiak,115,0,6,0.00,6,-6,574,Loss,,,,,,,0,0,0,0,0,82,,,,,,
+162,639,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Attach,150,2,7,0.29,9,-5,800,Loss,,,,,,,1,2,0,0,0.29,114.29,,,,,,
+162,639,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Standy,375,4,6,0.67,10,-2,740,Loss,,,,,,,1,1,1,0,0.57,105.71,,,,,,
+162,639,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Priestahh,490,6,6,1.00,12,0,1361,Loss,,,,,,,0,2,1,0,0.86,194.43,,,,,,
+162,640,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,Kenny,,19,24,0.79,43,-5,,Loss,,,,,,,,,,,,,,,,,,
+162,640,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,TJHaLy,,25,23,1.09,48,2,,Loss,,,,,,,,,,,,,,,,,,
+162,640,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,Huke,,21,27,0.78,48,-6,,Loss,,,,,,,,,,,,,,,,,,
+162,640,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Control,Garrison,SlasheR,,24,19,1.26,43,5,,Loss,,,,,,,,,,,,,,,,,,
+162,640,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Control,Garrison,MajorManiak,,25,19,1.32,44,6,,Win,,,,,,,,,,,,,,,,,,
+162,640,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Control,Garrison,Attach,,23,22,1.05,45,1,,Win,,,,,,,,,,,,,,,,,,
+162,640,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Control,Garrison,Standy,,22,24,0.92,46,-2,,Win,,,,,,,,,,,,,,,,,,
+162,640,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Control,Garrison,Priestahh,,23,24,0.96,47,-1,,Win,,,,,,,,,,,,,,,,,,
+162,641,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,Kenny,2165,20,12,1.67,32,8,3344,Win,74,21,27,11,15,,,,,,,,,,,,,
+162,641,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,TJHaLy,1455,11,11,1.00,22,0,2356,Win,88,15,46,17,10,,,,,,,,,,,,,
+162,641,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,Huke,1085,15,14,1.07,29,1,2512,Win,20,3,17,0,0,,,,,,,,,,,,,
+162,641,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Moscow,SlasheR,3850,23,8,2.88,31,15,3585,Win,107,24,16,42,25,,,,,,,,,,,,,
+162,641,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Moscow,MajorManiak,495,6,17,0.35,23,-11,1704,Loss,3,3,0,0,0,,,,,,,,,,,,,
+162,641,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Moscow,Attach,1935,13,16,0.81,29,-3,2348,Loss,26,8,0,18,0,,,,,,,,,,,,,
+162,641,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Moscow,Standy,1305,12,17,0.71,29,-5,2411,Loss,25,13,1,10,1,,,,,,,,,,,,,
+162,641,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Moscow,Priestahh,1000,14,19,0.74,33,-5,2655,Loss,23,22,0,0,1,,,,,,,,,,,,,
+162,642,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Kenny,850,8,8,1.00,16,0,2649,Loss,,,,,,,1,2,1,0,0.73,240.82,,,,,,
+162,642,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,TJHaLy,685,7,9,0.78,16,-2,1236,Loss,,,,,,,0,2,1,0,0.64,112.36,,,,,,
+162,642,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Huke,675,9,8,1.13,17,1,1405,Loss,,,,,,,1,2,0,0,0.82,127.73,,,,,,
+162,642,Stage 4 Week 3,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,SlasheR,925,8,8,1.00,16,0,2282,Loss,,,,,,,2,1,0,2,0.73,207.45,,,,,,
+162,642,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,MajorManiak,1325,9,7,1.29,16,2,1798,Win,,,,,,,0,1,0,1,0.82,163.45,,,,,,
+162,642,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Attach,525,5,8,0.63,13,-3,1931,Win,,,,,,,1,0,0,0,0.45,175.55,,,,,,
+162,642,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Standy,1340,11,9,1.22,20,2,2153,Win,,,,,,,5,2,4,0,1,195.73,,,,,,
+162,642,Stage 4 Week 3,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Priestahh,800,8,8,1.00,16,0,1892,Win,,,,,,,1,1,1,0,0.73,172,,,,,,
