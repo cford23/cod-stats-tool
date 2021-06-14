@@ -5239,3 +5239,91 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 165,655,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Miami,Skyz,475,5,6,0.83,11,-1,1202,Loss,,,,,,,1,2,0,0,0.63,150.25,,,,,,
 165,655,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Miami,Havok,250,4,7,0.57,11,-3,884,Loss,,,,,,,2,1,0,0,0.5,110.5,,,,,,
 165,655,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Miami,Neptune,650,6,6,1.00,12,0,1065,Loss,,,,,,,0,1,0,1,0.75,133.13,,,,,,
+166,656,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Octane,1765,21,23,0.91,44,-2,4284,Loss,31,0,15,16,0,0,,,,,,,,,,,,
+166,656,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Prestinni,1530,15,20,0.75,35,-5,3483,Loss,57,1,39,1,1,15,,,,,,,,,,,,
+166,656,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Classic,1885,21,21,1.00,42,0,3832,Loss,36,13,0,1,22,0,,,,,,,,,,,,
+166,656,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Gunless,2815,19,18,1.06,37,1,3488,Loss,73,0,0,15,39,19,,,,,,,,,,,,
+166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Skrapz,3155,24,20,1.20,44,4,4892,Win,124,34,13,24,34,19,,,,,,,,,,,,
+166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Zaptius,2875,23,17,1.35,40,6,3691,Win,92,10,23,29,2,28,,,,,,,,,,,,
+166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Aqua,1695,20,20,1.00,40,0,3484,Win,39,17,1,1,4,16,,,,,,,,,,,,
+166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Temp,1365,15,19,0.79,34,-4,4127,Win,29,0,19,10,0,0,,,,,,,,,,,,
+166,657,Stage 4 Week 3,Seattle Surge,Paris Legion,Search and Destroy,Miami,Octane,1650,12,8,1.50,20,4,2472,Loss,,,,,,,2,1,0,1,1.09,224.73,,,,,,
+166,657,Stage 4 Week 3,Seattle Surge,Paris Legion,Search and Destroy,Miami,Prestinni,500,5,9,0.56,14,-4,876,Loss,,,,,,,1,2,0,0,0.45,79.64,,,,,,
+166,657,Stage 4 Week 3,Seattle Surge,Paris Legion,Search and Destroy,Miami,Classic,425,4,7,0.57,11,-3,589,Loss,,,,,,,0,2,1,0,0.36,53.55,,,,,,
+166,657,Stage 4 Week 3,Seattle Surge,Paris Legion,Search and Destroy,Miami,Gunless,1425,10,8,1.25,18,2,2080,Loss,,,,,,,1,2,1,1,0.91,189.09,,,,,,
+166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,Skrapz,1600,13,6,2.17,19,7,1688,Win,,,,,,,3,1,1,0,1.18,153.45,,,,,,
+166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,Zaptius,650,7,8,0.88,15,-1,1595,Win,,,,,,,0,0,1,0,0.64,145,,,,,,
+166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,Aqua,400,6,9,0.67,15,-3,1434,Win,,,,,,,0,2,0,0,0.55,130.36,,,,,,
+166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,Temp,775,6,8,0.75,14,-2,1666,Win,,,,,,,4,1,2,0,0.55,151.45,,,,,,
+166,658,Stage 4 Week 3,Seattle Surge,Paris Legion,Control,Garrison,Octane,2125,15,20,0.75,35,-5,4244,Win,,,,,,,,,,,,,3,10,7,5,3,1061
+166,658,Stage 4 Week 3,Seattle Surge,Paris Legion,Control,Garrison,Prestinni,3150,22,24,0.92,46,-2,3895,Win,,,,,,,,,,,,,2,9,8,13,5,973.75
+166,658,Stage 4 Week 3,Seattle Surge,Paris Legion,Control,Garrison,Classic,3175,24,27,0.89,51,-3,4606,Win,,,,,,,,,,,,,4,10,7,14,3,1151.5
+166,658,Stage 4 Week 3,Seattle Surge,Paris Legion,Control,Garrison,Gunless,5950,38,22,1.73,60,16,6696,Win,,,,,,,,,,,,,4,15,9,23,6,1674
+166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,Skrapz,2525,23,24,0.96,47,-1,4532,Loss,,,,,,,,,,,,,4,10,3,13,10,1133
+166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,Zaptius,3090,19,21,0.90,40,-2,4134,Loss,,,,,,,,,,,,,6,8,5,11,6,1033.5
+166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,Aqua,2450,24,26,0.92,50,-2,4563,Loss,,,,,,,,,,,,,3,12,5,12,9,1140.75
+166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,Temp,2900,27,28,0.96,55,-1,5521,Loss,,,,,,,,,,,,,3,15,5,12,8,1380.25
+166,659,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Octane,1520,20,17,1.18,37,3,3815,Loss,46,15,0,0,22,9,,,,,,,,,,,,
+166,659,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Prestinni,1910,14,23,0.61,37,-9,3540,Loss,82,26,35,0,21,0,,,,,,,,,,,,
+166,659,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Classic,1930,22,23,0.96,45,-1,3920,Loss,56,16,16,8,16,0,,,,,,,,,,,,
+166,659,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Gunless,1665,17,20,0.85,37,-3,3522,Loss,35,0,0,2,33,0,,,,,,,,,,,,
+166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Skrapz,2145,25,22,1.14,47,3,4108,Win,40,14,5,5,16,0,,,,,,,,,,,,
+166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Zaptius,2320,14,15,0.93,29,-1,3084,Win,166,6,57,63,3,37,,,,,,,,,,,,
+166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Aqua,1715,22,17,1.29,39,5,3858,Win,27,3,0,10,14,0,,,,,,,,,,,,
+166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Temp,2365,22,19,1.16,41,3,4448,Win,69,43,0,11,0,15,,,,,,,,,,,,
+167,660,Stage 4 Week 3,Toronto Ultra,New York Subliners,Hardpoint,Checkmate,Cammy,3465,36,31,1.16,67,5,6866,Win,64,22,26,14,2,0,,,,,,,,,,,,
+167,660,Stage 4 Week 3,Toronto Ultra,New York Subliners,Hardpoint,Checkmate,Bance,2885,25,29,0.86,54,-4,4734,Win,81,17,0,8,39,17,,,,,,,,,,,,
+167,660,Stage 4 Week 3,Toronto Ultra,New York Subliners,Hardpoint,Checkmate,Insight,4100,33,24,1.38,57,9,6258,Win,65,8,16,0,26,15,,,,,,,,,,,,
+167,660,Stage 4 Week 3,Toronto Ultra,New York Subliners,Hardpoint,Checkmate,CleanX,2740,33,37,0.89,70,-4,6075,Win,50,8,5,3,6,28,,,,,,,,,,,,
+167,660,Stage 4 Week 3,New York Subliners,Toronto Ultra,Hardpoint,Checkmate,Asim,2960,31,34,0.91,65,-3,5947,Loss,67,22,25,0,20,0,,,,,,,,,,,,
+167,660,Stage 4 Week 3,New York Subliners,Toronto Ultra,Hardpoint,Checkmate,Clayster,2535,31,36,0.86,67,-5,5771,Loss,58,18,23,12,4,1,,,,,,,,,,,,
+167,660,Stage 4 Week 3,New York Subliners,Toronto Ultra,Hardpoint,Checkmate,Mack,2515,30,30,1.00,60,0,5559,Loss,46,7,6,14,19,0,,,,,,,,,,,,
+167,660,Stage 4 Week 3,New York Subliners,Toronto Ultra,Hardpoint,Checkmate,Hydra,2810,29,27,1.07,56,2,4971,Loss,67,43,21,3,0,0,,,,,,,,,,,,
+167,661,Stage 4 Week 3,Toronto Ultra,New York Subliners,Search and Destroy,Express,Cammy,1565,11,6,1.83,17,5,2013,Win,,,,,,,1,1,0,1,1.1,201.3,,,,,,
+167,661,Stage 4 Week 3,Toronto Ultra,New York Subliners,Search and Destroy,Express,Bance,940,3,7,0.43,10,-4,1202,Win,,,,,,,1,2,4,0,0.3,120.2,,,,,,
+167,661,Stage 4 Week 3,Toronto Ultra,New York Subliners,Search and Destroy,Express,Insight,600,6,9,0.67,15,-3,1473,Win,,,,,,,1,0,0,0,0.6,147.3,,,,,,
+167,661,Stage 4 Week 3,Toronto Ultra,New York Subliners,Search and Destroy,Express,CleanX,700,8,7,1.14,15,1,1642,Win,,,,,,,1,3,0,0,0.8,164.2,,,,,,
+167,661,Stage 4 Week 3,New York Subliners,Toronto Ultra,Search and Destroy,Express,Asim,700,8,8,1.00,16,0,1919,Loss,,,,,,,3,1,1,0,0.8,191.9,,,,,,
+167,661,Stage 4 Week 3,New York Subliners,Toronto Ultra,Search and Destroy,Express,Clayster,265,2,6,0.33,8,-4,442,Loss,,,,,,,0,2,0,0,0.2,44.2,,,,,,
+167,661,Stage 4 Week 3,New York Subliners,Toronto Ultra,Search and Destroy,Express,Mack,1025,10,6,1.67,16,4,2181,Loss,,,,,,,1,0,1,0,1,218.1,,,,,,
+167,661,Stage 4 Week 3,New York Subliners,Toronto Ultra,Search and Destroy,Express,Hydra,800,9,8,1.13,17,1,1570,Loss,,,,,,,2,1,2,0,0.9,157,,,,,,
+167,662,Stage 4 Week 3,Toronto Ultra,New York Subliners,Control,Garrison,Cammy,2915,21,19,1.11,40,2,4198,Win,,,,,,,,,,,,,5,10,10,11,3,1049.5
+167,662,Stage 4 Week 3,Toronto Ultra,New York Subliners,Control,Garrison,Bance,2325,19,20,0.95,39,-1,3519,Win,,,,,,,,,,,,,4,7,6,12,6,879.75
+167,662,Stage 4 Week 3,Toronto Ultra,New York Subliners,Control,Garrison,Insight,3870,19,12,1.58,31,7,3343,Win,,,,,,,,,,,,,5,8,3,11,8,835.75
+167,662,Stage 4 Week 3,Toronto Ultra,New York Subliners,Control,Garrison,CleanX,3665,23,17,1.35,40,6,3955,Win,,,,,,,,,,,,,6,9,7,14,12,988.75
+167,662,Stage 4 Week 3,New York Subliners,Toronto Ultra,Control,Garrison,Asim,3940,23,17,1.35,40,6,4043,Loss,,,,,,,,,,,,,5,8,2,15,13,1010.75
+167,662,Stage 4 Week 3,New York Subliners,Toronto Ultra,Control,Garrison,Clayster,1600,14,24,0.58,38,-10,3021,Loss,,,,,,,,,,,,,4,10,4,4,2,755.25
+167,662,Stage 4 Week 3,New York Subliners,Toronto Ultra,Control,Garrison,Mack,1875,15,21,0.71,36,-6,3948,Loss,,,,,,,,,,,,,3,5,3,10,6,987
+167,662,Stage 4 Week 3,New York Subliners,Toronto Ultra,Control,Garrison,Hydra,2325,16,20,0.80,36,-4,3232,Loss,,,,,,,,,,,,,5,12,6,4,4,808
+168,663,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Hardpoint,Garrison,Kenny,1715,22,27,0.81,49,-5,4561,Loss,12,5,3,4,0,0,,,,,,,,,,,,
+168,663,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Hardpoint,Garrison,TJHaLy,1900,19,31,0.61,50,-12,3873,Loss,52,14,33,0,5,0,,,,,,,,,,,,
+168,663,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Hardpoint,Garrison,Huke,3565,30,23,1.30,53,7,5590,Loss,43,5,3,19,0,16,,,,,,,,,,,,
+168,663,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Hardpoint,Garrison,SlasheR,1225,17,31,0.55,48,-14,4021,Loss,59,9,10,8,32,0,,,,,,,,,,,,
+168,663,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Garrison,FORMAL,3435,29,21,1.38,50,8,5275,Win,130,19,46,19,14,32,,,,,,,,,,,,
+168,663,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Garrison,Dashy,4060,35,20,1.75,55,15,5903,Win,28,5,0,19,4,0,,,,,,,,,,,,
+168,663,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Garrison,Envoy,2105,26,26,1.00,52,0,4647,Win,42,13,5,2,0,22,,,,,,,,,,,,
+168,663,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Garrison,Scump,1975,22,21,1.05,43,1,4178,Win,63,12,6,16,12,17,,,,,,,,,,,,
+168,664,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Standoff,Kenny,525,7,6,1.17,13,1,1205,Win,,,,,,,2,1,0,0,0.7,120.5,,,,,,
+168,664,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Standoff,TJHaLy,565,3,7,0.43,10,-4,1201,Win,,,,,,,0,0,2,0,0.3,120.1,,,,,,
+168,664,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Standoff,Huke,600,8,7,1.14,15,1,1451,Win,,,,,,,3,3,0,0,0.8,145.1,,,,,,
+168,664,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Search and Destroy,Standoff,SlasheR,550,8,7,1.14,15,1,2071,Win,,,,,,,0,1,0,0,0.8,207.1,,,,,,
+168,664,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Standoff,FORMAL,,3,7,0.43,10,-4,,Loss,,,,,,,,,,,,,,,,,,
+168,664,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Standoff,Dashy,,5,6,0.83,11,-1,,Loss,,,,,,,,,,,,,,,,,,
+168,664,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Standoff,Envoy,,8,6,1.33,14,2,,Loss,,,,,,,,,,,,,,,,,,
+168,664,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Standoff,Scump,,11,7,1.57,18,4,,Loss,,,,,,,,,,,,,,,,,,
+168,665,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,Kenny,750,7,12,0.58,19,-5,1872,Loss,,,,,,,,,,,,,0,7,6,0,0,624
+168,665,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,TJHaLy,700,10,14,0.71,24,-4,1910,Loss,,,,,,,,,,,,,0,9,3,1,0,636.67
+168,665,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,Huke,450,4,14,0.29,18,-10,1065,Loss,,,,,,,,,,,,,0,3,2,1,0,355
+168,665,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Control,Checkmate,SlasheR,375,3,13,0.23,16,-10,1319,Loss,,,,,,,,,,,,,0,3,3,0,0,439.67
+168,665,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,FORMAL,1700,15,7,2.14,22,8,2602,Win,,,,,,,,,,,,,2,5,0,10,9,867.33
+168,665,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Dashy,2740,12,7,1.71,19,5,2242,Win,,,,,,,,,,,,,6,4,3,8,5,747.33
+168,665,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Envoy,2125,13,6,2.17,19,7,2045,Win,,,,,,,,,,,,,5,3,3,10,8,681.67
+168,665,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Control,Checkmate,Scump,5500,13,4,3.25,17,9,1794,Win,,,,,,,,,,,,,2,4,3,9,7,598
+168,666,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Hardpoint,Moscow,Kenny,1805,21,21,1.00,42,0,3152,Loss,56,19,0,37,0,,,,,,,,,,,,,
+168,666,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Hardpoint,Moscow,TJHaLy,1280,12,24,0.50,36,-12,2548,Loss,35,23,0,12,0,,,,,,,,,,,,,
+168,666,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Hardpoint,Moscow,Huke,1565,11,24,0.46,35,-13,2988,Loss,32,21,0,11,0,,,,,,,,,,,,,
+168,666,Stage 4 Week 3,Los Angeles Thieves,OpTic Chicago,Hardpoint,Moscow,SlasheR,1650,18,24,0.75,42,-6,4036,Loss,27,2,0,25,0,,,,,,,,,,,,,
+168,666,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Moscow,FORMAL,1920,19,16,1.19,35,3,3798,Win,72,0,42,0,30,,,,,,,,,,,,,
+168,666,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Moscow,Dashy,2450,21,16,1.31,37,5,4077,Win,25,0,12,0,13,,,,,,,,,,,,,
+168,666,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Moscow,Envoy,4445,24,14,1.71,38,10,4169,Win,74,15,52,0,7,,,,,,,,,,,,,
+168,666,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Moscow,Scump,2980,29,16,1.81,45,13,4384,Win,106,49,7,0,50,,,,,,,,,,,,,
