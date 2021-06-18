@@ -32,7 +32,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 1,4,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Moscow,majormaniak,1360,14,19,0.74,33,-5,2987,Loss,0,0,0,0,0,,,,,,,,,,,,,
 1,4,Stage 1 Week 1,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Moscow,Priestahh,1100,14,20,0.70,34,-6,3220,Loss,22,11,0,10,1,,,,,,,,,,,,,
 2,5,Stage 1 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Crossroads,Shotzzy,1560,18,20,0.90,38,-2,3549,Win,37,5,32,0,0,,,,,,,,,,,,,
-2,5,Stage 1 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Crossroads,Crimsix,3410,22,17,1.29,39,5,4148,Win,73,17,0,4,52,,,,,,,,,,,,,
+2,5,Stage 1 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Crossroads,C6,3410,22,17,1.29,39,5,4148,Win,73,17,0,4,52,,,,,,,,,,,,,
 2,5,Stage 1 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Crossroads,iLLeY,2285,24,20,1.20,44,4,4898,Win,77,16,0,23,38,,,,,,,,,,,,,
 2,5,Stage 1 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Crossroads,Huke,3940,35,18,1.94,53,17,4638,Win,67,32,0,35,0,,,,,,,,,,,,,
 2,5,Stage 1 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Crossroads,Octane,1710,22,23,0.96,45,-1,4424,Loss,9,1,0,8,0,,,,,,,,,,,,,
@@ -40,7 +40,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 2,5,Stage 1 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Crossroads,Loony,1755,20,24,0.83,44,-4,3247,Loss,33,14,0,5,14,,,,,,,,,,,,,
 2,5,Stage 1 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Crossroads,Gunless,1250,16,26,0.62,42,-10,2795,Loss,28,0,26,2,0,,,,,,,,,,,,,
 2,6,Stage 1 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Miami,Shotzzy,915,10,5,2.00,15,5,1410,Win,,,,,,,3,1,1,1,1.14,158.43,,,,,,
-2,6,Stage 1 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Miami,Crimsix,725,6,4,1.50,10,2,1712,Win,,,,,,,1,1,1,0,0.71,220.71,,,,,,
+2,6,Stage 1 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Miami,C6,725,6,4,1.50,10,2,1712,Win,,,,,,,1,1,1,0,0.71,220.71,,,,,,
 2,6,Stage 1 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Miami,iLLeY,350,4,5,0.80,9,-1,818,Win,,,,,,,0,0,0,1,0.57,106.57,,,,,,
 2,6,Stage 1 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Miami,Huke,525,7,4,1.75,11,3,1258,Win,,,,,,,1,1,0,0,0.86,158.29,,,,,,
 2,6,Stage 1 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Miami,Octane,340,3,7,0.43,10,-4,824,Loss,,,,,,,1,4,0,0,0.43,117.71,,,,,,
@@ -48,7 +48,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 2,6,Stage 1 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Miami,Loony,490,3,7,0.43,10,-4,488,Loss,,,,,,,1,1,2,0,0.43,69.71,,,,,,
 2,6,Stage 1 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Miami,Gunless,200,4,7,0.57,11,-3,1121,Loss,,,,,,,0,0,0,0,0.57,151.14,,,,,,
 2,7,Stage 1 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Shotzzy,2825,21,10,2.10,31,11,2697,Win,,,,,,,,,,,,,3,11,5,10,6,674.25
-2,7,Stage 1 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Crimsix,2665,21,15,1.40,36,6,3372,Win,,,,,,,,,,,,,4,11,5,10,4,843
+2,7,Stage 1 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,C6,2665,21,15,1.40,36,6,3372,Win,,,,,,,,,,,,,4,11,5,10,4,843
 2,7,Stage 1 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,iLLeY,1875,16,16,1.00,32,0,3034,Win,,,,,,,,,,,,,4,9,4,7,0,758.5
 2,7,Stage 1 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Huke,1840,20,15,1.33,35,5,4280,Win,,,,,,,,,,,,,2,13,9,7,2,1070
 2,7,Stage 1 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Octane,1050,13,18,0.72,31,-5,3307,Loss,,,,,,,,,,,,,0,3,1,10,7,826.75
@@ -244,7 +244,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 9,31,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,majormaniak,1680,19,33,0.58,52,-14,5201,Loss,43,3,27,0,13,0,,,,,,,,,,,,
 9,31,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Priestahh,3170,33,26,1.27,59,7,5475,Loss,46,29,11,5,1,0,,,,,,,,,,,,
 9,31,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Shotzzy,4110,34,26,1.31,60,8,5730,Win,91,18,32,11,13,17,,,,,,,,,,,,
-9,31,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Crimsix,2420,24,26,0.92,50,-2,4742,Win,110,32,22,16,30,10,,,,,,,,,,,,
+9,31,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,C6,2420,24,26,0.92,50,-2,4742,Win,110,32,22,16,30,10,,,,,,,,,,,,
 9,31,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,iLLeY,2245,26,33,0.79,59,-7,5031,Win,43,0,6,20,7,10,,,,,,,,,,,,
 9,31,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Huke,4540,33,22,1.50,55,11,6130,Win,50,16,3,2,25,4,,,,,,,,,,,,
 9,32,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Search and Destroy,Moscow,Accuracy,250,5,6,0.83,11,-1,1048,Win,,,,,,,3,0,0,0,0.56,116.44,,,,,,
@@ -252,7 +252,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 9,32,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Search and Destroy,Moscow,majormaniak,825,9,7,1.29,16,2,1616,Win,,,,,,,1,1,1,0,1,179.56,,,,,,
 9,32,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Search and Destroy,Moscow,Priestahh,600,6,7,0.86,13,-1,1216,Win,,,,,,,1,0,0,0,0.67,135.11,,,,,,
 9,32,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,Shotzzy,325,4,6,0.67,10,-2,679,Loss,,,,,,,0,1,1,0,0.44,75.44,,,,,,
-9,32,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,Crimsix,450,5,7,0.71,12,-2,1532,Loss,,,,,,,2,2,0,0,0.56,170.22,,,,,,
+9,32,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,C6,450,5,7,0.71,12,-2,1532,Loss,,,,,,,2,2,0,0,0.56,170.22,,,,,,
 9,32,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,iLLeY,800,8,6,1.33,14,2,1810,Loss,,,,,,,1,1,1,0,0.89,201.11,,,,,,
 9,32,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,Huke,575,7,8,0.88,15,-1,1397,Loss,,,,,,,1,1,0,0,0.78,155.22,,,,,,
 9,33,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Control,Garrison,Accuracy,4000,27,26,1.04,53,1,4394,Win,,,,,,,,,,,,,5,14,11,13,3,878.8
@@ -260,7 +260,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 9,33,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Control,Garrison,majormaniak,2675,19,19,1.00,38,0,3859,Win,,,,,,,,,,,,,3,6,1,13,8,771.8
 9,33,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Control,Garrison,Priestahh,2915,27,26,1.04,53,1,5666,Win,,,,,,,,,,,,,4,18,10,9,3,1133.2
 9,33,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Control,Garrison,Shotzzy,2625,25,23,1.09,48,2,4538,Loss,,,,,,,,,,,,,4,14,6,11,5,907.6
-9,33,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Control,Garrison,Crimsix,1575,18,28,0.64,46,-10,3316,Loss,,,,,,,,,,,,,3,5,4,13,4,663.2
+9,33,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Control,Garrison,C6,1575,18,28,0.64,46,-10,3316,Loss,,,,,,,,,,,,,3,5,4,13,4,663.2
 9,33,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Control,Garrison,iLLeY,2175,24,28,0.86,52,-4,4749,Loss,,,,,,,,,,,,,3,9,3,15,6,949.8
 9,33,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Control,Garrison,Huke,3250,24,20,1.20,44,4,4291,Loss,,,,,,,,,,,,,4,13,7,11,7,858.2
 9,34,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Hardpoint,Garrison,Accuracy,2270,24,33,0.73,57,-9,5026,Loss,48,3,8,24,2,11,,,,,,,,,,,,
@@ -268,7 +268,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 9,34,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Hardpoint,Garrison,majormaniak,1985,28,34,0.82,62,-6,4832,Loss,35,20,5,0,8,2,,,,,,,,,,,,
 9,34,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Hardpoint,Garrison,Priestahh,3295,35,32,1.09,67,3,5884,Loss,45,21,1,2,15,6,,,,,,,,,,,,
 9,34,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,Shotzzy,2575,20,24,0.83,44,-4,4150,Win,154,45,34,29,20,26,,,,,,,,,,,,
-9,34,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,Crimsix,4160,29,27,1.07,56,2,5814,Win,11,8,0,0,2,1,,,,,,,,,,,,
+9,34,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,C6,4160,29,27,1.07,56,2,5814,Win,11,8,0,0,2,1,,,,,,,,,,,,
 9,34,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,iLLeY,2850,38,34,1.12,72,4,6592,Win,26,11,3,6,1,5,,,,,,,,,,,,
 9,34,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,Huke,4895,35,27,1.30,62,8,5467,Win,87,5,33,15,24,10,,,,,,,,,,,,
 9,35,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Search and Destroy,Garrison,Accuracy,875,9,4,2.25,13,5,1384,Win,,,,,,,1,0,0,0,1.13,173,,,,,,
@@ -276,7 +276,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 9,35,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Search and Destroy,Garrison,majormaniak,665,9,7,1.29,16,2,1730,Win,,,,,,,2,0,0,0,1.13,216.25,,,,,,
 9,35,Stage 1 Week 1,Minnesota ROKKR,Dallas Empire,Search and Destroy,Garrison,Priestahh,800,5,5,1.00,10,0,1047,Win,,,,,,,1,2,3,0,0.63,130.88,,,,,,
 9,35,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Garrison,Shotzzy,240,1,7,0.14,8,-6,579,Loss,,,,,,,0,2,1,0,0.13,72.38,,,,,,
-9,35,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Garrison,Crimsix,815,8,6,1.33,14,2,1832,Loss,,,,,,,0,1,0,0,1,229,,,,,,
+9,35,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Garrison,C6,815,8,6,1.33,14,2,1832,Loss,,,,,,,0,1,0,0,1,229,,,,,,
 9,35,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Garrison,iLLeY,400,5,8,0.63,13,-3,1333,Loss,,,,,,,1,1,0,0,0.63,166.63,,,,,,
 9,35,Stage 1 Week 1,Dallas Empire,Minnesota ROKKR,Search and Destroy,Garrison,Huke,590,7,7,1.00,14,0,1104,Loss,,,,,,,3,0,0,0,0.88,138,,,,,,
 10,36,Stage 1 Week 1,Atlanta FaZe,OpTic Chicago,Hardpoint,Garrison,Arcitys,2175,26,26,1.00,52,0,4889,Loss,41,5,4,10,8,14,,,,,,,,,,,,
@@ -456,7 +456,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 15,57,Super Week,Seattle Surge,Minnesota ROKKR,Control,Raid,Loony,3255,23,28,0.82,51,-5,4781,Loss,,,,,,,,,,,,,7,9,0,14,7,956.2
 15,57,Super Week,Seattle Surge,Minnesota ROKKR,Control,Raid,Gunless,4025,34,24,1.42,58,10,6242,Loss,,,,,,,,,,,,,8,13,6,21,7,1248.4
 16,58,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Moscow,Shotzzy,1920,19,25,0.76,44,-6,3709,Loss,36,15,3,10,8,,,,,,,,,,,,,
-16,58,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Moscow,Crimsix,2195,23,24,0.96,47,-1,3968,Loss,42,28,0,12,2,,,,,,,,,,,,,
+16,58,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Moscow,C6,2195,23,24,0.96,47,-1,3968,Loss,42,28,0,12,2,,,,,,,,,,,,,
 16,58,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Moscow,iLLeY,1450,15,29,0.52,44,-14,3338,Loss,60,17,10,22,11,,,,,,,,,,,,,
 16,58,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Moscow,Huke,2005,20,26,0.77,46,-6,3895,Loss,58,39,0,19,0,,,,,,,,,,,,,
 16,58,Super Week,London Royal Ravens,Dallas Empire,Hardpoint,Moscow,Parasite,3100,28,20,1.40,48,8,4640,Win,87,8,32,13,34,,,,,,,,,,,,,
@@ -464,7 +464,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 16,58,Super Week,London Royal Ravens,Dallas Empire,Hardpoint,Moscow,Seany,3915,30,16,1.88,46,14,5205,Win,43,11,31,1,0,,,,,,,,,,,,,
 16,58,Super Week,London Royal Ravens,Dallas Empire,Hardpoint,Moscow,Alexx,1640,16,19,0.84,35,-3,3533,Win,77,7,37,22,11,,,,,,,,,,,,,
 16,59,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Moscow,Shotzzy,895,8,5,1.60,13,3,1253,Win,,,,,,,3,0,1,0,0.89,139.22,,,,,,
-16,59,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Moscow,Crimsix,750,7,5,1.40,12,2,1579,Win,,,,,,,1,1,0,1,0.78,175.44,,,,,,
+16,59,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Moscow,C6,750,7,5,1.40,12,2,1579,Win,,,,,,,1,1,0,1,0.78,175.44,,,,,,
 16,59,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Moscow,iLLeY,250,2,8,0.25,10,-6,1031,Win,,,,,,,1,1,1,0,0.22,114.56,,,,,,
 16,59,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Moscow,Huke,975,10,5,2.00,15,5,1466,Win,,,,,,,1,1,0,0,1.11,162.89,,,,,,
 16,59,Super Week,London Royal Ravens,Dallas Empire,Search and Destroy,Moscow,Parasite,600,6,7,0.86,13,-1,1315,Loss,,,,,,,1,0,1,0,0.67,146.11,,,,,,
@@ -472,7 +472,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 16,59,Super Week,London Royal Ravens,Dallas Empire,Search and Destroy,Moscow,Seany,475,5,8,0.63,13,-3,1012,Loss,,,,,,,1,3,0,0,0.56,112.44,,,,,,
 16,59,Super Week,London Royal Ravens,Dallas Empire,Search and Destroy,Moscow,Alexx,565,6,6,1.00,12,0,1214,Loss,,,,,,,1,0,0,0,0.67,134.89,,,,,,
 16,60,Super Week,Dallas Empire,London Royal Ravens,Control,Garrison,Shotzzy,5480,32,20,1.60,52,12,5453,Win,,,,,,,,,,,,,5,15,6,17,4,1090.6
-16,60,Super Week,Dallas Empire,London Royal Ravens,Control,Garrison,Crimsix,2550,16,19,0.84,35,-3,4715,Win,,,,,,,,,,,,,4,4,3,12,1,943
+16,60,Super Week,Dallas Empire,London Royal Ravens,Control,Garrison,C6,2550,16,19,0.84,35,-3,4715,Win,,,,,,,,,,,,,4,4,3,12,1,943
 16,60,Super Week,Dallas Empire,London Royal Ravens,Control,Garrison,iLLeY,2175,27,23,1.17,50,4,4954,Win,,,,,,,,,,,,,2,11,6,16,5,990.8
 16,60,Super Week,Dallas Empire,London Royal Ravens,Control,Garrison,Huke,4100,27,20,1.35,47,7,4555,Win,,,,,,,,,,,,,6,7,3,20,8,911
 16,60,Super Week,London Royal Ravens,Dallas Empire,Control,Garrison,Parasite,2400,18,20,0.90,38,-2,3542,Loss,,,,,,,,,,,,,4,8,1,10,5,708.4
@@ -480,7 +480,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 16,60,Super Week,London Royal Ravens,Dallas Empire,Control,Garrison,Seany,2975,23,26,0.88,49,-3,4791,Loss,,,,,,,,,,,,,3,11,8,12,2,958.2
 16,60,Super Week,London Royal Ravens,Dallas Empire,Control,Garrison,Alexx,3100,23,26,0.88,49,-3,4307,Loss,,,,,,,,,,,,,3,11,4,12,7,861.4
 16,61,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,Shotzzy,2730,22,29,0.76,51,-7,4254,Loss,57,16,28,3,0,10,,,,,,,,,,,,
-16,61,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,Crimsix,2590,27,31,0.87,58,-4,5047,Loss,18,12,2,1,0,3,,,,,,,,,,,,
+16,61,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,C6,2590,27,31,0.87,58,-4,5047,Loss,18,12,2,1,0,3,,,,,,,,,,,,
 16,61,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,iLLeY,2150,25,30,0.83,55,-5,5358,Loss,75,5,56,0,14,0,,,,,,,,,,,,
 16,61,Super Week,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,Huke,3200,35,27,1.30,62,8,5900,Loss,91,33,10,2,41,5,,,,,,,,,,,,
 16,61,Super Week,London Royal Ravens,Dallas Empire,Hardpoint,Garrison,Parasite,2020,27,33,0.82,60,-6,5433,Win,68,2,16,41,1,8,,,,,,,,,,,,
@@ -488,7 +488,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 16,61,Super Week,London Royal Ravens,Dallas Empire,Hardpoint,Garrison,Seany,3225,25,19,1.32,44,6,4746,Win,61,12,6,7,11,25,,,,,,,,,,,,
 16,61,Super Week,London Royal Ravens,Dallas Empire,Hardpoint,Garrison,Alexx,3065,32,25,1.28,57,7,5605,Win,72,10,38,23,1,0,,,,,,,,,,,,
 16,62,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Miami,Shotzzy,700,6,6,1.00,12,0,1071,Win,,,,,,,1,2,1,0,0.6,107.1,,,,,,
-16,62,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Miami,Crimsix,1115,10,5,2.00,15,5,2257,Win,,,,,,,1,0,0,0,1,225.7,,,,,,
+16,62,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Miami,C6,1115,10,5,2.00,15,5,2257,Win,,,,,,,1,0,0,0,1,225.7,,,,,,
 16,62,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Miami,iLLeY,775,9,5,1.80,14,4,1829,Win,,,,,,,2,1,0,1,0.9,182.9,,,,,,
 16,62,Super Week,Dallas Empire,London Royal Ravens,Search and Destroy,Miami,Huke,995,7,4,1.75,11,3,1400,Win,,,,,,,2,1,1,0,0.7,140,,,,,,
 16,62,Super Week,London Royal Ravens,Dallas Empire,Search and Destroy,Miami,Parasite,575,7,7,1.00,14,0,1169,Loss,,,,,,,2,1,0,0,0.7,116.9,,,,,,
@@ -728,7 +728,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Aqua,825,9,3,3.00,12,6,1250,Win,,,,,,,2,0,0,0,1,138.89,,,,,,
 23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Fire,475,4,5,0.80,9,-1,1341,Win,,,,,,,0,1,0,1,0.44,149,,,,,,
 24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Shotzzy,2205,20,27,0.74,47,-7,3813,Loss,76,24,29,4,19,0,,,,,,,,,,,,
-24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Crimsix,1990,23,28,0.82,51,-5,4812,Loss,0,0,0,0,0,0,,,,,,,,,,,,
+24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,C6,1990,23,28,0.82,51,-5,4812,Loss,0,0,0,0,0,0,,,,,,,,,,,,
 24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,iLLeY,2090,22,23,0.96,45,-1,4595,Loss,55,2,27,0,26,0,,,,,,,,,,,,
 24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Huke,1545,22,28,0.79,50,-6,3424,Loss,30,19,0,0,0,11,,,,,,,,,,,,
 24,92,Super Week,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Asim,2475,30,24,1.25,54,6,5235,Win,42,12,13,14,3,0,,,,,,,,,,,,
@@ -736,7 +736,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 24,92,Super Week,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Diamondcon,2750,25,21,1.19,46,4,4691,Win,66,14,0,25,24,3,,,,,,,,,,,,
 24,92,Super Week,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Mack,2575,26,20,1.30,46,6,4489,Win,101,17,0,31,17,36,,,,,,,,,,,,
 24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Shotzzy,350,3,7,0.43,10,-4,968,Loss,,,,,,,2,0,0,0,0.33,107.56,,,,,,
-24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Crimsix,535,5,7,0.71,12,-2,1054,Loss,,,,,,,2,3,1,0,0.56,117.11,,,,,,
+24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,C6,535,5,7,0.71,12,-2,1054,Loss,,,,,,,2,3,1,0,0.56,117.11,,,,,,
 24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,iLLeY,575,6,8,0.75,14,-2,1456,Loss,,,,,,,1,0,0,0,0.67,161.78,,,,,,
 24,93,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Huke,650,8,7,1.14,15,1,1610,Loss,,,,,,,1,0,0,0,0.89,178.89,,,,,,
 24,93,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Asim,200,2,6,0.33,8,-4,796,Win,,,,,,,0,4,0,0,0.22,88.44,,,,,,
@@ -744,7 +744,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 24,93,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Diamondcon,675,5,5,1.00,10,0,974,Win,,,,,,,0,0,1,0,0.56,108.22,,,,,,
 24,93,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Mack,750,9,6,1.50,15,3,1979,Win,,,,,,,0,0,0,0,1,219.89,,,,,,
 24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,Shotzzy,4975,34,33,1.03,67,1,5649,Win,,,,,,,,,,,,,13,18,3,16,16,1129.8
-24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,Crimsix,3940,32,28,1.14,60,4,6076,Win,,,,,,,,,,,,,8,19,6,13,7,1215.2
+24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,C6,3940,32,28,1.14,60,4,6076,Win,,,,,,,,,,,,,8,19,6,13,7,1215.2
 24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,iLLeY,3550,26,38,0.68,64,-12,5605,Win,,,,,,,,,,,,,11,18,8,8,7,1121
 24,94,Super Week,Dallas Empire,New York Subliners,Control,Raid,Huke,6230,33,26,1.27,59,7,6180,Win,,,,,,,,,,,,,15,18,10,15,9,1236
 24,94,Super Week,New York Subliners,Dallas Empire,Control,Raid,Asim,2850,23,34,0.68,57,-11,4865,Loss,,,,,,,,,,,,,6,13,7,10,7,973
@@ -752,7 +752,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 24,94,Super Week,New York Subliners,Dallas Empire,Control,Raid,Diamondcon,3225,24,27,0.89,51,-3,5605,Loss,,,,,,,,,,,,,6,8,6,16,8,1121
 24,94,Super Week,New York Subliners,Dallas Empire,Control,Raid,Mack,2975,35,32,1.09,67,3,5803,Loss,,,,,,,,,,,,,3,16,7,19,6,1160.6
 24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,Shotzzy,3880,36,22,1.64,58,14,5291,Win,90,43,25,10,0,12,,,,,,,,,,,,
-24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,Crimsix,3100,33,24,1.38,57,9,6510,Win,20,5,3,0,12,0,,,,,,,,,,,,
+24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,C6,3100,33,24,1.38,57,9,6510,Win,20,5,3,0,12,0,,,,,,,,,,,,
 24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,iLLeY,1665,19,26,0.73,45,-7,4127,Win,58,7,28,6,15,2,,,,,,,,,,,,
 24,95,Super Week,Dallas Empire,New York Subliners,Hardpoint,Garrison,Huke,2440,25,27,0.93,52,-2,4471,Win,93,18,38,6,11,20,,,,,,,,,,,,
 24,95,Super Week,New York Subliners,Dallas Empire,Hardpoint,Garrison,Asim,2505,25,25,1.00,50,0,4609,Loss,63,4,0,36,0,23,,,,,,,,,,,,
@@ -760,7 +760,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 24,95,Super Week,New York Subliners,Dallas Empire,Hardpoint,Garrison,Diamondcon,2065,29,29,1.00,58,0,5284,Loss,42,10,4,0,16,12,,,,,,,,,,,,
 24,95,Super Week,New York Subliners,Dallas Empire,Hardpoint,Garrison,Mack,2100,23,28,0.82,51,-5,3968,Loss,40,0,2,36,0,2,,,,,,,,,,,,
 24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,Shotzzy,765,7,5,1.40,12,2,1143,Win,,,,,,,3,0,2,0,0.78,127,,,,,,
-24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,Crimsix,400,4,5,0.80,9,-1,1456,Win,,,,,,,1,1,0,0,0.44,161.78,,,,,,
+24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,C6,400,4,5,0.80,9,-1,1456,Win,,,,,,,1,1,0,0,0.44,161.78,,,,,,
 24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,iLLeY,475,5,7,0.71,12,-2,1250,Win,,,,,,,2,0,1,0,0.56,138.89,,,,,,
 24,96,Super Week,Dallas Empire,New York Subliners,Search and Destroy,Miami,Huke,1200,12,5,2.40,17,7,2017,Win,,,,,,,2,0,0,0,1.33,224.11,,,,,,
 24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Asim,990,6,7,0.86,13,-1,1017,Loss,,,,,,,0,3,0,0,0.67,113,,,,,,
@@ -940,7 +940,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,SlasheR,2460,21,19,1.11,40,2,3450,Loss,117,18,5,35,58,1,,,,,,,,,,,,
 30,118,Super Week,Los Angeles Thieves,Dallas Empire,Hardpoint,Raid,Temp,1850,13,22,0.59,35,-9,3085,Loss,35,0,0,26,0,9,,,,,,,,,,,,
 30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Shotzzy,2030,18,24,0.75,42,-6,4054,Win,81,7,23,21,12,18,,,,,,,,,,,,
-30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Crimsix,2340,19,21,0.90,40,-2,3775,Win,115,23,24,46,19,3,,,,,,,,,,,,
+30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,C6,2340,19,21,0.90,40,-2,3775,Win,115,23,24,46,19,3,,,,,,,,,,,,
 30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,iLLeY,2605,25,22,1.14,47,3,3878,Win,47,8,23,1,0,15,,,,,,,,,,,,
 30,118,Super Week,Dallas Empire,Los Angeles Thieves,Hardpoint,Raid,Huke,2865,28,19,1.47,47,9,5175,Win,63,0,15,9,35,4,,,,,,,,,,,,
 30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,Kenny,1095,10,8,1.25,18,2,1856,Loss,,,,,,,2,3,0,1,0.91,168.73,,,,,,
@@ -948,7 +948,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,SlasheR,555,6,9,0.67,15,-3,1612,Loss,,,,,,,1,0,0,0,0.55,146.55,,,,,,
 30,119,Super Week,Los Angeles Thieves,Dallas Empire,Search and Destroy,Checkmate,Temp,690,6,8,0.75,14,-2,1726,Loss,,,,,,,0,1,2,0,0.55,156.91,,,,,,
 30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Shotzzy,1750,10,8,1.25,18,2,1619,Win,,,,,,,1,1,1,0,0.91,147.18,,,,,,
-30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Crimsix,1240,8,7,1.14,15,1,2199,Win,,,,,,,4,2,0,1,0.73,199.91,,,,,,
+30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,C6,1240,8,7,1.14,15,1,2199,Win,,,,,,,4,2,0,1,0.73,199.91,,,,,,
 30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,iLLeY,1290,10,7,1.43,17,3,1938,Win,,,,,,,0,0,1,0,0.91,176.18,,,,,,
 30,119,Super Week,Dallas Empire,Los Angeles Thieves,Search and Destroy,Checkmate,Huke,525,6,8,0.75,14,-2,1648,Win,,,,,,,2,1,0,0,0.55,149.82,,,,,,
 30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,Kenny,2950,27,25,1.08,52,2,4861,Loss,,,,,,,,,,,,,5,12,4,15,11,1215.25
@@ -956,7 +956,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,SlasheR,2740,19,21,0.90,40,-2,3827,Loss,,,,,,,,,,,,,3,8,0,11,4,956.75
 30,120,Super Week,Los Angeles Thieves,Dallas Empire,Control,Raid,Temp,3240,22,30,0.73,52,-8,4550,Loss,,,,,,,,,,,,,4,9,4,13,7,1137.5
 30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Shotzzy,3600,23,22,1.05,45,1,4534,Win,,,,,,,,,,,,,5,6,1,17,4,1133.5
-30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Crimsix,4125,23,23,1.00,46,0,4667,Win,,,,,,,,,,,,,10,14,7,9,2,1166.75
+30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,C6,4125,23,23,1.00,46,0,4667,Win,,,,,,,,,,,,,10,14,7,9,2,1166.75
 30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,iLLeY,4350,25,23,1.09,48,2,4211,Win,,,,,,,,,,,,,9,10,5,15,3,1052.75
 30,120,Super Week,Dallas Empire,Los Angeles Thieves,Control,Raid,Huke,3400,38,26,1.46,64,12,6948,Win,,,,,,,,,,,,,5,19,10,19,7,1737
 31,121,Major 1,Toronto Ultra,London Royal Ravens,Hardpoint,Garrison,Bance,3255,27,18,1.50,45,9,4897,Win,63,1,5,44,13,0,,,,,,,,,,,,
@@ -1176,7 +1176,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 37,147,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,Simp,2570,23,17,1.35,40,6,3715,Win,,,,,,,,,,,,,3,12,7,11,7,928.75
 37,147,Major 1,Atlanta FaZe,Los Angeles Guerrillas,Control,Garrison,aBeZy,1425,17,25,0.68,42,-8,3698,Win,,,,,,,,,,,,,1,9,5,8,2,924.5
 38,148,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Shotzzy,2295,19,23,0.83,42,-4,3902,Win,66,26,21,12,5,2,,,,,,,,,,,,
-38,148,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Crimsix,2485,24,19,1.26,43,5,4494,Win,42,4,19,2,17,0,,,,,,,,,,,,
+38,148,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,C6,2485,24,19,1.26,43,5,4494,Win,42,4,19,2,17,0,,,,,,,,,,,,
 38,148,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,iLLeY,3650,26,16,1.63,42,10,4190,Win,52,27,2,22,1,0,,,,,,,,,,,,
 38,148,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Huke,2095,21,18,1.17,39,3,4130,Win,115,17,44,1,42,11,,,,,,,,,,,,
 38,148,Major 1,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,FORMAL,2775,23,22,1.05,45,1,4734,Loss,58,5,4,15,15,19,,,,,,,,,,,,
@@ -1184,7 +1184,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 38,148,Major 1,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,Envoy,2220,15,23,0.65,38,-8,2750,Loss,67,4,0,35,27,1,,,,,,,,,,,,
 38,148,Major 1,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,Scump,2750,18,24,0.75,42,-6,3377,Loss,14,6,2,5,0,1,,,,,,,,,,,,
 38,149,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Moscow,Shotzzy,625,4,6,0.67,10,-2,853,Loss,,,,,,,1,2,3,0,0.5,106.63,,,,,,
-38,149,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Moscow,Crimsix,275,4,8,0.50,12,-4,1215,Loss,,,,,,,1,1,0,0,0.5,151.88,,,,,,
+38,149,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Moscow,C6,275,4,8,0.50,12,-4,1215,Loss,,,,,,,1,1,0,0,0.5,151.88,,,,,,
 38,149,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Moscow,iLLeY,375,5,6,0.83,11,-1,1237,Loss,,,,,,,1,1,0,0,0.63,154.63,,,,,,
 38,149,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Moscow,Huke,165,3,8,0.38,11,-5,821,Loss,,,,,,,0,1,0,0,0.38,102.63,,,,,,
 38,149,Major 1,OpTic Chicago,Dallas Empire,Search and Destroy,Moscow,FORMAL,575,6,5,1.20,11,1,1237,Win,,,,,,,2,1,0,0,0.75,154.63,,,,,,
@@ -1192,7 +1192,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 38,149,Major 1,OpTic Chicago,Dallas Empire,Search and Destroy,Moscow,Envoy,2450,11,4,2.75,15,7,1597,Win,,,,,,,1,1,1,1,1.38,199.63,,,,,,
 38,149,Major 1,OpTic Chicago,Dallas Empire,Search and Destroy,Moscow,Scump,630,4,2,2.00,6,2,757,Win,,,,,,,0,1,0,1,0.5,94.63,,,,,,
 38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,Shotzzy,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
-38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,Crimsix,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
+38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,C6,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
 38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,iLLeY,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
 38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,Huke,,,,,,,,Loss,,,,,,,,,,,,,,,,,,
 38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,FORMAL,,,,,,,,Win,,,,,,,,,,,,,,,,,,
@@ -1200,7 +1200,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,Envoy,,,,,,,,Win,,,,,,,,,,,,,,,,,,
 38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,Scump,,,,,,,,Win,,,,,,,,,,,,,,,,,,
 38,151,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Shotzzy,3235,29,25,1.16,54,4,5252,Win,45,0,17,22,6,,,,,,,,,,,,,
-38,151,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Crimsix,2195,26,25,1.04,51,1,4818,Win,57,10,16,3,28,,,,,,,,,,,,,
+38,151,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,C6,2195,26,25,1.04,51,1,4818,Win,57,10,16,3,28,,,,,,,,,,,,,
 38,151,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,iLLeY,2575,22,22,1.00,44,0,4154,Win,102,25,42,7,28,,,,,,,,,,,,,
 38,151,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Huke,2040,23,22,1.05,45,1,3692,Win,109,18,46,36,9,,,,,,,,,,,,,
 38,151,Major 1,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,FORMAL,2400,18,23,0.78,41,-5,3703,Loss,28,13,3,8,4,,,,,,,,,,,,,
@@ -1208,7 +1208,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 38,151,Major 1,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,Envoy,4710,32,23,1.39,55,9,4996,Loss,37,25,5,0,7,,,,,,,,,,,,,
 38,151,Major 1,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,Scump,1380,19,29,0.66,48,-10,3521,Loss,41,25,5,11,0,,,,,,,,,,,,,
 38,152,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Shotzzy,1305,7,7,1.00,14,0,1546,Win,,,,,,,1,2,3,0,0.64,140.55,,,,,,
-38,152,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Crimsix,730,7,6,1.17,13,1,1374,Win,,,,,,,2,0,0,1,0.64,124.91,,,,,,
+38,152,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,C6,730,7,6,1.17,13,1,1374,Win,,,,,,,2,0,0,1,0.64,124.91,,,,,,
 38,152,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,iLLeY,325,4,8,0.50,12,-4,837,Win,,,,,,,0,2,0,0,0.36,76.09,,,,,,
 38,152,Major 1,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Huke,2600,14,6,2.33,20,8,2250,Win,,,,,,,3,0,0,0,1.27,204.55,,,,,,
 38,152,Major 1,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,FORMAL,525,7,7,1.00,14,0,1677,Loss,,,,,,,1,0,0,1,0.64,152.45,,,,,,
@@ -1368,7 +1368,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Diamondcon,3425,23,23,1.00,46,0,4806,Win,,,,,,,,,,,,,7,8,3,15,9,1201.5
 43,171,Major 1,New York Subliners,OpTic Chicago,Control,Checkmate,Mack,4475,24,16,1.50,40,8,4155,Win,,,,,,,,,,,,,7,13,8,11,5,1038.75
 44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,Shotzzy,3575,30,29,1.03,59,1,5358,Loss,80,20,21,11,28,,,,,,,,,,,,,
-44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,Crimsix,2140,24,28,0.86,52,-4,4004,Loss,10,4,0,6,0,,,,,,,,,,,,,
+44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,C6,2140,24,28,0.86,52,-4,4004,Loss,10,4,0,6,0,,,,,,,,,,,,,
 44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,iLLeY,1975,28,28,1.00,56,0,5412,Loss,2,0,2,0,0,,,,,,,,,,,,,
 44,172,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Crossroads,Huke,1890,23,29,0.79,52,-6,4547,Loss,53,15,9,16,13,,,,,,,,,,,,,
 44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Arcitys,2190,27,31,0.87,58,-4,5660,Win,49,18,15,1,15,,,,,,,,,,,,,
@@ -1376,7 +1376,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,Simp,4060,32,23,1.39,55,9,5581,Win,54,21,3,30,0,,,,,,,,,,,,,
 44,172,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Crossroads,aBeZy,2345,25,22,1.14,47,3,4098,Win,158,35,58,43,22,,,,,,,,,,,,,
 44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,Shotzzy,350,2,6,0.33,8,-4,523,Loss,,,,,,,0,1,2,0,0.25,65.38,,,,,,
-44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,Crimsix,625,7,6,1.17,13,1,1451,Loss,,,,,,,1,1,0,1,0.88,181.38,,,,,,
+44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,C6,625,7,6,1.17,13,1,1451,Loss,,,,,,,1,1,0,1,0.88,181.38,,,,,,
 44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,iLLeY,200,2,7,0.29,9,-5,657,Loss,,,,,,,0,2,1,0,0.25,82.13,,,,,,
 44,173,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Miami,Huke,150,3,7,0.43,10,-4,677,Loss,,,,,,,1,2,0,0,0.38,84.63,,,,,,
 44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Arcitys,500,3,3,1.00,6,0,661,Win,,,,,,,0,0,1,1,0.38,82.63,,,,,,
@@ -1384,7 +1384,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,Simp,925,7,4,1.75,11,3,1485,Win,,,,,,,1,2,1,1,0.88,185.63,,,,,,
 44,173,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Miami,aBeZy,2200,14,4,3.50,18,10,1852,Win,,,,,,,5,0,1,0,1.75,231.5,,,,,,
 44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,1625,16,21,0.76,37,-5,2601,Loss,,,,,,,,,,,,,2,7,2,9,5,867
-44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Crimsix,1655,18,21,0.86,39,-3,4200,Loss,,,,,,,,,,,,,1,6,3,12,10,1400
+44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,C6,1655,18,21,0.86,39,-3,4200,Loss,,,,,,,,,,,,,1,6,3,12,10,1400
 44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,iLLeY,1125,16,21,0.76,37,-5,3428,Loss,,,,,,,,,,,,,1,6,4,10,6,1142.67
 44,174,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Huke,1800,16,21,0.76,37,-5,2862,Loss,,,,,,,,,,,,,3,4,1,12,11,954
 44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2550,21,17,1.24,38,4,3977,Win,,,,,,,,,,,,,5,15,10,6,4,1325.67
@@ -1392,7 +1392,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,3400,22,13,1.69,35,9,3617,Win,,,,,,,,,,,,,7,14,9,8,3,1205.67
 44,174,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,3000,26,23,1.13,49,3,4802,Win,,,,,,,,,,,,,7,16,9,10,4,1600.67
 45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,Shotzzy,2330,24,31,0.77,55,-7,4541,Win,77,14,52,11,0,,,,,,,,,,,,,
-45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,Crimsix,3880,38,27,1.41,65,11,6332,Win,84,18,12,20,34,,,,,,,,,,,,,
+45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,C6,3880,38,27,1.41,65,11,6332,Win,84,18,12,20,34,,,,,,,,,,,,,
 45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,iLLeY,3895,31,25,1.24,56,6,5642,Win,76,31,32,13,0,,,,,,,,,,,,,
 45,175,Major 1,Dallas Empire,New York Subliners,Hardpoint,Crossroads,Huke,4070,40,32,1.25,72,8,6024,Win,32,3,23,5,1,,,,,,,,,,,,,
 45,175,Major 1,New York Subliners,Dallas Empire,Hardpoint,Crossroads,Asim,2350,29,36,0.81,65,-7,5107,Loss,41,9,5,27,0,,,,,,,,,,,,,
@@ -1400,7 +1400,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 45,175,Major 1,New York Subliners,Dallas Empire,Hardpoint,Crossroads,Diamondcon,1920,23,32,0.72,55,-9,4886,Loss,74,44,3,10,17,,,,,,,,,,,,,
 45,175,Major 1,New York Subliners,Dallas Empire,Hardpoint,Crossroads,Mack,2395,28,34,0.82,62,-6,5588,Loss,103,13,5,73,12,,,,,,,,,,,,,
 45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Shotzzy,615,4,9,0.44,13,-5,1188,Win,,,,,,,1,2,1,0,0.36,108,,,,,,
-45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Crimsix,1650,12,6,2.00,18,6,2013,Win,,,,,,,2,0,0,0,1.09,183,,,,,,
+45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,C6,1650,12,6,2.00,18,6,2013,Win,,,,,,,2,0,0,0,1.09,183,,,,,,
 45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,iLLeY,830,8,9,0.89,17,-1,1533,Win,,,,,,,1,0,1,1,0.73,139.36,,,,,,
 45,176,Major 1,Dallas Empire,New York Subliners,Search and Destroy,Checkmate,Huke,920,11,9,1.22,20,2,2287,Win,,,,,,,3,2,0,0,1,207.91,,,,,,
 45,176,Major 1,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Asim,775,7,8,0.88,15,-1,1783,Loss,,,,,,,0,2,0,1,0.64,162.09,,,,,,
@@ -1408,7 +1408,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 45,176,Major 1,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Diamondcon,650,6,9,0.67,15,-3,1425,Loss,,,,,,,0,1,1,0,0.55,129.55,,,,,,
 45,176,Major 1,New York Subliners,Dallas Empire,Search and Destroy,Checkmate,Mack,675,9,10,0.90,19,-1,1643,Loss,,,,,,,3,2,0,0,0.82,149.36,,,,,,
 45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,Shotzzy,4195,33,24,1.38,57,9,5257,Win,,,,,,,,,,,,,1,14,11,19,12,1051.4
-45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,Crimsix,3080,28,26,1.08,54,2,6090,Win,,,,,,,,,,,,,3,11,7,17,5,1218
+45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,C6,3080,28,26,1.08,54,2,6090,Win,,,,,,,,,,,,,3,11,7,17,5,1218
 45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,iLLeY,3525,29,26,1.12,55,3,5160,Win,,,,,,,,,,,,,3,8,4,21,15,1032
 45,177,Major 1,Dallas Empire,New York Subliners,Control,Checkmate,Huke,2190,29,26,1.12,55,3,5347,Win,,,,,,,,,,,,,1,8,2,21,16,1069.4
 45,177,Major 1,New York Subliners,Dallas Empire,Control,Checkmate,Asim,2790,26,32,0.81,58,-6,5481,Loss,,,,,,,,,,,,,3,14,8,12,6,1096.2
@@ -1420,7 +1420,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Simp,2100,21,18,1.17,39,3,4286,Win,51,15,3,7,26,,,,,,,,,,,,,
 46,178,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,aBeZy,2095,17,20,0.85,37,-3,4192,Win,55,28,2,5,20,,,,,,,,,,,,,
 46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Shotzzy,2240,24,19,1.26,43,5,4279,Loss,36,23,3,4,6,,,,,,,,,,,,,
-46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Crimsix,1805,21,21,1.00,42,0,4285,Loss,71,12,20,39,0,,,,,,,,,,,,,
+46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,C6,1805,21,21,1.00,42,0,4285,Loss,71,12,20,39,0,,,,,,,,,,,,,
 46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,iLLeY,2010,21,20,1.05,41,1,3903,Loss,47,0,36,9,2,,,,,,,,,,,,,
 46,178,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Huke,1375,13,25,0.52,38,-12,3046,Loss,47,0,35,0,12,,,,,,,,,,,,,
 46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Arcitys,1075,7,4,1.75,11,3,1550,Win,,,,,,,1,1,1,2,0.78,172.22,,,,,,
@@ -1428,7 +1428,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,Simp,740,9,7,1.29,16,2,1668,Win,,,,,,,0,0,0,0,1,185.33,,,,,,
 46,179,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Garrison,aBeZy,175,3,8,0.38,11,-5,1150,Win,,,,,,,2,4,0,0,0.33,127.78,,,,,,
 46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,Shotzzy,1250,11,6,1.83,17,5,2053,Loss,,,,,,,3,1,3,0,1.22,228.11,,,,,,
-46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,Crimsix,440,5,9,0.56,14,-4,1875,Loss,,,,,,,1,0,0,0,0.56,208.33,,,,,,
+46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,C6,440,5,9,0.56,14,-4,1875,Loss,,,,,,,1,0,0,0,0.56,208.33,,,,,,
 46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,iLLeY,450,4,7,0.57,11,-3,1454,Loss,,,,,,,0,2,0,0,0.44,161.56,,,,,,
 46,179,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Garrison,Huke,350,3,8,0.38,11,-5,1124,Loss,,,,,,,1,1,0,0,0.33,124.89,,,,,,
 46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Arcitys,1625,10,9,1.11,19,1,1782,Win,,,,,,,,,,,,,4,7,5,3,0,445.5
@@ -1436,7 +1436,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,Simp,2215,15,9,1.67,24,6,2648,Win,,,,,,,,,,,,,3,7,4,8,3,662
 46,180,Major 1,Atlanta FaZe,Dallas Empire,Control,Garrison,aBeZy,2450,15,9,1.67,24,6,2662,Win,,,,,,,,,,,,,2,5,2,10,2,665.5
 46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,Shotzzy,950,13,13,1.00,26,0,2415,Loss,,,,,,,,,,,,,0,7,2,6,3,603.75
-46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,Crimsix,675,7,14,0.50,21,-7,2329,Loss,,,,,,,,,,,,,0,3,2,4,1,582.25
+46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,C6,675,7,14,0.50,21,-7,2329,Loss,,,,,,,,,,,,,0,3,2,4,1,582.25
 46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,iLLeY,425,5,15,0.33,20,-10,1505,Loss,,,,,,,,,,,,,0,2,1,3,0,376.25
 46,180,Major 1,Dallas Empire,Atlanta FaZe,Control,Garrison,Huke,375,7,15,0.47,22,-8,1767,Loss,,,,,,,,,,,,,0,2,0,5,2,441.75
 46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Arcitys,2220,16,23,0.70,39,-7,3261,Loss,18,3,0,3,6,6,,,,,,,,,,,,
@@ -1444,7 +1444,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Simp,1175,13,24,0.54,37,-11,3014,Loss,25,2,2,0,20,1,,,,,,,,,,,,
 46,181,Major 1,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,aBeZy,1625,21,25,0.84,46,-4,3557,Loss,33,11,0,11,9,2,,,,,,,,,,,,
 46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Shotzzy,2060,21,19,1.11,40,2,4221,Win,76,10,49,0,1,16,,,,,,,,,,,,
-46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Crimsix,2185,24,19,1.26,43,5,4638,Win,49,7,17,12,13,0,,,,,,,,,,,,
+46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,C6,2185,24,19,1.26,43,5,4638,Win,49,7,17,12,13,0,,,,,,,,,,,,
 46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,iLLeY,2635,22,18,1.22,40,4,3974,Win,102,0,39,61,2,0,,,,,,,,,,,,
 46,181,Major 1,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Huke,3325,29,15,1.93,44,14,4463,Win,52,26,0,1,25,0,,,,,,,,,,,,
 46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Arcitys,440,3,3,1.00,6,0,778,Win,,,,,,,0,0,0,0,0.43,111.14,,,,,,
@@ -1452,7 +1452,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Simp,1450,9,3,3.00,12,6,1331,Win,,,,,,,3,0,1,0,1.29,190.14,,,,,,
 46,182,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,aBeZy,1150,7,4,1.75,11,3,1158,Win,,,,,,,3,0,0,1,1,165.43,,,,,,
 46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Shotzzy,415,1,7,0.14,8,-6,659,Loss,,,,,,,0,2,2,0,0.14,94.14,,,,,,
-46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Crimsix,150,3,6,0.50,9,-3,886,Loss,,,,,,,0,1,0,0,0.43,126.57,,,,,,
+46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,C6,150,3,6,0.50,9,-3,886,Loss,,,,,,,0,1,0,0,0.43,126.57,,,,,,
 46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,iLLeY,475,7,7,1.00,14,0,1047,Loss,,,,,,,0,2,0,0,1,149.57,,,,,,
 46,182,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Huke,415,4,6,0.67,10,-2,976,Loss,,,,,,,0,2,0,0,0.57,139.43,,,,,,
 46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2125,15,19,0.79,34,-4,3286,Loss,,,,,,,,,,,,,5,10,3,5,3,1095.33
@@ -1460,7 +1460,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,2790,17,17,1.00,34,0,3012,Loss,,,,,,,,,,,,,4,15,4,2,0,1004
 46,183,Major 1,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,1200,14,22,0.64,36,-8,3323,Loss,,,,,,,,,,,,,2,10,2,4,0,1107.67
 46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,1375,14,19,0.74,33,-5,2738,Win,,,,,,,,,,,,,3,1,0,13,4,912.67
-46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Crimsix,1275,17,12,1.42,29,5,3248,Win,,,,,,,,,,,,,2,6,1,11,4,1082.67
+46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,C6,1275,17,12,1.42,29,5,3248,Win,,,,,,,,,,,,,2,6,1,11,4,1082.67
 46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,iLLeY,2550,22,16,1.38,38,6,4174,Win,,,,,,,,,,,,,5,6,3,16,2,1391.33
 46,183,Major 1,Dallas Empire,Atlanta FaZe,Control,Raid,Huke,3050,20,14,1.43,34,6,3398,Win,,,,,,,,,,,,,4,8,6,12,1,1132.67
 46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Arcitys,700,3,4,0.75,7,-1,219,Win,,,,,,,0,1,3,0,0.38,27.38,,,,,,
@@ -1468,7 +1468,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Simp,2100,12,3,4.00,15,9,1852,Win,,,,,,,1,0,0,0,1.5,231.5,,,,,,
 46,184,Major 1,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,aBeZy,475,8,7,1.14,15,1,1834,Win,,,,,,,3,2,0,0,1,229.25,,,,,,
 46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Shotzzy,355,3,7,0.43,10,-4,696,Loss,,,,,,,2,2,0,0,0.38,87,,,,,,
-46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Crimsix,640,8,6,1.33,14,2,1596,Loss,,,,,,,0,0,1,0,1,199.5,,,,,,
+46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,C6,640,8,6,1.33,14,2,1596,Loss,,,,,,,0,0,1,0,1,199.5,,,,,,
 46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,iLLeY,375,3,5,0.60,8,-2,1002,Loss,,,,,,,0,1,0,0,0.38,125.25,,,,,,
 46,184,Major 1,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Huke,200,2,7,0.29,9,-5,470,Loss,,,,,,,1,2,0,0,0.25,58.75,,,,,,
 47,185,Stage 2 Week 1,Atlanta FaZe,New York Subliners,Hardpoint,Garrison,Arcitys,2255,26,22,1.18,48,4,5041,Win,32,9,5,13,0,5,,,,,,,,,,,,
@@ -1656,7 +1656,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 52,207,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Checkmate,majormaniak,2440,17,20,0.85,37,-3,3068,Loss,,,,,,,,,,,,,4,7,4,10,11,767
 52,207,Stage 2 Week 1,Minnesota ROKKR,Florida Mutineers,Control,Checkmate,Priestahh,1600,18,24,0.75,42,-6,3041,Loss,,,,,,,,,,,,,2,11,8,7,6,760.25
 53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,Shotzzy,2795,21,17,1.24,38,4,4221,Win,63,34,28,0,1,,,,,,,,,,,,,
-53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,Crimsix,2805,22,15,1.47,37,7,3695,Win,70,27,28,1,14,,,,,,,,,,,,,
+53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,C6,2805,22,15,1.47,37,7,3695,Win,70,27,28,1,14,,,,,,,,,,,,,
 53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,iLLeY,2550,20,18,1.11,38,2,3714,Win,88,9,15,57,7,,,,,,,,,,,,,
 53,208,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Moscow,Huke,4160,22,10,2.20,32,12,3211,Win,46,27,18,0,1,,,,,,,,,,,,,
 53,208,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Moscow,Octane,1145,12,20,0.60,32,-8,2920,Loss,38,15,12,11,0,,,,,,,,,,,,,
@@ -1664,7 +1664,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 53,208,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Moscow,Loony,910,10,23,0.43,33,-13,2286,Loss,30,3,11,14,2,,,,,,,,,,,,,
 53,208,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Moscow,Gunless,1295,15,24,0.63,39,-9,3947,Loss,43,16,21,0,6,,,,,,,,,,,,,
 53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,Shotzzy,475,4,7,0.57,11,-3,776,Win,,,,,,,1,1,1,0,0.36,70.55,,,,,,
-53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,Crimsix,665,9,8,1.13,17,1,2072,Win,,,,,,,1,1,0,0,0.82,188.36,,,,,,
+53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,C6,665,9,8,1.13,17,1,2072,Win,,,,,,,1,1,0,0,0.82,188.36,,,,,,
 53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,iLLeY,975,12,9,1.33,21,3,2078,Win,,,,,,,3,3,0,0,1.09,188.91,,,,,,
 53,209,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Checkmate,Huke,630,7,7,1.00,14,0,1614,Win,,,,,,,0,1,0,0,0.64,146.73,,,,,,
 53,209,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Checkmate,Octane,1165,12,7,1.71,19,5,2461,Loss,,,,,,,2,0,1,0,1.09,223.73,,,,,,
@@ -1672,7 +1672,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 53,209,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Checkmate,Loony,390,4,8,0.50,12,-4,912,Loss,,,,,,,0,2,0,0,0.36,82.91,,,,,,
 53,209,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Checkmate,Gunless,490,7,9,0.78,16,-2,1487,Loss,,,,,,,2,1,0,0,0.64,135.18,,,,,,
 53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Shotzzy,2315,21,21,1.00,42,0,3712,Loss,,,,,,,,,,,,,4,12,8,9,8,742.4
-53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Crimsix,1825,14,91,0.15,105,-77,3531,Loss,,,,,,,,,,,,,4,9,8,5,2,706.2
+53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,C6,1825,14,91,0.15,105,-77,3531,Loss,,,,,,,,,,,,,4,9,8,5,2,706.2
 53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,iLLeY,3050,23,22,1.05,45,1,5366,Loss,,,,,,,,,,,,,3,13,7,10,6,1073.2
 53,210,Stage 2 Week 1,Dallas Empire,Seattle Surge,Control,Garrison,Huke,1550,13,23,0.57,36,-10,3015,Loss,,,,,,,,,,,,,4,6,2,7,3,603
 53,210,Stage 2 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Octane,2150,21,17,1.24,38,4,4014,Win,,,,,,,,,,,,,2,7,6,14,10,802.8
@@ -1680,7 +1680,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 53,210,Stage 2 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Loony,2380,17,16,1.06,33,1,3857,Win,,,,,,,,,,,,,4,9,6,8,6,771.4
 53,210,Stage 2 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Gunless,2975,24,18,1.33,42,6,4677,Win,,,,,,,,,,,,,3,6,2,18,8,935.4
 53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,Shotzzy,1425,14,17,0.82,31,-3,2287,Loss,36,0,9,14,0,13,,,,,,,,,,,,
-53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,Crimsix,1395,14,21,0.67,35,-7,3548,Loss,32,0,24,8,0,0,,,,,,,,,,,,
+53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,C6,1395,14,21,0.67,35,-7,3548,Loss,32,0,24,8,0,0,,,,,,,,,,,,
 53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,iLLeY,1970,19,18,1.06,37,1,3391,Loss,56,3,21,1,31,0,,,,,,,,,,,,
 53,211,Stage 2 Week 1,Dallas Empire,Seattle Surge,Hardpoint,Raid,Huke,1950,12,21,0.57,33,-9,2468,Loss,51,32,9,7,3,0,,,,,,,,,,,,
 53,211,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Raid,Octane,3025,20,11,1.82,31,9,2967,Win,145,21,27,48,31,18,,,,,,,,,,,,
@@ -1688,7 +1688,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 53,211,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Raid,Loony,2635,17,13,1.31,30,4,2925,Win,102,18,14,27,22,21,,,,,,,,,,,,
 53,211,Stage 2 Week 1,Seattle Surge,Dallas Empire,Hardpoint,Raid,Gunless,3890,22,17,1.29,39,5,4136,Win,72,4,20,30,12,6,,,,,,,,,,,,
 53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,Shotzzy,1000,9,9,1.00,18,0,1839,Win,,,,,,,0,0,3,0,0.82,167.18,,,,,,
-53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,Crimsix,2375,15,8,1.88,23,7,2474,Win,,,,,,,1,1,1,0,1.36,224.91,,,,,,
+53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,C6,2375,15,8,1.88,23,7,2474,Win,,,,,,,1,1,1,0,1.36,224.91,,,,,,
 53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,iLLeY,280,3,9,0.33,12,-6,1186,Win,,,,,,,0,2,0,0,0.27,107.82,,,,,,
 53,212,Stage 2 Week 1,Dallas Empire,Seattle Surge,Search and Destroy,Express,Huke,565,6,7,0.86,13,-1,1210,Win,,,,,,,2,4,0,2,0.55,110,,,,,,
 53,212,Stage 2 Week 1,Seattle Surge,Dallas Empire,Search and Destroy,Express,Octane,2915,14,7,2.00,21,7,2260,Loss,,,,,,,0,1,0,2,1.27,205.45,,,,,,
@@ -1784,7 +1784,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 56,223,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,SlasheR,340,3,7,0.43,10,-4,1058,Loss,,,,,,,0,1,0,0,0.33,117.56,,,,,,
 56,223,Stage 2 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Checkmate,Temp,240,4,9,0.44,13,-5,901,Loss,,,,,,,3,0,0,0,0.44,100.11,,,,,,
 57,224,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Garrison,Shotzzy,2830,26,24,1.08,50,2,4865,Win,112,38,40,17,0,17,,,,,,,,,,,,
-57,224,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Garrison,Crimsix,3090,34,25,1.36,59,9,6354,Win,48,8,16,23,0,1,,,,,,,,,,,,
+57,224,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Garrison,C6,3090,34,25,1.36,59,9,6354,Win,48,8,16,23,0,1,,,,,,,,,,,,
 57,224,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Garrison,iLLeY,2215,31,28,1.11,59,3,5442,Win,43,4,0,21,2,16,,,,,,,,,,,,
 57,224,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Garrison,Huke,2760,22,25,0.88,47,-3,3739,Win,73,6,29,4,1,33,,,,,,,,,,,,
 57,224,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Garrison,Skrapz,1935,26,28,0.93,54,-2,5506,Loss,65,31,3,0,30,1,,,,,,,,,,,,
@@ -1792,7 +1792,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 57,224,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Garrison,Aqua,4055,33,26,1.27,59,7,5883,Loss,22,17,3,0,0,2,,,,,,,,,,,,
 57,224,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Garrison,Fire,2280,24,29,0.83,53,-5,3838,Loss,69,17,26,18,8,0,,,,,,,,,,,,
 57,225,Stage 2 Week 2,Dallas Empire,Paris Legion,Search and Destroy,Express,Shotzzy,600,5,7,0.71,12,-2,1046,Loss,,,,,,,0,2,2,0,0.56,116.22,,,,,,
-57,225,Stage 2 Week 2,Dallas Empire,Paris Legion,Search and Destroy,Express,Crimsix,1115,5,7,0.71,12,-2,1401,Loss,,,,,,,0,1,0,1,0.56,155.67,,,,,,
+57,225,Stage 2 Week 2,Dallas Empire,Paris Legion,Search and Destroy,Express,C6,1115,5,7,0.71,12,-2,1401,Loss,,,,,,,0,1,0,1,0.56,155.67,,,,,,
 57,225,Stage 2 Week 2,Dallas Empire,Paris Legion,Search and Destroy,Express,iLLeY,425,6,8,0.75,14,-2,1456,Loss,,,,,,,2,1,0,0,0.67,161.78,,,,,,
 57,225,Stage 2 Week 2,Dallas Empire,Paris Legion,Search and Destroy,Express,Huke,225,3,7,0.43,10,-4,986,Loss,,,,,,,0,3,0,0,0.33,109.56,,,,,,
 57,225,Stage 2 Week 2,Paris Legion,Dallas Empire,Search and Destroy,Express,Skrapz,575,5,4,1.25,9,1,1020,Win,,,,,,,1,1,0,1,0.56,113.33,,,,,,
@@ -1800,7 +1800,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 57,225,Stage 2 Week 2,Paris Legion,Dallas Empire,Search and Destroy,Express,Aqua,900,10,6,1.67,16,4,1649,Win,,,,,,,2,0,0,0,1.11,183.22,,,,,,
 57,225,Stage 2 Week 2,Paris Legion,Dallas Empire,Search and Destroy,Express,Fire,1025,8,3,2.67,11,5,1337,Win,,,,,,,1,1,0,0,0.89,148.56,,,,,,
 57,226,Stage 2 Week 2,Dallas Empire,Paris Legion,Control,Raid,Shotzzy,3700,31,26,1.19,57,5,5575,Win,,,,,,,,,,,,,5,18,4,13,3,1115
-57,226,Stage 2 Week 2,Dallas Empire,Paris Legion,Control,Raid,Crimsix,3055,29,25,1.16,54,4,6199,Win,,,,,,,,,,,,,5,17,8,12,5,1239.8
+57,226,Stage 2 Week 2,Dallas Empire,Paris Legion,Control,Raid,C6,3055,29,25,1.16,54,4,6199,Win,,,,,,,,,,,,,5,17,8,12,5,1239.8
 57,226,Stage 2 Week 2,Dallas Empire,Paris Legion,Control,Raid,iLLeY,2240,21,28,0.75,49,-7,4404,Win,,,,,,,,,,,,,6,8,3,13,7,880
 57,226,Stage 2 Week 2,Dallas Empire,Paris Legion,Control,Raid,Huke,5550,29,22,1.32,51,7,4851,Win,,,,,,,,,,,,,11,15,9,14,3,970.2
 57,226,Stage 2 Week 2,Paris Legion,Dallas Empire,Control,Raid,Skrapz,3905,35,25,1.40,60,10,7083,Loss,,,,,,,,,,,,,6,14,6,21,12,1416.6
@@ -1808,7 +1808,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 57,226,Stage 2 Week 2,Paris Legion,Dallas Empire,Control,Raid,Aqua,2950,30,28,1.07,58,2,5729,Loss,,,,,,,,,,,,,2,15,5,15,8,1145.8
 57,226,Stage 2 Week 2,Paris Legion,Dallas Empire,Control,Raid,Fire,2265,14,28,0.50,42,-14,3507,Loss,,,,,,,,,,,,,6,5,0,9,2,701.4
 57,227,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Raid,Shotzzy,1770,17,17,1.00,34,0,3802,Win,69,5,36,0,26,2,,,,,,,,,,,,
-57,227,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Raid,Crimsix,2060,15,17,0.88,32,-2,3405,Win,135,1,29,34,45,26,,,,,,,,,,,,
+57,227,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Raid,C6,2060,15,17,0.88,32,-2,3405,Win,135,1,29,34,45,26,,,,,,,,,,,,
 57,227,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Raid,iLLeY,1955,26,15,1.73,41,11,4576,Win,66,0,44,1,19,2,,,,,,,,,,,,
 57,227,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Raid,Huke,2295,23,17,1.35,40,6,3978,Win,42,0,23,0,0,19,,,,,,,,,,,,
 57,227,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Raid,Skrapz,1695,14,18,0.78,32,-4,3112,Loss,108,25,9,59,15,0,,,,,,,,,,,,
@@ -2024,7 +2024,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 64,253,Stage 2 Week 2,Paris Legion,Seattle Surge,Control,Garrison,Aqua,1925,16,13,1.23,29,3,2859,Loss,,,,,,,,,,,,,3,11,6,5,5,953
 64,253,Stage 2 Week 2,Paris Legion,Seattle Surge,Control,Garrison,Fire,1100,14,17,0.82,31,-3,2234,Loss,,,,,,,,,,,,,1,12,6,2,0,744.67
 65,254,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Shotzzy,2855,27,20,1.35,47,7,4445,Win,60,14,0,36,4,6,,,,,,,,,,,,
-65,254,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Crimsix,2450,24,25,0.96,49,-1,5325,Win,35,0,2,2,4,27,,,,,,,,,,,,
+65,254,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,C6,2450,24,25,0.96,49,-1,5325,Win,35,0,2,2,4,27,,,,,,,,,,,,
 65,254,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,iLLeY,2160,25,23,1.09,48,2,5383,Win,62,31,0,18,9,4,,,,,,,,,,,,
 65,254,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Huke,2670,29,18,1.61,47,11,4304,Win,114,4,54,7,19,30,,,,,,,,,,,,
 65,254,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Accuracy,1895,20,29,0.69,49,-9,3945,Loss,45,1,33,0,10,1,,,,,,,,,,,,
@@ -2032,7 +2032,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 65,254,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Standy,2535,25,26,0.96,51,-1,3714,Loss,66,10,4,3,43,6,,,,,,,,,,,,
 65,254,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Priestahh,1925,20,26,0.77,46,-6,4037,Loss,34,13,9,0,11,1,,,,,,,,,,,,
 65,255,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,Shotzzy,565,5,6,0.83,11,-1,830,Loss,,,,,,,2,2,1,0,0.56,92.22,,,,,,
-65,255,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,Crimsix,275,4,7,0.57,11,-3,1286,Loss,,,,,,,2,1,0,0,0.44,142.89,,,,,,
+65,255,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,C6,275,4,7,0.57,11,-3,1286,Loss,,,,,,,2,1,0,0,0.44,142.89,,,,,,
 65,255,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,iLLeY,175,3,7,0.43,10,-4,935,Loss,,,,,,,0,0,0,0,0.33,103.89,,,,,,
 65,255,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Moscow,Huke,425,4,6,0.67,10,-2,1133,Loss,,,,,,,0,2,0,1,0.44,125.89,,,,,,
 65,255,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Search and Destroy,Moscow,Accuracy,2365,9,2,4.50,11,7,1659,Win,,,,,,,2,0,0,0,1,184.33,,,,,,
@@ -2040,7 +2040,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 65,255,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Search and Destroy,Moscow,Standy,740,5,5,1.00,10,0,1010,Win,,,,,,,1,2,2,0,0.56,112.22,,,,,,
 65,255,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Search and Destroy,Moscow,Priestahh,775,9,4,2.25,13,5,1509,Win,,,,,,,2,0,0,0,1,167.67,,,,,,
 65,256,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Control,Raid,Shotzzy,3225,29,30,0.97,59,-1,5080,Loss,,,,,,,,,,,,,5,18,6,11,3,1016
-65,256,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Control,Raid,Crimsix,4430,32,33,0.97,65,-1,6580,Loss,,,,,,,,,,,,,9,16,12,16,1,1316
+65,256,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Control,Raid,C6,4430,32,33,0.97,65,-1,6580,Loss,,,,,,,,,,,,,9,16,12,16,1,1316
 65,256,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Control,Raid,iLLeY,4425,37,30,1.23,67,7,6447,Loss,,,,,,,,,,,,,9,24,8,13,9,1289.4
 65,256,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Control,Raid,Huke,3250,26,37,0.70,63,-11,5592,Loss,,,,,,,,,,,,,7,16,8,10,6,1118.4
 65,256,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Control,Raid,Accuracy,5200,33,30,1.10,63,3,6478,Win,,,,,,,,,,,,,7,15,7,18,11,1295.6
@@ -2048,7 +2048,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 65,256,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Control,Raid,Standy,3075,31,40,0.78,71,-9,7039,Win,,,,,,,,,,,,,3,15,4,16,7,1407.8
 65,256,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Control,Raid,Priestahh,3115,34,28,1.21,62,6,6677,Win,,,,,,,,,,,,,3,15,7,19,11,1335.4
 65,257,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Raid,Shotzzy,2315,16,18,0.89,34,-2,2525,Win,106,1,45,6,47,7,,,,,,,,,,,,
-65,257,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Raid,Crimsix,3475,23,21,1.10,44,2,5114,Win,88,29,15,11,33,0,,,,,,,,,,,,
+65,257,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Raid,C6,3475,23,21,1.10,44,2,5114,Win,88,29,15,11,33,0,,,,,,,,,,,,
 65,257,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Raid,iLLeY,2260,26,20,1.30,46,6,4851,Win,78,18,11,13,9,27,,,,,,,,,,,,
 65,257,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Raid,Huke,1475,21,22,0.95,43,-1,3729,Win,34,10,5,19,0,0,,,,,,,,,,,,
 65,257,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Raid,Accuracy,2520,17,21,0.81,38,-4,3641,Loss,98,21,26,42,0,9,,,,,,,,,,,,
@@ -2056,7 +2056,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 65,257,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Raid,Standy,1720,16,22,0.73,38,-6,2827,Loss,51,12,22,5,12,0,,,,,,,,,,,,
 65,257,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Raid,Priestahh,1630,22,23,0.96,45,-1,4521,Loss,39,1,10,13,15,0,,,,,,,,,,,,
 65,258,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Express,Shotzzy,1165,6,7,0.86,13,-1,796,Loss,,,,,,,1,4,0,1,0.6,79.6,,,,,,
-65,258,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Express,Crimsix,400,3,7,0.43,10,-4,992,Loss,,,,,,,2,0,0,1,0.3,99.2,,,,,,
+65,258,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Express,C6,400,3,7,0.43,10,-4,992,Loss,,,,,,,2,0,0,1,0.3,99.2,,,,,,
 65,258,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Express,iLLeY,700,7,7,1.00,14,0,1627,Loss,,,,,,,0,0,0,0,0.7,162.7,,,,,,
 65,258,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Express,Huke,290,5,8,0.63,13,-3,865,Loss,,,,,,,1,2,0,0,0.5,86.5,,,,,,
 65,258,Stage 2 Week 2,Minnesota ROKKR,Dallas Empire,Search and Destroy,Express,Accuracy,525,8,6,1.33,14,2,1567,Win,,,,,,,2,1,0,0,0.8,156.7,,,,,,
@@ -2092,7 +2092,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 67,262,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Slacked,2155,21,27,0.78,48,-6,3843,Loss,106,22,13,6,32,33,,,,,,,,,,,,
 67,262,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Neptune,1870,19,26,0.73,45,-7,4114,Loss,72,36,6,11,5,14,,,,,,,,,,,,
 67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Shotzzy,4440,33,23,1.43,56,10,5144,Win,121,39,36,27,0,19,,,,,,,,,,,,
-67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Crimsix,2420,26,31,0.84,57,-5,5126,Win,63,0,26,8,26,3,,,,,,,,,,,,
+67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,C6,2420,26,31,0.84,57,-5,5126,Win,63,0,26,8,26,3,,,,,,,,,,,,
 67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,iLLeY,2105,22,24,0.92,46,-2,4802,Win,66,16,8,4,38,0,,,,,,,,,,,,
 67,262,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Huke,2030,27,26,1.04,53,1,5427,Win,69,20,2,11,35,1,,,,,,,,,,,,
 67,263,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Checkmate,Owakening,715,8,7,1.14,15,1,2108,Loss,,,,,,,1,1,0,0,0.8,210.8,,,,,,
@@ -2100,7 +2100,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 67,263,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Checkmate,Slacked,640,7,8,0.88,15,-1,1287,Loss,,,,,,,0,1,0,0,0.7,128.7,,,,,,
 67,263,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Checkmate,Neptune,565,6,6,1.00,12,0,1241,Loss,,,,,,,2,2,0,0,0.6,124.1,,,,,,
 67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,Shotzzy,1500,9,5,1.80,14,4,1545,Win,,,,,,,1,0,0,0,0.9,154.5,,,,,,
-67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,Crimsix,390,3,8,0.38,11,-5,1058,Win,,,,,,,0,1,0,0,0.3,105.8,,,,,,
+67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,C6,390,3,8,0.38,11,-5,1058,Win,,,,,,,0,1,0,0,0.3,105.8,,,,,,
 67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,iLLeY,1650,11,6,1.83,17,5,2180,Win,,,,,,,3,2,1,0,1.1,218,,,,,,
 67,263,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Checkmate,Huke,575,7,5,1.40,12,2,1254,Win,,,,,,,2,1,0,0,0.7,125.4,,,,,,
 67,264,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Owakening,2325,15,22,0.68,37,-7,3987,Loss,,,,,,,,,,,,,3,6,1,9,4,797.4
@@ -2108,7 +2108,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 67,264,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Slacked,3340,20,22,0.91,42,-2,3648,Loss,,,,,,,,,,,,,7,11,6,9,7,729.6
 67,264,Stage 2 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Neptune,1525,19,22,0.86,41,-3,3741,Loss,,,,,,,,,,,,,1,9,6,10,10,748.2
 67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Shotzzy,3190,23,20,1.15,43,3,4414,Win,,,,,,,,,,,,,0,4,2,19,13,882.8
-67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Crimsix,3055,18,16,1.13,34,2,4440,Win,,,,,,,,,,,,,0,4,4,14,6,888
+67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,C6,3055,18,16,1.13,34,2,4440,Win,,,,,,,,,,,,,0,4,4,14,6,888
 67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,iLLeY,2825,24,20,1.20,44,4,4690,Win,,,,,,,,,,,,,3,6,5,18,12,938
 67,264,Stage 2 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Huke,3900,24,17,1.41,41,7,3803,Win,,,,,,,,,,,,,2,6,5,18,7,760.6
 68,265,Stage 2 Week 3,Seattle Surge,OpTic Chicago,Hardpoint,Raid,Octane,2425,25,21,1.19,46,4,4821,Loss,125,49,27,34,7,8,,,,,,,,,,,,
@@ -2352,7 +2352,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,SlasheR,3790,25,22,1.14,47,3,4969,Loss,,,,,,,,,,,,,8,16,12,9,7,993.8
 75,294,Stage 2 Week 3,Los Angeles Thieves,Los Angeles Guerrillas,Control,Raid,Venom,2775,23,32,0.72,55,-9,4938,Loss,,,,,,,,,,,,,6,11,7,12,8,987.6
 76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Shotzzy,,23,19,1.21,42,4,,Win,,,,,,,,,,,,,,,,,,
-76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Crimsix,,23,23,1.00,46,0,,Win,,,,,,,,,,,,,,,,,,
+76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,C6,,23,23,1.00,46,0,,Win,,,,,,,,,,,,,,,,,,
 76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,iLLeY,,21,26,0.81,47,-5,,Win,,,,,,,,,,,,,,,,,,
 76,295,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Huke,,24,25,0.96,49,-1,,Win,,,,,,,,,,,,,,,,,,
 76,295,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,FORMAL,,16,20,0.80,36,-4,,Loss,,,,,,,,,,,,,,,,,,
@@ -2360,7 +2360,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 76,295,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,Envoy,,27,24,1.13,51,3,,Loss,,,,,,,,,,,,,,,,,,
 76,295,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Moscow,Scump,,20,23,0.87,43,-3,,Loss,,,,,,,,,,,,,,,,,,
 76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,Shotzzy,690,7,5,1.40,12,2,1063,Loss,,,,,,,2,1,0,1,0.88,132.88,,,,,,
-76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,Crimsix,165,2,8,0.25,10,-6,755,Loss,,,,,,,1,2,0,0,0.25,94.38,,,,,,
+76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,C6,165,2,8,0.25,10,-6,755,Loss,,,,,,,1,2,0,0,0.25,94.38,,,,,,
 76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,iLLeY,125,2,8,0.25,10,-6,793,Loss,,,,,,,0,1,0,0,0.25,99.13,,,,,,
 76,296,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Raid,Huke,240,3,8,0.38,11,-5,961,Loss,,,,,,,1,0,0,0,0.38,120.13,,,,,,
 76,296,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Raid,FORMAL,565,6,4,1.50,10,2,1137,Win,,,,,,,1,2,0,0,0.75,142.13,,,,,,
@@ -2368,7 +2368,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 76,296,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Raid,Envoy,1265,8,4,2.00,12,4,1269,Win,,,,,,,1,1,0,0,1,158.63,,,,,,
 76,296,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Raid,Scump,575,6,2,3.00,8,4,1221,Win,,,,,,,0,0,0,0,0.75,152.63,,,,,,
 76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,Shotzzy,4980,35,31,1.13,66,4,6329,Win,,,,,,,,,,,,,5,24,13,11,8,1265.8
-76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,Crimsix,3775,24,29,0.83,53,-5,4898,Win,,,,,,,,,,,,,7,17,15,7,4,979.6
+76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,C6,3775,24,29,0.83,53,-5,4898,Win,,,,,,,,,,,,,7,17,15,7,4,979.6
 76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,iLLeY,4575,30,32,0.94,62,-2,6099,Win,,,,,,,,,,,,,8,24,19,6,5,1219.8
 76,297,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Control,Checkmate,Huke,3120,24,30,0.80,54,-6,4518,Win,,,,,,,,,,,,,8,17,11,7,5,903.6
 76,297,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Control,Checkmate,FORMAL,5165,39,27,1.44,66,12,6769,Loss,,,,,,,,,,,,,7,13,10,26,19,1353.8
@@ -2376,7 +2376,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 76,297,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Control,Checkmate,Envoy,4055,24,30,0.80,54,-6,4560,Loss,,,,,,,,,,,,,9,6,4,18,14,912
 76,297,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Control,Checkmate,Scump,3675,26,30,0.87,56,-4,5733,Loss,,,,,,,,,,,,,7,10,10,16,11,1146.6
 76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,Shotzzy,1160,12,23,0.52,35,-11,3074,Loss,31,4,9,0,18,0,,,,,,,,,,,,
-76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,Crimsix,1440,18,25,0.72,43,-7,3524,Loss,19,11,0,6,2,0,,,,,,,,,,,,
+76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,C6,1440,18,25,0.72,43,-7,3524,Loss,19,11,0,6,2,0,,,,,,,,,,,,
 76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,iLLeY,1250,15,25,0.60,40,-10,4029,Loss,7,0,0,5,2,0,,,,,,,,,,,,
 76,298,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Hardpoint,Checkmate,Huke,1700,20,21,0.95,41,-1,3147,Loss,61,3,0,46,2,10,,,,,,,,,,,,
 76,298,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Checkmate,FORMAL,2545,21,19,1.11,40,2,4069,Win,88,5,64,0,13,6,,,,,,,,,,,,
@@ -2384,7 +2384,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 76,298,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Checkmate,Envoy,3185,22,14,1.57,36,8,3557,Win,98,18,21,9,10,40,,,,,,,,,,,,
 76,298,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Hardpoint,Checkmate,Scump,2800,27,16,1.69,43,11,4762,Win,50,27,0,0,23,0,,,,,,,,,,,,
 76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Shotzzy,540,6,6,1.00,12,0,1025,Loss,,,,,,,2,2,0,0,0.86,146.43,,,,,,
-76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Crimsix,295,3,6,0.50,9,-3,637,Loss,,,,,,,0,0,0,0,0.43,91,,,,,,
+76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,C6,295,3,6,0.50,9,-3,637,Loss,,,,,,,0,0,0,0,0.43,91,,,,,,
 76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,iLLeY,350,4,6,0.67,10,-2,904,Loss,,,,,,,1,1,0,0,0.57,129.14,,,,,,
 76,299,Stage 2 Week 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Huke,150,3,7,0.43,10,-4,855,Loss,,,,,,,1,0,0,0,0.43,122.14,,,,,,
 76,299,Stage 2 Week 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,FORMAL,765,8,5,1.60,13,3,1784,Win,,,,,,,1,1,0,0,1.14,254.86,,,,,,
@@ -2440,7 +2440,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 78,305,Major 2,Florida Mutineers,Los Angeles Guerrillas,Control,Checkmate,Slacked,3350,13,13,1.00,26,0,2283,Win,,,,,,,,,,,,,10,9,10,4,0,761
 78,305,Major 2,Florida Mutineers,Los Angeles Guerrillas,Control,Checkmate,Neptune,4450,23,11,2.09,34,12,3153,Win,,,,,,,,,,,,,10,13,12,10,8,1051
 79,306,Major 2,Dallas Empire,New York Subliners,Hardpoint,Moscow,Shotzzy,2345,20,23,0.87,43,-3,4183,Win,133,49,29,48,7,,,,,,,,,,,,,
-79,306,Major 2,Dallas Empire,New York Subliners,Hardpoint,Moscow,Crimsix,3465,32,22,1.45,54,10,5658,Win,21,7,5,9,0,,,,,,,,,,,,,
+79,306,Major 2,Dallas Empire,New York Subliners,Hardpoint,Moscow,C6,3465,32,22,1.45,54,10,5658,Win,21,7,5,9,0,,,,,,,,,,,,,
 79,306,Major 2,Dallas Empire,New York Subliners,Hardpoint,Moscow,iLLeY,2195,18,22,0.82,40,-4,4753,Win,76,12,18,11,35,,,,,,,,,,,,,
 79,306,Major 2,Dallas Empire,New York Subliners,Hardpoint,Moscow,Huke,2435,32,24,1.33,56,8,4642,Win,39,8,8,22,1,,,,,,,,,,,,,
 79,306,Major 2,New York Subliners,Dallas Empire,Hardpoint,Moscow,Asim,2060,23,30,0.77,53,-7,3949,Loss,46,32,12,0,2,,,,,,,,,,,,,
@@ -2448,7 +2448,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 79,306,Major 2,New York Subliners,Dallas Empire,Hardpoint,Moscow,Diamondcon,2070,23,23,1.00,46,0,4536,Loss,71,47,10,2,12,,,,,,,,,,,,,
 79,306,Major 2,New York Subliners,Dallas Empire,Hardpoint,Moscow,Mack,1685,19,26,0.73,45,-7,3680,Loss,48,20,2,0,26,,,,,,,,,,,,,
 79,307,Major 2,Dallas Empire,New York Subliners,Search and Destroy,Express,Shotzzy,630,5,5,1.00,10,0,1022,Win,,,,,,,2,1,2,0,0.83,170.33,,,,,,
-79,307,Major 2,Dallas Empire,New York Subliners,Search and Destroy,Express,Crimsix,1350,8,2,4.00,10,6,1538,Win,,,,,,,1,0,0,1,1.33,256.33,,,,,,
+79,307,Major 2,Dallas Empire,New York Subliners,Search and Destroy,Express,C6,1350,8,2,4.00,10,6,1538,Win,,,,,,,1,0,0,1,1.33,256.33,,,,,,
 79,307,Major 2,Dallas Empire,New York Subliners,Search and Destroy,Express,iLLeY,450,4,3,1.33,7,1,853,Win,,,,,,,0,0,1,0,0.67,142.17,,,,,,
 79,307,Major 2,Dallas Empire,New York Subliners,Search and Destroy,Express,Huke,1225,7,3,2.33,10,4,1280,Win,,,,,,,1,1,0,1,1.17,213.33,,,,,,
 79,307,Major 2,New York Subliners,Dallas Empire,Search and Destroy,Express,Asim,225,3,6,0.50,9,-3,862,Loss,,,,,,,1,2,1,0,0.5,143.67,,,,,,
@@ -2456,7 +2456,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 79,307,Major 2,New York Subliners,Dallas Empire,Search and Destroy,Express,Diamondcon,400,4,6,0.67,10,-2,1451,Loss,,,,,,,0,0,1,0,0.67,241.83,,,,,,
 79,307,Major 2,New York Subliners,Dallas Empire,Search and Destroy,Express,Mack,140,2,6,0.33,8,-4,893,Loss,,,,,,,1,1,0,0,0.33,148.83,,,,,,
 79,308,Major 2,Dallas Empire,New York Subliners,Control,Checkmate,Shotzzy,2530,25,28,0.89,53,-3,5075,Win,,,,,,,,,,,,,2,11,7,14,11,1268.75
-79,308,Major 2,Dallas Empire,New York Subliners,Control,Checkmate,Crimsix,4255,33,25,1.32,58,8,6769,Win,,,,,,,,,,,,,6,18,12,15,8,1692.25
+79,308,Major 2,Dallas Empire,New York Subliners,Control,Checkmate,C6,4255,33,25,1.32,58,8,6769,Win,,,,,,,,,,,,,6,18,12,15,8,1692.25
 79,308,Major 2,Dallas Empire,New York Subliners,Control,Checkmate,iLLeY,3500,34,26,1.31,60,8,6154,Win,,,,,,,,,,,,,4,18,16,16,8,1538.5
 79,308,Major 2,Dallas Empire,New York Subliners,Control,Checkmate,Huke,3255,24,24,1.00,48,0,4409,Win,,,,,,,,,,,,,6,13,8,11,7,1102.25
 79,308,Major 2,New York Subliners,Dallas Empire,Control,Checkmate,Asim,4405,39,30,1.30,69,9,6719,Loss,,,,,,,,,,,,,5,18,9,21,14,1679.75
@@ -2568,7 +2568,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 82,321,Major 2,Florida Mutineers,Seattle Surge,Hardpoint,Checkmate,Slacked,2805,21,24,0.88,45,-3,3757,Loss,62,8,14,13,21,6,,,,,,,,,,,,
 82,321,Major 2,Florida Mutineers,Seattle Surge,Hardpoint,Checkmate,Neptune,2220,22,23,0.96,45,-1,4365,Loss,63,10,36,0,11,6,,,,,,,,,,,,
 83,322,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Shotzzy,2510,20,23,0.87,43,-3,4187,Loss,65,2,58,5,0,,,,,,,,,,,,,
-83,322,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Crimsix,1625,16,23,0.70,39,-7,3746,Loss,37,0,14,19,4,,,,,,,,,,,,,
+83,322,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,C6,1625,16,23,0.70,39,-7,3746,Loss,37,0,14,19,4,,,,,,,,,,,,,
 83,322,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,iLLeY,3030,24,23,1.04,47,1,3807,Loss,37,0,17,0,20,,,,,,,,,,,,,
 83,322,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Huke,2030,26,23,1.13,49,3,4844,Loss,38,10,17,0,11,,,,,,,,,,,,,
 83,322,Major 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Accuracy,2460,28,25,1.12,53,3,5716,Win,69,33,2,17,17,,,,,,,,,,,,,
@@ -2576,7 +2576,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 83,322,Major 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Standy,3590,29,20,1.45,49,9,5078,Win,101,14,26,57,4,,,,,,,,,,,,,
 83,322,Major 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Priestahh,1300,12,25,0.48,37,-13,3818,Win,43,18,12,12,1,,,,,,,,,,,,,
 83,323,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,Shotzzy,1665,11,7,1.57,18,4,1944,Win,,,,,,,3,1,0,0,1,176.73,,,,,,
-83,323,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,Crimsix,740,7,7,1.00,14,0,2242,Win,,,,,,,1,0,0,0,0.64,203.82,,,,,,
+83,323,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,C6,740,7,7,1.00,14,0,2242,Win,,,,,,,1,0,0,0,0.64,203.82,,,,,,
 83,323,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,iLLeY,600,5,7,0.71,12,-2,1092,Win,,,,,,,0,0,1,1,0.45,99.27,,,,,,
 83,323,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,Huke,740,7,8,0.88,15,-1,1383,Win,,,,,,,2,4,1,0,0.64,125.73,,,,,,
 83,323,Major 2,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Accuracy,625,8,8,1.00,16,0,1828,Loss,,,,,,,2,0,1,0,0.73,166.18,,,,,,
@@ -2584,7 +2584,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 83,323,Major 2,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Standy,1175,10,8,1.25,18,2,1787,Loss,,,,,,,1,2,2,0,0.91,162.45,,,,,,
 83,323,Major 2,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Priestahh,1425,9,6,1.50,15,3,1770,Loss,,,,,,,2,1,0,1,0.82,160.91,,,,,,
 83,324,Major 2,Dallas Empire,Minnesota ROKKR,Control,Raid,Shotzzy,6130,39,29,1.34,68,10,6998,Win,,,,,,,,,,,,,8,28,9,11,5,1399.6
-83,324,Major 2,Dallas Empire,Minnesota ROKKR,Control,Raid,Crimsix,5405,32,24,1.33,56,8,6100,Win,,,,,,,,,,,,,9,22,3,10,6,1220
+83,324,Major 2,Dallas Empire,Minnesota ROKKR,Control,Raid,C6,5405,32,24,1.33,56,8,6100,Win,,,,,,,,,,,,,9,22,3,10,6,1220
 83,324,Major 2,Dallas Empire,Minnesota ROKKR,Control,Raid,iLLeY,5225,27,30,0.90,57,-3,5873,Win,,,,,,,,,,,,,8,17,13,10,6,1174.6
 83,324,Major 2,Dallas Empire,Minnesota ROKKR,Control,Raid,Huke,3740,23,33,0.70,56,-10,4940,Win,,,,,,,,,,,,,7,16,7,7,6,988
 83,324,Major 2,Minnesota ROKKR,Dallas Empire,Control,Raid,Accuracy,3600,32,34,0.94,66,-2,6733,Loss,,,,,,,,,,,,,7,12,6,20,13,1346.6
@@ -2592,7 +2592,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 83,324,Major 2,Minnesota ROKKR,Dallas Empire,Control,Raid,Standy,4175,37,32,1.16,69,5,7520,Loss,,,,,,,,,,,,,6,13,5,24,5,1504
 83,324,Major 2,Minnesota ROKKR,Dallas Empire,Control,Raid,Priestahh,3440,26,25,1.04,51,1,5108,Loss,,,,,,,,,,,,,7,9,3,17,7,1021.6
 83,325,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Shotzzy,2560,30,27,1.11,57,3,5025,Loss,45,19,12,0,2,12,,,,,,,,,,,,
-83,325,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Crimsix,1620,18,32,0.56,50,-14,4630,Loss,20,4,11,0,4,1,,,,,,,,,,,,
+83,325,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,C6,1620,18,32,0.56,50,-14,4630,Loss,20,4,11,0,4,1,,,,,,,,,,,,
 83,325,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,iLLeY,3650,32,25,1.28,57,7,5932,Loss,115,7,11,11,33,53,,,,,,,,,,,,
 83,325,Major 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Huke,2430,29,29,1.00,58,0,4949,Loss,71,22,0,28,18,3,,,,,,,,,,,,
 83,325,Major 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Accuracy,2960,23,26,0.88,49,-3,4868,Win,110,18,56,0,29,7,,,,,,,,,,,,
@@ -2600,7 +2600,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 83,325,Major 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Standy,2770,29,31,0.94,60,-2,5575,Win,41,27,5,8,0,1,,,,,,,,,,,,
 83,325,Major 2,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Priestahh,2750,27,29,0.93,56,-2,5906,Win,35,13,4,9,7,2,,,,,,,,,,,,
 83,326,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,Shotzzy,,8,8,1.00,16,0,,Win,,,,,,,,,,,,,,,,,,
-83,326,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,Crimsix,,9,6,1.50,15,3,,Win,,,,,,,,,,,,,,,,,,
+83,326,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,C6,,9,6,1.50,15,3,,Win,,,,,,,,,,,,,,,,,,
 83,326,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,iLLeY,,5,8,0.63,13,-3,,Win,,,,,,,,,,,,,,,,,,
 83,326,Major 2,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,Huke,,8,7,1.14,15,1,,Win,,,,,,,,,,,,,,,,,,
 83,326,Major 2,Minnesota ROKKR,Dallas Empire,Search and Destroy,Miami,Accuracy,,11,8,1.38,19,3,,Loss,,,,,,,,,,,,,,,,,,
@@ -2764,7 +2764,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 89,346,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Simp,4155,25,15,1.67,40,10,4280,Win,80,14,6,19,23,18,,,,,,,,,,,,
 89,346,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,aBeZy,2100,23,25,0.92,48,-2,4484,Win,80,38,0,20,0,22,,,,,,,,,,,,
 89,346,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Shotzzy,2150,19,24,0.79,43,-5,4055,Loss,82,7,54,3,5,13,,,,,,,,,,,,
-89,346,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Crimsix,1375,16,28,0.57,44,-12,3809,Loss,21,7,2,5,4,3,,,,,,,,,,,,
+89,346,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,C6,1375,16,28,0.57,44,-12,3809,Loss,21,7,2,5,4,3,,,,,,,,,,,,
 89,346,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,iLLeY,2135,20,25,0.80,45,-5,3987,Loss,69,9,18,5,22,15,,,,,,,,,,,,
 89,346,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Huke,1550,21,28,0.75,49,-7,3868,Loss,11,1,2,3,0,5,,,,,,,,,,,,
 89,347,Major 2,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Arcitys,425,5,7,0.71,12,-2,1503,Loss,,,,,,,1,0,0,0,0.63,187.88,,,,,,
@@ -2772,7 +2772,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 89,347,Major 2,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Simp,425,2,8,0.25,10,-6,889,Loss,,,,,,,0,4,1,0,0.25,111.13,,,,,,
 89,347,Major 2,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,aBeZy,550,5,7,0.71,12,-2,1265,Loss,,,,,,,0,2,2,0,0.63,158.13,,,,,,
 89,347,Major 2,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,Shotzzy,700,8,6,1.33,14,2,1236,Win,,,,,,,3,0,0,0,1,154.5,,,,,,
-89,347,Major 2,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,Crimsix,825,9,3,3.00,12,6,1781,Win,,,,,,,1,0,0,1,1.13,222.63,,,,,,
+89,347,Major 2,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,C6,825,9,3,3.00,12,6,1781,Win,,,,,,,1,0,0,1,1.13,222.63,,,,,,
 89,347,Major 2,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,iLLeY,730,5,4,1.25,9,1,1462,Win,,,,,,,1,0,1,0,0.63,182.75,,,,,,
 89,347,Major 2,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,Huke,825,7,4,1.75,11,3,1267,Win,,,,,,,1,2,1,1,0.88,158.38,,,,,,
 89,348,Major 2,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2025,18,13,1.38,31,5,2909,Win,,,,,,,,,,,,,3,5,2,13,7,969.67
@@ -2780,7 +2780,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 89,348,Major 2,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,2225,18,20,0.90,38,-2,3962,Win,,,,,,,,,,,,,4,4,2,14,8,1320.67
 89,348,Major 2,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,1700,15,24,0.63,39,-9,3454,Win,,,,,,,,,,,,,3,4,1,11,3,1151.33
 89,348,Major 2,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,1890,22,18,1.22,40,4,3724,Loss,,,,,,,,,,,,,2,19,9,3,3,1241.33
-89,348,Major 2,Dallas Empire,Atlanta FaZe,Control,Raid,Crimsix,2830,15,17,0.88,32,-2,3394,Loss,,,,,,,,,,,,,7,9,5,6,1,1131.33
+89,348,Major 2,Dallas Empire,Atlanta FaZe,Control,Raid,C6,2830,15,17,0.88,32,-2,3394,Loss,,,,,,,,,,,,,7,9,5,6,1,1131.33
 89,348,Major 2,Dallas Empire,Atlanta FaZe,Control,Raid,iLLeY,2950,16,20,0.80,36,-4,3529,Loss,,,,,,,,,,,,,7,11,6,5,2,1176.33
 89,348,Major 2,Dallas Empire,Atlanta FaZe,Control,Raid,Huke,1105,15,21,0.71,36,-6,3069,Loss,,,,,,,,,,,,,2,9,0,6,3,1023
 89,349,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Arcitys,2435,28,28,1.00,56,0,5540,Win,49,5,35,1,3,5,,,,,,,,,,,,
@@ -2788,7 +2788,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 89,349,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,Simp,4115,26,18,1.44,44,8,4773,Win,74,5,9,2,15,43,,,,,,,,,,,,
 89,349,Major 2,Atlanta FaZe,Dallas Empire,Hardpoint,Checkmate,aBeZy,2985,29,29,1.00,58,0,5282,Win,93,0,19,19,51,4,,,,,,,,,,,,
 89,349,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Shotzzy,2930,28,26,1.08,54,2,5804,Loss,110,56,32,6,7,9,,,,,,,,,,,,
-89,349,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Crimsix,2530,26,28,0.93,54,-2,4744,Loss,70,7,13,22,4,24,,,,,,,,,,,,
+89,349,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,C6,2530,26,28,0.93,54,-2,4744,Loss,70,7,13,22,4,24,,,,,,,,,,,,
 89,349,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,iLLeY,2040,25,30,0.83,55,-5,5404,Loss,56,39,2,13,2,0,,,,,,,,,,,,
 89,349,Major 2,Dallas Empire,Atlanta FaZe,Hardpoint,Checkmate,Huke,1745,21,27,0.78,48,-6,4167,Loss,69,36,0,20,0,13,,,,,,,,,,,,
 90,350,Major 2,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Cammy,1385,12,19,0.63,31,-7,3129,Loss,117,14,46,0,55,2,,,,,,,,,,,,
@@ -2824,7 +2824,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 90,353,Major 2,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,Standy,2080,16,26,0.62,42,-10,3108,Loss,41,0,4,8,17,12,,,,,,,,,,,,
 90,353,Major 2,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,Priestahh,2090,27,24,1.13,51,3,5607,Loss,43,24,6,5,5,3,,,,,,,,,,,,
 91,354,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Shotzzy,3225,29,20,1.45,49,9,5323,Win,146,40,19,38,17,32,,,,,,,,,,,,
-91,354,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Crimsix,2525,27,31,0.87,58,-4,5583,Win,51,26,0,16,0,9,,,,,,,,,,,,
+91,354,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,C6,2525,27,31,0.87,58,-4,5583,Win,51,26,0,16,0,9,,,,,,,,,,,,
 91,354,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,iLLeY,2195,25,27,0.93,52,-2,4415,Win,71,19,38,7,6,1,,,,,,,,,,,,
 91,354,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Huke,2565,33,27,1.22,60,6,5944,Win,44,19,13,2,10,0,,,,,,,,,,,,
 91,354,Major 2,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Cammy,2085,23,31,0.74,54,-8,4480,Loss,45,4,9,0,25,7,,,,,,,,,,,,
@@ -2832,7 +2832,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 91,354,Major 2,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Insight,4295,35,21,1.67,56,14,6622,Loss,83,20,23,0,27,13,,,,,,,,,,,,
 91,354,Major 2,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,CleanX,1570,17,34,0.50,51,-17,4357,Loss,44,2,5,6,16,15,,,,,,,,,,,,
 91,355,Major 2,Dallas Empire,Toronto Ultra,Search and Destroy,Raid,Shotzzy,325,4,7,0.57,11,-3,1098,Loss,,,,,,,1,1,0,0,0.44,122,,,,,,
-91,355,Major 2,Dallas Empire,Toronto Ultra,Search and Destroy,Raid,Crimsix,150,2,7,0.29,9,-5,898,Loss,,,,,,,1,1,0,0,0.22,99.78,,,,,,
+91,355,Major 2,Dallas Empire,Toronto Ultra,Search and Destroy,Raid,C6,150,2,7,0.29,9,-5,898,Loss,,,,,,,1,1,0,0,0.22,99.78,,,,,,
 91,355,Major 2,Dallas Empire,Toronto Ultra,Search and Destroy,Raid,iLLeY,425,4,8,0.50,12,-4,1225,Loss,,,,,,,1,1,1,0,0.44,136.11,,,,,,
 91,355,Major 2,Dallas Empire,Toronto Ultra,Search and Destroy,Raid,Huke,700,7,8,0.88,15,-1,1563,Loss,,,,,,,3,0,0,1,0.78,173.67,,,,,,
 91,355,Major 2,Toronto Ultra,Dallas Empire,Search and Destroy,Raid,Cammy,525,4,7,0.57,11,-3,1382,Win,,,,,,,1,2,1,0,0.44,153.56,,,,,,
@@ -2840,7 +2840,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 91,355,Major 2,Toronto Ultra,Dallas Empire,Search and Destroy,Raid,Insight,1450,8,3,2.67,11,5,1252,Win,,,,,,,0,1,0,0,0.89,139.11,,,,,,
 91,355,Major 2,Toronto Ultra,Dallas Empire,Search and Destroy,Raid,CleanX,1825,14,3,4.67,17,11,2312,Win,,,,,,,0,0,0,1,1.56,256.89,,,,,,
 91,356,Major 2,Dallas Empire,Toronto Ultra,Control,Raid,Shotzzy,3910,30,31,0.97,61,-1,5700,Loss,,,,,,,,,,,,,8,14,5,16,4,1140
-91,356,Major 2,Dallas Empire,Toronto Ultra,Control,Raid,Crimsix,3440,25,30,0.83,55,-5,5493,Loss,,,,,,,,,,,,,8,15,8,10,4,1098.6
+91,356,Major 2,Dallas Empire,Toronto Ultra,Control,Raid,C6,3440,25,30,0.83,55,-5,5493,Loss,,,,,,,,,,,,,8,15,8,10,4,1098.6
 91,356,Major 2,Dallas Empire,Toronto Ultra,Control,Raid,iLLeY,4200,23,28,0.82,51,-5,4820,Loss,,,,,,,,,,,,,11,16,10,7,4,964
 91,356,Major 2,Dallas Empire,Toronto Ultra,Control,Raid,Huke,2830,32,32,1.00,64,0,6086,Loss,,,,,,,,,,,,,4,14,3,18,10,1217.2
 91,356,Major 2,Toronto Ultra,Dallas Empire,Control,Raid,Cammy,2850,34,25,1.36,59,9,5684,Win,,,,,,,,,,,,,3,12,2,22,11,1136.8
@@ -2848,7 +2848,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 91,356,Major 2,Toronto Ultra,Dallas Empire,Control,Raid,Insight,3950,24,23,1.04,47,1,6169,Win,,,,,,,,,,,,,6,11,9,13,10,1233.8
 91,356,Major 2,Toronto Ultra,Dallas Empire,Control,Raid,CleanX,3550,33,35,0.94,68,-2,6295,Win,,,,,,,,,,,,,3,11,5,22,8,1259
 91,357,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Raid,Shotzzy,1445,16,23,0.70,39,-7,3634,Loss,61,2,22,3,29,5,,,,,,,,,,,,
-91,357,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Raid,Crimsix,1585,18,22,0.82,40,-4,3650,Loss,66,7,13,15,26,5,,,,,,,,,,,,
+91,357,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Raid,C6,1585,18,22,0.82,40,-4,3650,Loss,66,7,13,15,26,5,,,,,,,,,,,,
 91,357,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Raid,iLLeY,1065,14,23,0.61,37,-9,2627,Loss,49,5,13,31,0,0,,,,,,,,,,,,
 91,357,Major 2,Dallas Empire,Toronto Ultra,Hardpoint,Raid,Huke,3495,21,18,1.17,39,3,3935,Loss,119,17,47,24,11,20,,,,,,,,,,,,
 91,357,Major 2,Toronto Ultra,Dallas Empire,Hardpoint,Raid,Cammy,2320,22,16,1.38,38,6,3643,Win,34,5,1,4,18,6,,,,,,,,,,,,
@@ -2920,7 +2920,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 92,365,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,Insight,3055,25,20,1.25,45,5,4011,Win,90,18,11,11,20,30,,,,,,,,,,,,
 92,365,Major 2,Toronto Ultra,Atlanta FaZe,Hardpoint,Checkmate,CleanX,3010,27,21,1.29,48,6,5757,Win,80,8,5,15,38,14,,,,,,,,,,,,
 93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,Shotzzy,1325,16,24,0.67,40,-8,3300,Loss,45,12,6,3,10,14,,,,,,,,,,,,
-93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,Crimsix,1125,14,27,0.52,41,-13,3539,Loss,16,0,2,0,0,14,,,,,,,,,,,,
+93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,C6,1125,14,27,0.52,41,-13,3539,Loss,16,0,2,0,0,14,,,,,,,,,,,,
 93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,iLLeY,1600,17,23,0.74,40,-6,4089,Loss,4,0,0,3,1,0,,,,,,,,,,,,
 93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,Huke,1540,18,20,0.90,38,-2,2604,Loss,55,1,34,1,11,8,,,,,,,,,,,,
 93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Skrapz,4175,27,15,1.80,42,12,4732,Win,126,60,17,49,0,0,,,,,,,,,,,,
@@ -2928,7 +2928,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Aqua,2700,23,14,1.64,37,9,4866,Win,51,11,9,4,27,0,,,,,,,,,,,,
 93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Temp,1445,16,19,0.84,35,-3,2737,Win,41,5,9,27,0,0,,,,,,,,,,,,
 93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,Shotzzy,375,4,5,0.80,9,-1,1007,Win,,,,,,,2,0,1,0,0.67,167.83,,,,,,
-93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,Crimsix,2850,10,0,10.00,10,10,1439,Win,,,,,,,1,0,0,0,1.67,239.83,,,,,,
+93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,C6,2850,10,0,10.00,10,10,1439,Win,,,,,,,1,0,0,0,1.67,239.83,,,,,,
 93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,iLLeY,550,5,2,2.50,7,3,931,Win,,,,,,,1,1,1,1,0.83,155.17,,,,,,
 93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,Huke,400,5,4,1.25,9,1,1183,Win,,,,,,,0,1,0,0,0.83,197.17,,,,,,
 93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Skrapz,75,1,6,0.17,7,-5,313,Loss,,,,,,,0,1,0,0,0.17,52.17,,,,,,
@@ -2936,7 +2936,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Aqua,350,5,6,0.83,11,-1,1171,Loss,,,,,,,0,0,0,0,0.83,195.17,,,,,,
 93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Temp,300,4,6,0.67,10,-2,1039,Loss,,,,,,,1,1,1,0,0.67,173.17,,,,,,
 93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,Shotzzy,2140,18,18,1.00,36,0,3233,Win,,,,,,,,,,,,,3,9,8,9,6,808.25
-93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,Crimsix,2395,19,17,1.12,36,2,4006,Win,,,,,,,,,,,,,3,7,2,12,11,1001.5
+93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,C6,2395,19,17,1.12,36,2,4006,Win,,,,,,,,,,,,,3,7,2,12,11,1001.5
 93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,iLLeY,3150,19,16,1.19,35,3,3667,Win,,,,,,,,,,,,,5,9,5,10,7,916.75
 93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,Huke,2425,13,17,0.76,30,-4,2924,Win,,,,,,,,,,,,,6,6,3,7,6,731
 93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Skrapz,3075,24,14,1.71,38,10,4204,Loss,,,,,,,,,,,,,1,9,7,15,9,1051
@@ -2944,7 +2944,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Aqua,1150,13,18,0.72,31,-5,2439,Loss,,,,,,,,,,,,,0,7,6,6,5,609.75
 93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Temp,2400,16,18,0.89,34,-2,3591,Loss,,,,,,,,,,,,,1,7,4,9,3,897.75
 93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,Shotzzy,1785,18,21,0.86,39,-3,3629,Win,49,29,1,3,10,6,,,,,,,,,,,,
-93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,Crimsix,2655,30,18,1.67,48,12,5680,Win,65,28,17,1,19,0,,,,,,,,,,,,
+93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,C6,2655,30,18,1.67,48,12,5680,Win,65,28,17,1,19,0,,,,,,,,,,,,
 93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,iLLeY,3155,26,21,1.24,47,5,4053,Win,101,23,25,0,29,24,,,,,,,,,,,,
 93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,Huke,2435,28,20,1.40,48,8,4497,Win,95,12,14,21,10,38,,,,,,,,,,,,
 93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Skrapz,2680,28,25,1.12,53,3,4969,Loss,41,26,4,11,0,0,,,,,,,,,,,,
@@ -3204,7 +3204,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 102,401,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Insight,,31,26,1.19,57,5,,Win,,,,,,,,,,,,,,,,,,
 102,401,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,CleanX,,29,25,1.16,54,4,,Win,,,,,,,,,,,,,,,,,,
 102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Shotzzy,,31,31,1.00,62,0,,Loss,,,,,,,,,,,,,,,,,,
-102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Crimsix,,23,29,0.79,52,-6,,Loss,,,,,,,,,,,,,,,,,,
+102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,C6,,23,29,0.79,52,-6,,Loss,,,,,,,,,,,,,,,,,,
 102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,iLLeY,,30,32,0.94,62,-2,,Loss,,,,,,,,,,,,,,,,,,
 102,401,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,FeLo,,24,28,0.86,52,-4,,Loss,,,,,,,,,,,,,,,,,,
 102,402,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,Cammy,575,7,5,1.40,12,2,1180,Win,,,,,,,3,1,0,0,0.78,131.11,,,,,,
@@ -3212,7 +3212,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 102,402,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,Insight,400,5,5,1.00,10,0,1035,Win,,,,,,,1,0,0,0,0.56,115,,,,,,
 102,402,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,CleanX,450,5,5,1.00,10,0,1084,Win,,,,,,,1,2,0,0,0.56,120.44,,,,,,
 102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,Shotzzy,325,3,7,0.43,10,-4,655,Loss,,,,,,,1,2,1,0,0.33,72.7,,,,,,
-102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,Crimsix,550,7,7,1.00,14,0,1864,Loss,,,,,,,0,2,0,0,0.78,207.11,,,,,,
+102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,C6,550,7,7,1.00,14,0,1864,Loss,,,,,,,0,2,0,0,0.78,207.11,,,,,,
 102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,iLLeY,1020,5,6,0.83,11,-1,739,Loss,,,,,,,0,0,0,0,0.56,82.11,,,,,,
 102,402,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,FeLo,275,4,6,0.67,10,-2,843,Loss,,,,,,,2,2,0,0,0.44,93.67,,,,,,
 102,403,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Control,Raid,Cammy,2750,30,31,0.97,61,-1,5728,Win,,,,,,,,,,,,,6,16,8,14,4,1145.6
@@ -3220,7 +3220,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 102,403,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Control,Raid,Insight,4780,27,25,1.08,52,2,5583,Win,,,,,,,,,,,,,9,14,9,13,9,1116.6
 102,403,Stage 3 Week 1,Toronto Ultra,Dallas Empire,Control,Raid,CleanX,3615,30,32,0.94,62,-2,5487,Win,,,,,,,,,,,,,8,21,11,9,3,1097.4
 102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,Shotzzy,3400,29,32,0.91,61,-3,5526,Loss,,,,,,,,,,,,,3,15,1,14,6,1105.2
-102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,Crimsix,5250,29,28,1.04,57,1,5247,Loss,,,,,,,,,,,,,10,7,4,22,14,1049.4
+102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,C6,5250,29,28,1.04,57,1,5247,Loss,,,,,,,,,,,,,10,7,4,22,14,1049.4
 102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,iLLeY,3225,27,32,0.84,59,-5,4991,Loss,,,,,,,,,,,,,8,9,2,18,13,998.2
 102,403,Stage 3 Week 1,Dallas Empire,Toronto Ultra,Control,Raid,FeLo,3380,23,28,0.82,51,-5,4876,Loss,,,,,,,,,,,,,8,7,3,16,9,975.2
 103,404,Stage 3 Week 2,London Royal Ravens,New York Subliners,Hardpoint,Moscow,PaulEhx,2875,26,25,1.04,51,1,5537,Loss,23,14,4,0,5,,,,,,,,,,,,,
@@ -3404,7 +3404,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 108,426,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Moscow,Silly,3385,25,25,1.00,50,0,4641,Loss,110,9,61,25,15,,,,,,,,,,,,,
 108,426,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Moscow,Apathy,2050,16,30,0.53,46,-14,3965,Loss,43,14,2,5,22,,,,,,,,,,,,,
 108,426,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Moscow,Shotzzy,3055,31,25,1.24,56,6,5490,Win,50,40,10,0,0,,,,,,,,,,,,,
-108,426,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Moscow,Crimsix,2180,22,26,0.85,48,-4,4427,Win,56,46,0,7,3,,,,,,,,,,,,,
+108,426,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Moscow,C6,2180,22,26,0.85,48,-4,4427,Win,56,46,0,7,3,,,,,,,,,,,,,
 108,426,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Moscow,iLLeY,3145,27,26,1.04,53,1,4529,Win,92,19,25,37,11,,,,,,,,,,,,,
 108,426,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Moscow,FeLo,3390,26,22,1.18,48,4,5030,Win,93,18,26,36,13,,,,,,,,,,,,,
 108,427,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Express,Cheen,2180,13,5,2.60,18,8,2175,Win,,,,,,,3,1,0,0,1.44,241.67,,,,,,
@@ -3412,7 +3412,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 108,427,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Express,Silly,745,6,5,1.20,11,1,1204,Win,,,,,,,0,1,0,0,0.67,133.78,,,,,,
 108,427,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Express,Apathy,1425,9,3,3.00,12,6,1496,Win,,,,,,,1,0,1,2,1,166.22,,,,,,
 108,427,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Express,Shotzzy,1050,9,8,1.13,17,1,1331,Loss,,,,,,,1,1,3,0,1,147.89,,,,,,
-108,427,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Express,Crimsix,325,4,9,0.44,13,-5,946,Loss,,,,,,,2,4,0,0,0.44,105.11,,,,,,
+108,427,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Express,C6,325,4,9,0.44,13,-5,946,Loss,,,,,,,2,4,0,0,0.44,105.11,,,,,,
 108,427,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Express,iLLeY,375,4,8,0.50,12,-4,1040,Loss,,,,,,,0,0,0,0,0.44,115.56,,,,,,
 108,427,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Express,FeLo,300,4,8,0.50,12,-4,1330,Loss,,,,,,,0,1,0,0,0.44,147.78,,,,,,
 108,428,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Raid,Cheen,1675,11,8,1.38,19,3,2881,Win,,,,,,,,,,,,,3,2,2,9,5,960.33
@@ -3420,7 +3420,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 108,428,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Raid,Silly,1945,19,14,1.36,33,5,3090,Win,,,,,,,,,,,,,3,7,2,12,8,1030
 108,428,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Raid,Apathy,2595,21,11,1.91,32,10,3393,Win,,,,,,,,,,,,,4,7,6,14,4,1131
 108,428,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Raid,Shotzzy,2505,15,16,0.94,31,-1,3073,Loss,,,,,,,,,,,,,3,10,3,5,4,1024.33
-108,428,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Raid,Crimsix,635,7,16,0.44,23,-9,1889,Loss,,,,,,,,,,,,,1,4,1,3,0,629.67
+108,428,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Raid,C6,635,7,16,0.44,23,-9,1889,Loss,,,,,,,,,,,,,1,4,1,3,0,629.67
 108,428,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Raid,iLLeY,1565,12,20,0.60,32,-8,2813,Loss,,,,,,,,,,,,,3,7,2,5,4,937.67
 108,428,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Raid,FeLo,1525,9,13,0.69,22,-4,1736,Loss,,,,,,,,,,,,,4,4,2,5,4,578.67
 108,429,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Garrison,Cheen,1775,18,24,0.75,42,-6,3618,Loss,84,25,0,6,17,36,,,,,,,,,,,,
@@ -3428,7 +3428,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 108,429,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Garrison,Silly,2135,27,26,1.04,53,1,5211,Loss,32,25,0,1,6,0,,,,,,,,,,,,
 108,429,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Garrison,Apathy,1630,17,22,0.77,39,-5,3307,Loss,48,26,1,21,0,0,,,,,,,,,,,,
 108,429,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,Shotzzy,3235,31,24,1.29,55,7,5838,Win,54,2,41,4,6,1,,,,,,,,,,,,
-108,429,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,Crimsix,4005,29,20,1.45,49,9,5327,Win,52,8,0,20,24,0,,,,,,,,,,,,
+108,429,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,C6,4005,29,20,1.45,49,9,5327,Win,52,8,0,20,24,0,,,,,,,,,,,,
 108,429,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,iLLeY,2040,17,19,0.89,36,-2,3063,Win,70,0,33,31,6,0,,,,,,,,,,,,
 108,429,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,FeLo,3005,22,23,0.96,45,-1,3940,Win,108,17,58,17,12,4,,,,,,,,,,,,
 108,430,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Raid,Cheen,400,4,6,0.67,10,-2,894,Loss,,,,,,,1,1,1,0,0.44,99.33,,,,,,
@@ -3436,7 +3436,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 108,430,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Raid,Silly,400,4,6,0.67,10,-2,1186,Loss,,,,,,,1,1,0,0,0.44,131.78,,,,,,
 108,430,Stage 3 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Raid,Apathy,475,5,7,0.71,12,-2,1114,Loss,,,,,,,1,2,1,0,0.56,123.78,,,,,,
 108,430,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Raid,Shotzzy,600,5,4,1.25,9,1,1407,Win,,,,,,,0,2,0,0,0.56,156.33,,,,,,
-108,430,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Raid,Crimsix,625,5,4,1.25,9,1,1159,Win,,,,,,,2,1,0,0,0.56,128.78,,,,,,
+108,430,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Raid,C6,625,5,4,1.25,9,1,1159,Win,,,,,,,2,1,0,0,0.56,128.78,,,,,,
 108,430,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Raid,iLLeY,475,5,6,0.83,11,-1,588,Win,,,,,,,1,1,0,0,0.56,65.33,,,,,,
 108,430,Stage 3 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Raid,FeLo,2325,12,5,2.40,17,7,2348,Win,,,,,,,2,0,2,0,1.33,260.89,,,,,,
 109,431,Stage 3 Week 2,Seattle Surge,New York Subliners,Hardpoint,Moscow,Octane,1345,16,19,0.84,35,-3,3030,Loss,30,30,0,0,0,,,,,,,,,,,,,
@@ -3664,7 +3664,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 115,458,Stage 3 Week 3,Atlanta FaZe,Seattle Surge,Hardpoint,Moscow,Simp,1875,16,14,1.14,30,2,3445,Win,77,4,37,2,34,,,,,,,,,,,,,
 115,458,Stage 3 Week 3,Atlanta FaZe,Seattle Surge,Hardpoint,Moscow,aBeZy,2295,21,18,1.17,39,3,3560,Win,44,20,16,4,4,,,,,,,,,,,,,
 116,459,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Moscow,Shotzzy,,27,24,1.13,51,3,,Loss,,,,,,,,,,,,,,,,,,
-116,459,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Moscow,Crimsix,,21,28,0.75,49,-7,,Loss,,,,,,,,,,,,,,,,,,
+116,459,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Moscow,C6,,21,28,0.75,49,-7,,Loss,,,,,,,,,,,,,,,,,,
 116,459,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Moscow,iLLeY,,23,30,0.77,53,-7,,Loss,,,,,,,,,,,,,,,,,,
 116,459,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Moscow,FeLo,,22,24,0.92,46,-2,,Loss,,,,,,,,,,,,,,,,,,
 116,459,Stage 3 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Moscow,Owakening,,23,25,0.92,48,-2,,Win,,,,,,,,,,,,,,,,,,
@@ -3672,7 +3672,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 116,459,Stage 3 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Moscow,Havok,,21,21,1.00,42,0,,Win,,,,,,,,,,,,,,,,,,
 116,459,Stage 3 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Moscow,Neptune,,28,23,1.22,51,5,,Win,,,,,,,,,,,,,,,,,,
 116,460,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,Shotzzy,500,5,8,0.63,13,-3,1081,Loss,,,,,,,0,1,1,0,0.56,120.11,,,,,,
-116,460,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,Crimsix,765,9,7,1.29,16,2,1680,Loss,,,,,,,2,2,0,0,1,186.67,,,,,,
+116,460,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,C6,765,9,7,1.29,16,2,1680,Loss,,,,,,,2,2,0,0,1,186.67,,,,,,
 116,460,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,iLLeY,225,4,9,0.44,13,-5,1196,Loss,,,,,,,2,1,0,0,0.44,132.89,,,,,,
 116,460,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,FeLo,725,6,6,1.00,12,0,1335,Loss,,,,,,,1,0,0,2,0.67,148.33,,,,,,
 116,460,Stage 3 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Express,Owakening,275,3,8,0.38,11,-5,1130,Win,,,,,,,0,0,0,0,0.33,125.56,,,,,,
@@ -3680,7 +3680,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 116,460,Stage 3 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Express,Havok,725,8,4,2.00,12,4,1498,Win,,,,,,,0,2,0,0,0.89,166.44,,,,,,
 116,460,Stage 3 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Express,Neptune,825,8,6,1.33,14,2,1666,Win,,,,,,,2,1,2,0,0.89,185.11,,,,,,
 116,461,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Shotzzy,1900,19,19,1.00,38,0,3776,Loss,,,,,,,,,,,,,1,11,8,8,4,944
-116,461,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Crimsix,1365,12,20,0.60,32,-8,2963,Loss,,,,,,,,,,,,,2,7,6,5,4,740.75
+116,461,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,C6,1365,12,20,0.60,32,-8,2963,Loss,,,,,,,,,,,,,2,7,6,5,4,740.75
 116,461,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,iLLeY,1825,15,21,0.71,36,-6,2641,Loss,,,,,,,,,,,,,3,10,4,5,4,660.25
 116,461,Stage 3 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,FeLo,2295,18,24,0.75,42,-6,3962,Loss,,,,,,,,,,,,,4,8,5,10,5,990.5
 116,461,Stage 3 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Owakening,4125,26,14,1.86,40,12,4897,Win,,,,,,,,,,,,,4,14,12,12,6,1224.25
@@ -3840,7 +3840,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 121,480,Stage 3 Week 3,Atlanta FaZe,OpTic Chicago,Control,Raid,Simp,4345,22,13,1.69,35,9,3939,Win,,,,,,,,,,,,,7,13,6,9,3,1313
 121,480,Stage 3 Week 3,Atlanta FaZe,OpTic Chicago,Control,Raid,aBeZy,3600,18,10,1.80,28,8,3347,Win,,,,,,,,,,,,,9,15,9,3,0,115.67
 122,481,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Shotzzy,2000,20,28,0.71,48,-8,4291,Win,79,12,0,39,28,,,,,,,,,,,,,
-122,481,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Crimsix,2140,16,23,0.70,39,-7,3889,Win,69,21,3,23,22,,,,,,,,,,,,,
+122,481,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,C6,2140,16,23,0.70,39,-7,3889,Win,69,21,3,23,22,,,,,,,,,,,,,
 122,481,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,iLLeY,4490,28,23,1.22,51,5,4725,Win,74,42,10,17,5,,,,,,,,,,,,,
 122,481,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,FeLo,2075,22,22,1.00,44,0,4231,Win,70,30,15,25,0,,,,,,,,,,,,,
 122,481,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Accuracy,2195,21,25,0.84,46,-4,3965,Loss,50,17,13,0,20,,,,,,,,,,,,,
@@ -3848,7 +3848,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 122,481,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Standy,2575,21,19,1.11,40,2,4612,Loss,84,9,57,18,0,,,,,,,,,,,,,
 122,481,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Priestahh,2530,24,24,1.00,48,0,5008,Loss,66,12,40,2,12,,,,,,,,,,,,,
 122,482,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,Shotzzy,1990,11,6,1.83,17,5,2005,Win,,,,,,,3,0,2,0,1.1,200.5,,,,,,
-122,482,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,Crimsix,400,5,6,0.83,11,-1,1651,Win,,,,,,,0,0,0,0,0.5,165.1,,,,,,
+122,482,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,C6,400,5,6,0.83,11,-1,1651,Win,,,,,,,0,0,0,0,0.5,165.1,,,,,,
 122,482,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,iLLeY,425,6,6,1.00,12,0,1566,Win,,,,,,,2,2,0,0,0.6,156.6,,,,,,
 122,482,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,FeLo,1825,11,6,1.83,17,5,1923,Win,,,,,,,2,1,1,0,1.1,192.3,,,,,,
 122,482,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Search and Destroy,Miami,Accuracy,375,6,9,0.67,15,-3,2163,Loss,,,,,,,2,0,0,0,0.6,216.3,,,,,,
@@ -3856,7 +3856,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 122,482,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Search and Destroy,Miami,Standy,1445,8,8,1.00,16,0,1482,Loss,,,,,,,0,2,1,0,0.8,148.2,,,,,,
 122,482,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Search and Destroy,Miami,Priestahh,375,5,8,0.63,13,-3,1215,Loss,,,,,,,1,3,0,0,0.5,121.5,,,,,,
 122,483,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Control,Raid,Shotzzy,3350,21,24,0.88,45,-3,4261,Loss,,,,,,,,,,,,,5,11,4,10,4,852.2
-122,483,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Control,Raid,Crimsix,4025,25,31,0.81,56,-6,5141,Loss,,,,,,,,,,,,,7,15,5,10,5,1028.2
+122,483,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Control,Raid,C6,4025,25,31,0.81,56,-6,5141,Loss,,,,,,,,,,,,,7,15,5,10,5,1028.2
 122,483,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Control,Raid,iLLeY,3000,26,33,0.79,59,-7,4902,Loss,,,,,,,,,,,,,5,16,6,10,3,980.4
 122,483,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Control,Raid,FeLo,4130,26,32,0.81,58,-6,6257,Loss,,,,,,,,,,,,,10,17,13,9,5,1251.4
 122,483,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Control,Raid,Accuracy,4275,28,27,1.04,55,1,7143,Win,,,,,,,,,,,,,5,13,6,15,11,1428.6
@@ -3864,7 +3864,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 122,483,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Control,Raid,Standy,4550,32,27,1.19,59,5,5675,Win,,,,,,,,,,,,,6,7,4,25,10,1135
 122,483,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Control,Raid,Priestahh,5340,30,21,1.43,51,9,5613,Win,,,,,,,,,,,,,7,14,5,16,10,1122.6
 122,484,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Apocalypse,Shotzzy,2530,26,19,1.37,45,7,4156,Win,45,10,16,10,4,5,,,,,,,,,,,,
-122,484,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Apocalypse,Crimsix,2595,23,23,1.00,46,0,4077,Win,54,14,3,13,24,0,,,,,,,,,,,,
+122,484,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Apocalypse,C6,2595,23,23,1.00,46,0,4077,Win,54,14,3,13,24,0,,,,,,,,,,,,
 122,484,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Apocalypse,iLLeY,2405,20,18,1.11,38,2,3610,Win,85,0,49,0,0,36,,,,,,,,,,,,
 122,484,Stage 3 Week 3,Dallas Empire,Minnesota ROKKR,Hardpoint,Apocalypse,FeLo,2140,20,18,1.11,38,2,4180,Win,99,38,4,20,20,17,,,,,,,,,,,,
 122,484,Stage 3 Week 3,Minnesota ROKKR,Dallas Empire,Hardpoint,Apocalypse,Accuracy,2010,14,23,0.61,37,-9,3111,Loss,104,7,16,24,28,29,,,,,,,,,,,,
@@ -3936,7 +3936,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 124,492,Major 3,Seattle Surge,Los Angeles Guerrillas,Hardpoint,Apocalypse,Decemate,1375,18,23,0.78,41,-5,3198,Loss,30,23,0,7,0,0,,,,,,,,,,,,
 124,492,Major 3,Seattle Surge,Los Angeles Guerrillas,Hardpoint,Apocalypse,Gunless,1595,19,17,1.12,36,2,3228,Loss,63,22,1,11,29,0,,,,,,,,,,,,
 125,493,Major 3,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,Shotzzy,1740,21,19,1.11,40,2,4411,Loss,58,28,5,0,25,0,,,,,,,,,,,,
-125,493,Major 3,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,Crimsix,1440,17,22,0.77,39,-5,3041,Loss,24,17,2,0,5,0,,,,,,,,,,,,
+125,493,Major 3,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,C6,1440,17,22,0.77,39,-5,3041,Loss,24,17,2,0,5,0,,,,,,,,,,,,
 125,493,Major 3,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,iLLeY,2020,18,20,0.90,38,-2,3004,Loss,48,9,1,16,22,0,,,,,,,,,,,,
 125,493,Major 3,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,FeLo,1950,11,22,0.50,33,-11,3409,Loss,89,2,45,2,40,0,,,,,,,,,,,,
 125,493,Major 3,Atlanta FaZe,Dallas Empire,Hardpoint,Apocalypse,Arcitys,3100,21,13,1.62,34,8,3750,Win,91,0,57,25,0,9,,,,,,,,,,,,
@@ -3944,7 +3944,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 125,493,Major 3,Atlanta FaZe,Dallas Empire,Hardpoint,Apocalypse,Simp,2000,17,19,0.89,36,-2,3727,Win,100,24,5,31,9,31,,,,,,,,,,,,
 125,493,Major 3,Atlanta FaZe,Dallas Empire,Hardpoint,Apocalypse,aBeZy,2110,21,19,1.11,40,2,3636,Win,32,12,4,4,1,11,,,,,,,,,,,,
 125,494,Major 3,Dallas Empire,Atlanta FaZe,Search and Destroy,Checkmate,Shotzzy,250,4,7,0.57,11,-3,775,Loss,,,,,,,2,1,0,0,0.57,110.71,,,,,,
-125,494,Major 3,Dallas Empire,Atlanta FaZe,Search and Destroy,Checkmate,Crimsix,65,0,7,0.00,7,-7,332,Loss,,,,,,,0,0,0,0,0,47.43,,,,,,
+125,494,Major 3,Dallas Empire,Atlanta FaZe,Search and Destroy,Checkmate,C6,65,0,7,0.00,7,-7,332,Loss,,,,,,,0,0,0,0,0,47.43,,,,,,
 125,494,Major 3,Dallas Empire,Atlanta FaZe,Search and Destroy,Checkmate,iLLeY,525,7,6,1.17,13,1,1695,Loss,,,,,,,2,2,0,0,1,242.14,,,,,,
 125,494,Major 3,Dallas Empire,Atlanta FaZe,Search and Destroy,Checkmate,FeLo,450,3,7,0.43,10,-4,1239,Loss,,,,,,,0,0,1,0,0.43,177,,,,,,
 125,494,Major 3,Atlanta FaZe,Dallas Empire,Search and Destroy,Checkmate,Arcitys,275,2,4,0.50,6,-2,859,Win,,,,,,,0,1,0,0,0.29,122.71,,,,,,
@@ -3952,7 +3952,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 125,494,Major 3,Atlanta FaZe,Dallas Empire,Search and Destroy,Checkmate,Simp,405,4,5,0.80,9,-1,766,Win,,,,,,,0,1,1,0,0.57,109.43,,,,,,
 125,494,Major 3,Atlanta FaZe,Dallas Empire,Search and Destroy,Checkmate,aBeZy,1425,10,3,3.33,13,7,1843,Win,,,,,,,2,2,0,0,1.43,263.29,,,,,,
 125,495,Major 3,Dallas Empire,Atlanta FaZe,Control,Garrison,Shotzzy,3600,24,17,1.41,41,7,3884,Loss,,,,,,,,,,,,,5,10,9,14,7,776.8
-125,495,Major 3,Dallas Empire,Atlanta FaZe,Control,Garrison,Crimsix,2200,25,22,1.14,47,3,5094,Loss,,,,,,,,,,,,,3,15,4,10,4,1018.8
+125,495,Major 3,Dallas Empire,Atlanta FaZe,Control,Garrison,C6,2200,25,22,1.14,47,3,5094,Loss,,,,,,,,,,,,,3,15,4,10,4,1018.8
 125,495,Major 3,Dallas Empire,Atlanta FaZe,Control,Garrison,iLLeY,3525,17,26,0.65,43,-9,3904,Loss,,,,,,,,,,,,,6,11,6,6,2,780.8
 125,495,Major 3,Dallas Empire,Atlanta FaZe,Control,Garrison,FeLo,3590,18,24,0.75,42,-6,4821,Loss,,,,,,,,,,,,,10,10,4,8,5,964.2
 125,495,Major 3,Atlanta FaZe,Dallas Empire,Control,Garrison,Arcitys,2875,17,20,0.85,37,-3,4374,Win,,,,,,,,,,,,,6,5,3,12,6,874.8
@@ -4136,7 +4136,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 131,517,Major 3,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Seany,3415,22,28,0.79,50,-6,5455,Loss,,,,,,,,,,,,,4,13,6,9,9,1091
 131,517,Major 3,London Royal Ravens,Los Angeles Thieves,Control,Checkmate,Zed,3575,25,29,0.86,54,-4,4544,Loss,,,,,,,,,,,,,5,8,7,17,11,908.8
 132,518,Major 3,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Shotzzy,1440,19,26,0.73,45,-7,3667,Loss,31,19,8,3,0,1,,,,,,,,,,,,
-132,518,Major 3,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Crimsix,1160,16,27,0.59,43,-11,3181,Loss,25,9,0,7,9,0,,,,,,,,,,,,
+132,518,Major 3,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,C6,1160,16,27,0.59,43,-11,3181,Loss,25,9,0,7,9,0,,,,,,,,,,,,
 132,518,Major 3,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,iLLeY,1540,14,27,0.52,41,-13,3372,Loss,59,25,7,21,0,6,,,,,,,,,,,,
 132,518,Major 3,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,FeLo,1435,16,23,0.70,39,-7,3776,Loss,50,5,8,9,12,16,,,,,,,,,,,,
 132,518,Major 3,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,FORMAL,2300,22,14,1.57,36,8,4293,Win,71,1,29,14,21,6,,,,,,,,,,,,
@@ -4144,7 +4144,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 132,518,Major 3,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,Envoy,2610,24,18,1.33,42,6,4523,Win,93,6,7,30,36,14,,,,,,,,,,,,
 132,518,Major 3,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,Scump,1910,22,20,1.10,42,2,3824,Win,58,7,22,13,0,16,,,,,,,,,,,,
 132,519,Major 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Shotzzy,825,8,7,1.14,15,1,1740,Loss,,,,,,,1,4,0,0,0.73,158.18,,,,,,
-132,519,Major 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,Crimsix,580,5,8,0.63,13,-3,1304,Loss,,,,,,,2,1,0,1,0.45,118.55,,,,,,
+132,519,Major 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,C6,580,5,8,0.63,13,-3,1304,Loss,,,,,,,2,1,0,1,0.45,118.55,,,,,,
 132,519,Major 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,iLLeY,200,2,9,0.22,11,-7,755,Loss,,,,,,,0,0,0,0,0.18,68.64,,,,,,
 132,519,Major 3,Dallas Empire,OpTic Chicago,Search and Destroy,Checkmate,FeLo,675,8,4,2.00,12,4,1275,Loss,,,,,,,2,0,0,0,0.73,115.91,,,,,,
 132,519,Major 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,FORMAL,505,7,9,0.78,16,-2,2365,Win,,,,,,,2,2,0,0,0.64,215,,,,,,
@@ -4152,7 +4152,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 132,519,Major 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,Envoy,1115,12,6,2.00,18,6,2152,Win,,,,,,,2,2,0,0,1.09,195.64,,,,,,
 132,519,Major 3,OpTic Chicago,Dallas Empire,Search and Destroy,Checkmate,Scump,930,5,5,1.00,10,0,1006,Win,,,,,,,0,1,2,0,0.45,91.45,,,,,,
 132,520,Major 3,Dallas Empire,OpTic Chicago,Control,Raid,Shotzzy,2505,18,24,0.75,42,-6,4237,Loss,,,,,,,,,,,,,6,10,3,8,5,1059.25
-132,520,Major 3,Dallas Empire,OpTic Chicago,Control,Raid,Crimsix,3600,23,24,0.96,47,-1,4399,Loss,,,,,,,,,,,,,3,13,5,10,7,1099.75
+132,520,Major 3,Dallas Empire,OpTic Chicago,Control,Raid,C6,3600,23,24,0.96,47,-1,4399,Loss,,,,,,,,,,,,,3,13,5,10,7,1099.75
 132,520,Major 3,Dallas Empire,OpTic Chicago,Control,Raid,iLLeY,2350,15,26,0.58,41,-11,2952,Loss,,,,,,,,,,,,,5,9,4,6,4,738
 132,520,Major 3,Dallas Empire,OpTic Chicago,Control,Raid,FeLo,1925,16,24,0.67,40,-8,4471,Loss,,,,,,,,,,,,,4,9,3,7,5,1117.75
 132,520,Major 3,OpTic Chicago,Dallas Empire,Control,Raid,FORMAL,4360,24,17,1.41,41,7,4956,Win,,,,,,,,,,,,,9,14,7,10,8,1239
@@ -4468,7 +4468,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 141,559,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Hardpoint,Apocalypse,Seany,1635,18,23,0.78,41,-5,3970,Win,84,26,19,2,25,12,,,,,,,,,,,,
 141,559,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Hardpoint,Apocalypse,Alexx,2255,25,23,1.09,48,2,3734,Win,108,0,3,46,24,35,,,,,,,,,,,,
 141,559,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Apocalypse,Shotzzy,2050,20,20,1.00,40,0,3659,Loss,80,4,42,9,21,4,,,,,,,,,,,,
-141,559,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Apocalypse,Crimsix,1840,21,24,0.88,45,-3,4166,Loss,28,21,5,0,2,0,,,,,,,,,,,,
+141,559,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Apocalypse,C6,1840,21,24,0.88,45,-3,4166,Loss,28,21,5,0,2,0,,,,,,,,,,,,
 141,559,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Apocalypse,iLLeY,4095,27,21,1.29,48,6,4740,Loss,86,26,33,22,5,0,,,,,,,,,,,,
 141,559,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Apocalypse,Vivid,1245,15,26,0.58,41,-11,3225,Loss,27,4,3,11,9,0,,,,,,,,,,,,
 141,560,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Search and Destroy,Express,PaulEhx,950,11,8,1.38,19,3,2362,Loss,,,,,,,1,2,0,0,1,214.73,,,,,,
@@ -4476,7 +4476,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 141,560,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Search and Destroy,Express,Seany,900,9,8,1.13,17,1,2471,Loss,,,,,,,0,1,1,0,0.82,224.64,,,,,,
 141,560,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Search and Destroy,Express,Alexx,550,4,10,0.40,14,-6,942,Loss,,,,,,,0,6,2,0,0.36,85.64,,,,,,
 141,560,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Express,Shotzzy,890,7,10,0.70,17,-3,1457,Win,,,,,,,1,1,3,0,0.64,132.45,,,,,,
-141,560,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Express,Crimsix,1200,11,8,1.38,19,3,2617,Win,,,,,,,2,0,0,2,1,237.91,,,,,,
+141,560,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Express,C6,1200,11,8,1.38,19,3,2617,Win,,,,,,,2,0,0,2,1,237.91,,,,,,
 141,560,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Express,iLLeY,1725,11,7,1.57,18,4,1929,Win,,,,,,,3,0,0,0,1,175.36,,,,,,
 141,560,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Express,Vivid,425,5,11,0.45,16,-6,1401,Win,,,,,,,4,0,0,0,0.45,127.36,,,,,,
 141,561,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Control,Garrison,PaulEhx,2115,18,10,1.80,28,8,3154,Win,,,,,,,,,,,,,3,7,4,11,7,1051.33
@@ -4484,7 +4484,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 141,561,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Control,Garrison,Seany,1275,10,11,0.91,21,-1,2425,Win,,,,,,,,,,,,,4,5,4,5,4,808.33
 141,561,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Control,Garrison,Alexx,3665,21,9,2.33,30,12,2936,Win,,,,,,,,,,,,,5,10,8,11,7,978.67
 141,561,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Control,Garrison,Shotzzy,1125,13,14,0.93,27,-1,2637,Loss,,,,,,,,,,,,,0,8,7,5,5,879
-141,561,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Control,Garrison,Crimsix,915,11,14,0.79,25,-3,2732,Loss,,,,,,,,,,,,,0,6,3,5,2,910.67
+141,561,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Control,Garrison,C6,915,11,14,0.79,25,-3,2732,Loss,,,,,,,,,,,,,0,6,3,5,2,910.67
 141,561,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Control,Garrison,iLLeY,1390,9,16,0.56,25,-7,1953,Loss,,,,,,,,,,,,,2,4,4,5,3,651
 141,561,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Control,Garrison,Vivid,950,8,19,0.42,27,-11,1795,Loss,,,,,,,,,,,,,1,2,0,6,5,598.33
 141,562,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Hardpoint,Garrison,PaulEhx,,33,33,1.00,66,0,,Loss,,,,,,,,,,,,,,,,,,
@@ -4492,7 +4492,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 141,562,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Hardpoint,Garrison,Seany,,25,26,0.96,51,-1,,Loss,,,,,,,,,,,,,,,,,,
 141,562,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Hardpoint,Garrison,Alexx,,29,27,1.07,56,2,,Loss,,,,,,,,,,,,,,,,,,
 141,562,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,Shotzzy,,31,29,1.07,60,2,,Win,,,,,,,,,,,,,,,,,,
-141,562,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,Crimsix,,31,28,1.11,59,3,,Win,,,,,,,,,,,,,,,,,,
+141,562,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,C6,,31,28,1.11,59,3,,Win,,,,,,,,,,,,,,,,,,
 141,562,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,iLLeY,,21,29,0.72,50,-8,,Win,,,,,,,,,,,,,,,,,,
 141,562,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Hardpoint,Garrison,Vivid,,28,30,0.93,58,-2,,Win,,,,,,,,,,,,,,,,,,
 141,563,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Search and Destroy,Standoff,PaulEhx,290,3,8,0.38,11,-5,1312,Loss,,,,,,,0,1,0,0,0.38,164,,,,,,
@@ -4500,7 +4500,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 141,563,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Search and Destroy,Standoff,Seany,485,5,7,0.71,12,-2,1273,Loss,,,,,,,0,3,0,0,0.63,159.13,,,,,,
 141,563,Stage 4 Week 1,London Royal Ravens,Dallas Empire,Search and Destroy,Standoff,Alexx,225,4,7,0.57,11,-3,718,Loss,,,,,,,2,1,0,0,0.5,89.75,,,,,,
 141,563,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Standoff,Shotzzy,1215,9,3,3.00,12,6,1274,Win,,,,,,,1,0,4,0,1.13,159.25,,,,,,
-141,563,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Standoff,Crimsix,1065,9,3,3.00,12,6,1964,Win,,,,,,,3,0,0,0,1.13,245.5,,,,,,
+141,563,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Standoff,C6,1065,9,3,3.00,12,6,1964,Win,,,,,,,3,0,0,0,1.13,245.5,,,,,,
 141,563,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Standoff,iLLeY,490,5,5,1.00,10,0,951,Win,,,,,,,2,1,0,0,0.63,118.88,,,,,,
 141,563,Stage 4 Week 1,Dallas Empire,London Royal Ravens,Search and Destroy,Standoff,Vivid,375,4,4,1.00,8,0,816,Win,,,,,,,0,1,0,0,0.5,102,,,,,,
 142,564,Stage 4 Week 1,OpTic Chicago,Minnesota ROKKR,Hardpoint,Moscow,FORMAL,2480,30,24,1.25,54,6,6314,Win,37,2,2,20,13,,,,,,,,,,,,,
@@ -4660,7 +4660,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 147,583,Stage 4 Week 1,Toronto Ultra,Dallas Empire,Hardpoint,Raid,Insight,2455,20,15,1.33,35,5,3920,Win,60,36,14,0,0,10,,,,,,,,,,,,
 147,583,Stage 4 Week 1,Toronto Ultra,Dallas Empire,Hardpoint,Raid,CleanX,2305,18,15,1.20,33,3,3404,Win,65,16,13,5,0,31,,,,,,,,,,,,
 147,583,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Raid,Shotzzy,1105,11,21,0.52,32,-10,2736,Loss,19,0,19,0,0,0,,,,,,,,,,,,
-147,583,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Raid,Crimsix,1575,20,21,0.95,41,-1,3690,Loss,35,0,13,0,22,0,,,,,,,,,,,,
+147,583,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Raid,C6,1575,20,21,0.95,41,-1,3690,Loss,35,0,13,0,22,0,,,,,,,,,,,,
 147,583,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Raid,iLLeY,1975,14,16,0.88,30,-2,3052,Loss,32,2,21,0,9,0,,,,,,,,,,,,
 147,583,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Hardpoint,Raid,Vivid,1440,10,23,0.43,33,-13,2228,Loss,,0,9,59,15,0,,,,,,,,,,,,
 147,584,Stage 4 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Express,Cammy,900,8,5,1.60,13,3,1473,Win,,,,,,,0,1,0,1,0.8,147.3,,,,,,
@@ -4668,7 +4668,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 147,584,Stage 4 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Express,Insight,700,9,5,1.80,14,4,1584,Win,,,,,,,3,2,0,0,0.9,158.4,,,,,,
 147,584,Stage 4 Week 1,Toronto Ultra,Dallas Empire,Search and Destroy,Express,CleanX,600,6,7,0.86,13,-1,1123,Win,,,,,,,2,0,1,0,0.6,112.3,,,,,,
 147,584,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Express,Shotzzy,650,5,8,0.63,13,-3,1148,Loss,,,,,,,2,2,3,0,0.5,114.8,,,,,,
-147,584,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Express,Crimsix,640,8,8,1.00,16,0,1889,Loss,,,,,,,2,2,0,1,0.8,188.9,,,,,,
+147,584,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Express,C6,640,8,8,1.00,16,0,1889,Loss,,,,,,,2,2,0,1,0.8,188.9,,,,,,
 147,584,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Express,iLLeY,500,5,8,0.63,13,-3,1234,Loss,,,,,,,0,1,0,1,0.5,123.4,,,,,,
 147,584,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Search and Destroy,Express,Vivid,540,6,6,1.00,12,0,1047,Loss,,,,,,,0,1,1,0,0.6,104.7,,,,,,
 147,585,Stage 4 Week 1,Toronto Ultra,Dallas Empire,Control,Garrison,Cammy,2100,20,19,1.05,39,1,4248,Win,,,,,,,,,,,,,4,9,7,11,4,1062
@@ -4676,7 +4676,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 147,585,Stage 4 Week 1,Toronto Ultra,Dallas Empire,Control,Garrison,Insight,2140,17,22,0.77,39,-5,3644,Win,,,,,,,,,,,,,4,9,6,8,7,911
 147,585,Stage 4 Week 1,Toronto Ultra,Dallas Empire,Control,Garrison,CleanX,5525,35,16,2.19,51,19,5092,Win,,,,,,,,,,,,,5,22,20,13,9,1273
 147,585,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Control,Garrison,Shotzzy,2150,18,25,0.72,43,-7,3491,Loss,,,,,,,,,,,,,2,8,8,10,8,872.75
-147,585,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Control,Garrison,Crimsix,2150,24,22,1.09,46,2,4044,Loss,,,,,,,,,,,,,0,9,4,15,13,1011
+147,585,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Control,Garrison,C6,2150,24,22,1.09,46,2,4044,Loss,,,,,,,,,,,,,0,9,4,15,13,1011
 147,585,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Control,Garrison,iLLeY,2075,25,23,1.09,48,2,4021,Loss,,,,,,,,,,,,,1,9,3,16,13,1005.25
 147,585,Stage 4 Week 1,Dallas Empire,Toronto Ultra,Control,Garrison,Vivid,1450,14,23,0.61,37,-9,3371,Loss,,,,,,,,,,,,,1,5,2,9,6,842.75
 148,586,Stage 4 Week 1,OpTic Chicago,Atlanta FaZe,Hardpoint,Moscow,FORMAL,950,11,25,0.44,36,-14,2916,Loss,46,14,8,24,0,,,,,,,,,,,,,
@@ -4728,7 +4728,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 149,591,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Control,Garrison,Simp,2950,18,17,1.06,35,1,3400,Win,,,,,,,,,,,,,8,11,8,7,3,1133.33
 149,591,Stage 4 Week 2,Atlanta FaZe,Seattle Surge,Control,Garrison,aBeZy,3175,20,12,1.67,32,8,3136,Win,,,,,,,,,,,,,9,16,10,4,3,1045.33
 150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,Shotzzy,3035,27,15,1.80,42,12,3884,Win,144,25,51,11,27,30,,,,,,,,,,,,
-150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,Crimsix,2985,19,17,1.12,36,2,3854,Win,105,9,60,2,34,0,,,,,,,,,,,,
+150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,C6,2985,19,17,1.12,36,2,3854,Win,105,9,60,2,34,0,,,,,,,,,,,,
 150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,iLLeY,1370,19,24,0.79,43,-5,4747,Win,19,0,19,0,0,0,,,,,,,,,,,,
 150,592,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Raid,Vivid,1750,20,21,0.95,41,-1,3261,Win,76,0,36,0,31,9,,,,,,,,,,,,
 150,592,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Raid,Cheen,1615,14,21,0.67,35,-7,2644,Loss,109,19,0,85,5,0,,,,,,,,,,,,
@@ -4736,7 +4736,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 150,592,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Raid,Silly,1140,16,27,0.59,43,-11,3440,Loss,39,28,0,10,1,0,,,,,,,,,,,,
 150,592,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Raid,Apathy,2465,20,16,1.25,36,4,3475,Loss,57,19,0,19,19,0,,,,,,,,,,,,
 150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,Shotzzy,2225,12,4,3.00,16,8,2418,Win,,,,,,,3,0,0,0,1.33,268.67,,,,,,
-150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,Crimsix,400,6,6,1.00,12,0,1437,Win,,,,,,,2,0,0,0,0.67,159.67,,,,,,
+150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,C6,400,6,6,1.00,12,0,1437,Win,,,,,,,2,0,0,0,0.67,159.67,,,,,,
 150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,iLLeY,730,6,5,1.20,11,1,1691,Win,,,,,,,1,0,2,0,0.67,187.89,,,,,,
 150,593,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Miami,Vivid,650,7,6,1.17,13,1,1162,Win,,,,,,,0,3,1,0,0.78,129.11,,,,,,
 150,593,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Miami,Cheen,400,5,8,0.63,13,-3,1203,Loss,,,,,,,1,4,0,0,0.56,133.67,,,,,,
@@ -4744,7 +4744,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 150,593,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Miami,Silly,375,2,7,0.29,9,-5,550,Loss,,,,,,,0,1,1,1,0.22,61.11,,,,,,
 150,593,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Miami,Apathy,650,9,8,1.13,17,1,1548,Loss,,,,,,,2,0,0,0,1,172,,,,,,
 150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,Shotzzy,2665,15,12,1.25,27,3,2721,Win,,,,,,,,,,,,,7,8,4,7,5,680.25
-150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,Crimsix,2865,20,15,1.33,35,5,4024,Win,,,,,,,,,,,,,3,10,5,10,6,1006
+150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,C6,2865,20,15,1.33,35,5,4024,Win,,,,,,,,,,,,,3,10,5,10,6,1006
 150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,iLLeY,2450,24,15,1.60,39,9,4361,Win,,,,,,,,,,,,,4,14,8,10,7,1090.25
 150,594,Stage 4 Week 2,Dallas Empire,Los Angeles Guerrillas,Control,Garrison,Vivid,2030,12,18,0.67,30,-6,2421,Win,,,,,,,,,,,,,6,5,2,7,5,605.25
 150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Cheen,1225,16,18,0.89,34,-2,3403,Loss,,,,,,,,,,,,,0,6,1,10,5,850.75
@@ -4972,7 +4972,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 158,622,Stage 4 Week 2,New York Subliners,Dallas Empire,Hardpoint,Garrison,Mack,4460,40,27,1.48,67,13,7352,Win,69,23,6,0,22,18,,,,,,,,,,,,
 158,622,Stage 4 Week 2,New York Subliners,Dallas Empire,Hardpoint,Garrison,Hydra,3670,35,22,1.59,57,13,5677,Win,29,0,6,21,0,2,,,,,,,,,,,,
 158,622,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Garrison,Shotzzy,3015,30,25,1.20,55,5,4787,Loss,94,5,36,18,0,35,,,,,,,,,,,,
-158,622,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Garrison,Crimsix,2260,22,33,0.67,55,-11,5259,Loss,62,10,26,0,26,0,,,,,,,,,,,,
+158,622,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Garrison,C6,2260,22,33,0.67,55,-11,5259,Loss,62,10,26,0,26,0,,,,,,,,,,,,
 158,622,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Garrison,iLLeY,2010,24,31,0.77,55,-7,5183,Loss,60,23,5,0,22,10,,,,,,,,,,,,
 158,622,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Garrison,Vivid,2335,28,35,0.80,63,-7,5235,Loss,31,20,6,3,2,0,,,,,,,,,,,,
 158,623,Stage 4 Week 2,New York Subliners,Dallas Empire,Search and Destroy,Raid,Asim,450,3,8,0.38,11,-5,816,Loss,,,,,,,2,2,0,0,0.33,90.67,,,,,,
@@ -4980,7 +4980,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 158,623,Stage 4 Week 2,New York Subliners,Dallas Empire,Search and Destroy,Raid,Mack,350,6,9,0.67,15,-3,1233,Loss,,,,,,,0,0,0,0,0.67,137,,,,,,
 158,623,Stage 4 Week 2,New York Subliners,Dallas Empire,Search and Destroy,Raid,Hydra,640,7,6,1.17,13,1,1186,Loss,,,,,,,0,2,1,0,0.78,131.78,,,,,,
 158,623,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Raid,Shotzzy,820,8,7,1.14,15,1,1523,Win,,,,,,,1,1,0,1,0.89,169.22,,,,,,
-158,623,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Raid,Crimsix,1065,5,4,1.25,9,1,1293,Win,,,,,,,0,1,0,0,0.56,143.67,,,,,,
+158,623,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Raid,C6,1065,5,4,1.25,9,1,1293,Win,,,,,,,0,1,0,0,0.56,143.67,,,,,,
 158,623,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Raid,iLLeY,790,7,7,1.00,14,0,1151,Win,,,,,,,2,2,3,0,0.78,127.89,,,,,,
 158,623,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Raid,Vivid,915,10,6,1.67,16,4,1617,Win,,,,,,,2,0,1,0,1.11,179.67,,,,,,
 158,624,Stage 4 Week 2,New York Subliners,Dallas Empire,Control,Garrison,Asim,2455,25,31,0.81,56,-6,4402,Loss,,,,,,,,,,,,,1,12,7,13,9,880.4
@@ -4988,7 +4988,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 158,624,Stage 4 Week 2,New York Subliners,Dallas Empire,Control,Garrison,Mack,2675,24,25,0.96,49,-1,4905,Loss,,,,,,,,,,,,,4,11,7,13,4,981
 158,624,Stage 4 Week 2,New York Subliners,Dallas Empire,Control,Garrison,Hydra,2000,23,28,0.82,51,-5,4688,Loss,,,,,,,,,,,,,2,12,5,11,6,937.6
 158,624,Stage 4 Week 2,Dallas Empire,New York Subliners,Control,Garrison,Shotzzy,3465,30,21,1.43,51,9,4907,Win,,,,,,,,,,,,,4,15,10,15,8,981.4
-158,624,Stage 4 Week 2,Dallas Empire,New York Subliners,Control,Garrison,Crimsix,3375,29,23,1.26,52,6,5321,Win,,,,,,,,,,,,,3,12,6,17,11,1064.2
+158,624,Stage 4 Week 2,Dallas Empire,New York Subliners,Control,Garrison,C6,3375,29,23,1.26,52,6,5321,Win,,,,,,,,,,,,,3,12,6,17,11,1064.2
 158,624,Stage 4 Week 2,Dallas Empire,New York Subliners,Control,Garrison,iLLeY,2400,23,29,0.79,52,-6,5322,Win,,,,,,,,,,,,,3,8,5,15,4,1064.4
 158,624,Stage 4 Week 2,Dallas Empire,New York Subliners,Control,Garrison,Vivid,4730,32,19,1.68,51,13,5370,Win,,,,,,,,,,,,,6,13,5,19,8,1074
 158,625,Stage 4 Week 2,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Asim,3585,37,30,1.23,67,7,6623,Win,73,32,8,17,16,0,,,,,,,,,,,,
@@ -4996,7 +4996,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 158,625,Stage 4 Week 2,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Mack,3685,40,24,1.67,64,16,6080,Win,107,13,4,14,51,25,,,,,,,,,,,,
 158,625,Stage 4 Week 2,New York Subliners,Dallas Empire,Hardpoint,Checkmate,Hydra,2290,27,22,1.23,49,5,4818,Win,65,33,32,0,0,0,,,,,,,,,,,,
 158,625,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Shotzzy,2810,29,30,0.97,59,-1,4899,Loss,98,32,16,4,1,45,,,,,,,,,,,,
-158,625,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Crimsix,2470,23,33,0.70,56,-10,4791,Loss,68,13,16,16,0,23,,,,,,,,,,,,
+158,625,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Checkmate,C6,2470,23,33,0.70,56,-10,4791,Loss,68,13,16,16,0,23,,,,,,,,,,,,
 158,625,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Checkmate,iLLeY,2590,22,36,0.61,58,-14,5207,Loss,41,7,8,4,21,1,,,,,,,,,,,,
 158,625,Stage 4 Week 2,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Vivid,2245,30,35,0.86,65,-5,5266,Loss,59,29,8,4,18,0,,,,,,,,,,,,
 158,626,Stage 4 Week 2,New York Subliners,Dallas Empire,Search and Destroy,Standoff,Asim,1615,9,4,2.25,13,5,1437,Win,,,,,,,1,3,1,0,0.9,143.7,,,,,,
@@ -5004,7 +5004,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 158,626,Stage 4 Week 2,New York Subliners,Dallas Empire,Search and Destroy,Standoff,Mack,615,6,6,1.00,12,0,1541,Win,,,,,,,1,0,0,0,0.6,154.1,,,,,,
 158,626,Stage 4 Week 2,New York Subliners,Dallas Empire,Search and Destroy,Standoff,Hydra,500,7,7,1.00,14,0,1618,Win,,,,,,,3,1,0,0,0.7,161.8,,,,,,
 158,626,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Standoff,Shotzzy,475,5,7,0.71,12,-2,1004,Loss,,,,,,,1,2,0,0,0.5,100.4,,,,,,
-158,626,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Standoff,Crimsix,435,4,8,0.50,12,-4,2192,Loss,,,,,,,2,1,0,0,0.4,219.2,,,,,,
+158,626,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Standoff,C6,435,4,8,0.50,12,-4,2192,Loss,,,,,,,2,1,0,0,0.4,219.2,,,,,,
 158,626,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Standoff,iLLeY,1125,6,7,0.86,13,-1,1594,Loss,,,,,,,0,0,0,0,0.6,159.4,,,,,,
 158,626,Stage 4 Week 2,Dallas Empire,New York Subliners,Search and Destroy,Standoff,Vivid,675,7,8,0.88,15,-1,1225,Loss,,,,,,,2,2,1,0,0.7,122.5,,,,,,
 159,627,Stage 4 Week 3,Los Angeles Guerrillas,Toronto Ultra,Hardpoint,Garrison,Cheen,1405,19,27,0.70,46,-8,4616,Loss,16,1,0,0,0,15,,,,,,,,,,,,
@@ -5200,7 +5200,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 164,650,Stage 4 Week 3,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,Simp,2255,25,21,1.19,46,4,4034,Win,31,1,15,15,0,0,,,,,,,,,,,,
 164,650,Stage 4 Week 3,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,aBeZy,1825,22,19,1.16,41,3,4248,Win,57,10,24,0,14,9,,,,,,,,,,,,
 165,651,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Shotzzy,2450,27,28,0.96,55,-1,4104,Win,68,43,4,0,17,4,,,,,,,,,,,,
-165,651,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Crimsix,1825,19,23,0.83,42,-4,4214,Win,83,13,6,15,31,18,,,,,,,,,,,,
+165,651,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,C6,1825,19,23,0.83,42,-4,4214,Win,83,13,6,15,31,18,,,,,,,,,,,,
 165,651,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,iLLeY,3050,27,24,1.13,51,3,5029,Win,91,33,31,8,13,6,,,,,,,,,,,,
 165,651,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Checkmate,Vivid,2760,32,30,1.07,62,2,5272,Win,74,35,0,15,4,20,,,,,,,,,,,,
 165,651,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Owakening,3305,27,22,1.23,49,5,4618,Loss,33,0,0,18,0,15,,,,,,,,,,,,
@@ -5208,7 +5208,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 165,651,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Havok,1750,22,29,0.76,51,-7,4308,Loss,33,3,10,7,8,5,,,,,,,,,,,,
 165,651,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Checkmate,Neptune,3975,32,25,1.28,57,7,5642,Loss,54,21,14,7,2,10,,,,,,,,,,,,
 165,652,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,Shotzzy,425,7,6,1.17,13,1,1138,Loss,,,,,,,1,0,0,0,1.17,189.67,,,,,,
-165,652,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,Crimsix,200,4,6,0.67,10,-2,907,Loss,,,,,,,2,0,0,0,0.67,151.17,,,,,,
+165,652,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,C6,200,4,6,0.67,10,-2,907,Loss,,,,,,,2,0,0,0,0.67,151.17,,,,,,
 165,652,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,iLLeY,100,1,6,0.17,7,-5,433,Loss,,,,,,,0,2,0,0,0.17,72.17,,,,,,
 165,652,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Express,Vivid,50,1,6,0.17,7,-5,478,Loss,,,,,,,0,1,0,0,0.17,79.67,,,,,,
 165,652,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Express,Owakening,2325,9,2,4.50,11,7,1481,Win,,,,,,,1,0,0,0,1.5,246.83,,,,,,
@@ -5216,7 +5216,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 165,652,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Express,Havok,650,7,4,1.75,11,3,1424,Win,,,,,,,2,0,1,0,1.17,237.33,,,,,,
 165,652,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Express,Neptune,615,5,3,1.67,8,2,846,Win,,,,,,,0,0,0,0,0.83,141,,,,,,
 165,653,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Shotzzy,2115,20,17,1.18,37,3,3415,Loss,,,,,,,,,,,,,0,9,4,11,9,853.75
-165,653,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Crimsix,2530,18,18,1.00,36,0,3772,Loss,,,,,,,,,,,,,1,9,6,9,8,943
+165,653,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,C6,2530,18,18,1.00,36,0,3772,Loss,,,,,,,,,,,,,1,9,6,9,8,943
 165,653,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,iLLeY,1425,16,22,0.73,38,-6,3381,Loss,,,,,,,,,,,,,0,8,4,8,9,845.25
 165,653,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Control,Checkmate,Vivid,1100,6,23,0.26,29,-17,2026,Loss,,,,,,,,,,,,,2,3,3,3,3,506.5
 165,653,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Owakening,2290,21,15,1.40,36,6,4158,Win,,,,,,,,,,,,,4,9,7,12,10,1039.5
@@ -5224,7 +5224,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 165,653,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Havok,1155,13,19,0.68,32,-6,3067,Win,,,,,,,,,,,,,2,9,4,4,1,766.75
 165,653,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Neptune,2890,19,14,1.36,33,5,3320,Win,,,,,,,,,,,,,6,10,8,9,8,830
 165,654,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Apocalypse,Shotzzy,2420,26,27,0.96,53,-1,4959,Win,83,40,6,15,12,10,,,,,,,,,,,,
-165,654,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Apocalypse,Crimsix,2040,22,27,0.81,49,-5,5245,Win,83,40,23,19,1,0,,,,,,,,,,,,
+165,654,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Apocalypse,C6,2040,22,27,0.81,49,-5,5245,Win,83,40,23,19,1,0,,,,,,,,,,,,
 165,654,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Apocalypse,iLLeY,2035,21,26,0.81,47,-5,4990,Win,37,8,0,7,2,20,,,,,,,,,,,,
 165,654,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Hardpoint,Apocalypse,Vivid,3250,31,23,1.35,54,8,4357,Win,86,29,21,0,13,23,,,,,,,,,,,,
 165,654,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Apocalypse,Owakening,2030,27,25,1.08,52,2,4891,Loss,30,0,2,9,1,18,,,,,,,,,,,,
@@ -5232,7 +5232,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 165,654,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Apocalypse,Havok,1880,19,30,0.63,49,-11,3990,Loss,45,0,0,3,5,37,,,,,,,,,,,,
 165,654,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Hardpoint,Apocalypse,Neptune,3155,26,24,1.08,50,2,5027,Loss,28,0,0,12,1,15,,,,,,,,,,,,
 165,655,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Miami,Shotzzy,890,7,3,2.33,10,4,1451,Win,,,,,,,1,0,2,0,0.88,181.38,,,,,,
-165,655,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Miami,Crimsix,625,8,5,1.60,13,3,1638,Win,,,,,,,2,0,0,0,1,204.75,,,,,,
+165,655,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Miami,C6,625,8,5,1.60,13,3,1638,Win,,,,,,,2,0,0,0,1,204.75,,,,,,
 165,655,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Miami,iLLeY,325,3,6,0.50,9,-3,690,Win,,,,,,,1,3,1,0,0.38,86.25,,,,,,
 165,655,Stage 4 Week 3,Dallas Empire,Florida Mutineers,Search and Destroy,Miami,Vivid,875,9,4,2.25,13,5,1338,Win,,,,,,,1,0,0,0,1.13,167.25,,,,,,
 165,655,Stage 4 Week 3,Florida Mutineers,Dallas Empire,Search and Destroy,Miami,Owakening,175,3,8,0.38,11,-5,1165,Loss,,,,,,,0,1,0,0,0.38,145.63,,,,,,
@@ -5327,3 +5327,123 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 168,666,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Moscow,Dashy,2450,21,16,1.31,37,5,4077,Win,25,0,12,0,13,,,,,,,,,,,,,
 168,666,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Moscow,Envoy,4445,24,14,1.71,38,10,4169,Win,74,15,52,0,7,,,,,,,,,,,,,
 168,666,Stage 4 Week 3,OpTic Chicago,Los Angeles Thieves,Hardpoint,Moscow,Scump,2980,29,16,1.81,45,13,4384,Win,106,49,7,0,50,,,,,,,,,,,,,
+169,667,Major 4,London Royal Ravens,Seattle Surge,Hardpoint,Apocalypse,PaulEhx,,25,21,1.19,46,4,,Loss,,,,,,,,,,,,,,,,,,
+169,667,Major 4,London Royal Ravens,Seattle Surge,Hardpoint,Apocalypse,Alexx,,10,18,0.56,28,-8,,Loss,,,,,,,,,,,,,,,,,,
+169,667,Major 4,London Royal Ravens,Seattle Surge,Hardpoint,Apocalypse,Afro,,23,19,1.21,42,4,,Loss,,,,,,,,,,,,,,,,,,
+169,667,Major 4,London Royal Ravens,Seattle Surge,Hardpoint,Apocalypse,Seany,,14,20,0.70,34,-6,,Loss,,,,,,,,,,,,,,,,,,
+169,667,Major 4,Seattle Surge,London Royal Ravens,Hardpoint,Apocalypse,Gunless,,21,15,1.40,36,6,,Win,,,,,,,,,,,,,,,,,,
+169,667,Major 4,Seattle Surge,London Royal Ravens,Hardpoint,Apocalypse,Prestinni,,17,20,0.85,37,-3,,Win,,,,,,,,,,,,,,,,,,
+169,667,Major 4,Seattle Surge,London Royal Ravens,Hardpoint,Apocalypse,Classic,,13,22,0.59,35,-9,,Win,,,,,,,,,,,,,,,,,,
+169,667,Major 4,Seattle Surge,London Royal Ravens,Hardpoint,Apocalypse,Octane,,27,15,1.80,42,12,,Win,,,,,,,,,,,,,,,,,,
+169,668,Major 4,London Royal Ravens,Seattle Surge,Search and Destroy,Raid,PaulEhx,,10,5,2.00,15,5,,Win,,,,,,,,,,,,,,,,,,
+169,668,Major 4,London Royal Ravens,Seattle Surge,Search and Destroy,Raid,Alexx,,7,5,1.40,12,2,,Win,,,,,,,,,,,,,,,,,,
+169,668,Major 4,London Royal Ravens,Seattle Surge,Search and Destroy,Raid,Afro,,4,7,0.57,11,-3,,Win,,,,,,,,,,,,,,,,,,
+169,668,Major 4,London Royal Ravens,Seattle Surge,Search and Destroy,Raid,Seany,,7,7,1.00,14,0,,Win,,,,,,,,,,,,,,,,,,
+169,668,Major 4,Seattle Surge,London Royal Ravens,Search and Destroy,Raid,Gunless,,4,7,0.57,11,-3,,Loss,,,,,,,,,,,,,,,,,,
+169,668,Major 4,Seattle Surge,London Royal Ravens,Search and Destroy,Raid,Prestinni,,8,8,1.00,16,0,,Loss,,,,,,,,,,,,,,,,,,
+169,668,Major 4,Seattle Surge,London Royal Ravens,Search and Destroy,Raid,Classic,,6,8,0.75,14,-2,,Loss,,,,,,,,,,,,,,,,,,
+169,668,Major 4,Seattle Surge,London Royal Ravens,Search and Destroy,Raid,Octane,,6,5,1.20,11,1,,Loss,,,,,,,,,,,,,,,,,,
+169,669,Major 4,London Royal Ravens,Seattle Surge,Control,Checkmate,PaulEhx,,25,22,1.14,47,3,,Loss,,,,,,,,,,,,,,,,,,
+169,669,Major 4,London Royal Ravens,Seattle Surge,Control,Checkmate,Alexx,,25,26,0.96,51,-1,,Loss,,,,,,,,,,,,,,,,,,
+169,669,Major 4,London Royal Ravens,Seattle Surge,Control,Checkmate,Afro,,28,27,1.04,55,1,,Loss,,,,,,,,,,,,,,,,,,
+169,669,Major 4,London Royal Ravens,Seattle Surge,Control,Checkmate,Seany,,18,29,0.62,47,-11,,Loss,,,,,,,,,,,,,,,,,,
+169,669,Major 4,Seattle Surge,London Royal Ravens,Control,Checkmate,Gunless,,21,22,0.95,43,-1,,Win,,,,,,,,,,,,,,,,,,
+169,669,Major 4,Seattle Surge,London Royal Ravens,Control,Checkmate,Prestinni,,29,25,1.16,54,4,,Win,,,,,,,,,,,,,,,,,,
+169,669,Major 4,Seattle Surge,London Royal Ravens,Control,Checkmate,Classic,,25,28,0.89,53,-3,,Win,,,,,,,,,,,,,,,,,,
+169,669,Major 4,Seattle Surge,London Royal Ravens,Control,Checkmate,Octane,,29,21,1.38,50,8,,Win,,,,,,,,,,,,,,,,,,
+169,670,Major 4,London Royal Ravens,Seattle Surge,Hardpoint,Checkmate,PaulEhx,,19,20,0.95,39,-1,,Loss,,,,,,,,,,,,,,,,,,
+169,670,Major 4,London Royal Ravens,Seattle Surge,Hardpoint,Checkmate,Alexx,,13,23,0.57,36,-10,,Loss,,,,,,,,,,,,,,,,,,
+169,670,Major 4,London Royal Ravens,Seattle Surge,Hardpoint,Checkmate,Afro,,24,20,1.20,44,4,,Loss,,,,,,,,,,,,,,,,,,
+169,670,Major 4,London Royal Ravens,Seattle Surge,Hardpoint,Checkmate,Seany,,12,25,0.48,37,-13,,Loss,,,,,,,,,,,,,,,,,,
+169,670,Major 4,Seattle Surge,London Royal Ravens,Hardpoint,Checkmate,Gunless,,16,14,1.14,30,2,,Win,,,,,,,,,,,,,,,,,,
+169,670,Major 4,Seattle Surge,London Royal Ravens,Hardpoint,Checkmate,Prestinni,,18,19,0.95,37,-1,,Win,,,,,,,,,,,,,,,,,,
+169,670,Major 4,Seattle Surge,London Royal Ravens,Hardpoint,Checkmate,Classic,,22,21,1.05,43,1,,Win,,,,,,,,,,,,,,,,,,
+169,670,Major 4,Seattle Surge,London Royal Ravens,Hardpoint,Checkmate,Octane,,32,14,2.29,46,18,,Win,,,,,,,,,,,,,,,,,,
+170,671,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Garrison,Assault,,14,20,0.70,34,-6,,Loss,26,,,,,,,,,,,,,,,,,
+170,671,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Garrison,Silly,,11,28,0.39,39,-17,,Loss,43,,,,,,,,,,,,,,,,,
+170,671,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Garrison,Cheen,,28,18,1.56,46,10,,Loss,55,,,,,,,,,,,,,,,,,
+170,671,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Garrison,Apathy,,28,27,1.04,55,1,,Loss,29,,,,,,,,,,,,,,,,,
+170,671,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Garrison,SlasheR,,30,15,2.00,45,15,,Win,95,,,,,,,,,,,,,,,,,
+170,671,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Garrison,Kenny,,24,21,1.14,45,3,,Win,32,,,,,,,,,,,,,,,,,
+170,671,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Garrison,Drazah,,19,21,0.90,40,-2,,Win,68,,,,,,,,,,,,,,,,,
+170,671,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Garrison,TJHaLy,,20,24,0.83,44,-4,,Win,70,,,,,,,,,,,,,,,,,
+170,672,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Assault,,6,10,0.60,16,-4,,Win,,,,,,,,,,,,,,,,,,
+170,672,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Silly,,7,8,0.88,15,-1,,Win,,,,,,,,,,,,,,,,,,
+170,672,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Cheen,,9,8,1.13,17,1,,Win,,,,,,,,,,,,,,,,,,
+170,672,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Raid,Apathy,,7,10,0.70,17,-3,,Win,,,,,,,,,,,,,,,,,,
+170,672,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,SlasheR,,12,8,1.50,20,4,,Loss,,,,,,,,,,,,,,,,,,
+170,672,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,Kenny,,11,7,1.57,18,4,,Loss,,,,,,,,,,,,,,,,,,
+170,672,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,Drazah,,9,7,1.29,16,2,,Loss,,,,,,,,,,,,,,,,,,
+170,672,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Raid,TJHaLy,,4,7,0.57,11,-3,,Loss,,,,,,,,,,,,,,,,,,
+170,673,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Control,Garrison,Assault,3155,17,11,1.55,28,6,3962,Win,,,,,,,,,,,,,7,7,4,10,7,990.5
+170,673,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Control,Garrison,Silly,2770,14,12,1.17,26,2,2294,Win,,,,,,,,,,,,,9,3,3,11,7,573.5
+170,673,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Control,Garrison,Cheen,3675,20,13,1.54,33,7,3542,Win,,,,,,,,,,,,,8,9,9,11,5,885.5
+170,673,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Control,Garrison,Apathy,3865,16,18,0.89,34,-2,3149,Win,,,,,,,,,,,,,11,9,8,7,3,787.25
+170,673,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Control,Garrison,SlasheR,3285,14,17,0.82,31,-3,3128,Loss,,,,,,,,,,,,,7,12,7,2,3,782
+170,673,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Control,Garrison,Kenny,1525,10,17,0.59,27,-7,3128,Loss,,,,,,,,,,,,,4,8,6,2,2,782
+170,673,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Control,Garrison,Drazah,1865,20,18,1.11,38,2,3143,Loss,,,,,,,,,,,,,3,13,7,7,6,785.75
+170,673,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Control,Garrison,TJHaLy,2665,10,15,0.67,25,-5,2614,Loss,,,,,,,,,,,,,7,8,2,2,2,653.5
+170,674,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Assault,970,11,22,0.50,33,-11,2963,Loss,26,10,11,5,0,0,,,,,,,,,,,,
+170,674,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Silly,1625,21,20,1.05,41,1,3737,Loss,19,1,2,0,14,2,,,,,,,,,,,,
+170,674,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Cheen,1225,11,18,0.61,29,-7,2895,Loss,69,21,19,28,0,1,,,,,,,,,,,,
+170,674,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Hardpoint,Raid,Apathy,1185,15,19,0.79,34,-4,2609,Loss,26,4,22,0,0,0,,,,,,,,,,,,
+170,674,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,SlasheR,1960,19,16,1.19,35,3,2838,Win,94,9,12,28,38,7,,,,,,,,,,,,
+170,674,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,Kenny,1805,17,12,1.42,29,5,3442,Win,96,21,21,28,0,26,,,,,,,,,,,,
+170,674,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,Drazah,2810,22,15,1.47,37,7,3528,Win,54,8,23,8,0,15,,,,,,,,,,,,
+170,674,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Hardpoint,Raid,TJHaLy,3130,21,15,1.40,36,6,4282,Win,67,39,20,8,0,0,,,,,,,,,,,,
+170,675,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Assault,2400,15,5,3.00,20,10,2538,Win,,,,,,,2,0,1,0,1.67,282,,,,,,
+170,675,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Silly,625,6,6,1.00,12,0,1210,Win,,,,,,,0,0,2,0,0.67,134.44,,,,,,
+170,675,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Cheen,505,5,6,0.83,11,-1,1096,Win,,,,,,,2,1,0,0,0.56,121.78,,,,,,
+170,675,Major 4,Los Angeles Guerrillas,Los Angeles Thieves,Search and Destroy,Miami,Apathy,475,5,7,0.71,12,-2,1159,Win,,,,,,,3,1,0,0,0.56,128.78,,,,,,
+170,675,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,SlasheR,755,7,7,1.00,14,0,1971,Loss,,,,,,,0,0,1,0,0.78,219,,,,,,
+170,675,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,Kenny,1765,11,7,1.57,18,4,1475,Loss,,,,,,,0,0,0,1,1.22,163.89,,,,,,
+170,675,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,Drazah,460,3,8,0.38,11,-5,1554,Loss,,,,,,,1,3,0,0,0.33,172.67,,,,,,
+170,675,Major 4,Los Angeles Thieves,Los Angeles Guerrillas,Search and Destroy,Miami,TJHaLy,175,3,9,0.33,12,-6,1100,Loss,,,,,,,1,4,0,0,0.33,122.22,,,,,,
+171,676,Major 4,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Vivid,4430,31,27,1.15,58,4,4908,Win,37,8,5,23,0,1,,,,,,,,,,,,
+171,676,Major 4,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,Shotzzy,3400,27,21,1.29,48,6,4908,Win,94,11,21,14,35,13,,,,,,,,,,,,
+171,676,Major 4,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,iLLeY,2640,24,22,1.09,46,2,4496,Win,91,3,16,5,25,42,,,,,,,,,,,,
+171,676,Major 4,Dallas Empire,OpTic Chicago,Hardpoint,Garrison,C6,1775,20,27,0.74,47,-7,4533,Win,34,0,0,32,0,2,,,,,,,,,,,,
+171,676,Major 4,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,FORMAL,1660,15,27,0.56,42,-12,3418,Loss,56,12,27,0,17,0,,,,,,,,,,,,
+171,676,Major 4,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,Envoy,2800,21,26,0.81,47,-5,4239,Loss,62,32,0,0,20,10,,,,,,,,,,,,
+171,676,Major 4,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,Dashy,3985,34,24,1.42,58,10,5542,Loss,24,6,18,0,0,0,,,,,,,,,,,,
+171,676,Major 4,OpTic Chicago,Dallas Empire,Hardpoint,Garrison,Scump,2455,27,25,1.08,52,2,4116,Loss,31,10,3,2,11,5,,,,,,,,,,,,
+171,677,Major 4,Dallas Empire,OpTic Chicago,Search and Destroy,Standoff,Vivid,600,4,2,2.00,6,2,1055,Win,,,,,,,0,1,0,0,0.57,150.71,,,,,,
+171,677,Major 4,Dallas Empire,OpTic Chicago,Search and Destroy,Standoff,Shotzzy,1550,8,2,4.00,10,6,1597,Win,,,,,,,2,0,2,0,1.14,228.14,,,,,,
+171,677,Major 4,Dallas Empire,OpTic Chicago,Search and Destroy,Standoff,iLLeY,725,9,4,2.25,13,5,1535,Win,,,,,,,2,0,0,0,1.29,219.29,,,,,,
+171,677,Major 4,Dallas Empire,OpTic Chicago,Search and Destroy,Standoff,C6,465,5,4,1.25,9,1,1494,Win,,,,,,,1,1,0,0,0.71,213.43,,,,,,
+171,677,Major 4,OpTic Chicago,Dallas Empire,Search and Destroy,Standoff,FORMAL,405,5,7,0.71,12,-2,1117,Loss,,,,,,,1,1,0,0,0.71,159.57,,,,,,
+171,677,Major 4,OpTic Chicago,Dallas Empire,Search and Destroy,Standoff,Envoy,130,1,6,0.17,7,-5,622,Loss,,,,,,,1,2,0,0,0.14,88.86,,,,,,
+171,677,Major 4,OpTic Chicago,Dallas Empire,Search and Destroy,Standoff,Dashy,300,4,6,0.67,10,-2,1414,Loss,,,,,,,0,1,0,0,0.57,202,,,,,,
+171,677,Major 4,OpTic Chicago,Dallas Empire,Search and Destroy,Standoff,Scump,180,2,7,0.29,9,-5,515,Loss,,,,,,,0,1,0,0,0.29,73.57,,,,,,
+171,678,Major 4,Dallas Empire,OpTic Chicago,Control,Checkmate,Vivid,5315,31,21,1.48,52,10,5236,Win,,,,,,,,,,,,,7,17,12,14,7,1309
+171,678,Major 4,Dallas Empire,OpTic Chicago,Control,Checkmate,Shotzzy,3490,20,18,1.11,38,2,4041,Win,,,,,,,,,,,,,8,10,7,10,5,1010.25
+171,678,Major 4,Dallas Empire,OpTic Chicago,Control,Checkmate,iLLeY,3700,19,15,1.27,34,4,3584,Win,,,,,,,,,,,,,8,11,9,8,6,896
+171,678,Major 4,Dallas Empire,OpTic Chicago,Control,Checkmate,C6,2390,22,23,0.96,45,-1,4294,Win,,,,,,,,,,,,,6,16,12,6,5,1073.5
+171,678,Major 4,OpTic Chicago,Dallas Empire,Control,Checkmate,FORMAL,1530,16,20,0.80,36,-4,3708,Loss,,,,,,,,,,,,,1,5,2,11,7,927
+171,678,Major 4,OpTic Chicago,Dallas Empire,Control,Checkmate,Envoy,2675,18,26,0.69,44,-8,4401,Loss,,,,,,,,,,,,,3,4,3,14,10,1100.25
+171,678,Major 4,OpTic Chicago,Dallas Empire,Control,Checkmate,Dashy,2190,22,22,1.00,44,0,4032,Loss,,,,,,,,,,,,,2,7,4,15,11,1008
+171,678,Major 4,OpTic Chicago,Dallas Empire,Control,Checkmate,Scump,2000,21,24,0.88,45,-3,4389,Loss,,,,,,,,,,,,,2,5,3,16,11,1097.25
+172,679,Major 4,New York Subliners,Minnesota ROKKR,Hardpoint,Garrison,Decemate,1685,22,26,0.85,48,-4,4297,Loss,25,15,3,7,0,0,,,,,,,,,,,,
+172,679,Major 4,New York Subliners,Minnesota ROKKR,Hardpoint,Garrison,Clayster,2910,26,28,0.93,54,-2,4772,Loss,80,10,9,19,11,31,,,,,,,,,,,,
+172,679,Major 4,New York Subliners,Minnesota ROKKR,Hardpoint,Garrison,Hydra,2380,28,28,1.00,56,0,5010,Loss,32,7,8,11,1,5,,,,,,,,,,,,
+172,679,Major 4,New York Subliners,Minnesota ROKKR,Hardpoint,Garrison,Mack,1885,25,26,0.96,51,-1,4572,Loss,65,14,35,13,3,0,,,,,,,,,,,,
+172,679,Major 4,Minnesota ROKKR,New York Subliners,Hardpoint,Garrison,Priestahh,2780,28,27,1.04,55,1,5646,Win,75,12,9,16,15,23,,,,,,,,,,,,
+172,679,Major 4,Minnesota ROKKR,New York Subliners,Hardpoint,Garrison,majormaniak,3490,25,27,0.93,52,-2,4744,Win,89,44,14,0,17,14,,,,,,,,,,,,
+172,679,Major 4,Minnesota ROKKR,New York Subliners,Hardpoint,Garrison,Attach,1870,22,24,0.92,46,-2,4213,Win,43,16,3,11,13,0,,,,,,,,,,,,
+172,679,Major 4,Minnesota ROKKR,New York Subliners,Hardpoint,Garrison,Standy,3825,33,23,1.43,56,10,5234,Win,95,23,5,54,9,4,,,,,,,,,,,,
+172,680,Major 4,New York Subliners,Minnesota ROKKR,Search and Destroy,Raid,Decemate,300,2,6,0.33,8,-4,637,Loss,,,,,,,1,2,1,0,0.33,106.17,,,,,,
+172,680,Major 4,New York Subliners,Minnesota ROKKR,Search and Destroy,Raid,Clayster,150,2,6,0.33,8,-4,1055,Loss,,,,,,,0,0,0,0,0.33,175.83,,,,,,
+172,680,Major 4,New York Subliners,Minnesota ROKKR,Search and Destroy,Raid,Hydra,175,3,6,0.50,9,-3,419,Loss,,,,,,,0,3,0,0,0.5,69.83,,,,,,
+172,680,Major 4,New York Subliners,Minnesota ROKKR,Search and Destroy,Raid,Mack,275,4,6,0.67,10,-2,1274,Loss,,,,,,,0,0,0,0,0.67,212.33,,,,,,
+172,680,Major 4,Minnesota ROKKR,New York Subliners,Search and Destroy,Raid,Priestahh,2200,11,1,11.00,12,10,1667,Win,,,,,,,3,0,0,0,1.83,277.83,,,,,,
+172,680,Major 4,Minnesota ROKKR,New York Subliners,Search and Destroy,Raid,majormaniak,565,4,3,1.33,7,1,610,Win,,,,,,,0,0,0,0,0.67,101.67,,,,,,
+172,680,Major 4,Minnesota ROKKR,New York Subliners,Search and Destroy,Raid,Attach,250,2,4,0.50,6,-2,694,Win,,,,,,,0,1,0,0,0.33,115.67,,,,,,
+172,680,Major 4,Minnesota ROKKR,New York Subliners,Search and Destroy,Raid,Standy,1000,6,3,2.00,9,3,1160,Win,,,,,,,2,0,3,1,1,193.33,,,,,,
+172,681,Major 4,New York Subliners,Minnesota ROKKR,Control,Garrison,Decemate,1605,16,20,0.80,36,-4,3300,Loss,,,,,,,,,,,,,0,7,4,9,5,825
+172,681,Major 4,New York Subliners,Minnesota ROKKR,Control,Garrison,Clayster,1465,12,18,0.67,30,-6,2847,Loss,,,,,,,,,,,,,1,6,5,6,5,711.75
+172,681,Major 4,New York Subliners,Minnesota ROKKR,Control,Garrison,Hydra,2475,24,20,1.20,44,4,3780,Loss,,,,,,,,,,,,,1,9,4,15,10,945
+172,681,Major 4,New York Subliners,Minnesota ROKKR,Control,Garrison,Mack,2950,17,19,0.89,36,-2,3716,Loss,,,,,,,,,,,,,2,8,5,9,8,929
+172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,Priestahh,2470,20,19,1.05,39,1,3828,Win,,,,,,,,,,,,,5,11,6,9,5,957
+172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,majormaniak,2275,15,16,0.94,31,-1,3024,Win,,,,,,,,,,,,,5,7,3,8,8,756
+172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,Attach,2680,18,17,1.06,35,1,3631,Win,,,,,,,,,,,,,4,8,6,10,5,907.75
+172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,Standy,3975,24,17,1.41,41,7,4055,Win,,,,,,,,,,,,,5,12,11,12,7,1013.75
