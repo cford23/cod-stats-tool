@@ -5447,3 +5447,115 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,majormaniak,2275,15,16,0.94,31,-1,3024,Win,,,,,,,,,,,,,5,7,3,8,8,756
 172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,Attach,2680,18,17,1.06,35,1,3631,Win,,,,,,,,,,,,,4,8,6,10,5,907.75
 172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,Standy,3975,24,17,1.41,41,7,4055,Win,,,,,,,,,,,,,5,12,11,12,7,1013.75
+173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Zaptius,3070,27,28,0.96,55,-1,4847,Loss,54,21,19,1,13,0,,,,,,,,,,,,
+173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Aqua,3925,37,28,1.32,65,9,7226,Loss,60,5,29,25,0,1,,,,,,,,,,,,
+173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Temp,2005,24,30,0.80,54,-6,5625,Loss,67,25,0,15,0,27,,,,,,,,,,,,
+173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Skrapz,2590,29,29,1.00,58,0,5257,Loss,108,26,64,13,4,1,,,,,,,,,,,,
+173,682,Major 4,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Gunless,3765,23,24,0.96,47,-1,5711,Win,130,35,22,8,65,0,,,,,,,,,,,,
+173,682,Major 4,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Prestinni,2995,27,34,0.79,61,-7,5572,Win,51,11,33,0,0,7,,,,,,,,,,,,
+173,682,Major 4,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Classic,2370,26,35,0.74,61,-9,4708,Win,59,4,8,4,16,27,,,,,,,,,,,,
+173,682,Major 4,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Octane,6905,38,24,1.58,62,14,6184,Win,86,32,0,3,42,9,,,,,,,,,,,,
+173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,Zaptius,100,2,7,0.29,9,-5,383,Loss,,,,,,,2,2,0,0,0.25,47.88,,,,,,
+173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,Aqua,475,6,7,0.86,13,-1,1372,Loss,,,,,,,0,2,0,0,0.75,171.5,,,,,,
+173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,Temp,500,6,6,1.00,12,0,1119,Loss,,,,,,,1,0,0,0,0.75,139.88,,,,,,
+173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,Skrapz,300,2,7,0.29,9,-5,1190,Loss,,,,,,,0,1,0,0,0.25,148.75,,,,,,
+173,683,Major 4,Seattle Surge,Paris Legion,Search and Destroy,Express,Gunless,300,4,5,0.80,9,-1,914,Win,,,,,,,1,0,0,0,0.5,114.25,,,,,,
+173,683,Major 4,Seattle Surge,Paris Legion,Search and Destroy,Express,Prestinni,1900,8,4,2.00,12,4,1456,Win,,,,,,,2,2,0,0,1,182,,,,,,
+173,683,Major 4,Seattle Surge,Paris Legion,Search and Destroy,Express,Classic,1400,7,4,1.75,11,3,935,Win,,,,,,,1,1,2,0,0.88,116.88,,,,,,
+173,683,Major 4,Seattle Surge,Paris Legion,Search and Destroy,Express,Octane,1525,8,3,2.67,11,5,1729,Win,,,,,,,1,0,0,0,1,216.13,,,,,,
+173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,Zaptius,2300,17,22,0.77,39,-5,2972,Loss,,,,,,,,,,,,,3,7,6,10,8,743
+173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,Aqua,1650,20,25,0.80,45,-5,3771,Loss,,,,,,,,,,,,,1,11,7,9,4,942.75
+173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,Temp,3275,24,17,1.41,41,7,4379,Loss,,,,,,,,,,,,,2,8,5,16,11,1094.75
+173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,Skrapz,2050,18,24,0.75,42,-6,3753,Loss,,,,,,,,,,,,,2,8,5,10,8,938.25
+173,684,Major 4,Seattle Surge,Paris Legion,Control,Garrison,Gunless,4025,24,19,1.26,43,5,4915,Win,,,,,,,,,,,,,8,14,14,10,6,1228.75
+173,684,Major 4,Seattle Surge,Paris Legion,Control,Garrison,Prestinni,3040,21,22,0.95,43,-1,3012,Win,,,,,,,,,,,,,7,12,8,9,5,753
+173,684,Major 4,Seattle Surge,Paris Legion,Control,Garrison,Classic,2325,19,22,0.86,41,-3,4080,Win,,,,,,,,,,,,,6,8,4,11,7,1020
+173,684,Major 4,Seattle Surge,Paris Legion,Control,Garrison,Octane,3925,24,17,1.41,41,7,4781,Win,,,,,,,,,,,,,8,9,6,15,11,1195.25
+174,685,Major 4,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Moscow,Neptune,2160,21,14,1.50,35,7,3840,Win,60,2,47,0,11,,,,,,,,,,,,,
+174,685,Major 4,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Moscow,Skyz,1695,20,14,1.43,34,6,3759,Win,42,41,1,0,0,,,,,,,,,,,,,
+174,685,Major 4,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Moscow,Owakening,2140,17,17,1.00,34,0,3131,Win,94,11,6,77,0,,,,,,,,,,,,,
+174,685,Major 4,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Moscow,Havok,1400,16,14,1.14,30,2,2923,Win,68,24,9,35,0,,,,,,,,,,,,,
+174,685,Major 4,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Assault,1395,16,18,0.89,34,-2,3197,Loss,89,43,12,0,34,,,,,,,,,,,,,
+174,685,Major 4,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Silly,1105,14,19,0.74,33,-5,3464,Loss,42,11,23,0,8,,,,,,,,,,,,,
+174,685,Major 4,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Cheen,1270,12,18,0.67,30,-6,2946,Loss,46,13,33,0,0,,,,,,,,,,,,,
+174,685,Major 4,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Apathy,1645,17,19,0.89,36,-2,2511,Loss,48,16,18,0,14,,,,,,,,,,,,,
+174,686,Major 4,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Miami,Neptune,1755,10,3,3.33,13,7,2059,Win,,,,,,,1,1,1,1,1.25,257.38,,,,,,
+174,686,Major 4,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Miami,Skyz,1855,12,3,4.00,15,9,2264,Win,,,,,,,2,0,0,0,1.5,283,,,,,,
+174,686,Major 4,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Miami,Owakening,195,0,5,0.00,5,-5,502,Win,,,,,,,0,0,0,0,0,62.75,,,,,,
+174,686,Major 4,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Miami,Havok,500,3,3,1.00,6,0,403,Win,,,,,,,1,3,2,0,0.38,50.38,,,,,,
+174,686,Major 4,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Miami,Assault,250,3,6,0.50,9,-3,876,Loss,,,,,,,1,1,0,0,0.38,109.5,,,,,,
+174,686,Major 4,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Miami,Silly,525,4,7,0.57,11,-3,1126,Loss,,,,,,,1,1,2,0,0.5,140.75,,,,,,
+174,686,Major 4,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Miami,Cheen,75,1,7,0.14,8,-6,671,Loss,,,,,,,0,2,0,0,0.13,83.88,,,,,,
+174,686,Major 4,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Miami,Apathy,1150,6,5,1.20,11,1,1040,Loss,,,,,,,2,0,0,0,0.75,130,,,,,,
+174,687,Major 4,Florida Mutineers,Los Angeles Guerrillas,Control,Raid,Neptune,2340,22,16,1.38,38,6,3744,Win,,,,,,,,,,,,,4,8,3,14,8,936
+174,687,Major 4,Florida Mutineers,Los Angeles Guerrillas,Control,Raid,Skyz,1930,17,20,0.85,37,-3,3453,Win,,,,,,,,,,,,,4,6,4,11,10,863.25
+174,687,Major 4,Florida Mutineers,Los Angeles Guerrillas,Control,Raid,Owakening,3915,22,16,1.38,38,6,4187,Win,,,,,,,,,,,,,6,9,5,13,6,1046.75
+174,687,Major 4,Florida Mutineers,Los Angeles Guerrillas,Control,Raid,Havok,1790,19,22,0.86,41,-3,3618,Win,,,,,,,,,,,,,3,8,6,11,6,904.5
+174,687,Major 4,Los Angeles Guerrillas,Florida Mutineers,Control,Raid,Assault,3200,22,19,1.16,41,3,4229,Loss,,,,,,,,,,,,,4,10,5,12,10,1057.25
+174,687,Major 4,Los Angeles Guerrillas,Florida Mutineers,Control,Raid,Silly,950,13,26,0.50,39,-13,2461,Loss,,,,,,,,,,,,,1,5,2,8,6,615.25
+174,687,Major 4,Los Angeles Guerrillas,Florida Mutineers,Control,Raid,Cheen,2925,21,18,1.17,39,3,4216,Loss,,,,,,,,,,,,,3,8,3,13,9,1054
+174,687,Major 4,Los Angeles Guerrillas,Florida Mutineers,Control,Raid,Apathy,1905,18,17,1.06,35,1,3256,Loss,,,,,,,,,,,,,2,8,4,10,4,814
+175,688,Major 4,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Vivid,2480,31,34,0.91,65,-3,5388,Loss,42,7,18,3,14,0,,,,,,,,,,,,
+175,688,Major 4,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,Shotzzy,3865,30,24,1.25,54,6,5096,Loss,118,29,29,6,5,49,,,,,,,,,,,,
+175,688,Major 4,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,iLLeY,2230,28,32,0.88,60,-4,6216,Loss,71,30,0,21,10,10,,,,,,,,,,,,
+175,688,Major 4,Dallas Empire,Toronto Ultra,Hardpoint,Checkmate,C6,4405,38,29,1.31,67,9,6620,Loss,43,3,32,0,0,8,,,,,,,,,,,,
+175,688,Major 4,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Bance,3010,26,36,0.72,62,-10,4515,Win,94,14,26,4,42,8,,,,,,,,,,,,
+175,688,Major 4,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Cammy,3895,38,29,1.31,67,9,6675,Win,52,30,14,2,6,0,,,,,,,,,,,,
+175,688,Major 4,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,Insight,3495,27,26,1.04,53,1,4771,Win,123,51,11,40,19,2,,,,,,,,,,,,
+175,688,Major 4,Toronto Ultra,Dallas Empire,Hardpoint,Checkmate,CleanX,2950,28,36,0.78,64,-8,5099,Win,35,17,0,2,5,11,,,,,,,,,,,,
+175,689,Major 4,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,Vivid,475,5,4,1.25,9,1,962,Win,,,,,,,2,1,0,0,0.83,160.33,,,,,,
+175,689,Major 4,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,Shotzzy,1400,8,3,2.67,11,5,1504,Win,,,,,,,2,0,1,1,1.33,250.67,,,,,,
+175,689,Major 4,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,iLLeY,475,4,4,1.00,8,0,667,Win,,,,,,,0,0,1,1,0.67,111.17,,,,,,
+175,689,Major 4,Dallas Empire,Toronto Ultra,Search and Destroy,Miami,C6,1550,7,2,3.50,9,5,1751,Win,,,,,,,1,0,1,0,1.17,291.83,,,,,,
+175,689,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,Bance,340,2,6,0.33,8,-4,729,Loss,,,,,,,0,2,1,0,0.33,121.5,,,,,,
+175,689,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,Cammy,200,2,6,0.33,8,-4,267,Loss,,,,,,,0,2,1,0,0.33,44.5,,,,,,
+175,689,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,Insight,450,6,6,1.00,12,0,1462,Loss,,,,,,,1,0,0,0,1,243.67,,,,,,
+175,689,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Miami,CleanX,200,3,6,0.50,9,-3,717,Loss,,,,,,,0,1,0,0,0.5,119.5,,,,,,
+175,690,Major 4,Dallas Empire,Toronto Ultra,Control,Garrison,Vivid,2590,23,27,0.85,50,-4,4924,Win,,,,,,,,,,,,,4,8,5,15,10,984.8
+175,690,Major 4,Dallas Empire,Toronto Ultra,Control,Garrison,Shotzzy,3700,23,18,1.28,41,5,3900,Win,,,,,,,,,,,,,6,10,6,13,8,780
+175,690,Major 4,Dallas Empire,Toronto Ultra,Control,Garrison,iLLeY,4100,23,21,1.10,44,2,4625,Win,,,,,,,,,,,,,5,6,2,17,14,925
+175,690,Major 4,Dallas Empire,Toronto Ultra,Control,Garrison,C6,2515,25,26,0.96,51,-1,4880,Win,,,,,,,,,,,,,3,18,9,7,3,976
+175,690,Major 4,Toronto Ultra,Dallas Empire,Control,Garrison,Bance,2300,24,27,0.89,51,-3,4368,Loss,,,,,,,,,,,,,0,8,6,16,5,873.6
+175,690,Major 4,Toronto Ultra,Dallas Empire,Control,Garrison,Cammy,3200,25,20,1.25,45,5,4590,Loss,,,,,,,,,,,,,1,8,5,17,3,918
+175,690,Major 4,Toronto Ultra,Dallas Empire,Control,Garrison,Insight,2275,24,20,1.20,44,4,4480,Loss,,,,,,,,,,,,,1,8,4,16,10,896
+175,690,Major 4,Toronto Ultra,Dallas Empire,Control,Garrison,CleanX,2300,19,27,0.70,46,-8,4864,Loss,,,,,,,,,,,,,1,8,7,11,6,972.8
+175,691,Major 4,Dallas Empire,Toronto Ultra,Hardpoint,Apocalypse,Vivid,2030,16,25,0.64,41,-9,2683,Loss,77,2,0,32,33,10,,,,,,,,,,,,
+175,691,Major 4,Dallas Empire,Toronto Ultra,Hardpoint,Apocalypse,Shotzzy,1700,23,25,0.92,48,-2,4710,Loss,18,0,1,5,0,12,,,,,,,,,,,,
+175,691,Major 4,Dallas Empire,Toronto Ultra,Hardpoint,Apocalypse,iLLeY,1395,17,19,0.89,36,-2,3804,Loss,54,0,0,18,19,17,,,,,,,,,,,,
+175,691,Major 4,Dallas Empire,Toronto Ultra,Hardpoint,Apocalypse,C6,1640,15,23,0.65,38,-8,3451,Loss,56,0,7,2,0,47,,,,,,,,,,,,
+175,691,Major 4,Toronto Ultra,Dallas Empire,Hardpoint,Apocalypse,Bance,2455,23,20,1.15,43,3,4033,Win,38,24,2,12,0,0,,,,,,,,,,,,
+175,691,Major 4,Toronto Ultra,Dallas Empire,Hardpoint,Apocalypse,Cammy,4455,35,17,2.06,52,18,5561,Win,76,44,2,3,27,0,,,,,,,,,,,,
+175,691,Major 4,Toronto Ultra,Dallas Empire,Hardpoint,Apocalypse,Insight,2395,13,10,1.30,23,3,2761,Win,131,12,98,21,0,0,,,,,,,,,,,,
+175,691,Major 4,Toronto Ultra,Dallas Empire,Hardpoint,Apocalypse,CleanX,3485,21,24,0.88,45,-3,4510,Win,21,19,1,0,1,0,,,,,,,,,,,,
+175,692,Major 4,Dallas Empire,Toronto Ultra,Search and Destroy,Moscow,Vivid,445,4,9,0.44,13,-5,978,Loss,,,,,,,1,3,1,0,0.36,88.91,,,,,,
+175,692,Major 4,Dallas Empire,Toronto Ultra,Search and Destroy,Moscow,Shotzzy,925,9,7,1.29,16,2,1584,Loss,,,,,,,0,0,2,0,0.82,144,,,,,,
+175,692,Major 4,Dallas Empire,Toronto Ultra,Search and Destroy,Moscow,iLLeY,825,9,7,1.29,16,2,1732,Loss,,,,,,,3,2,0,1,0.82,157.45,,,,,,
+175,692,Major 4,Dallas Empire,Toronto Ultra,Search and Destroy,Moscow,C6,600,8,9,0.89,17,-1,2332,Loss,,,,,,,1,1,0,0,0.73,212,,,,,,
+175,692,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Moscow,Bance,1375,10,8,1.25,18,2,1798,Win,,,,,,,4,1,4,0,0.91,163.45,,,,,,
+175,692,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Moscow,Cammy,740,7,8,0.88,15,-1,1965,Win,,,,,,,1,0,1,0,0.64,178.64,,,,,,
+175,692,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Moscow,Insight,600,7,7,1.00,14,0,1230,Win,,,,,,,1,3,0,0,0.64,111.82,,,,,,
+175,692,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Moscow,CleanX,815,8,7,1.14,15,1,2223,Win,,,,,,,0,1,0,0,0.73,202.09,,,,,,
+176,693,Major 4,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Garrison,Standy,1635,13,19,0.68,32,-6,2733,Loss,94,14,25,22,21,12,,,,,,,,,,,,
+176,693,Major 4,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Garrison,Attach,1030,12,17,0.71,29,-5,2708,Loss,35,8,0,25,2,0,,,,,,,,,,,,
+176,693,Major 4,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Garrison,majormaniak,1460,20,19,1.05,39,1,3470,Loss,22,18,4,0,0,0,,,,,,,,,,,,
+176,693,Major 4,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Garrison,Priestahh,2325,21,23,0.91,44,-2,3876,Loss,42,14,0,22,4,2,,,,,,,,,,,,
+176,693,Major 4,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Garrison,Arcitys,2200,23,16,1.44,39,7,4331,Win,10,1,0,0,0,9,,,,,,,,,,,,
+176,693,Major 4,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Garrison,aBeZy,1255,14,20,0.70,34,-6,2937,Win,59,24,12,21,0,2,,,,,,,,,,,,
+176,693,Major 4,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Garrison,Simp,2515,25,14,1.79,39,11,4454,Win,87,0,44,36,7,0,,,,,,,,,,,,
+176,693,Major 4,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Garrison,Cellium,1955,16,16,1.00,32,0,3380,Win,118,16,32,15,38,17,,,,,,,,,,,,
+176,694,Major 4,Minnesota ROKKR,Atlanta FaZe,Search and Destroy,Raid,Standy,1140,9,8,1.13,17,1,1513,Loss,,,,,,,0,2,3,0,0.82,137.55,,,,,,
+176,694,Major 4,Minnesota ROKKR,Atlanta FaZe,Search and Destroy,Raid,Attach,490,6,7,0.86,13,-1,1780,Loss,,,,,,,0,3,0,0,0.55,161.82,,,,,,
+176,694,Major 4,Minnesota ROKKR,Atlanta FaZe,Search and Destroy,Raid,majormaniak,800,8,6,1.33,14,2,2279,Loss,,,,,,,3,1,0,1,0.73,207.18,,,,,,
+176,694,Major 4,Minnesota ROKKR,Atlanta FaZe,Search and Destroy,Raid,Priestahh,275,5,9,0.56,14,-4,1245,Loss,,,,,,,1,1,0,0,0.45,113.18,,,,,,
+176,694,Major 4,Atlanta FaZe,Minnesota ROKKR,Search and Destroy,Raid,Arcitys,855,8,7,1.14,15,1,1503,Win,,,,,,,2,1,2,0,0.73,136.64,,,,,,
+176,694,Major 4,Atlanta FaZe,Minnesota ROKKR,Search and Destroy,Raid,aBeZy,1090,11,6,1.83,17,5,1960,Win,,,,,,,2,2,0,0,1,178.18,,,,,,
+176,694,Major 4,Atlanta FaZe,Minnesota ROKKR,Search and Destroy,Raid,Simp,765,5,8,0.63,13,-3,1426,Win,,,,,,,1,1,1,1,0.45,129.64,,,,,,
+176,694,Major 4,Atlanta FaZe,Minnesota ROKKR,Search and Destroy,Raid,Cellium,1255,6,7,0.86,13,-1,1726,Win,,,,,,,2,0,0,0,0.55,156.91,,,,,,
+176,695,Major 4,Minnesota ROKKR,Atlanta FaZe,Control,Garrison,Standy,725,7,12,0.58,19,-5,1427,Loss,,,,,,,,,,,,,0,2,2,5,4,475.67
+176,695,Major 4,Minnesota ROKKR,Atlanta FaZe,Control,Garrison,Attach,855,11,13,0.85,24,-2,2055,Loss,,,,,,,,,,,,,0,2,2,9,9,685
+176,695,Major 4,Minnesota ROKKR,Atlanta FaZe,Control,Garrison,majormaniak,900,9,10,0.90,19,-1,2086,Loss,,,,,,,,,,,,,0,2,1,7,6,695.33
+176,695,Major 4,Minnesota ROKKR,Atlanta FaZe,Control,Garrison,Priestahh,650,5,12,0.42,17,-7,1573,Loss,,,,,,,,,,,,,0,1,1,4,6,524.33
+176,695,Major 4,Atlanta FaZe,Minnesota ROKKR,Control,Garrison,Arcitys,5330,20,6,3.33,26,14,3175,Win,,,,,,,,,,,,,7,14,13,6,4,1058.33
+176,695,Major 4,Atlanta FaZe,Minnesota ROKKR,Control,Garrison,aBeZy,2075,11,10,1.10,21,1,2235,Win,,,,,,,,,,,,,8,7,5,4,4,745
+176,695,Major 4,Atlanta FaZe,Minnesota ROKKR,Control,Garrison,Simp,2515,5,11,0.45,16,-6,1856,Win,,,,,,,,,,,,,11,3,1,2,1,618.67
+176,695,Major 4,Atlanta FaZe,Minnesota ROKKR,Control,Garrison,Cellium,3490,11,5,2.20,16,6,2098,Win,,,,,,,,,,,,,11,9,10,2,0,699.33
