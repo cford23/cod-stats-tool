@@ -5807,3 +5807,75 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 183,726,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Moscow,Cammy,400,5,7,0.7142857142857143,12,-2,1152,Loss,,,,,,,0,0,0,0,0.5,115.2
 183,726,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Moscow,Insight,540,7,9,0.7777777777777778,16,-2,1394,Loss,,,,,,,1,2,0,0,0.7,139.4
 183,726,Major 4,Toronto Ultra,Dallas Empire,Search and Destroy,Moscow,CleanX,565,6,8,0.75,14,-2,1363,Loss,,,,,,,2,2,0,1,0.6,136.3
+184,727,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Vivid,1950,19,26,0.7307692307692307,45,-7,4006,Win,18,0,1,12,0,5
+184,727,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Shotzzy,3635,24,21,1.1428571428571428,45,3,3951,Win,114,17,40,28,22,7
+184,727,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,iLLeY,1805,23,27,0.8518518518518519,50,-4,4764,Win,58,1,2,24,15,16
+184,727,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,C6,3430,25,14,1.7857142857142858,39,11,4613,Win,81,34,11,22,14,0
+184,727,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Arcitys,1745,21,24,0.875,45,-3,4217,Loss,31,1,24,0,0,6
+184,727,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,aBeZy,2180,24,22,1.0909090909090908,46,2,4702,Loss,88,11,23,12,0,42
+184,727,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Simp,3395,20,20,1,40,0,4072,Loss,79,23,9,0,26,21
+184,727,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Cellium,2060,23,25,0.92,48,-2,4480,Loss,43,3,22,9,5,4
+184,728,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Standoff,Vivid,825,8,7,1.1428571428571428,15,1,1633,Loss,,,,,,,1,1,0,1,0.8,163.3
+184,728,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Standoff,Shotzzy,875,6,7,0.8571428571428571,13,-1,1332,Loss,,,,,,,0,2,1,0,0.6,133.2
+184,728,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Standoff,iLLeY,230,3,8,0.375,11,-5,973,Loss,,,,,,,0,0,0,0,0.3,97.3
+184,728,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Standoff,C6,900,10,9,1.1111111111111112,19,1,2357,Loss,,,,,,,5,1,0,0,1,235.7
+184,728,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Standoff,Arcitys,635,7,8,0.875,15,-1,1931,Win,,,,,,,1,3,0,0,0.7,193.1
+184,728,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Standoff,aBeZy,575,8,8,1,16,0,1414,Win,,,,,,,1,1,0,0,0.8,141.4
+184,728,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Standoff,Simp,1345,8,4,2,12,4,1556,Win,,,,,,,0,0,3,0,0.8,155.6
+184,728,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Standoff,Cellium,765,8,7,1.1428571428571428,15,1,1901,Win,,,,,,,2,2,0,0,0.8,190.1
+184,729,Major 4,Dallas Empire,Atlanta FaZe,Control,Garrison,Vivid,2590,19,19,1,38,0,3597,Loss,,,,,,,,,,,,,2,12,9,7,4,1199
+184,729,Major 4,Dallas Empire,Atlanta FaZe,Control,Garrison,Shotzzy,1650,15,19,0.7894736842105263,34,-4,2986,Loss,,,,,,,,,,,,,2,9,7,6,3,995.33
+184,729,Major 4,Dallas Empire,Atlanta FaZe,Control,Garrison,iLLeY,2265,15,19,0.7894736842105263,34,-4,3155,Loss,,,,,,,,,,,,,5,10,5,5,3,1051.67
+184,729,Major 4,Dallas Empire,Atlanta FaZe,Control,Garrison,C6,1240,13,22,0.5909090909090909,35,-9,3083,Loss,,,,,,,,,,,,,1,8,5,5,4,1027.67
+184,729,Major 4,Atlanta FaZe,Dallas Empire,Control,Garrison,Arcitys,1565,11,21,0.5238095238095238,32,-10,2888,Win,,,,,,,,,,,,,3,4,2,7,3,962.67
+184,729,Major 4,Atlanta FaZe,Dallas Empire,Control,Garrison,aBeZy,2575,23,17,1.3529411764705883,40,6,3914,Win,,,,,,,,,,,,,3,9,6,14,6,1304.67
+184,729,Major 4,Atlanta FaZe,Dallas Empire,Control,Garrison,Simp,4050,27,11,2.4545454545454546,38,16,4459,Win,,,,,,,,,,,,,4,10,6,17,12,1486.33
+184,729,Major 4,Atlanta FaZe,Dallas Empire,Control,Garrison,Cellium,3325,18,13,1.3846153846153846,31,5,3275,Win,,,,,,,,,,,,,4,7,7,11,6,1091.67
+184,730,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Vivid,2310,19,22,0.8636363636363636,41,-3,4532,Win,64,30,15,3,16
+184,730,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,Shotzzy,1915,19,22,0.8636363636363636,41,-3,3089,Win,79,30,31,14,4
+184,730,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,iLLeY,3085,27,21,1.2857142857142858,48,6,4786,Win,92,58,9,25,0
+184,730,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Moscow,C6,2155,21,18,1.1666666666666667,39,3,4253,Win,69,11,24,31,3
+184,730,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Arcitys,1485,16,23,0.6956521739130435,39,-7,3865,Loss,10,1,2,0,7
+184,730,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,aBeZy,2005,22,22,1,44,0,4415,Loss,77,21,42,1,13
+184,730,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Simp,2070,19,21,0.9047619047619048,40,-2,3415,Loss,58,1,19,15,23
+184,730,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Moscow,Cellium,2255,26,20,1.3,46,6,4545,Loss,98,29,18,16,35
+184,731,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Vivid,1450,8,4,2,12,4,1650,Win,,,,,,,2,1,0,0,0.89,183.33
+184,731,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,Shotzzy,715,7,5,1.4,12,2,1495,Win,,,,,,,1,1,2,0,0.78,166.11
+184,731,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,iLLeY,550,7,4,1.75,11,3,1159,Win,,,,,,,2,1,0,0,0.78,128.78
+184,731,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Moscow,C6,555,7,6,1.1666666666666667,13,1,1888,Win,,,,,,,1,0,0,0,0.78,209.78
+184,731,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Arcitys,500,5,6,0.8333333333333334,11,-1,1391,Loss,,,,,,,1,1,0,0,0.56,154.56
+184,731,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,aBeZy,400,5,8,0.625,13,-3,902,Loss,,,,,,,1,4,0,0,0.56,100.22
+184,731,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Simp,570,5,7,0.7142857142857143,12,-2,1057,Loss,,,,,,,0,1,1,0,0.56,117.44
+184,731,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Moscow,Cellium,280,4,8,0.5,12,-4,1375,Loss,,,,,,,1,0,0,0,0.44,152.78
+184,732,Major 4,Dallas Empire,Atlanta FaZe,Control,Raid,Vivid,2615,17,38,0.4473684210526316,55,-21,3999,Loss,,,,,,,,,,,,,6,4,3,13,5,799.8
+184,732,Major 4,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,5205,33,18,1.8333333333333333,51,15,6119,Loss,,,,,,,,,,,,,4,16,5,17,12,1223.8
+184,732,Major 4,Dallas Empire,Atlanta FaZe,Control,Raid,iLLeY,3570,33,31,1.064516129032258,64,2,6083,Loss,,,,,,,,,,,,,5,16,3,17,15,1216.6
+184,732,Major 4,Dallas Empire,Atlanta FaZe,Control,Raid,C6,3480,21,23,0.9130434782608695,44,-2,4678,Loss,,,,,,,,,,,,,6,8,3,13,8,935.6
+184,732,Major 4,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,4090,21,23,0.9130434782608695,44,-2,5025,Win,,,,,,,,,,,,,11,13,9,8,5,1005
+184,732,Major 4,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,4600,28,26,1.0769230769230769,54,2,4481,Win,,,,,,,,,,,,,10,13,10,15,3,896.2
+184,732,Major 4,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,3525,32,28,1.1428571428571428,60,4,5914,Win,,,,,,,,,,,,,5,17,10,15,5,1182.8
+184,732,Major 4,Atlanta FaZe,Dallas Empire,Control,Raid,Cellium,5235,29,27,1.0740740740740742,56,2,6230,Win,,,,,,,,,,,,,12,15,9,14,5,1246
+184,733,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,Vivid,580,6,4,1.5,10,2,1132,Win,,,,,,,0,0,1,0,0.86,161.71
+184,733,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,Shotzzy,590,5,3,1.6666666666666667,8,2,858,Win,,,,,,,0,0,0,1,0.71,122.57
+184,733,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,iLLeY,700,6,5,1.2,11,1,981,Win,,,,,,,3,1,1,0,0.86,140.14
+184,733,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Express,C6,1600,9,1,9,10,8,1389,Win,,,,,,,3,0,0,1,1.29,198.43
+184,733,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Arcitys,400,3,7,0.42857142857142855,10,-4,620,Loss,,,,,,,1,1,2,0,0.43,88.57
+184,733,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,aBeZy,325,3,6,0.5,9,-3,576,Loss,,,,,,,0,2,0,1,0.43,82.29
+184,733,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Simp,500,5,6,0.8333333333333334,11,-1,996,Loss,,,,,,,0,1,0,0,0.71,142.29
+184,733,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Express,Cellium,150,2,7,0.2857142857142857,9,-5,1061,Loss,,,,,,,0,2,0,0,0.29,151.57
+184,734,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,Vivid,1525,18,26,0.6923076923076923,44,-8,3179,Loss,9,1,0,7,0,1
+184,734,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,Shotzzy,1610,21,23,0.9130434782608695,44,-2,3385,Loss,22,3,0,8,0,11
+184,734,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,iLLeY,1080,10,24,0.4166666666666667,34,-14,2837,Loss,47,9,0,34,4,0
+184,734,Major 4,Dallas Empire,Atlanta FaZe,Hardpoint,Apocalypse,C6,860,10,24,0.4166666666666667,34,-14,2622,Loss,28,0,11,6,11,0
+184,734,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Apocalypse,Arcitys,1775,17,19,0.8947368421052632,36,-2,3406,Win,121,25,63,6,25,2
+184,734,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Apocalypse,aBeZy,5335,32,12,2.6666666666666665,44,20,4972,Win,27,7,2,13,5,0
+184,734,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Apocalypse,Simp,2355,24,16,1.5,40,8,4540,Win,64,0,21,6,37,0
+184,734,Major 4,Atlanta FaZe,Dallas Empire,Hardpoint,Apocalypse,Cellium,3855,24,12,2,36,12,4037,Win,59,18,1,6,1,33
+184,735,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Vivid,,8,7,1.1428571428571428,15,1,,Loss,,,,,,,,,1,1
+184,735,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Shotzzy,,7,9,0.7777777777777778,16,-2,,Loss,,,,,,,,,2,0
+184,735,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,iLLeY,,8,9,0.8888888888888888,17,-1,,Loss,,,,,,,,,2,0
+184,735,Major 4,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,C6,,3,8,0.375,11,-5,,Loss,,,,,,,,,0,0
+184,735,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Arcitys,,8,6,1.3333333333333333,14,2,,Win,,,,,,,,,1,0
+184,735,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,aBeZy,,11,5,2.2,16,6,,Win,,,,,,,,,0,1
+184,735,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Simp,,7,8,0.875,15,-1,,Win,,,,,,,,,1,0
+184,735,Major 4,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Cellium,,7,7,1,14,0,,Win,,,,,,,,,2,1
