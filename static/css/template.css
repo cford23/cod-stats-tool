@@ -32,6 +32,21 @@ body {
     color: blue;
 }
 
+.matchView table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+}
+
+.matchView table {
+    width: 95%;
+}
+
+.matchView a:visited {
+    color: blue;
+}
+
 .navbar {
     overflow: hidden;
     background-color: #333;

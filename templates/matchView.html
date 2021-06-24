@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CoD Stats Tool - Match View</title>
+</head>
+<body>
+    {% extends "template.html" %}
+    {% block content %}
+
+    <div class="matchView">
+        <br>
+        <table>
+            <thead>
+                <tr>
+                    <td>Overall Stats</td>
+                    <td colspan="7">{{ data['Team 1'] }} {{ data['Team 1 Score'] }} - {{ data['Team 2 Score'] }} {{ data['Team 2'] }}</td>
+                    {% if data['Match VOD']|string|length > 3 %}
+                        <td>
+                            <a href="{{ data['Match VOD'] }}">Match VOD</a>
+                        </td>
+                    {% else %}
+                        <td>No VOD</td>
+                    {% endif %}
+                </tr>
+                <tr>
+                    <td>Team</td>
+                    <td>Player</td>
+                    <td>Score</td>
+                    <td>Kills</td>
+                    <td>Deaths</td>
+                    <td>K/D</td>
+                    <td>Engagements</td>
+                    <td>Difference</td>
+                    <td>Damage</td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in overall %}
+                    <tr>
+                        {% if row['Team'] == team1 %}
+                            <td>{{ team1Abbr }}</td>
+                        {% elif row['Team'] == team2 %}
+                            <td>{{ team2Abbr }}</td>
+                        {% endif %}
+                        <td>{{ row['Player'] }}</td>
+                        <td>{{ row['Score'] }}</td>
+                        <td>{{ row['Kills'] }}</td>
+                        <td>{{ row['Deaths'] }}</td>
+                        <td>{{ row['K/D'] }}</td>
+                        <td>{{ row['Engagements'] }}</td>
+                        <td>{{ row['Difference'] }}</td>
+                        <td>{{ row['Damage'] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <br>
+
+        {% for map in mapData %}
+        <table>
+            <thead>
+                <tr>
+                    <td>Map {{ map['Map Number'] }}: {{ map['Map'] }}</td>
+                    <td colspan="8">{{ map['Team 1'] }} {{ map['Team 1 Score'] }} - {{ map['Team 2 Score'] }} {{ map['Team 2'] }}</td>
+                    {% if map['Map VOD']|string|length > 3 %}
+                        <td>
+                            <a href="{{ map['Map VOD'] }}">Map VOD</a>
+                        </td>
+                    {% else %}
+                        <td>No VOD</td>
+                    {% endif %}
+                </tr>
+                <tr>
+                    <td>Team</td>
+                    <td>Player</td>
+                    <td>Score</td>
+                    <td>Kills</td>
+                    <td>Deaths</td>
+                    <td>K/D</td>
+                    <td>Engagements</td>
+                    <td>Difference</td>
+                    <td>Damage</td>
+                    <td>Map Result</td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for player in playerData %}
+                    {% if player['Map ID'] == map['Map ID'] %}
+                        <tr>
+                            {% if player['Team'] == team1 %}
+                                <td>{{ team1Abbr }}</td>
+                            {% elif player['Team'] == team2 %}
+                                <td>{{ team2Abbr }}</td>
+                            {% endif %}
+                            <td>{{ player['Player'] }}</td>
+                            <td>{{ player['Score'] }}</td>
+                            <td>{{ player['Kills'] }}</td>
+                            <td>{{ player['Deaths'] }}</td>
+                            <td>{{ player['K/D'] }}</td>
+                            <td>{{ player['Engagements'] }}</td>
+                            <td>{{ player['Differential'] }}</td>
+                            <td>{{ player['Damage'] }}</td>
+                            <td>{{ player['Map Result'] }}</td>
+                        </tr>
+                    {% endif %}
+                {% endfor %}
+            </tbody>
+        </table>
+        <br>
+        {% endfor %}
+
+    {% endblock %}
+    </div>
+</body>
+</html>

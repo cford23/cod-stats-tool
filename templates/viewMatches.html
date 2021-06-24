@@ -40,25 +40,25 @@
                 <h3>Wins: {{ wins }} &nbsp;&nbsp; Losses: {{ losses }}</h3>
             {% endif %}
             <div class="matchData">
-                <!--
-                {% for table in tables %}
-                    {{ table|safe }}
-                    <a href="{{ table['Match VOD'] }}">Match VOD</a>
-                {% endfor %}
-                -->
                 <table>
                     <thead>
                         <tr>
+                            {% if length > 0 %}
+                                <td></td>
+                            {% endif %}
                             {% for col in data[0] %}
-                                <td>
-                                    <strong>{{ col }}</strong>
-                                </td>
+                                {% if col != 'Match ID' %}
+                                    <td>
+                                        <strong>{{ col }}</strong>
+                                    </td>
+                                {% endif %}
                             {% endfor %}
                         </tr>
                     </thead>
                     <tbody>
                         {% for row in data %}
                             <tr>
+                                <td><a href="{{ url_for('matchView', matchID=row['Match ID']) }}">View Match</a></td>
                                 <td>{{ row['Team 1'] }}</td>
                                 <td>{{ row['Team 2'] }}</td>
                                 <td>{{ row['Event'] }}</td>

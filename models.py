@@ -4,9 +4,13 @@ import numpy as np
 class CoDStats:
 
     def __init__(self):
-        self.matches = pd.read_csv("data/matches.csv").set_index('Match ID')
-        self.maps = pd.read_csv("data/maps.csv").set_index(['Match ID', 'Map ID'])
-        self.players = pd.read_csv("data/players.csv").set_index(['Match ID', 'Map ID'])
+        # self.matches = pd.read_csv("data/matches.csv").set_index('Match ID')
+        self.matches = pd.read_csv("data/matches.csv")
+        # self.maps = pd.read_csv("data/maps.csv").set_index(['Match ID', 'Map ID'])
+        self.maps = pd.read_csv("data/maps.csv")
+        # self.players = pd.read_csv("data/players.csv").set_index(['Match ID', 'Map ID'])
+        self.players = pd.read_csv("data/players.csv")
+        self.players['K/D'] = self.players['K/D'].round(2)
         self.modes = self.maps['Mode'].unique()
         self.modeMaps = [0, 0, 0]
         self.modeMaps[0] = self.maps[self.maps['Mode'] == self.modes[0]]['Map'].unique()
@@ -22,6 +26,41 @@ class CoDStats:
         self.teams = pd.unique(self.matches[['Team 1', 'Team 2']].values.ravel())
         self.teams.sort()
         self.events = self.matches['Event'].unique()
+        self.teamAbbrs = {
+            'Atlanta FaZe': 'ATL',
+            'Dallas Empire': 'DAL',
+            'Florida Mutineers': 'FLA',
+            'London Royal Ravens': 'LDN',
+            'Los Angeles Guerrillas': 'LAG',
+            'Los Angeles Thieves': 'LAT',
+            'Minnesota ROKKR': 'MIN',
+            'New York Subliners': 'NY',
+            'OpTic Chicago': 'CHI',
+            'Paris Legion': 'PAR',
+            'Seattle Surge': 'SEA',
+            'Toronto Ultra': 'TOR',
+        }
+
+    def getMatchData(self, matchID=None, team=None, opponent=None, event=None):
+        if matchID is not None:
+            data = self.matches[self.matches['Match ID'] == matchID]
+        else:
+            data = self.matches
+        return pd.DataFrame(data)
+
+    def getMapData(self, matchID=None, mapID=None, team=None, opponent=None, event=None, mode=None, map=None):
+        if matchID is not None:
+            data = self.maps[self.maps['Match ID'] == matchID]
+        else:
+            data = self.maps
+        return pd.DataFrame(data)
+
+    def getPlayerData(self, matchID=None, mapID=None):
+        if matchID is not None:
+            data = self.players[self.players['Match ID'] == matchID]
+        else:
+            data = self.players
+        return pd.DataFrame(data)
 
     def getMatchRecord(self, team, opponent, event):
         wins = 0

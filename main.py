@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 from models import CoDStats, Team, Player
+import pandas as pd
 
 app = Flask(__name__)
 
@@ -28,6 +29,29 @@ def viewMatches():
     #return render_template("viewMatches.html", stats=stats, tables=[results.to_html(classes="data", index=False)], selectedItems=selectedItems, length=length, team=team, wins=wins, losses=losses)
     return render_template("viewMatches.html", stats=stats, data=results.to_dict(orient='records'),
                            selectedItems=selectedItems, length=length, team=team, wins=wins, losses=losses)
+
+@app.route("/matchView/<matchID>")
+def matchView(matchID):
+    matchID = int(matchID)
+    data = stats.getMatchData(matchID=matchID).iloc[0]
+    mapData = stats.getMapData(matchID=matchID)
+    playerData = stats.getPlayerData(matchID=matchID)
+    team1 = data['Team 1']
+    team2 = data['Team 2']
+    team1Abbr = stats.teamAbbrs[data['Team 1']]
+    team2Abbr = stats.teamAbbrs[data['Team 2']]
+
+    overall = playerData.groupby(['Player', 'Team'])[['Score', 'Kills', 'Deaths', 'Damage']].sum()
+    overall['K/D'] = round(overall['Kills'] / overall['Deaths'], 2)
+    overall['Engagements'] = overall['Kills'] + overall['Deaths']
+    overall['Difference'] = overall['Kills'] - overall['Deaths']
+    overall = overall.reset_index()
+    overall = pd.DataFrame(overall, columns=['Team', 'Player', 'Score', 'Kills', 'Deaths', 'K/D', 'Engagements', 'Difference', 'Damage'])
+    overall = overall.sort_values(by='Team')
+
+    return render_template("matchView.html", data=data.to_dict(), mapData=mapData.to_dict(orient='records'),
+                           playerData=playerData.to_dict(orient='records'), team1=team1, team2=team2,
+                           team1Abbr=team1Abbr, team2Abbr=team2Abbr, overall=overall.to_dict(orient='records'))
 
 @app.route("/viewMaps", methods=["GET", "POST"])
 def viewMaps():
