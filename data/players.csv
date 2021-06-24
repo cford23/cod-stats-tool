@@ -767,10 +767,10 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Clayster,1250,8,6,1.3333333333333333,14,2,1531,Loss,,,,,,,1,1,0,0,0.89,170.11
 24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Diamondcon,315,3,7,0.42857142857142855,10,-4,850,Loss,,,,,,,0,2,1,0,0.33,94.44
 24,96,Super Week,New York Subliners,Dallas Empire,Search and Destroy,Miami,Mack,425,5,8,0.625,13,-3,1294,Loss,,,,,,,0,2,0,0,0.56,143.78
-25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Arcitys,,,,,,,,Loss
-25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Cellium,,,,,,,,Loss
-25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,aBeZy,,,,,,,,Loss
-25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Simp,,,,,,,,Loss
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Arcitys,,24,29,0.8275862068965517,53,-5,,Loss
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Cellium,,30,28,1.0714285714285714,58,2,,Loss
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,aBeZy,,31,25,1.24,56,6,,Loss
+25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Simp,,16,28,0.5714285714285714,44,-12,,Loss
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Skrapz,2865,30,24,1.25,54,6,4897,Win,52,21,11,0,20,0
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Classic,3965,30,26,1.1538461538461537,56,4,5436,Win,130,2,71,17,1,39
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Aqua,2305,22,25,0.88,47,-3,4730,Win,53,4,2,23,6,18
@@ -1191,14 +1191,14 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 38,149,Major 1,OpTic Chicago,Dallas Empire,Search and Destroy,Moscow,Dashy,590,7,5,1.4,12,2,1122,Win,,,,,,,2,0,0,0,0.88,140.25
 38,149,Major 1,OpTic Chicago,Dallas Empire,Search and Destroy,Moscow,Envoy,2450,11,4,2.75,15,7,1597,Win,,,,,,,1,1,1,1,1.38,199.63
 38,149,Major 1,OpTic Chicago,Dallas Empire,Search and Destroy,Moscow,Scump,630,4,2,2,6,2,757,Win,,,,,,,0,1,0,1,0.5,94.63
-38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,Shotzzy,,,,,,,,Loss
-38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,C6,,,,,,,,Loss
-38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,iLLeY,,,,,,,,Loss
-38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,Huke,,,,,,,,Loss
-38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,FORMAL,,,,,,,,Win
-38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,Dashy,,,,,,,,Win
-38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,Envoy,,,,,,,,Win
-38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,Scump,,,,,,,,Win
+38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,Shotzzy,,25,35,0.7142857142857143,60,-10,,Loss
+38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,C6,,29,28,1.0357142857142858,57,1,,Loss
+38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,iLLeY,,19,32,0.59375,51,-13,,Loss
+38,150,Major 1,Dallas Empire,OpTic Chicago,Control,Raid,Huke,,29,34,0.8529411764705882,63,-5,,Loss
+38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,FORMAL,,28,23,1.2173913043478262,51,5,,Win
+38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,Dashy,,38,26,1.4615384615384615,64,12,,Win
+38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,Envoy,,29,27,1.0740740740740742,56,2,,Win
+38,150,Major 1,OpTic Chicago,Dallas Empire,Control,Raid,Scump,,34,26,1.3076923076923077,60,8,,Win
 38,151,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,Shotzzy,3235,29,25,1.16,54,4,5252,Win,45,0,17,22,6
 38,151,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,C6,2195,26,25,1.04,51,1,4818,Win,57,10,16,3,28
 38,151,Major 1,Dallas Empire,OpTic Chicago,Hardpoint,Moscow,iLLeY,2575,22,22,1,44,0,4154,Win,102,25,42,7,28
