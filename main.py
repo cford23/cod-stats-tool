@@ -72,6 +72,10 @@ def viewMaps():
         selectedItems[4] = map
 
         results = stats.getMaps(team, opponent, event, mode, map)
+        # delete Match ID and Map ID columns
+        del results['Match ID']
+        del results['Map ID']
+
         length = results.shape[0]
         if team != 'All':
             wins, losses = stats.getViewMapRecord(team, results)
@@ -90,6 +94,7 @@ def viewPlayers():
     kd = 0
     mapRecord = [0, 0]
     results = stats.players.head(0)
+    results = results.set_index(['Match ID', 'Map ID'])
     length = results.shape[0]
     if request.method == "POST":
         player = Player(request.form.get("player"))
@@ -109,6 +114,9 @@ def viewPlayers():
         playerTeams = player.getPlayerTeams()
         playerEvents = player.getPlayerEvents()
         results = stats.getPlayers(player.name, team, opponent, event, mode, map)
+        # don't show Match ID and Map ID columns
+        results = results.set_index(['Match ID', 'Map ID'])
+
         results.dropna(how='all', axis=1, inplace=True)
         kills, deaths, kd = player.getPlayerKD(results)
         mapRecord[0], mapRecord[1] = player.getPlayerMapRecord(data=results)
