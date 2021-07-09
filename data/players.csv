@@ -5959,3 +5959,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 187,745,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Checkmate,Attach,2100,19,13,1.4615384615384615,32,6,2968,Win,64,12,36,14,0,2
 187,745,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Checkmate,Standy,3600,26,11,2.3636363636363638,37,15,4052,Win,72,12,24,5,31,0
 187,745,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Checkmate,Priestahh,1635,13,13,1,26,0,2733,Win,78,4,17,0,0,57
+188,746,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Asim,1380,16,27,0.5925925925925926,43,-11,3445,Loss,44,29,14,0,1
+188,746,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Clayster,1440,18,28,0.6428571428571429,46,-10,4434,Loss,25,9,16,0,0
+188,746,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Mack,1485,15,22,0.6818181818181818,37,-7,3082,Loss,57,24,28,5,0
+188,746,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Moscow,Hydra,1940,21,20,1.05,41,1,3175,Loss,72,45,9,16,2
+188,746,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,Kenny,7310,30,18,1.6666666666666667,48,12,5268,Win,49,12,16,3,18
+188,746,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,Drazah,2855,21,17,1.2352941176470589,38,4,4077,Win,41,0,34,1,6
+188,746,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,John,2890,25,18,1.3888888888888888,43,7,3761,Win,79,25,27,10,17
+188,746,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Moscow,SlasheR,3030,21,17,1.2352941176470589,38,4,3861,Win,142,56,10,63,13
+188,747,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Moscow,Asim,275,2,7,0.2857142857142857,9,-5,1048,Loss,,,,,,,0,2,0,0,0.22,116.44
+188,747,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Moscow,Clayster,600,8,8,1,16,0,1661,Loss,,,,,,,2,1,0,0,0.89,184.56
+188,747,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Moscow,Mack,400,5,7,0.7142857142857143,12,-2,1467,Loss,,,,,,,1,1,0,0,0.56,163
+188,747,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Moscow,Hydra,500,3,7,0.42857142857142855,10,-4,517,Loss,,,,,,,0,2,2,0,0.33,57.44
+188,747,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,Kenny,790,8,3,2.6666666666666665,11,5,1226,Win,,,,,,,2,1,0,0,0.89,136.22
+188,747,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,Drazah,2000,13,3,4.333333333333333,16,10,1642,Win,,,,,,,3,1,0,0,1.44,182.44
+188,747,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,John,440,4,7,0.5714285714285714,11,-3,1154,Win,,,,,,,0,0,1,0,0.44,128.22
+188,747,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Moscow,SlasheR,525,4,5,0.8,9,-1,812,Win,,,,,,,1,1,0,2,0.44,90.22
+188,748,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Control,Garrison,Asim,2680,14,14,1,28,0,2846,Win,,,,,,,,,,,,,7,11,7,3,3,948.67
+188,748,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Control,Garrison,Clayster,2575,14,17,0.8235294117647058,31,-3,2860,Win,,,,,,,,,,,,,8,8,6,6,5,953.33
+188,748,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Control,Garrison,Mack,3875,16,11,1.4545454545454546,27,5,2781,Win,,,,,,,,,,,,,10,13,8,3,3,927
+188,748,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Control,Garrison,Hydra,3340,16,14,1.1428571428571428,30,2,2882,Win,,,,,,,,,,,,,8,7,4,9,6,960.67
+188,748,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Control,Garrison,Kenny,1465,12,15,0.8,27,-3,2722,Loss,,,,,,,,,,,,,1,2,2,10,8,907.33
+188,748,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Control,Garrison,Drazah,1440,15,16,0.9375,31,-1,2557,Loss,,,,,,,,,,,,,1,4,1,11,6,852.33
+188,748,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Control,Garrison,John,1605,15,18,0.8333333333333334,33,-3,2927,Loss,,,,,,,,,,,,,0,3,3,12,6,975.67
+188,748,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Control,Garrison,SlasheR,2090,14,11,1.2727272727272727,25,3,3091,Loss,,,,,,,,,,,,,1,5,4,9,5,1030.33
+188,749,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Garrison,Asim,2890,24,22,1.0909090909090908,46,2,4108,Win,113,22,16,38,19,18
+188,749,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Garrison,Clayster,2590,31,24,1.2916666666666667,55,7,5494,Win,53,13,15,17,2,6
+188,749,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Garrison,Mack,1995,18,26,0.6923076923076923,44,-8,4678,Win,61,40,0,7,11,3
+188,749,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Hardpoint,Garrison,Hydra,3570,30,19,1.5789473684210527,49,11,4922,Win,42,2,5,22,6,7
+188,749,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Garrison,Kenny,1820,20,28,0.7142857142857143,48,-8,5167,Loss,48,7,18,3,0,20
+188,749,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Garrison,Drazah,2460,22,26,0.8461538461538461,48,-4,3465,Loss,94,14,35,10,16,19
+188,749,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Garrison,John,1960,21,25,0.84,46,-4,3664,Loss,101,18,49,7,24,3
+188,749,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Hardpoint,Garrison,SlasheR,2365,28,24,1.1666666666666667,52,4,5823,Loss,25,0,19,0,6,0
+188,750,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Miami,Asim,,15,10,1.5,25,5,,Loss
+188,750,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Miami,Clayster,,4,10,0.4,14,-6,,Loss
+188,750,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Miami,Mack,,2,9,0.2222222222222222,11,-7,,Loss
+188,750,Stage 5 Week 1,New York Subliners,Los Angeles Thieves,Search and Destroy,Miami,Hydra,,7,9,0.7777777777777778,16,-2,,Loss
+188,750,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,Kenny,,10,6,1.6666666666666667,16,4,,Win
+188,750,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,Drazah,,14,7,2,21,7,,Win
+188,750,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,John,,5,9,0.5555555555555556,14,-4,,Win
+188,750,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,SlasheR,,10,6,1.6666666666666667,16,4,,Win
