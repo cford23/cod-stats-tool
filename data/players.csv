@@ -5927,3 +5927,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 186,741,Stage 5 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Dashy,2725,19,16,1.1875,35,3,3931,Win,,,,,,,,,,,,,6,14,9,5,3,1310.33
 186,741,Stage 5 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Envoy,3200,23,17,1.3529411764705883,40,6,4574,Win,,,,,,,,,,,,,6,13,6,10,4,1524.67
 186,741,Stage 5 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Scump,1425,17,16,1.0625,33,1,2681,Win,,,,,,,,,,,,,2,14,2,3,1,893.67
+187,742,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Garrison,MentaL,1525,15,21,0.7142857142857143,36,-6,3123,Win,53,1,5,12,0,35
+187,742,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Garrison,Assault,2635,28,21,1.3333333333333333,49,7,5127,Win,77,0,9,8,33,27
+187,742,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Garrison,Silly,2575,21,17,1.2352941176470589,38,4,3925,Win,103,0,79,17,7,0
+187,742,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Garrison,Apathy,2990,19,19,1,38,0,3818,Win,56,13,26,11,0,6
+187,742,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Garrison,majormaniak,2500,22,18,1.2222222222222223,40,4,4148,Loss,38,13,5,14,0,6
+187,742,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Garrison,Attach,1830,22,21,1.0476190476190477,43,1,4532,Loss,6,5,0,1,0,0
+187,742,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Garrison,Standy,2485,20,23,0.8695652173913043,43,-3,3770,Loss,101,40,2,20,39,0
+187,742,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Garrison,Priestahh,1525,14,21,0.6666666666666666,35,-7,3220,Loss,68,20,11,13,24,0
+187,743,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Search and Destroy,Raid,MentaL,415,3,7,0.42857142857142855,10,-4,516,Loss,,,,,,,0,2,0,0,0.33,57.33
+187,743,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Search and Destroy,Raid,Assault,740,7,7,1,14,0,1421,Loss,,,,,,,3,1,0,0,0.78,157.89
+187,743,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Search and Destroy,Raid,Silly,475,6,8,0.75,14,-2,1479,Loss,,,,,,,1,0,0,1,0.67,164.33
+187,743,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Search and Destroy,Raid,Apathy,450,3,8,0.375,11,-5,789,Loss,,,,,,,0,2,2,0,0.33,87.67
+187,743,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Search and Destroy,Raid,majormaniak,765,8,6,1.3333333333333333,14,2,1744,Win,,,,,,,1,1,0,0,0.89,193.78
+187,743,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Search and Destroy,Raid,Attach,1330,7,3,2.3333333333333335,10,4,1550,Win,,,,,,,1,0,0,0,0.78,172.22
+187,743,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Search and Destroy,Raid,Standy,890,6,5,1.2,11,1,1215,Win,,,,,,,1,1,1,1,0.67,135
+187,743,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Search and Destroy,Raid,Priestahh,915,9,5,1.8,14,4,1594,Win,,,,,,,2,2,2,0,1,177.11
+187,744,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Control,Raid,MentaL,535,5,13,0.38461538461538464,18,-8,1685,Loss,,,,,,,,,,,,,1,3,0,2,2,561.67
+187,744,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Control,Raid,Assault,1015,9,15,0.6,24,-6,2162,Loss,,,,,,,,,,,,,2,3,1,6,2,720.67
+187,744,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Control,Raid,Silly,1150,10,15,0.6666666666666666,25,-5,2323,Loss,,,,,,,,,,,,,2,4,1,6,3,774.33
+187,744,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Control,Raid,Apathy,1415,11,15,0.7333333333333333,26,-4,1614,Loss,,,,,,,,,,,,,2,4,1,7,4,538
+187,744,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Control,Raid,majormaniak,2445,15,12,1.25,27,3,2954,Win,,,,,,,,,,,,,8,10,3,5,1,984.67
+187,744,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Control,Raid,Attach,3170,11,6,1.8333333333333333,17,5,2330,Win,,,,,,,,,,,,,11,10,6,1,1,776.67
+187,744,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Control,Raid,Standy,2705,11,10,1.1,21,1,1701,Win,,,,,,,,,,,,,9,5,1,6,2,567
+187,744,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Control,Raid,Priestahh,6865,21,7,3,28,14,3660,Win,,,,,,,,,,,,,8,10,4,11,1,1220
+187,745,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Checkmate,MentaL,775,8,17,0.47058823529411764,25,-9,1892,Loss,47,15,0,12,20,0
+187,745,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Checkmate,Assault,955,12,15,0.8,27,-3,2736,Loss,19,15,0,2,2,0
+187,745,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Checkmate,Silly,640,10,21,0.47619047619047616,31,-11,2488,Loss,9,8,0,1,0,0
+187,745,Stage 5 Week 1,Los Angeles Guerrillas,Minnesota ROKKR,Hardpoint,Checkmate,Apathy,1490,18,18,1,36,0,3227,Loss,0,0,0,0,0,0
+187,745,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Checkmate,majormaniak,1660,12,11,1.0909090909090908,23,1,3433,Win,74,38,36,0,0,0
+187,745,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Checkmate,Attach,2100,19,13,1.4615384615384615,32,6,2968,Win,64,12,36,14,0,2
+187,745,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Checkmate,Standy,3600,26,11,2.3636363636363638,37,15,4052,Win,72,12,24,5,31,0
+187,745,Stage 5 Week 1,Minnesota ROKKR,Los Angeles Guerrillas,Hardpoint,Checkmate,Priestahh,1635,13,13,1,26,0,2733,Win,78,4,17,0,0,57
