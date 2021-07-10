@@ -6055,3 +6055,27 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 190,757,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Moscow,Skyz,5295,34,15,2.2666666666666666,49,19,5624,Win,99,14,15,45,25
 190,757,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Moscow,Havok,2040,21,22,0.9545454545454546,43,-1,4248,Win,60,22,10,2,26
 190,757,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Moscow,Neptune,3115,21,14,1.5,35,7,2966,Win,97,20,6,58,13
+191,758,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Garrison,MentaL,1405,16,20,0.8,36,-4,2742,Loss,12,3,5,2,2,0
+191,758,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Garrison,Assault,1370,16,26,0.6153846153846154,42,-10,3281,Loss,24,0,8,15,1,0
+191,758,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Garrison,Silly,1285,19,23,0.8260869565217391,42,-4,3666,Loss,14,10,4,0,0,0
+191,758,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Hardpoint,Garrison,Apathy,1145,13,24,0.5416666666666666,37,-11,2436,Loss,23,6,7,10,0,0
+191,758,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,Shotzzy,2745,25,16,1.5625,41,9,3405,Win,61,15,10,27,9,0
+191,758,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,C6,1740,16,17,0.9411764705882353,33,-1,3720,Win,70,26,34,0,8,2
+191,758,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,iLLeY,3445,24,14,1.7142857142857142,38,10,3907,Win,68,23,0,4,0,41
+191,758,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Hardpoint,Garrison,Vivid,2620,28,17,1.6470588235294117,45,11,4988,Win,73,5,19,30,19,0
+191,759,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Standoff,MentaL,825,7,6,1.1666666666666667,13,1,1532,Loss,,,,,,,1,1,0,1,0.88,191.5
+191,759,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Standoff,Assault,375,5,7,0.7142857142857143,12,-2,1069,Loss,,,,,,,0,2,1,0,0.63,133.63
+191,759,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Standoff,Silly,475,6,6,1,12,0,1196,Loss,,,,,,,2,1,0,0,0.75,149.5
+191,759,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Search and Destroy,Standoff,Apathy,375,5,7,0.7142857142857143,12,-2,952,Loss,,,,,,,1,0,1,0,0.63,119
+191,759,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Standoff,Shotzzy,1100,9,6,1.5,15,3,1575,Win,,,,,,,1,2,1,1,1.13,196.88
+191,759,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Standoff,C6,1150,7,5,1.4,12,2,1501,Win,,,,,,,2,1,0,0,0.88,187.63
+191,759,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Standoff,iLLeY,500,5,6,0.8333333333333334,11,-1,1497,Win,,,,,,,0,0,1,0,0.63,187.13
+191,759,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Search and Destroy,Standoff,Vivid,500,5,6,0.8333333333333334,11,-1,1021,Win,,,,,,,1,1,0,0,0.63,127.63
+191,760,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Control,Raid,MentaL,1115,11,20,0.55,31,-9,2844,Loss,,,,,,,,,,,,,1,5,2,6,2,948
+191,760,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Control,Raid,Assault,1440,14,19,0.7368421052631579,33,-5,2176,Loss,,,,,,,,,,,,,2,5,4,9,5,725.33
+191,760,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Control,Raid,Silly,1280,14,19,0.7368421052631579,33,-5,2703,Loss,,,,,,,,,,,,,1,2,1,12,7,901
+191,760,Stage 5 Week 1,Los Angeles Guerrillas,Dallas Empire,Control,Raid,Apathy,1645,13,19,0.6842105263157895,32,-6,2638,Loss,,,,,,,,,,,,,3,4,2,9,5,879.33
+191,760,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Control,Raid,Shotzzy,2320,17,13,1.3076923076923077,30,4,3072,Win,,,,,,,,,,,,,7,11,3,6,1,1024
+191,760,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Control,Raid,C6,4045,24,11,2.1818181818181817,35,13,4480,Win,,,,,,,,,,,,,8,19,10,5,4,1493.33
+191,760,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Control,Raid,iLLeY,2525,11,15,0.7333333333333333,26,-4,2630,Win,,,,,,,,,,,,,8,8,3,3,2,876.67
+191,760,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Control,Raid,Vivid,3965,25,13,1.9230769230769231,38,12,4322,Win,,,,,,,,,,,,,7,13,6,12,1,1440.67
