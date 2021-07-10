@@ -6023,3 +6023,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 189,753,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Cellium,5860,24,13,1.8461538461538463,37,11,4563,Win,,,,,,,,,,,,,7,13,8,11,5,1521
 189,753,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Simp,2850,19,16,1.1875,35,3,3742,Win,,,,,,,,,,,,,7,13,5,6,3,1247.33
 189,753,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,aBeZy,1915,22,17,1.2941176470588236,39,5,4352,Win,,,,,,,,,,,,,3,15,5,7,3,1450.67
+190,754,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Hardpoint,Apocalypse,Octane,2355,28,24,1.1666666666666667,52,4,5329,Loss,24,0,0,0,13,11
+190,754,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Hardpoint,Apocalypse,Prestinni,2140,27,29,0.9310344827586207,56,-2,4717,Loss,63,13,0,30,17,3
+190,754,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Hardpoint,Apocalypse,Classic,1480,18,31,0.5806451612903226,49,-13,3462,Loss,32,8,10,0,3,11
+190,754,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Hardpoint,Apocalypse,Gunless,2275,16,21,0.7619047619047619,37,-5,3210,Loss,90,5,24,6,36,19
+190,754,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Apocalypse,Owakening,2815,22,23,0.9565217391304348,45,-1,4702,Win,81,32,2,7,12,28
+190,754,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Apocalypse,Skyz,2570,29,18,1.6111111111111112,47,11,4442,Win,119,16,37,32,4,30
+190,754,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Apocalypse,Havok,2135,26,26,1,52,0,5367,Win,19,4,5,10,0,0
+190,754,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Apocalypse,Neptune,2540,28,22,1.2727272727272727,50,6,4736,Win,78,35,22,1,9,11
+190,755,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Search and Destroy,Moscow,Octane,900,9,9,1,18,0,1551,Loss,,,,,,,1,0,1,0,0.82,141
+190,755,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Search and Destroy,Moscow,Prestinni,850,10,9,1.1111111111111112,19,1,2217,Loss,,,,,,,3,1,0,0,0.91,201.55
+190,755,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Search and Destroy,Moscow,Classic,775,5,7,0.7142857142857143,12,-2,1359,Loss,,,,,,,0,4,2,0,0.45,123.55
+190,755,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Search and Destroy,Moscow,Gunless,575,7,8,0.875,15,-1,1525,Loss,,,,,,,1,2,0,0,0.64,138.64
+190,755,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Search and Destroy,Moscow,Owakening,525,8,8,1,16,0,2090,Win,,,,,,,3,1,0,0,0.73,190
+190,755,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Search and Destroy,Moscow,Skyz,775,6,8,0.75,14,-2,1858,Win,,,,,,,0,0,0,1,0.55,168.91
+190,755,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Search and Destroy,Moscow,Havok,855,9,7,1.2857142857142858,16,2,1197,Win,,,,,,,3,2,1,0,0.82,108.82
+190,755,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Search and Destroy,Moscow,Neptune,1500,9,8,1.125,17,1,1677,Win,,,,,,,1,2,1,1,0.82,152.45
+190,756,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Control,Checkmate,Octane,2850,25,15,1.6666666666666667,40,10,4831,Win,,,,,,,,,,,,,5,9,7,16,13,1207.75
+190,756,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Control,Checkmate,Prestinni,3075,20,18,1.1111111111111112,38,2,3674,Win,,,,,,,,,,,,,5,9,8,11,6,918.5
+190,756,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Control,Checkmate,Classic,2675,18,20,0.9,38,-2,3162,Win,,,,,,,,,,,,,6,9,7,9,6,790.5
+190,756,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Control,Checkmate,Gunless,1900,17,17,1,34,0,3746,Win,,,,,,,,,,,,,2,4,4,13,11,936.5
+190,756,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Control,Checkmate,Owakening,1625,16,22,0.7272727272727273,38,-6,3042,Loss,,,,,,,,,,,,,1,8,5,8,9,760.5
+190,756,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Control,Checkmate,Skyz,2630,22,19,1.1578947368421053,41,3,4174,Loss,,,,,,,,,,,,,3,11,8,11,9,1043.5
+190,756,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Control,Checkmate,Havok,2375,20,21,0.9523809523809523,41,-1,3297,Loss,,,,,,,,,,,,,3,10,5,10,5,824.25
+190,756,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Control,Checkmate,Neptune,1800,12,18,0.6666666666666666,30,-6,3246,Loss,,,,,,,,,,,,,3,7,5,5,4,811.5
+190,757,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Hardpoint,Moscow,Octane,2410,19,19,1,38,0,3195,Loss,21,17,3,0,1
+190,757,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Hardpoint,Moscow,Prestinni,1495,16,22,0.7272727272727273,38,-6,2371,Loss,27,8,17,0,2
+190,757,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Hardpoint,Moscow,Classic,1050,12,29,0.41379310344827586,41,-17,2939,Loss,51,23,14,0,14
+190,757,Stage 5 Week 1,Seattle Surge,Florida Mutineers,Hardpoint,Moscow,Gunless,1950,22,23,0.9565217391304348,45,-1,4669,Loss,69,26,43,0,0
+190,757,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Moscow,Owakening,1345,17,18,0.9444444444444444,35,-1,3663,Win,45,31,0,0,14
+190,757,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Moscow,Skyz,5295,34,15,2.2666666666666666,49,19,5624,Win,99,14,15,45,25
+190,757,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Moscow,Havok,2040,21,22,0.9545454545454546,43,-1,4248,Win,60,22,10,2,26
+190,757,Stage 5 Week 1,Florida Mutineers,Seattle Surge,Hardpoint,Moscow,Neptune,3115,21,14,1.5,35,7,2966,Win,97,20,6,58,13
