@@ -6079,3 +6079,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 191,760,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Control,Raid,C6,4045,24,11,2.1818181818181817,35,13,4480,Win,,,,,,,,,,,,,8,19,10,5,4,1493.33
 191,760,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Control,Raid,iLLeY,2525,11,15,0.7333333333333333,26,-4,2630,Win,,,,,,,,,,,,,8,8,3,3,2,876.67
 191,760,Stage 5 Week 1,Dallas Empire,Los Angeles Guerrillas,Control,Raid,Vivid,3965,25,13,1.9230769230769231,38,12,4322,Win,,,,,,,,,,,,,7,13,6,12,1,1440.67
+192,761,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Kenny,2200,23,17,1.3529411764705883,40,6,3974,Win,39,24,8,1,6
+192,761,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,Drazah,3310,26,18,1.4444444444444444,44,8,3960,Win,69,19,8,0,42
+192,761,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,John,2020,18,17,1.0588235294117647,35,1,3755,Win,107,51,47,4,5
+192,761,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Moscow,SlasheR,2275,22,19,1.1578947368421053,41,3,4185,Win,105,22,32,2,49
+192,761,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,PaulEhx,2110,17,19,0.8947368421052632,36,-2,3386,Loss,37,12,5,20,0
+192,761,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Afro,1860,22,22,1,44,0,3778,Loss,22,9,9,4,0
+192,761,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Seany,1845,16,24,0.6666666666666666,40,-8,3330,Loss,80,14,39,26,1
+192,761,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Moscow,Alexx,1710,16,24,0.6666666666666666,40,-8,3239,Loss,58,14,10,28,6
+192,762,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Standoff,Kenny,425,3,6,0.5,9,-3,1506,Loss,,,,,,,1,1,0,0,0.43,215.14
+192,762,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Standoff,Drazah,475,5,7,0.7142857142857143,12,-2,1017,Loss,,,,,,,2,2,1,0,0.71,145.29
+192,762,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Standoff,John,415,3,7,0.42857142857142855,10,-4,785,Loss,,,,,,,0,0,1,0,0.43,112.14
+192,762,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Search and Destroy,Standoff,SlasheR,390,4,6,0.6666666666666666,10,-2,1336,Loss,,,,,,,1,0,0,0,0.57,190.86
+192,762,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Standoff,PaulEhx,635,5,5,1,10,0,1126,Win,,,,,,,0,2,0,0,0.71,160.86
+192,762,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Standoff,Afro,975,8,3,2.6666666666666665,11,5,1484,Win,,,,,,,1,0,1,0,1.14,212
+192,762,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Standoff,Seany,1790,9,2,4.5,11,7,1614,Win,,,,,,,1,1,0,1,1.29,230.57
+192,762,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Search and Destroy,Standoff,Alexx,480,4,5,0.8,9,-1,946,Win,,,,,,,1,1,1,0,0.57,135.14
+192,763,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Garrison,Kenny,2615,10,9,1.1111111111111112,19,1,2547,Win,,,,,,,,,,,,,4,5,3,5,6,849
+192,763,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Garrison,Drazah,1990,14,11,1.2727272727272727,25,3,2470,Win,,,,,,,,,,,,,4,5,1,9,6,823.33
+192,763,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Garrison,John,4790,22,8,2.75,30,14,2980,Win,,,,,,,,,,,,,6,6,2,16,10,993.33
+192,763,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Control,Garrison,SlasheR,1225,10,11,0.9090909090909091,21,-1,2085,Win,,,,,,,,,,,,,3,6,2,4,2,695
+192,763,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Garrison,PaulEhx,675,6,14,0.42857142857142855,20,-8,1927,Loss,,,,,,,,,,,,,0,3,3,3,1,642.33
+192,763,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Afro,900,8,16,0.5,24,-8,1506,Loss,,,,,,,,,,,,,1,4,1,4,1,502
+192,763,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Seany,1415,15,13,1.1538461538461537,28,2,2507,Loss,,,,,,,,,,,,,0,10,4,5,2,835.67
+192,763,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Control,Garrison,Alexx,1090,10,13,0.7692307692307693,23,-3,1816,Loss,,,,,,,,,,,,,1,5,3,5,1,605.33
+192,764,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Kenny,1625,19,22,0.8636363636363636,41,-3,4086,Win,36,3,30,0,3,0
+192,764,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,Drazah,3990,27,20,1.35,47,7,4826,Win,129,13,31,9,44,32
+192,764,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,John,1900,17,20,0.85,37,-3,3217,Win,108,24,25,4,32,23
+192,764,Stage 5 Week 1,Los Angeles Thieves,London Royal Ravens,Hardpoint,Raid,SlasheR,1820,20,25,0.8,45,-5,3907,Win,92,17,30,0,41,4
+192,764,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,PaulEhx,3485,26,21,1.2380952380952381,47,5,4497,Loss,73,16,20,0,37,0
+192,764,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Afro,3100,19,16,1.1875,35,3,3365,Loss,85,0,4,39,19,23
+192,764,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Seany,8005,27,22,1.2272727272727273,49,5,5173,Loss,89,24,0,55,0,10
+192,764,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Alexx,1360,15,24,0.625,39,-9,2958,Loss,67,28,11,22,0,6
