@@ -6111,3 +6111,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 192,764,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Afro,3100,19,16,1.1875,35,3,3365,Loss,85,0,4,39,19,23
 192,764,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Seany,8005,27,22,1.2272727272727273,49,5,5173,Loss,89,24,0,55,0,10
 192,764,Stage 5 Week 1,London Royal Ravens,Los Angeles Thieves,Hardpoint,Raid,Alexx,1360,15,24,0.625,39,-9,2958,Loss,67,28,11,22,0,6
+193,765,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Cammy,2440,20,19,1.0526315789473684,39,1,3682,Loss,150,0,7,99,29,15
+193,765,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Bance,1900,19,21,0.9047619047619048,40,-2,3422,Loss,35,1,10,0,0,24
+193,765,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Insight,1325,17,22,0.7727272727272727,39,-5,3303,Loss,17,0,0,8,9,0
+193,765,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,CleanX,1715,16,26,0.6153846153846154,42,-10,3521,Loss,55,4,16,21,2,12
+193,765,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,majormaniak,2085,14,12,1.1666666666666667,26,2,2702,Win,111,54,22,0,24,11
+193,765,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Attach,2230,23,22,1.0454545454545454,45,1,4636,Win,106,37,43,0,26,0
+193,765,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Standy,3535,28,17,1.6470588235294117,45,11,4313,Win,94,9,38,0,42,5
+193,765,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Priestahh,1665,23,21,1.0952380952380953,44,2,4348,Win,10,0,7,0,0,3
+193,766,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Cammy,825,10,5,2,15,5,1863,Win,,,,,,,1,0,0,0,1.25,232.88
+193,766,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Bance,775,7,7,1,14,0,1374,Win,,,,,,,3,0,3,0,0.88,171.75
+193,766,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Insight,670,6,5,1.2,11,1,1432,Win,,,,,,,0,1,0,0,0.75,179
+193,766,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,CleanX,600,7,7,1,14,0,960,Win,,,,,,,1,2,0,0,0.88,120
+193,766,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,majormaniak,265,5,8,0.625,13,-3,1353,Loss,,,,,,,1,1,0,0,0.63,169.13
+193,766,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Attach,255,4,8,0.5,12,-4,1233,Loss,,,,,,,1,0,0,0,0.5,154.13
+193,766,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Standy,990,10,6,1.6666666666666667,16,4,1809,Loss,,,,,,,0,2,1,0,1.25,226.13
+193,766,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Priestahh,450,5,8,0.625,13,-3,1148,Loss,,,,,,,1,2,0,0,0.63,143.5
+193,767,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Control,Checkmate,Cammy,2025,19,14,1.3571428571428572,33,5,3548,Win,,,,,,,,,,,,,4,9,7,10,4,1182.67
+193,767,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Control,Checkmate,Bance,2255,18,14,1.2857142857142858,32,4,3531,Win,,,,,,,,,,,,,4,6,2,12,5,1177
+193,767,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Control,Checkmate,Insight,2480,17,11,1.5454545454545454,28,6,2697,Win,,,,,,,,,,,,,5,8,6,9,4,899
+193,767,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Control,Checkmate,CleanX,2175,20,21,0.9523809523809523,41,-1,3782,Win,,,,,,,,,,,,,3,6,4,14,3,1260.67
+193,767,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Control,Checkmate,majormaniak,1350,19,18,1.0555555555555556,37,1,2611,Loss,,,,,,,,,,,,,1,11,5,8,3,870.33
+193,767,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Control,Checkmate,Attach,1940,16,17,0.9411764705882353,33,-1,3601,Loss,,,,,,,,,,,,,1,6,3,10,11,1200.33
+193,767,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Control,Checkmate,Standy,1975,12,18,0.6666666666666666,30,-6,2761,Loss,,,,,,,,,,,,,3,8,2,4,2,920.33
+193,767,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Control,Checkmate,Priestahh,1540,13,21,0.6190476190476191,34,-8,3426,Loss,,,,,,,,,,,,,2,7,5,6,4,1142
+193,768,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Garrison,Cammy,1800,22,28,0.7857142857142857,50,-6,5137,Win,53,15,15,0,20,3
+193,768,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Garrison,Bance,2830,23,24,0.9583333333333334,47,-1,4094,Win,62,39,1,10,0,12
+193,768,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Garrison,Insight,2470,25,18,1.3888888888888888,43,7,4448,Win,96,18,8,43,12,15
+193,768,Stage 5 Week 1,Toronto Ultra,Minnesota ROKKR,Hardpoint,Garrison,CleanX,2290,26,25,1.04,51,1,4751,Win,56,40,4,2,0,10
+193,768,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,majormaniak,1705,24,27,0.8888888888888888,51,-3,4720,Loss,36,1,21,0,14,0
+193,768,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,Attach,1700,20,22,0.9090909090909091,42,-2,3252,Loss,49,3,1,13,32,0
+193,768,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,Standy,2250,24,26,0.9230769230769231,50,-2,4869,Loss,51,11,17,11,8,4
+193,768,Stage 5 Week 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Garrison,Priestahh,3205,27,21,1.2857142857142858,48,6,5146,Loss,110,4,55,21,0,30
