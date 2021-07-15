@@ -6191,3 +6191,27 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 195,774,Stage 5 Week 2,Los Angeles Guerrillas,Toronto Ultra,Control,Garrison,Assault,2075,13,14,0.9285714285714286,27,-1,2919,Loss,,,,,,,,,,,,,4,8,8,5,4,973
 195,774,Stage 5 Week 2,Los Angeles Guerrillas,Toronto Ultra,Control,Garrison,Silly,1950,14,19,0.7368421052631579,33,-5,2848,Loss,,,,,,,,,,,,,4,7,5,7,2,949.33
 195,774,Stage 5 Week 2,Los Angeles Guerrillas,Toronto Ultra,Control,Garrison,Apathy,1365,11,14,0.7857142857142857,25,-3,2772,Loss,,,,,,,,,,,,,1,10,10,1,1,924
+196,775,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Hardpoint,Checkmate,majormaniak,2455,19,16,1.1875,35,3,3764,Win,84,24,1,0,4,55
+196,775,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Hardpoint,Checkmate,Attach,2290,20,16,1.25,36,4,3337,Win,68,32,0,21,15,0
+196,775,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Hardpoint,Checkmate,Standy,3575,24,17,1.411764705882353,41,7,4794,Win,58,35,13,0,6,4
+196,775,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Hardpoint,Checkmate,Priestahh,2095,20,19,1.0526315789473684,39,1,3712,Win,90,28,11,31,17,3
+196,775,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Hardpoint,Checkmate,Octane,1740,19,20,0.95,39,-1,3972,Loss,43,10,15,0,18,0
+196,775,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Hardpoint,Checkmate,Prestinni,2115,17,20,0.85,37,-3,3719,Loss,18,1,11,2,4,0
+196,775,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Hardpoint,Checkmate,Classic,1220,11,22,0.5,33,-11,3068,Loss,60,10,15,29,6,0
+196,775,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Hardpoint,Checkmate,Gunless,2220,21,22,0.9545454545454546,43,-1,4194,Loss,60,4,31,2,23,0
+196,776,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Search and Destroy,Standoff,majormaniak,1445,9,3,3,12,6,1615,Win,,,,,,,4,1,0,0,1,179.44
+196,776,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Search and Destroy,Standoff,Attach,650,5,4,1.25,9,1,1400,Win,,,,,,,0,0,1,0,0.56,155.56
+196,776,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Search and Destroy,Standoff,Standy,970,8,5,1.6,13,3,1642,Win,,,,,,,0,2,1,0,0.89,182.44
+196,776,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Search and Destroy,Standoff,Priestahh,1030,7,5,1.4,12,2,1909,Win,,,,,,,2,0,2,1,0.78,212.11
+196,776,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Search and Destroy,Standoff,Octane,350,2,8,0.25,10,-6,1149,Loss,,,,,,,0,1,0,0,0.22,127.67
+196,776,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Search and Destroy,Standoff,Prestinni,1000,7,6,1.1666666666666667,13,1,1402,Loss,,,,,,,2,2,0,2,0.78,155.78
+196,776,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Search and Destroy,Standoff,Classic,625,6,7,0.8571428571428571,13,-1,1013,Loss,,,,,,,1,2,1,1,0.67,112.56
+196,776,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Search and Destroy,Standoff,Gunless,295,2,8,0.25,10,-6,1152,Loss,,,,,,,0,1,0,0,0.22,128
+196,777,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Control,Garrison,majormaniak,1840,16,14,1.1428571428571428,30,2,3118,Win,,,,,,,,,,,,,4,3,3,13,14,1039.33
+196,777,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Control,Garrison,Attach,2365,19,16,1.1875,35,3,3361,Win,,,,,,,,,,,,,4,5,5,14,8,1120.33
+196,777,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Control,Garrison,Standy,2075,14,13,1.0769230769230769,27,1,2780,Win,,,,,,,,,,,,,4,3,3,11,10,926.67
+196,777,Stage 5 Week 2,Minnesota ROKKR,Seattle Surge,Control,Garrison,Priestahh,1895,17,13,1.3076923076923077,30,4,3614,Win,,,,,,,,,,,,,4,5,1,12,8,1204.67
+196,777,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Control,Garrison,Octane,2425,15,16,0.9375,31,-1,3593,Loss,,,,,,,,,,,,,5,10,10,5,4,1197.67
+196,777,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Control,Garrison,Prestinni,2390,12,15,0.8,27,-3,2961,Loss,,,,,,,,,,,,,5,12,7,0,0,987
+196,777,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Control,Garrison,Classic,1690,9,21,0.42857142857142855,30,-12,2151,Loss,,,,,,,,,,,,,4,7,6,2,1,717
+196,777,Stage 5 Week 2,Seattle Surge,Minnesota ROKKR,Control,Garrison,Gunless,2325,20,14,1.4285714285714286,34,6,3142,Loss,,,,,,,,,,,,,2,15,10,5,6,1047.33
