@@ -6351,3 +6351,27 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 200,794,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Assault,1785,20,25,0.8,45,-5,4076,Loss,81,17,0,33,31
 200,794,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Silly,2210,22,24,0.9166666666666666,46,-2,4462,Loss,127,43,16,32,36
 200,794,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Apathy,1900,21,22,0.9545454545454546,43,-1,4545,Loss,37,13,11,0,13
+201,795,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Hardpoint,Garrison,Cammy,,28,27,1.037037037037037,55,1,,Win,88
+201,795,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Hardpoint,Garrison,Bance,,35,30,1.1666666666666667,65,5,,Win,69
+201,795,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Hardpoint,Garrison,Insight,,33,26,1.2692307692307692,59,7,,Win,47
+201,795,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Hardpoint,Garrison,CleanX,,26,36,0.7222222222222222,62,-10,,Win,73
+201,795,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Hardpoint,Garrison,Octane,,33,30,1.1,63,3,,Loss,69
+201,795,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Hardpoint,Garrison,Prestinni,,24,27,0.8888888888888888,51,-3,,Loss,72
+201,795,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Hardpoint,Garrison,Classic,,26,37,0.7027027027027027,63,-11,,Loss,68
+201,795,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Hardpoint,Garrison,Gunless,,35,28,1.25,63,7,,Loss,56
+201,796,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Search and Destroy,Standoff,Cammy,2015,7,2,3.5,9,5,1485,Win,,,,,,,2,0,0,1,1,212.14
+201,796,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Search and Destroy,Standoff,Bance,515,4,4,1,8,0,810,Win,,,,,,,1,1,1,0,0.57,115.71
+201,796,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Search and Destroy,Standoff,Insight,1550,7,2,3.5,9,5,1368,Win,,,,,,,1,0,1,0,1,195.43
+201,796,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Search and Destroy,Standoff,CleanX,850,9,3,3,12,6,1237,Win,,,,,,,1,1,0,0,1.29,176.71
+201,796,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Search and Destroy,Standoff,Octane,1075,6,6,1,12,0,1389,Loss,,,,,,,1,2,0,1,0.86,198.43
+201,796,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Search and Destroy,Standoff,Prestinni,165,3,7,0.42857142857142855,10,-4,563,Loss,,,,,,,1,2,0,0,0.43,80.43
+201,796,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Search and Destroy,Standoff,Classic,115,0,7,0,7,-7,305,Loss,,,,,,,0,0,1,0,0,43.57
+201,796,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Search and Destroy,Standoff,Gunless,165,2,7,0.2857142857142857,9,-5,889,Loss,,,,,,,0,1,0,0,0.29,127
+201,797,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Control,Garrison,Cammy,3025,22,10,2.2,32,12,3372,Win,,,,,,,,,,,,,3,10,6,12,11,1124
+201,797,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Control,Garrison,Bance,2000,11,9,1.2222222222222223,20,2,2469,Win,,,,,,,,,,,,,5,6,1,5,3,823
+201,797,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Control,Garrison,Insight,1640,9,11,0.8181818181818182,20,-2,2240,Win,,,,,,,,,,,,,4,4,2,5,2,746.67
+201,797,Stage 5 Week 2,Toronto Ultra,Seattle Surge,Control,Garrison,CleanX,1340,15,15,1,30,0,2881,Win,,,,,,,,,,,,,3,5,3,10,7,960.33
+201,797,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Control,Garrison,Octane,1675,14,13,1.0769230769230769,27,1,2802,Loss,,,,,,,,,,,,,0,7,5,7,4,934
+201,797,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Control,Garrison,Prestinni,800,11,13,0.8461538461538461,24,-2,2109,Loss,,,,,,,,,,,,,0,4,2,7,4,703
+201,797,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Control,Garrison,Classic,1275,13,14,0.9285714285714286,27,-1,2987,Loss,,,,,,,,,,,,,0,6,3,7,6,995.67
+201,797,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Control,Garrison,Gunless,600,7,17,0.4117647058823529,24,-10,1688,Loss,,,,,,,,,,,,,0,3,1,4,2,562.67
