@@ -6319,3 +6319,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 199,790,Stage 5 Week 2,London Royal Ravens,New York Subliners,Search and Destroy,Moscow,Afro,1875,11,3,3.6666666666666665,14,8,1771,Win,,,,,,,4,0,0,0,1.57,253
 199,790,Stage 5 Week 2,London Royal Ravens,New York Subliners,Search and Destroy,Moscow,Seany,190,2,3,0.6666666666666666,5,-1,696,Win,,,,,,,1,1,0,0,0.29,99.43
 199,790,Stage 5 Week 2,London Royal Ravens,New York Subliners,Search and Destroy,Moscow,Alexx,5460,11,3,3.6666666666666665,14,8,1383,Win,,,,,,,0,1,0,0,1.57,197.57
+200,791,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Garrison,Owakening,2005,20,19,1.0526315789473684,39,1,3690,Win,90,0,27,28,35,0
+200,791,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Garrison,Skyz,2065,23,15,1.5333333333333334,38,8,4378,Win,51,3,20,15,10,3
+200,791,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Garrison,Havok,5860,22,16,1.375,38,6,3979,Win,64,13,4,45,0,2
+200,791,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Garrison,Neptune,2835,25,15,1.6666666666666667,40,10,4205,Win,60,3,17,7,12,21
+200,791,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Garrison,MentaL,1470,17,21,0.8095238095238095,38,-4,2433,Loss,28,12,16,0,0,0
+200,791,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Garrison,Assault,2320,16,23,0.6956521739130435,39,-7,4766,Loss,56,0,1,0,23,32
+200,791,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Garrison,Silly,1370,12,24,0.5,36,-12,2978,Loss,31,24,6,1,0,0
+200,791,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Garrison,Apathy,1670,20,22,0.9090909090909091,42,-2,3961,Loss,30,9,10,1,10,0
+200,792,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Moscow,Owakening,1395,8,6,1.3333333333333333,14,2,1756,Loss,,,,,,,1,2,0,1,0.8,175.6
+200,792,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Moscow,Skyz,800,9,9,1,18,0,1574,Loss,,,,,,,1,0,0,0,0.9,157.4
+200,792,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Moscow,Havok,250,4,9,0.4444444444444444,13,-5,818,Loss,,,,,,,2,1,0,0,0.4,81.8
+200,792,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Search and Destroy,Moscow,Neptune,665,3,7,0.42857142857142855,10,-4,653,Loss,,,,,,,0,3,2,0,0.3,65.3
+200,792,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Moscow,MentaL,975,9,7,1.2857142857142858,16,2,1422,Win,,,,,,,0,1,1,0,0.9,142.2
+200,792,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Moscow,Assault,1000,6,6,1,12,0,1750,Win,,,,,,,1,1,0,0,0.6,175
+200,792,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Moscow,Silly,625,7,6,1.1666666666666667,13,1,1145,Win,,,,,,,1,1,1,0,0.7,114.5
+200,792,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Search and Destroy,Moscow,Apathy,1450,8,5,1.6,13,3,1369,Win,,,,,,,4,1,2,1,0.8,136.9
+200,793,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Control,Garrison,Owakening,2375,14,9,1.5555555555555556,23,5,2339,Win,,,,,,,,,,,,,4,3,2,11,4,779.67
+200,793,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Control,Garrison,Skyz,2875,14,5,2.8,19,9,2492,Win,,,,,,,,,,,,,5,4,3,10,3,830.67
+200,793,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Control,Garrison,Havok,2050,10,7,1.4285714285714286,17,3,1993,Win,,,,,,,,,,,,,4,3,0,7,6,664.33
+200,793,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Control,Garrison,Neptune,1515,10,8,1.25,18,2,2061,Win,,,,,,,,,,,,,4,2,1,8,5,687
+200,793,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Control,Garrison,MentaL,1100,6,13,0.46153846153846156,19,-7,1336,Loss,,,,,,,,,,,,,3,4,3,2,2,445.33
+200,793,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Control,Garrison,Assault,1000,7,14,0.5,21,-7,1215,Loss,,,,,,,,,,,,,3,5,2,2,1,405
+200,793,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Control,Garrison,Silly,975,6,11,0.5454545454545454,17,-5,2059,Loss,,,,,,,,,,,,,2,5,3,1,1,686.33
+200,793,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Control,Garrison,Apathy,2175,10,10,1,20,0,2425,Loss,,,,,,,,,,,,,5,9,6,1,0,808.33
+200,794,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Moscow,Owakening,1955,20,22,0.9090909090909091,42,-2,4738,Win,83,26,15,25,17
+200,794,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Moscow,Skyz,3600,32,14,2.2857142857142856,46,18,5086,Win,71,9,31,11,20
+200,794,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Moscow,Havok,1955,22,23,0.9565217391304348,45,-1,4314,Win,67,1,56,0,10
+200,794,Stage 5 Week 2,Florida Mutineers,Los Angeles Guerrillas,Hardpoint,Moscow,Neptune,2750,19,18,1.0555555555555556,37,1,3277,Win,91,18,23,26,24
+200,794,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,MentaL,1190,14,22,0.6363636363636364,36,-8,3447,Loss,42,28,5,0,9
+200,794,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Assault,1785,20,25,0.8,45,-5,4076,Loss,81,17,0,33,31
+200,794,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Silly,2210,22,24,0.9166666666666666,46,-2,4462,Loss,127,43,16,32,36
+200,794,Stage 5 Week 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Apathy,1900,21,22,0.9545454545454546,43,-1,4545,Loss,37,13,11,0,13
