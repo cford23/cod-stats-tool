@@ -57,7 +57,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 2,7,Stage 1 Week 1,Seattle Surge,Dallas Empire,Control,Garrison,Gunless,1315,19,19,1,38,0,3288,Loss,,,,,,,,,,,,,0,5,2,14,13,822
 3,8,Stage 1 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Raid,Skrapz,1305,13,21,0.6190476190476191,34,-8,2587,Loss,31,10,7,0,14,0
 3,8,Stage 1 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Raid,Classic,985,13,21,0.6190476190476191,34,-8,2973,Loss,10,0,0,4,0,6
-3,8,Stage 1 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Raid,Aqua,1270,14,19,0.7368421052631579,33,-5,2668,Loss,62,15,0,4,38,5
+3,8,Stage 1 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Raid,AquA,1270,14,19,0.7368421052631579,33,-5,2668,Loss,62,15,0,4,38,5
 3,8,Stage 1 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Raid,Fire,1050,12,19,0.631578947368421,31,-7,2982,Loss,32,31,0,1,0,0
 3,8,Stage 1 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Raid,FORMAL,3790,18,9,2,27,9,3060,Win,141,34,73,18,0,16
 3,8,Stage 1 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Raid,Dashy,1600,19,13,1.4615384615384615,32,6,3059,Win,69,8,6,42,13,0
@@ -65,7 +65,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 3,8,Stage 1 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Raid,Scump,2435,20,14,1.4285714285714286,34,6,3756,Win,101,13,57,0,2,29
 3,9,Stage 1 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Checkmate,Skrapz,430,5,8,0.625,13,-3,1133,Loss,,,,,,,0,1,0,0,0.56,112.56
 3,9,Stage 1 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Checkmate,Classic,1775,9,8,1.125,17,1,1613,Loss,,,,,,,1,3,2,0,0.89,162.56
-3,9,Stage 1 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Checkmate,Aqua,480,5,7,0.7142857142857143,12,-2,1379,Loss,,,,,,,0,1,0,1,0.44,136.44
+3,9,Stage 1 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Checkmate,AquA,480,5,7,0.7142857142857143,12,-2,1379,Loss,,,,,,,0,1,0,1,0.44,136.44
 3,9,Stage 1 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Checkmate,Fire,305,3,8,0.375,11,-5,1485,Loss,,,,,,,1,3,0,0,0.33,158.33
 3,9,Stage 1 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Checkmate,FORMAL,1600,11,6,1.8333333333333333,17,5,1883,Win,,,,,,,0,1,0,0,1.11,203.11
 3,9,Stage 1 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Checkmate,Dashy,815,7,5,1.4,12,2,1145,Win,,,,,,,4,0,0,1,0.67,101.22
@@ -73,7 +73,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 3,9,Stage 1 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Checkmate,Scump,650,5,7,0.7142857142857143,12,-2,1535,Win,,,,,,,3,1,1,0,0.56,131
 3,10,Stage 1 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Skrapz,3725,27,22,1.2272727272727273,49,5,5235,Loss,,,,,,,,,,,,,5,11,4,16,8,1166.75
 3,10,Stage 1 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Classic,3750,23,29,0.7931034482758621,52,-6,4334,Loss,,,,,,,,,,,,,8,12,4,11,4,894
-3,10,Stage 1 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Aqua,3625,26,19,1.368421052631579,45,7,5040,Loss,,,,,,,,,,,,,8,9,7,17,8,1200.5
+3,10,Stage 1 Week 1,Paris Legion,OpTic Chicago,Control,Raid,AquA,3625,26,19,1.368421052631579,45,7,5040,Loss,,,,,,,,,,,,,8,9,7,17,8,1200.5
 3,10,Stage 1 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Fire,3800,22,25,0.88,47,-3,4812,Loss,,,,,,,,,,,,,9,12,9,10,2,1063
 3,10,Stage 1 Week 1,OpTic Chicago,Paris Legion,Control,Raid,FORMAL,4425,18,24,0.75,42,-6,4860,Win,,,,,,,,,,,,,13,13,7,5,0,1048.5
 3,10,Stage 1 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Dashy,5425,29,23,1.2608695652173914,52,6,4883,Win,,,,,,,,,,,,,12,18,7,11,6,1004.75
@@ -109,7 +109,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 5,14,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Crossroads,Apathy,8350,36,27,1.3333333333333333,63,9,6220,Win,71,18,37,16,0
 5,14,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Crossroads,Skrapz,2805,25,34,0.7352941176470589,59,-9,5716,Loss,37,16,3,18,0
 5,14,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Crossroads,Classic,2420,27,32,0.84375,59,-5,5030,Loss,33,7,0,2,24
-5,14,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Crossroads,Aqua,3330,30,25,1.2,55,5,5039,Loss,45,10,10,21,4
+5,14,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Crossroads,AquA,3330,30,25,1.2,55,5,5039,Loss,45,10,10,21,4
 5,14,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Crossroads,Fire,2730,29,30,0.9666666666666667,59,-1,5413,Loss,118,31,33,54,0
 5,15,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Miami,Vivid,2025,10,4,2.5,14,6,1713,Win,,,,,,,2,1,0,0,1.25,214.13
 5,15,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Miami,Assault,775,6,3,2,9,3,1165,Win,,,,,,,0,0,1,1,0.75,145.63
@@ -117,7 +117,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 5,15,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Miami,Apathy,500,6,6,1,12,0,1082,Win,,,,,,,2,2,1,0,0.75,135.25
 5,15,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Miami,Skrapz,300,4,7,0.5714285714285714,11,-3,929,Loss,,,,,,,2,1,0,0,0.5,116.13
 5,15,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Miami,Classic,50,1,7,0.14285714285714285,8,-6,442,Loss,,,,,,,0,3,0,0,0.13,55.25
-5,15,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Miami,Aqua,350,5,5,1,10,0,1166,Loss,,,,,,,1,1,0,0,0.63,145.75
+5,15,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Miami,AquA,350,5,5,1,10,0,1166,Loss,,,,,,,1,1,0,0,0.63,145.75
 5,15,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Miami,Fire,425,6,6,1,12,0,1339,Loss,,,,,,,0,0,1,0,0.75,167.38
 5,16,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Checkmate,Vivid,1265,14,28,0.5,42,-14,3618,Loss,,,,,,,,,,,,,1,6,5,8,6,904.5
 5,16,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Checkmate,Assault,4740,25,17,1.4705882352941178,42,8,4841,Loss,,,,,,,,,,,,,4,9,5,16,9,1210.25
@@ -125,7 +125,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 5,16,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Checkmate,Apathy,1840,19,26,0.7307692307692307,45,-7,3232,Loss,,,,,,,,,,,,,2,10,9,9,7,808
 5,16,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Checkmate,Skrapz,3400,32,18,1.7777777777777777,50,14,5718,Win,,,,,,,,,,,,,2,14,7,18,10,1429.5
 5,16,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Checkmate,Classic,2365,24,23,1.0434782608695652,47,1,4696,Win,,,,,,,,,,,,,3,8,4,16,13,1174
-5,16,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Checkmate,Aqua,1725,17,18,0.9444444444444444,35,-1,3607,Win,,,,,,,,,,,,,2,6,2,11,5,901.75
+5,16,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Checkmate,AquA,1725,17,18,0.9444444444444444,35,-1,3607,Win,,,,,,,,,,,,,2,6,2,11,5,901.75
 5,16,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Checkmate,Fire,2425,21,24,0.875,45,-3,3462,Win,,,,,,,,,,,,,3,11,6,10,3,865.5
 5,17,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Garrison,Vivid,3345,31,32,0.96875,63,-1,5630,Loss,49,2,29,1,0,17
 5,17,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Garrison,Assault,1880,25,27,0.9259259259259259,52,-2,4363,Loss,34,0,20,7,7,0
@@ -133,7 +133,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 5,17,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Garrison,Apathy,1635,17,29,0.5862068965517241,46,-12,3646,Loss,70,20,2,1,34,13
 5,17,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Garrison,Skrapz,2350,20,27,0.7407407407407407,47,-7,4479,Win,76,35,0,4,0,37
 5,17,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Garrison,Classic,2090,28,23,1.2173913043478262,51,5,4746,Win,61,18,7,29,7,0
-5,17,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Garrison,Aqua,2710,35,21,1.6666666666666667,56,14,5330,Win,61,22,4,20,15,0
+5,17,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Garrison,AquA,2710,35,21,1.6666666666666667,56,14,5330,Win,61,22,4,20,15,0
 5,17,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Garrison,Fire,5190,33,23,1.434782608695652,56,10,5871,Win,85,22,15,24,6,18
 5,18,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Raid,Vivid,690,9,7,1.2857142857142858,16,2,2070,Win,,,,,,,2,0,0,0,0.9,207
 5,18,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Raid,Assault,325,3,5,0.6,8,-2,488,Win,,,,,,,0,3,1,0,0.3,48.8
@@ -141,7 +141,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 5,18,Stage 1 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Raid,Apathy,750,7,6,1.1666666666666667,13,1,1667,Win,,,,,,,1,1,2,0,0.7,166.7
 5,18,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Raid,Skrapz,725,8,6,1.3333333333333333,14,2,1366,Loss,,,,,,,1,3,0,0,0.8,136.6
 5,18,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Raid,Classic,450,7,9,0.7777777777777778,16,-2,1722,Loss,,,,,,,3,1,1,0,0.7,172.2
-5,18,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Raid,Aqua,325,3,8,0.375,11,-5,1322,Loss,,,,,,,1,1,0,0,0.3,132.2
+5,18,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Raid,AquA,325,3,8,0.375,11,-5,1322,Loss,,,,,,,1,1,0,0,0.3,132.2
 5,18,Stage 1 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Raid,Fire,1000,8,6,1.3333333333333333,14,2,1968,Loss,,,,,,,0,0,1,1,0.8,196.8
 6,19,Stage 1 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Garrison,Cammy,2955,31,22,1.4090909090909092,53,9,5686,Win,76,29,12,0,18,17
 6,19,Stage 1 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Garrison,Bance,2315,24,22,1.0909090909090908,46,2,4676,Win,69,8,24,17,5,15
@@ -389,7 +389,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 13,49,Super Week,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Neptune,3900,33,30,1.1,63,3,6124,Loss,58,31,25,0,0,2
 13,49,Super Week,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Skrapz,3460,31,24,1.2916666666666667,55,7,5621,Win,46,3,6,23,10,4
 13,49,Super Week,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Classic,2260,26,31,0.8387096774193549,57,-5,5405,Win,73,3,9,38,8,15
-13,49,Super Week,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Aqua,3655,38,26,1.4615384615384615,64,12,6794,Win,45,0,4,13,28,0
+13,49,Super Week,Paris Legion,Florida Mutineers,Hardpoint,Garrison,AquA,3655,38,26,1.4615384615384615,64,12,6794,Win,45,0,4,13,28,0
 13,49,Super Week,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Fire,1780,19,28,0.6785714285714286,47,-9,3299,Win,79,17,3,25,15,19
 13,50,Super Week,Florida Mutineers,Paris Legion,Search and Destroy,Checkmate,Owakening,1425,11,5,2.2,16,6,2478,Loss,,,,,,,3,0,0,0,1.1,247.8
 13,50,Super Week,Florida Mutineers,Paris Legion,Search and Destroy,Checkmate,Skyz,415,5,9,0.5555555555555556,14,-4,1442,Loss,,,,,,,3,0,0,0,0.5,144.2
@@ -397,7 +397,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 13,50,Super Week,Florida Mutineers,Paris Legion,Search and Destroy,Checkmate,Neptune,625,4,7,0.5714285714285714,11,-3,1301,Loss,,,,,,,0,2,0,0,0.4,130.1
 13,50,Super Week,Paris Legion,Florida Mutineers,Search and Destroy,Checkmate,Skrapz,1300,12,7,1.7142857142857142,19,5,2037,Win,,,,,,,0,0,0,0,1.2,203.7
 13,50,Super Week,Paris Legion,Florida Mutineers,Search and Destroy,Checkmate,Classic,550,6,8,0.75,14,-2,1356,Win,,,,,,,2,3,1,1,0.6,135.6
-13,50,Super Week,Paris Legion,Florida Mutineers,Search and Destroy,Checkmate,Aqua,775,7,8,0.875,15,-1,1856,Win,,,,,,,0,3,1,0,0.7,185.6
+13,50,Super Week,Paris Legion,Florida Mutineers,Search and Destroy,Checkmate,AquA,775,7,8,0.875,15,-1,1856,Win,,,,,,,0,3,1,0,0.7,185.6
 13,50,Super Week,Paris Legion,Florida Mutineers,Search and Destroy,Checkmate,Fire,400,3,6,0.5,9,-3,1206,Win,,,,,,,1,1,1,0,0.3,120.6
 13,51,Super Week,Florida Mutineers,Paris Legion,Control,Raid,Owakening,3950,22,25,0.88,47,-3,4436,Loss,,,,,,,,,,,,,3,8,1,14,8,1109
 13,51,Super Week,Florida Mutineers,Paris Legion,Control,Raid,Skyz,1800,17,26,0.6538461538461539,43,-9,3424,Loss,,,,,,,,,,,,,3,9,3,8,5,856
@@ -405,7 +405,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 13,51,Super Week,Florida Mutineers,Paris Legion,Control,Raid,Neptune,2600,22,26,0.8461538461538461,48,-4,4457,Loss,,,,,,,,,,,,,3,10,4,12,10,1114.25
 13,51,Super Week,Paris Legion,Florida Mutineers,Control,Raid,Skrapz,3650,25,20,1.25,45,5,5339,Win,,,,,,,,,,,,,7,13,4,12,1,1334.75
 13,51,Super Week,Paris Legion,Florida Mutineers,Control,Raid,Classic,2840,32,22,1.4545454545454546,54,10,5393,Win,,,,,,,,,,,,,4,17,6,15,10,1348.25
-13,51,Super Week,Paris Legion,Florida Mutineers,Control,Raid,Aqua,3040,24,23,1.0434782608695652,47,1,3567,Win,,,,,,,,,,,,,7,13,6,11,3,891.75
+13,51,Super Week,Paris Legion,Florida Mutineers,Control,Raid,AquA,3040,24,23,1.0434782608695652,47,1,3567,Win,,,,,,,,,,,,,7,13,6,11,3,891.75
 13,51,Super Week,Paris Legion,Florida Mutineers,Control,Raid,Fire,2625,21,20,1.05,41,1,4021,Win,,,,,,,,,,,,,6,9,7,12,13,1005.25
 14,52,Super Week,London Royal Ravens,New York Subliners,Hardpoint,Garrison,Parasite,1575,14,24,0.5833333333333334,38,-10,3551,Loss,62,7,32,7,13,3
 14,52,Super Week,London Royal Ravens,New York Subliners,Hardpoint,Garrison,Dylan,1885,22,33,0.6666666666666666,55,-11,3838,Loss,9,5,0,3,0,1
@@ -693,7 +693,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 23,87,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Raid,CleanX,3210,31,20,1.55,51,11,4557,Loss,106,45,1,9,42,9
 23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,Skrapz,2900,28,22,1.2727272727272727,50,6,4507,Win,85,0,26,36,0,23
 23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,Classic,2490,21,23,0.9130434782608695,44,-2,3802,Win,73,0,16,37,0,20
-23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,Aqua,2325,28,23,1.2173913043478262,51,5,5360,Win,53,0,16,4,0,33
+23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,AquA,2325,28,23,1.2173913043478262,51,5,5360,Win,53,0,16,4,0,33
 23,87,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Raid,Fire,1800,16,21,0.7619047619047619,37,-5,3108,Win,109,0,41,48,16,4
 23,88,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Moscow,Cammy,425,6,4,1.5,10,2,876,Win,,,,,,,2,1,0,0,1,146
 23,88,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Moscow,Bance,625,4,2,2,6,2,895,Win,,,,,,,1,1,1,1,0.67,149.17
@@ -701,7 +701,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 23,88,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Moscow,CleanX,1175,7,2,3.5,9,5,1229,Win,,,,,,,1,0,0,0,1.17,204.83
 23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,Skrapz,325,4,6,0.6666666666666666,10,-2,957,Loss,,,,,,,0,0,0,0,0.67,159.5
 23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,Classic,200,2,6,0.3333333333333333,8,-4,410,Loss,,,,,,,0,2,1,0,0.33,68.33
-23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,Aqua,290,3,5,0.6,8,-2,640,Loss,,,,,,,2,1,0,0,0.5,106.67
+23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,AquA,290,3,5,0.6,8,-2,640,Loss,,,,,,,2,1,0,0,0.5,106.67
 23,88,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Moscow,Fire,250,2,6,0.3333333333333333,8,-4,919,Loss,,,,,,,0,1,1,0,0.33,153.17
 23,89,Super Week,Toronto Ultra,Paris Legion,Control,Raid,Cammy,2175,25,19,1.3157894736842106,44,6,4114,Win,,,,,,,,,,,,,2,7,3,18,9,1371.33
 23,89,Super Week,Toronto Ultra,Paris Legion,Control,Raid,Bance,1900,12,15,0.8,27,-3,2723,Win,,,,,,,,,,,,,3,5,1,7,5,907.67
@@ -709,7 +709,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 23,89,Super Week,Toronto Ultra,Paris Legion,Control,Raid,CleanX,2825,19,17,1.1176470588235294,36,2,4172,Win,,,,,,,,,,,,,5,9,3,10,5,1390.67
 23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,Skrapz,1225,9,20,0.45,29,-11,2873,Loss,,,,,,,,,,,,,3,4,1,5,0,957.67
 23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,Classic,2315,15,20,0.75,35,-5,2410,Loss,,,,,,,,,,,,,6,8,4,7,6,803.33
-23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,Aqua,2950,21,18,1.1666666666666667,39,3,4115,Loss,,,,,,,,,,,,,7,15,3,6,3,1371.67
+23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,AquA,2950,21,18,1.1666666666666667,39,3,4115,Loss,,,,,,,,,,,,,7,15,3,6,3,1371.67
 23,89,Super Week,Paris Legion,Toronto Ultra,Control,Raid,Fire,2525,19,18,1.0555555555555556,37,1,3639,Loss,,,,,,,,,,,,,4,10,6,9,8,1213
 23,90,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Garrison,Cammy,2100,24,25,0.96,49,-1,4875,Loss,55,26,10,12,0,7
 23,90,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Garrison,Bance,2355,26,27,0.9629629629629629,53,-1,4527,Loss,48,0,13,13,20,2
@@ -717,7 +717,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 23,90,Super Week,Toronto Ultra,Paris Legion,Hardpoint,Garrison,CleanX,2180,25,30,0.8333333333333334,55,-5,4801,Loss,71,3,3,58,0,7
 23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Skrapz,2750,26,22,1.1818181818181819,48,4,4771,Win,77,27,12,0,22,16
 23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Classic,2225,28,25,1.12,53,3,5039,Win,55,12,19,7,17,0
-23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Aqua,4110,27,21,1.2857142857142858,48,6,5184,Win,110,61,13,0,1,35
+23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,AquA,4110,27,21,1.2857142857142858,48,6,5184,Win,110,61,13,0,1,35
 23,90,Super Week,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Fire,2785,27,29,0.9310344827586207,56,-2,5071,Win,54,13,21,0,0,20
 23,91,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Miami,Cammy,500,6,7,0.8571428571428571,13,-1,1528,Loss,,,,,,,2,1,0,0,0.67,169.78
 23,91,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Miami,Bance,825,7,6,1.1666666666666667,13,1,1509,Loss,,,,,,,0,2,2,0,0.78,167.67
@@ -725,7 +725,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 23,91,Super Week,Toronto Ultra,Paris Legion,Search and Destroy,Miami,CleanX,250,1,7,0.14285714285714285,8,-6,458,Loss,,,,,,,0,2,0,0,0.11,50.89
 23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Skrapz,1050,10,4,2.5,14,6,1788,Win,,,,,,,1,0,1,0,1.11,198.67
 23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Classic,625,4,5,0.8,9,-1,953,Win,,,,,,,3,2,2,0,0.44,105.89
-23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Aqua,825,9,3,3,12,6,1250,Win,,,,,,,2,0,0,0,1,138.89
+23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,AquA,825,9,3,3,12,6,1250,Win,,,,,,,2,0,0,0,1,138.89
 23,91,Super Week,Paris Legion,Toronto Ultra,Search and Destroy,Miami,Fire,475,4,5,0.8,9,-1,1341,Win,,,,,,,0,1,0,1,0.44,149
 24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,Shotzzy,2205,20,27,0.7407407407407407,47,-7,3813,Loss,76,24,29,4,19,0
 24,92,Super Week,Dallas Empire,New York Subliners,Hardpoint,Checkmate,C6,1990,23,28,0.8214285714285714,51,-5,4812,Loss,0,0,0,0,0,0
@@ -773,7 +773,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,97,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Checkmate,Simp,,16,28,0.5714285714285714,44,-12,,Loss
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Skrapz,2865,30,24,1.25,54,6,4897,Win,52,21,11,0,20,0
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Classic,3965,30,26,1.1538461538461537,56,4,5436,Win,130,2,71,17,1,39
-25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Aqua,2305,22,25,0.88,47,-3,4730,Win,53,4,2,23,6,18
+25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,AquA,2305,22,25,0.88,47,-3,4730,Win,53,4,2,23,6,18
 25,97,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Checkmate,Fire,2640,28,26,1.0769230769230769,54,2,5747,Win,47,21,15,6,0,5
 25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Arcitys,650,8,6,1.3333333333333333,14,2,1764,Win,,,,,,,1,2,0,0,0.73,160.36
 25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Cellium,1015,8,7,1.1428571428571428,15,1,2072,Win,,,,,,,1,0,0,1,0.73,188.36
@@ -781,7 +781,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,98,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Checkmate,Simp,800,9,8,1.125,17,1,1430,Win,,,,,,,1,4,1,0,0.82,130
 25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Skrapz,1225,8,7,1.1428571428571428,15,1,1285,Loss,,,,,,,1,0,0,0,0.73,116.82
 25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Classic,475,5,10,0.5,15,-5,1147,Loss,,,,,,,2,1,0,0,0.45,104.27
-25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Aqua,1055,10,8,1.25,18,2,1724,Loss,,,,,,,3,2,1,1,0.91,156.73
+25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,AquA,1055,10,8,1.25,18,2,1724,Loss,,,,,,,3,2,1,1,0.91,156.73
 25,98,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Checkmate,Fire,775,6,9,0.6666666666666666,15,-3,1728,Loss,,,,,,,2,0,1,0,0.55,157.09
 25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Arcitys,2265,16,24,0.6666666666666666,40,-8,3678,Loss,,,,,,,,,,,,,3,8,3,8,4,919.5
 25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Cellium,3200,27,24,1.125,51,3,5554,Loss,,,,,,,,,,,,,4,11,5,16,8,1388.5
@@ -789,7 +789,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,99,Super Week,Atlanta FaZe,Paris Legion,Control,Garrison,Simp,3850,28,25,1.12,53,3,4925,Loss,,,,,,,,,,,,,6,17,12,11,6,1231.25
 25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Skrapz,2340,24,25,0.96,49,-1,4943,Win,,,,,,,,,,,,,5,9,4,15,10,1235.75
 25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Classic,3300,24,22,1.0909090909090908,46,2,4837,Win,,,,,,,,,,,,,7,14,6,10,4,1209.25
-25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Aqua,3150,28,21,1.3333333333333333,49,7,5014,Win,,,,,,,,,,,,,6,11,6,17,10,1253.5
+25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,AquA,3150,28,21,1.3333333333333333,49,7,5014,Win,,,,,,,,,,,,,6,11,6,17,10,1253.5
 25,99,Super Week,Paris Legion,Atlanta FaZe,Control,Garrison,Fire,4575,22,15,1.4666666666666666,37,7,4497,Win,,,,,,,,,,,,,8,13,8,9,9,1124.25
 25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Arcitys,2315,16,14,1.1428571428571428,30,2,3440,Win,126,82,2,42,0,0
 25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Cellium,2255,19,21,0.9047619047619048,40,-2,3392,Win,3,0,2,1,0,0
@@ -797,7 +797,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,100,Super Week,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Simp,1140,12,21,0.5714285714285714,33,-9,3258,Win,49,0,1,0,24,24
 25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Skrapz,1995,16,22,0.7272727272727273,38,-6,3633,Loss,56,15,41,0,0,0
 25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Classic,2130,21,19,1.105263157894737,40,2,3352,Loss,30,3,6,5,12,4
-25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Aqua,1565,15,19,0.7894736842105263,34,-4,2977,Loss,104,0,37,9,29,29
+25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,AquA,1565,15,19,0.7894736842105263,34,-4,2977,Loss,104,0,37,9,29,29
 25,100,Super Week,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Fire,1745,17,19,0.8947368421052632,36,-2,3153,Loss,98,0,20,57,21,0
 25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Arcitys,550,7,7,1,14,0,1381,Win,,,,,,,0,2,0,0,0.7,138.1
 25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Cellium,900,7,6,1.1666666666666667,13,1,1755,Win,,,,,,,0,1,0,1,0.7,175.5
@@ -805,7 +805,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 25,101,Super Week,Atlanta FaZe,Paris Legion,Search and Destroy,Raid,Simp,475,4,10,0.4,14,-6,1003,Win,,,,,,,1,4,2,0,0.4,100.3
 25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Skrapz,475,6,8,0.75,14,-2,1089,Loss,,,,,,,2,1,0,0,0.6,108.9
 25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Classic,1915,11,6,1.8333333333333333,17,5,1945,Loss,,,,,,,3,1,4,0,1.1,194.5
-25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Aqua,475,5,7,0.7142857142857143,12,-2,1066,Loss,,,,,,,1,0,0,0,0.5,106.6
+25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,AquA,475,5,7,0.7142857142857143,12,-2,1066,Loss,,,,,,,1,0,0,0,0.5,106.6
 25,101,Super Week,Paris Legion,Atlanta FaZe,Search and Destroy,Raid,Fire,695,7,6,1.1666666666666667,13,1,1591,Loss,,,,,,,2,0,0,0,0.7,159.1
 26,102,Super Week,Minnesota ROKKR,London Royal Ravens,Hardpoint,Raid,Accuracy,2145,22,17,1.2941176470588236,39,5,3630,Win,69,0,5,34,21,9
 26,102,Super Week,Minnesota ROKKR,London Royal Ravens,Hardpoint,Raid,Attach,3035,21,16,1.3125,37,5,3427,Win,100,13,19,21,4,43
@@ -1085,7 +1085,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 35,136,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Neptune,1595,17,20,0.85,37,-3,3041,Loss,39,1,7,13,0,18
 35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Skrapz,1895,18,15,1.2,33,3,3806,Win,67,8,5,2,52,0
 35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Classic,2490,21,14,1.5,35,7,3680,Win,83,19,39,17,0,8
-35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Aqua,1650,20,16,1.25,36,4,3374,Win,14,5,5,4,0,0
+35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,AquA,1650,20,16,1.25,36,4,3374,Win,14,5,5,4,0,0
 35,136,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Fire,3460,28,15,1.8666666666666667,43,13,4379,Win,102,47,22,7,26,0
 35,137,Major 1,Florida Mutineers,Paris Legion,Search and Destroy,Miami,Owakening,550,8,8,1,16,0,1693,Win,,,,,,,2,1,0,0,0.8,169.3
 35,137,Major 1,Florida Mutineers,Paris Legion,Search and Destroy,Miami,Skyz,795,9,9,1,18,0,1688,Win,,,,,,,1,3,0,0,0.9,168.8
@@ -1093,7 +1093,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 35,137,Major 1,Florida Mutineers,Paris Legion,Search and Destroy,Miami,Neptune,450,4,7,0.5714285714285714,11,-3,688,Win,,,,,,,0,3,2,0,0.4,68.8
 35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,Skrapz,1400,10,6,1.6666666666666667,16,4,2167,Loss,,,,,,,0,0,0,0,1,216.7
 35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,Classic,725,6,9,0.6666666666666666,15,-3,1374,Loss,,,,,,,3,1,3,0,0.6,137.4
-35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,Aqua,490,6,8,0.75,14,-2,1146,Loss,,,,,,,2,1,0,0,0.6,114.6
+35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,AquA,490,6,8,0.75,14,-2,1146,Loss,,,,,,,2,1,0,0,0.6,114.6
 35,137,Major 1,Paris Legion,Florida Mutineers,Search and Destroy,Miami,Fire,930,8,7,1.1428571428571428,15,1,1989,Loss,,,,,,,2,1,0,0,0.8,198.9
 35,138,Major 1,Florida Mutineers,Paris Legion,Control,Checkmate,Owakening,2865,24,28,0.8571428571428571,52,-4,5414,Win,,,,,,,,,,,,,5,16,13,8,3,1082.8
 35,138,Major 1,Florida Mutineers,Paris Legion,Control,Checkmate,Skyz,2705,23,23,1,46,0,4571,Win,,,,,,,,,,,,,3,13,8,10,7,914.2
@@ -1101,7 +1101,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 35,138,Major 1,Florida Mutineers,Paris Legion,Control,Checkmate,Neptune,3565,25,26,0.9615384615384616,51,-1,3861,Win,,,,,,,,,,,,,5,9,7,16,15,772.2
 35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,Skrapz,3580,28,21,1.3333333333333333,49,7,4355,Loss,,,,,,,,,,,,,5,11,6,17,18,871
 35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,Classic,2625,23,27,0.8518518518518519,50,-4,3913,Loss,,,,,,,,,,,,,5,9,7,14,15,1010.2
-35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,Aqua,3125,24,23,1.0434782608695652,47,1,5051,Loss,,,,,,,,,,,,,1,12,8,12,6,1010.2
+35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,AquA,3125,24,23,1.0434782608695652,47,1,5051,Loss,,,,,,,,,,,,,1,12,8,12,6,1010.2
 35,138,Major 1,Paris Legion,Florida Mutineers,Control,Checkmate,Fire,2865,24,26,0.9230769230769231,50,-2,4402,Loss,,,,,,,,,,,,,4,5,2,19,15,880.4
 35,139,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Raid,Owakening,2300,27,21,1.2857142857142858,48,6,5142,Win,47,21,0,19,3,4
 35,139,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Raid,Skyz,3585,22,16,1.375,38,6,3976,Win,163,3,9,42,96,13
@@ -1109,7 +1109,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 35,139,Major 1,Florida Mutineers,Paris Legion,Hardpoint,Raid,Neptune,2495,21,21,1,42,0,3927,Win,97,15,4,40,3,35
 35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,Skrapz,1675,16,26,0.6153846153846154,42,-10,3904,Loss,44,0,35,9,0,0
 35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,Classic,1540,16,24,0.6666666666666666,40,-8,3382,Loss,90,8,43,29,6,4
-35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,Aqua,1880,20,24,0.8333333333333334,44,-4,3374,Loss,94,18,24,3,1,48
+35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,AquA,1880,20,24,0.8333333333333334,44,-4,3374,Loss,94,18,24,3,1,48
 35,139,Major 1,Paris Legion,Florida Mutineers,Hardpoint,Raid,Fire,2520,27,19,1.4210526315789473,46,8,4435,Loss,103,31,19,4,23,26
 36,140,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Moscow,Accuracy,2830,26,28,0.9285714285714286,54,-2,4741,Loss,78,24,14,25,15
 36,140,Major 1,Minnesota ROKKR,Toronto Ultra,Hardpoint,Moscow,Attach,2495,25,28,0.8928571428571429,53,-3,4823,Loss,60,23,6,23,8
@@ -1581,7 +1581,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 50,198,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Hardpoint,Raid,Priestahh,1910,16,19,0.8421052631578947,35,-3,3471,Loss,70,57,13,0,0,0
 50,198,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Raid,Skrapz,1735,18,21,0.8571428571428571,39,-3,3782,Win,51,0,13,2,35,1
 50,198,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Raid,Classic,2695,15,17,0.8823529411764706,32,-2,2255,Win,139,3,19,13,57,47
-50,198,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Raid,Aqua,2365,17,14,1.2142857142857142,31,3,3144,Win,137,15,44,0,77,1
+50,198,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Raid,AquA,2365,17,14,1.2142857142857142,31,3,3144,Win,137,15,44,0,77,1
 50,198,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Raid,Fire,2070,14,17,0.8235294117647058,31,-3,3150,Win,83,0,37,0,46,0
 50,199,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Search and Destroy,Miami,Accuracy,650,7,7,1,14,0,1868,Loss,,,,,,,1,2,0,0,0.64,169.82
 50,199,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Search and Destroy,Miami,Attach,675,8,9,0.8888888888888888,17,-1,1826,Loss,,,,,,,1,1,0,0,0.73,166
@@ -1589,7 +1589,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 50,199,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Search and Destroy,Miami,Priestahh,615,4,8,0.5,12,-4,1174,Loss,,,,,,,2,3,1,1,0.36,106.73
 50,199,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,Skrapz,475,3,5,0.6,8,-2,901,Win,,,,,,,2,2,0,0,0.27,81.91
 50,199,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,Classic,675,7,8,0.875,15,-1,1434,Win,,,,,,,1,1,1,0,0.64,130.36
-50,199,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,Aqua,1915,12,5,2.4,17,7,2589,Win,,,,,,,2,0,2,0,1.09,235.36
+50,199,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,AquA,1915,12,5,2.4,17,7,2589,Win,,,,,,,2,0,2,0,1.09,235.36
 50,199,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,Fire,895,10,7,1.4285714285714286,17,3,1711,Win,,,,,,,2,1,0,0,0.91,155.55
 50,200,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Control,Raid,Accuracy,900,12,16,0.75,28,-4,2349,Loss,,,,,,,,,,,,,0,1,1,11,4,783
 50,200,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Control,Raid,Attach,1055,10,16,0.625,26,-6,2024,Loss,,,,,,,,,,,,,0,4,4,6,4,674.67
@@ -1597,7 +1597,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 50,200,Stage 2 Week 1,Minnesota ROKKR,Paris Legion,Control,Raid,Priestahh,775,10,17,0.5882352941176471,27,-7,2234,Loss,,,,,,,,,,,,,0,1,0,9,6,744.67
 50,200,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Skrapz,2680,17,10,1.7,27,7,2434,Win,,,,,,,,,,,,,7,13,4,4,0,811.33
 50,200,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Classic,2565,13,10,1.3,23,3,2160,Win,,,,,,,,,,,,,7,9,4,4,4,720
-50,200,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Aqua,3275,16,10,1.6,26,6,3493,Win,,,,,,,,,,,,,7,9,5,7,6,1164.33
+50,200,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,AquA,3275,16,10,1.6,26,6,3493,Win,,,,,,,,,,,,,7,9,5,7,6,1164.33
 50,200,Stage 2 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Fire,2940,19,13,1.4615384615384615,32,6,3040,Win,,,,,,,,,,,,,8,12,4,7,3,1013.33
 51,201,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Checkmate,FORMAL,2980,23,16,1.4375,39,7,4774,Win,82,0,0,35,10,37
 51,201,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Checkmate,Dashy,2555,20,18,1.1111111111111112,38,2,4043,Win,154,54,7,0,74,19
@@ -1605,7 +1605,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 51,201,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Checkmate,Scump,1435,16,23,0.6956521739130435,39,-7,3714,Win,51,47,0,4,0,0
 51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,Skrapz,1660,19,25,0.76,44,-6,4494,Loss,14,2,6,6,0,0
 51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,Classic,1565,20,22,0.9090909090909091,42,-2,3566,Loss,40,0,14,12,11,3
-51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,Aqua,3365,24,22,1.0909090909090908,46,2,4614,Loss,50,6,29,0,15,0
+51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,AquA,3365,24,22,1.0909090909090908,46,2,4614,Loss,50,6,29,0,15,0
 51,201,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Checkmate,Fire,1675,11,20,0.55,31,-9,2632,Loss,107,4,56,34,13,0
 51,202,Stage 2 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Express,FORMAL,500,5,7,0.7142857142857143,12,-2,1355,Loss,,,,,,,1,0,0,0,0.5,135.5
 51,202,Stage 2 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Express,Dashy,840,9,7,1.2857142857142858,16,2,1776,Loss,,,,,,,0,2,0,1,0.9,177.6
@@ -1613,7 +1613,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 51,202,Stage 2 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Express,Scump,490,6,8,0.75,14,-2,773,Loss,,,,,,,1,0,0,0,0.6,77.3
 51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,Skrapz,265,4,5,0.8,9,-1,1159,Win,,,,,,,1,1,0,0,0.4,115.9
 51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,Classic,1550,10,6,1.6666666666666667,16,4,1701,Win,,,,,,,3,0,2,0,1,170.1
-51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,Aqua,650,6,6,1,12,0,2049,Win,,,,,,,0,1,0,1,0.6,204.9
+51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,AquA,650,6,6,1,12,0,2049,Win,,,,,,,0,1,0,1,0.6,204.9
 51,202,Stage 2 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Express,Fire,1290,10,6,1.6666666666666667,16,4,1406,Win,,,,,,,3,1,0,0,1,140.6
 51,203,Stage 2 Week 1,OpTic Chicago,Paris Legion,Control,Raid,FORMAL,2855,17,13,1.3076923076923077,30,4,3440,Win,,,,,,,,,,,,,6,4,3,13,10,1146.67
 51,203,Stage 2 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Dashy,3430,27,17,1.588235294117647,44,10,5051,Win,,,,,,,,,,,,,4,10,4,17,7,1683.67
@@ -1621,7 +1621,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 51,203,Stage 2 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Scump,2275,18,18,1,36,0,2879,Win,,,,,,,,,,,,,5,8,1,10,4,959.67
 51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Skrapz,4015,20,17,1.1764705882352942,37,3,3769,Loss,,,,,,,,,,,,,8,15,8,5,2,1256.33
 51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Classic,1965,21,19,1.105263157894737,40,2,3516,Loss,,,,,,,,,,,,,3,15,7,6,4,1172
-51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Aqua,1600,15,19,0.7894736842105263,34,-4,3329,Loss,,,,,,,,,,,,,3,9,4,6,1,1109.67
+51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,AquA,1600,15,19,0.7894736842105263,34,-4,3329,Loss,,,,,,,,,,,,,3,9,4,6,1,1109.67
 51,203,Stage 2 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Fire,2125,10,21,0.47619047619047616,31,-11,2706,Loss,,,,,,,,,,,,,6,7,3,3,2,902
 51,204,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Apocalypse,FORMAL,2210,23,21,1.0952380952380953,44,2,5219,Win,61,7,11,2,34,7
 51,204,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Apocalypse,Dashy,1960,19,25,0.76,44,-6,4451,Win,30,3,17,0,6,4
@@ -1629,7 +1629,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 51,204,Stage 2 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Apocalypse,Scump,1865,24,21,1.1428571428571428,45,3,4344,Win,73,10,36,0,16,11
 51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,Skrapz,3175,24,22,1.0909090909090908,46,2,4342,Loss,105,18,31,20,0,36
 51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,Classic,1615,21,25,0.84,46,-4,4623,Loss,54,5,1,0,19,29
-51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,Aqua,2015,22,24,0.9166666666666666,46,-2,4038,Loss,57,5,3,34,8,7
+51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,AquA,2015,22,24,0.9166666666666666,46,-2,4038,Loss,57,5,3,34,8,7
 51,204,Stage 2 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Apocalypse,Fire,2550,23,26,0.8846153846153846,49,-3,4164,Loss,59,0,0,31,0,28
 52,205,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Checkmate,Owakening,2680,29,24,1.2083333333333333,53,5,6078,Win,67,10,22,0,13,22
 52,205,Stage 2 Week 1,Florida Mutineers,Minnesota ROKKR,Hardpoint,Checkmate,Skyz,3050,32,20,1.6,52,12,5370,Win,53,14,3,17,19,0
@@ -1789,7 +1789,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 57,224,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Garrison,Huke,2760,22,25,0.88,47,-3,3739,Win,73,6,29,4,1,33
 57,224,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Garrison,Skrapz,1935,26,28,0.9285714285714286,54,-2,5506,Loss,65,31,3,0,30,1
 57,224,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Garrison,Classic,1645,19,30,0.6333333333333333,49,-11,3822,Loss,61,18,7,4,31,1
-57,224,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Garrison,Aqua,4055,33,26,1.2692307692307692,59,7,5883,Loss,22,17,3,0,0,2
+57,224,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Garrison,AquA,4055,33,26,1.2692307692307692,59,7,5883,Loss,22,17,3,0,0,2
 57,224,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Garrison,Fire,2280,24,29,0.8275862068965517,53,-5,3838,Loss,69,17,26,18,8,0
 57,225,Stage 2 Week 2,Dallas Empire,Paris Legion,Search and Destroy,Express,Shotzzy,600,5,7,0.7142857142857143,12,-2,1046,Loss,,,,,,,0,2,2,0,0.56,116.22
 57,225,Stage 2 Week 2,Dallas Empire,Paris Legion,Search and Destroy,Express,C6,1115,5,7,0.7142857142857143,12,-2,1401,Loss,,,,,,,0,1,0,1,0.56,155.67
@@ -1797,7 +1797,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 57,225,Stage 2 Week 2,Dallas Empire,Paris Legion,Search and Destroy,Express,Huke,225,3,7,0.42857142857142855,10,-4,986,Loss,,,,,,,0,3,0,0,0.33,109.56
 57,225,Stage 2 Week 2,Paris Legion,Dallas Empire,Search and Destroy,Express,Skrapz,575,5,4,1.25,9,1,1020,Win,,,,,,,1,1,0,1,0.56,113.33
 57,225,Stage 2 Week 2,Paris Legion,Dallas Empire,Search and Destroy,Express,Classic,1000,6,6,1,12,0,1760,Win,,,,,,,3,0,4,0,0.67,195.56
-57,225,Stage 2 Week 2,Paris Legion,Dallas Empire,Search and Destroy,Express,Aqua,900,10,6,1.6666666666666667,16,4,1649,Win,,,,,,,2,0,0,0,1.11,183.22
+57,225,Stage 2 Week 2,Paris Legion,Dallas Empire,Search and Destroy,Express,AquA,900,10,6,1.6666666666666667,16,4,1649,Win,,,,,,,2,0,0,0,1.11,183.22
 57,225,Stage 2 Week 2,Paris Legion,Dallas Empire,Search and Destroy,Express,Fire,1025,8,3,2.6666666666666665,11,5,1337,Win,,,,,,,1,1,0,0,0.89,148.56
 57,226,Stage 2 Week 2,Dallas Empire,Paris Legion,Control,Raid,Shotzzy,3700,31,26,1.1923076923076923,57,5,5575,Win,,,,,,,,,,,,,5,18,4,13,3,1115
 57,226,Stage 2 Week 2,Dallas Empire,Paris Legion,Control,Raid,C6,3055,29,25,1.16,54,4,6199,Win,,,,,,,,,,,,,5,17,8,12,5,1239.8
@@ -1805,7 +1805,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 57,226,Stage 2 Week 2,Dallas Empire,Paris Legion,Control,Raid,Huke,5550,29,22,1.3181818181818181,51,7,4851,Win,,,,,,,,,,,,,11,15,9,14,3,970.2
 57,226,Stage 2 Week 2,Paris Legion,Dallas Empire,Control,Raid,Skrapz,3905,35,25,1.4,60,10,7083,Loss,,,,,,,,,,,,,6,14,6,21,12,1416.6
 57,226,Stage 2 Week 2,Paris Legion,Dallas Empire,Control,Raid,Classic,1700,22,29,0.7586206896551724,51,-7,4152,Loss,,,,,,,,,,,,,3,6,1,16,7,830.4
-57,226,Stage 2 Week 2,Paris Legion,Dallas Empire,Control,Raid,Aqua,2950,30,28,1.0714285714285714,58,2,5729,Loss,,,,,,,,,,,,,2,15,5,15,8,1145.8
+57,226,Stage 2 Week 2,Paris Legion,Dallas Empire,Control,Raid,AquA,2950,30,28,1.0714285714285714,58,2,5729,Loss,,,,,,,,,,,,,2,15,5,15,8,1145.8
 57,226,Stage 2 Week 2,Paris Legion,Dallas Empire,Control,Raid,Fire,2265,14,28,0.5,42,-14,3507,Loss,,,,,,,,,,,,,6,5,0,9,2,701.4
 57,227,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Raid,Shotzzy,1770,17,17,1,34,0,3802,Win,69,5,36,0,26,2
 57,227,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Raid,C6,2060,15,17,0.8823529411764706,32,-2,3405,Win,135,1,29,34,45,26
@@ -1813,7 +1813,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 57,227,Stage 2 Week 2,Dallas Empire,Paris Legion,Hardpoint,Raid,Huke,2295,23,17,1.3529411764705883,40,6,3978,Win,42,0,23,0,0,19
 57,227,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Raid,Skrapz,1695,14,18,0.7777777777777778,32,-4,3112,Loss,108,25,9,59,15,0
 57,227,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Raid,Classic,1445,18,22,0.8181818181818182,40,-4,3647,Loss,27,18,0,0,0,9
-57,227,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Raid,Aqua,2435,23,21,1.0952380952380953,44,2,4618,Loss,43,24,0,19,0,0
+57,227,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Raid,AquA,2435,23,21,1.0952380952380953,44,2,4618,Loss,43,24,0,19,0,0
 57,227,Stage 2 Week 2,Paris Legion,Dallas Empire,Hardpoint,Raid,Fire,1115,10,20,0.5,30,-10,1932,Loss,65,18,0,29,18,0
 58,228,Stage 2 Week 2,OpTic Chicago,Minnesota ROKKR,Hardpoint,Raid,FORMAL,1520,16,22,0.7272727272727273,38,-6,2888,Loss,35,11,18,6,0,0
 58,228,Stage 2 Week 2,OpTic Chicago,Minnesota ROKKR,Hardpoint,Raid,Dashy,855,7,18,0.3888888888888889,25,-11,1798,Loss,30,0,16,0,14,0
@@ -2005,7 +2005,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 64,251,Stage 2 Week 2,Seattle Surge,Paris Legion,Hardpoint,Moscow,Gunless,3450,29,19,1.5263157894736843,48,10,5128,Win,26,11,2,5,8
 64,251,Stage 2 Week 2,Paris Legion,Seattle Surge,Hardpoint,Moscow,Skrapz,2620,33,23,1.434782608695652,56,10,5458,Loss,27,13,6,0,8
 64,251,Stage 2 Week 2,Paris Legion,Seattle Surge,Hardpoint,Moscow,Classic,1630,16,23,0.6956521739130435,39,-7,3677,Loss,47,14,30,1,2
-64,251,Stage 2 Week 2,Paris Legion,Seattle Surge,Hardpoint,Moscow,Aqua,1485,20,24,0.8333333333333334,44,-4,3676,Loss,45,16,6,20,3
+64,251,Stage 2 Week 2,Paris Legion,Seattle Surge,Hardpoint,Moscow,AquA,1485,20,24,0.8333333333333334,44,-4,3676,Loss,45,16,6,20,3
 64,251,Stage 2 Week 2,Paris Legion,Seattle Surge,Hardpoint,Moscow,Fire,1370,10,21,0.47619047619047616,31,-11,2512,Loss,106,39,20,32,15
 64,252,Stage 2 Week 2,Seattle Surge,Paris Legion,Search and Destroy,Miami,Octane,650,7,3,2.3333333333333335,10,4,1293,Win,,,,,,,0,0,0,0,1,184.71
 64,252,Stage 2 Week 2,Seattle Surge,Paris Legion,Search and Destroy,Miami,Prestinni,1275,7,5,1.4,12,2,1473,Win,,,,,,,2,3,1,0,1,210.43
@@ -2013,7 +2013,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 64,252,Stage 2 Week 2,Seattle Surge,Paris Legion,Search and Destroy,Miami,Gunless,500,5,3,1.6666666666666667,8,2,1650,Win,,,,,,,0,1,0,0,0.71,235.71
 64,252,Stage 2 Week 2,Paris Legion,Seattle Surge,Search and Destroy,Miami,Skrapz,50,1,6,0.16666666666666666,7,-5,427,Loss,,,,,,,1,0,0,0,0.14,61
 64,252,Stage 2 Week 2,Paris Legion,Seattle Surge,Search and Destroy,Miami,Classic,675,6,6,1,12,0,1018,Loss,,,,,,,2,1,1,1,0.86,145.43
-64,252,Stage 2 Week 2,Paris Legion,Seattle Surge,Search and Destroy,Miami,Aqua,225,4,6,0.6666666666666666,10,-2,789,Loss,,,,,,,1,1,0,0,0.57,112.71
+64,252,Stage 2 Week 2,Paris Legion,Seattle Surge,Search and Destroy,Miami,AquA,225,4,6,0.6666666666666666,10,-2,789,Loss,,,,,,,1,1,0,0,0.57,112.71
 64,252,Stage 2 Week 2,Paris Legion,Seattle Surge,Search and Destroy,Miami,Fire,390,5,6,0.8333333333333334,11,-1,1689,Loss,,,,,,,1,0,0,0,0.71,241.29
 64,253,Stage 2 Week 2,Seattle Surge,Paris Legion,Control,Garrison,Octane,850,11,14,0.7857142857142857,25,-3,2593,Win,,,,,,,,,,,,,2,4,2,7,4,864.33
 64,253,Stage 2 Week 2,Seattle Surge,Paris Legion,Control,Garrison,Prestinni,2500,16,13,1.2307692307692308,29,3,3433,Win,,,,,,,,,,,,,6,4,4,12,7,1144.33
@@ -2021,7 +2021,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 64,253,Stage 2 Week 2,Seattle Surge,Paris Legion,Control,Garrison,Gunless,3900,22,13,1.6923076923076923,35,9,3048,Win,,,,,,,,,,,,,5,6,5,16,6,1016
 64,253,Stage 2 Week 2,Paris Legion,Seattle Surge,Control,Garrison,Skrapz,1475,10,14,0.7142857142857143,24,-4,2195,Loss,,,,,,,,,,,,,3,8,5,2,0,731.67
 64,253,Stage 2 Week 2,Paris Legion,Seattle Surge,Control,Garrison,Classic,1425,11,16,0.6875,27,-5,2849,Loss,,,,,,,,,,,,,2,7,4,4,4,949.67
-64,253,Stage 2 Week 2,Paris Legion,Seattle Surge,Control,Garrison,Aqua,1925,16,13,1.2307692307692308,29,3,2859,Loss,,,,,,,,,,,,,3,11,6,5,5,953
+64,253,Stage 2 Week 2,Paris Legion,Seattle Surge,Control,Garrison,AquA,1925,16,13,1.2307692307692308,29,3,2859,Loss,,,,,,,,,,,,,3,11,6,5,5,953
 64,253,Stage 2 Week 2,Paris Legion,Seattle Surge,Control,Garrison,Fire,1100,14,17,0.8235294117647058,31,-3,2234,Loss,,,,,,,,,,,,,1,12,6,2,0,744.67
 65,254,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Shotzzy,2855,27,20,1.35,47,7,4445,Win,60,14,0,36,4,6
 65,254,Stage 2 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,C6,2450,24,25,0.96,49,-1,5325,Win,35,0,2,2,4,27
@@ -2205,7 +2205,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 71,276,Stage 2 Week 3,Florida Mutineers,Paris Legion,Hardpoint,Checkmate,Neptune,3645,25,25,1,50,0,4244,Loss,119,25,0,70,0,24
 71,276,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Checkmate,Skrapz,2725,26,26,1,52,0,5435,Win,76,10,17,14,32,3
 71,276,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Checkmate,Classic,1965,28,29,0.9655172413793104,57,-1,4658,Win,67,15,20,0,20,12
-71,276,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Checkmate,Aqua,3530,31,19,1.631578947368421,50,12,6242,Win,34,0,13,0,0,21
+71,276,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Checkmate,AquA,3530,31,19,1.631578947368421,50,12,6242,Win,34,0,13,0,0,21
 71,276,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Checkmate,Fire,2870,24,26,0.9230769230769231,50,-2,4568,Win,116,4,43,0,66,3
 71,277,Stage 2 Week 3,Florida Mutineers,Paris Legion,Search and Destroy,Express,Owakening,540,7,7,1,14,0,1557,Win,,,,,,,2,0,0,0,0.7,155.7
 71,277,Stage 2 Week 3,Florida Mutineers,Paris Legion,Search and Destroy,Express,Skyz,620,5,6,0.8333333333333334,11,-1,1021,Win,,,,,,,1,2,0,0,0.5,102.1
@@ -2213,7 +2213,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 71,277,Stage 2 Week 3,Florida Mutineers,Paris Legion,Search and Destroy,Express,Neptune,1115,12,4,3,16,8,1965,Win,,,,,,,2,1,0,0,1.2,196.5
 71,277,Stage 2 Week 3,Paris Legion,Florida Mutineers,Search and Destroy,Express,Skrapz,475,6,6,1,12,0,1324,Loss,,,,,,,1,1,0,0,0.6,132.4
 71,277,Stage 2 Week 3,Paris Legion,Florida Mutineers,Search and Destroy,Express,Classic,600,5,7,0.7142857142857143,12,-2,986,Loss,,,,,,,1,3,1,0,0.5,98.6
-71,277,Stage 2 Week 3,Paris Legion,Florida Mutineers,Search and Destroy,Express,Aqua,365,5,9,0.5555555555555556,14,-4,1071,Loss,,,,,,,0,1,0,0,0.5,107.1
+71,277,Stage 2 Week 3,Paris Legion,Florida Mutineers,Search and Destroy,Express,AquA,365,5,9,0.5555555555555556,14,-4,1071,Loss,,,,,,,0,1,0,0,0.5,107.1
 71,277,Stage 2 Week 3,Paris Legion,Florida Mutineers,Search and Destroy,Express,Fire,665,7,7,1,14,0,1188,Loss,,,,,,,3,0,0,0,0.7,118.8
 71,278,Stage 2 Week 3,Florida Mutineers,Paris Legion,Control,Garrison,Owakening,1750,18,25,0.72,43,-7,4426,Loss,,,,,,,,,,,,,3,10,3,8,6,1106.5
 71,278,Stage 2 Week 3,Florida Mutineers,Paris Legion,Control,Garrison,Skyz,2590,25,22,1.1363636363636365,47,3,4684,Loss,,,,,,,,,,,,,3,16,6,9,3,1171
@@ -2221,7 +2221,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 71,278,Stage 2 Week 3,Florida Mutineers,Paris Legion,Control,Garrison,Neptune,2700,28,24,1.1666666666666667,52,4,4836,Loss,,,,,,,,,,,,,3,9,5,19,14,1209
 71,278,Stage 2 Week 3,Paris Legion,Florida Mutineers,Control,Garrison,Skrapz,2200,25,24,1.0416666666666667,49,1,5422,Win,,,,,,,,,,,,,1,12,9,13,5,1355.5
 71,278,Stage 2 Week 3,Paris Legion,Florida Mutineers,Control,Garrison,Classic,3500,28,24,1.1666666666666667,52,4,5233,Win,,,,,,,,,,,,,4,14,9,14,7,1308.25
-71,278,Stage 2 Week 3,Paris Legion,Florida Mutineers,Control,Garrison,Aqua,2650,18,22,0.8181818181818182,40,-4,4590,Win,,,,,,,,,,,,,4,8,5,10,3,1147.5
+71,278,Stage 2 Week 3,Paris Legion,Florida Mutineers,Control,Garrison,AquA,2650,18,22,0.8181818181818182,40,-4,4590,Win,,,,,,,,,,,,,4,8,5,10,3,1147.5
 71,278,Stage 2 Week 3,Paris Legion,Florida Mutineers,Control,Garrison,Fire,4225,26,19,1.368421052631579,45,7,3984,Win,,,,,,,,,,,,,5,15,13,11,4,996
 71,279,Stage 2 Week 3,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Owakening,1675,21,26,0.8076923076923077,47,-5,4416,Loss,24,3,7,0,4,10
 71,279,Stage 2 Week 3,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Skyz,2320,18,26,0.6923076923076923,44,-8,4069,Loss,59,11,10,0,0,38
@@ -2229,7 +2229,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 71,279,Stage 2 Week 3,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Neptune,2070,23,29,0.7931034482758621,52,-6,5158,Loss,54,15,2,17,3,17
 71,279,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Skrapz,1955,17,26,0.6538461538461539,43,-9,3728,Win,63,8,11,15,25,4
 71,279,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Classic,3755,36,22,1.6363636363636365,58,14,5343,Win,122,27,4,42,48,1
-71,279,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Aqua,2920,26,16,1.625,42,10,5225,Win,44,0,34,1,9,0
+71,279,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Garrison,AquA,2920,26,16,1.625,42,10,5225,Win,44,0,34,1,9,0
 71,279,Stage 2 Week 3,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Fire,2715,29,20,1.45,49,9,5737,Win,59,11,17,21,10,0
 72,280,Stage 2 Week 3,Seattle Surge,Minnesota ROKKR,Hardpoint,Raid,Octane,2650,28,21,1.3333333333333333,49,7,5241,Win,107,41,16,29,21,0
 72,280,Stage 2 Week 3,Seattle Surge,Minnesota ROKKR,Hardpoint,Raid,Prestinni,4020,31,22,1.4090909090909092,53,9,4127,Win,83,16,18,16,1,32
@@ -2397,7 +2397,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 77,300,Major 2,Los Angeles Thieves,Paris Legion,Hardpoint,Checkmate,Venom,2120,21,28,0.75,49,-7,4631,Win,69,10,0,22,34,3
 77,300,Major 2,Paris Legion,Los Angeles Thieves,Hardpoint,Checkmate,Skrapz,3995,34,28,1.2142857142857142,62,6,5793,Loss,34,14,0,0,14,6
 77,300,Major 2,Paris Legion,Los Angeles Thieves,Hardpoint,Checkmate,Classic,3985,34,28,1.2142857142857142,62,6,6035,Loss,34,14,6,4,6,4
-77,300,Major 2,Paris Legion,Los Angeles Thieves,Hardpoint,Checkmate,Aqua,2155,25,28,0.8928571428571429,53,-3,5365,Loss,55,16,32,0,0,7
+77,300,Major 2,Paris Legion,Los Angeles Thieves,Hardpoint,Checkmate,AquA,2155,25,28,0.8928571428571429,53,-3,5365,Loss,55,16,32,0,0,7
 77,300,Major 2,Paris Legion,Los Angeles Thieves,Hardpoint,Checkmate,Fire,1740,13,29,0.4482758620689655,42,-16,3906,Loss,106,15,25,11,26,29
 77,301,Major 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Kenny,1750,6,1,6,7,5,1320,Win,,,,,,,0,1,2,1,1,220
 77,301,Major 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,TJHaLy,1115,7,1,7,8,6,975,Win,,,,,,,2,0,0,0,1.17,162.5
@@ -2405,7 +2405,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 77,301,Major 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Venom,1450,9,2,4.5,11,7,1650,Win,,,,,,,2,0,0,1,1.5,275
 77,301,Major 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Skrapz,250,3,6,0.5,9,-3,782,Loss,,,,,,,2,1,0,0,0.5,130.33
 77,301,Major 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Classic,200,0,6,0,6,-6,233,Loss,,,,,,,0,3,2,0,0,38.38
-77,301,Major 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Aqua,50,1,6,0.16666666666666666,7,-5,634,Loss,,,,,,,0,0,0,0,0.17,105.67
+77,301,Major 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,AquA,50,1,6,0.16666666666666666,7,-5,634,Loss,,,,,,,0,0,0,0,0.17,105.67
 77,301,Major 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Fire,75,1,6,0.16666666666666666,7,-5,554,Loss,,,,,,,0,0,0,0,0.17,92.33
 77,302,Major 2,Los Angeles Thieves,Paris Legion,Control,Checkmate,Kenny,2850,16,14,1.1428571428571428,30,2,3223,Win,,,,,,,,,,,,,6,4,4,12,5,1074.33
 77,302,Major 2,Los Angeles Thieves,Paris Legion,Control,Checkmate,TJHaLy,2515,14,11,1.2727272727272727,25,3,1951,Win,,,,,,,,,,,,,6,2,0,12,11,650.33
@@ -2413,7 +2413,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 77,302,Major 2,Los Angeles Thieves,Paris Legion,Control,Checkmate,Venom,1800,16,13,1.2307692307692308,29,3,3010,Win,,,,,,,,,,,,,4,6,5,10,7,1003.33
 77,302,Major 2,Paris Legion,Los Angeles Thieves,Control,Checkmate,Skrapz,2725,16,15,1.0666666666666667,31,1,2823,Loss,,,,,,,,,,,,,5,13,12,3,3,941
 77,302,Major 2,Paris Legion,Los Angeles Thieves,Control,Checkmate,Classic,1775,8,17,0.47058823529411764,25,-9,2002,Loss,,,,,,,,,,,,,5,6,3,2,1,667.33
-77,302,Major 2,Paris Legion,Los Angeles Thieves,Control,Checkmate,Aqua,870,10,16,0.625,26,-6,2447,Loss,,,,,,,,,,,,,1,9,5,1,1,815.67
+77,302,Major 2,Paris Legion,Los Angeles Thieves,Control,Checkmate,AquA,870,10,16,0.625,26,-6,2447,Loss,,,,,,,,,,,,,1,9,5,1,1,815.67
 77,302,Major 2,Paris Legion,Los Angeles Thieves,Control,Checkmate,Fire,2045,13,15,0.8666666666666667,28,-2,2155,Loss,,,,,,,,,,,,,1,13,10,0,0,718.33
 78,303,Major 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Vivid,1165,16,23,0.6956521739130435,39,-7,3211,Loss,27,9,11,1,6
 78,303,Major 2,Los Angeles Guerrillas,Florida Mutineers,Hardpoint,Moscow,Assault,1945,21,20,1.05,41,1,3524,Loss,66,19,41,0,6
@@ -2925,7 +2925,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 93,366,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Garrison,Huke,1540,18,20,0.9,38,-2,2604,Loss,55,1,34,1,11,8
 93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Skrapz,4175,27,15,1.8,42,12,4732,Win,126,60,17,49,0,0
 93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Classic,2900,28,17,1.6470588235294117,45,11,4388,Win,47,0,13,16,8,10
-93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Aqua,2700,23,14,1.6428571428571428,37,9,4866,Win,51,11,9,4,27,0
+93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,AquA,2700,23,14,1.6428571428571428,37,9,4866,Win,51,11,9,4,27,0
 93,366,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Garrison,Temp,1445,16,19,0.8421052631578947,35,-3,2737,Win,41,5,9,27,0,0
 93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,Shotzzy,375,4,5,0.8,9,-1,1007,Win,,,,,,,2,0,1,0,0.67,167.83
 93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,C6,2850,10,0,10,10,10,1439,Win,,,,,,,1,0,0,0,1.67,239.83
@@ -2933,7 +2933,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 93,367,Stage 3 Week 1,Dallas Empire,Paris Legion,Search and Destroy,Express,Huke,400,5,4,1.25,9,1,1183,Win,,,,,,,0,1,0,0,0.83,197.17
 93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Skrapz,75,1,6,0.16666666666666666,7,-5,313,Loss,,,,,,,0,1,0,0,0.17,52.17
 93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Classic,50,1,6,0.16666666666666666,7,-5,485,Loss,,,,,,,1,2,0,0,0.17,80.83
-93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Aqua,350,5,6,0.8333333333333334,11,-1,1171,Loss,,,,,,,0,0,0,0,0.83,195.17
+93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,AquA,350,5,6,0.8333333333333334,11,-1,1171,Loss,,,,,,,0,0,0,0,0.83,195.17
 93,367,Stage 3 Week 1,Paris Legion,Dallas Empire,Search and Destroy,Express,Temp,300,4,6,0.6666666666666666,10,-2,1039,Loss,,,,,,,1,1,1,0,0.67,173.17
 93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,Shotzzy,2140,18,18,1,36,0,3233,Win,,,,,,,,,,,,,3,9,8,9,6,808.25
 93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,C6,2395,19,17,1.1176470588235294,36,2,4006,Win,,,,,,,,,,,,,3,7,2,12,11,1001.5
@@ -2941,7 +2941,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 93,368,Stage 3 Week 1,Dallas Empire,Paris Legion,Control,Checkmate,Huke,2425,13,17,0.7647058823529411,30,-4,2924,Win,,,,,,,,,,,,,6,6,3,7,6,731
 93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Skrapz,3075,24,14,1.7142857142857142,38,10,4204,Loss,,,,,,,,,,,,,1,9,7,15,9,1051
 93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Classic,1700,15,19,0.7894736842105263,34,-4,3108,Loss,,,,,,,,,,,,,2,7,7,8,2,777
-93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Aqua,1150,13,18,0.7222222222222222,31,-5,2439,Loss,,,,,,,,,,,,,0,7,6,6,5,609.75
+93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,AquA,1150,13,18,0.7222222222222222,31,-5,2439,Loss,,,,,,,,,,,,,0,7,6,6,5,609.75
 93,368,Stage 3 Week 1,Paris Legion,Dallas Empire,Control,Checkmate,Temp,2400,16,18,0.8888888888888888,34,-2,3591,Loss,,,,,,,,,,,,,1,7,4,9,3,897.75
 93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,Shotzzy,1785,18,21,0.8571428571428571,39,-3,3629,Win,49,29,1,3,10,6
 93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,C6,2655,30,18,1.6666666666666667,48,12,5680,Win,65,28,17,1,19,0
@@ -2949,7 +2949,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 93,369,Stage 3 Week 1,Dallas Empire,Paris Legion,Hardpoint,Checkmate,Huke,2435,28,20,1.4,48,8,4497,Win,95,12,14,21,10,38
 93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Skrapz,2680,28,25,1.12,53,3,4969,Loss,41,26,4,11,0,0
 93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Classic,1325,12,28,0.42857142857142855,40,-16,3259,Loss,27,6,7,12,2,0
-93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Aqua,1645,14,24,0.5833333333333334,38,-10,4089,Loss,50,4,12,12,22,0
+93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,AquA,1645,14,24,0.5833333333333334,38,-10,4089,Loss,50,4,12,12,22,0
 93,369,Stage 3 Week 1,Paris Legion,Dallas Empire,Hardpoint,Checkmate,Temp,6065,26,25,1.04,51,1,5271,Loss,46,2,11,12,21,0
 94,370,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Checkmate,Cammy,2575,29,23,1.2608695652173914,52,6,6150,Win,94,16,10,33,35,0
 94,370,Stage 3 Week 1,Toronto Ultra,Florida Mutineers,Hardpoint,Checkmate,Bance,2535,22,19,1.1578947368421053,41,3,3553,Win,96,6,33,2,36,19
@@ -3053,7 +3053,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 97,382,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Hardpoint,Moscow,Apathy,4385,27,16,1.6875,43,11,4403,Win,45,30,2,13,0
 97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,Skrapz,1890,24,20,1.2,44,4,4629,Loss,46,16,14,0,16
 97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,Classic,1335,16,30,0.5333333333333333,46,-14,3346,Loss,58,4,38,0,16
-97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,Aqua,965,12,23,0.5217391304347826,35,-11,3078,Loss,52,8,41,2,1
+97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,AquA,965,12,23,0.5217391304347826,35,-11,3078,Loss,52,8,41,2,1
 97,382,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Hardpoint,Moscow,Temp,1530,20,26,0.7692307692307693,46,-6,3874,Loss,24,10,11,0,3
 97,383,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Moscow,Cheen,1345,10,4,2.5,14,6,1907,Win,,,,,,,0,0,0,0,1.25,238.38
 97,383,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Moscow,Assault,665,6,4,1.5,10,2,1357,Win,,,,,,,2,1,0,0,0.75,169.63
@@ -3061,7 +3061,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 97,383,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Search and Destroy,Moscow,Apathy,350,4,6,0.6666666666666666,10,-2,951,Win,,,,,,,2,2,0,0,0.5,118.88
 97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,Skrapz,525,5,6,0.8333333333333334,11,-1,1254,Loss,,,,,,,0,0,0,0,0.63,156.75
 97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,Classic,290,3,7,0.42857142857142855,10,-4,787,Loss,,,,,,,1,4,0,0,0.38,98.38
-97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,Aqua,290,5,7,0.7142857142857143,12,-2,1334,Loss,,,,,,,0,1,0,0,0.63,166.75
+97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,AquA,290,5,7,0.7142857142857143,12,-2,1334,Loss,,,,,,,0,1,0,0,0.63,166.75
 97,383,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Search and Destroy,Moscow,Temp,425,7,7,1,14,0,1211,Loss,,,,,,,2,0,0,0,0.88,151.38
 97,384,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Raid,Cheen,4000,39,30,1.3,69,9,8066,Win,,,,,,,,,,,,,6,12,8,27,11,1613.2
 97,384,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Raid,Assault,5350,31,24,1.2916666666666667,55,7,5249,Win,,,,,,,,,,,,,9,10,5,21,17,1049.8
@@ -3069,7 +3069,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 97,384,Stage 3 Week 1,Los Angeles Guerrillas,Paris Legion,Control,Raid,Apathy,3290,24,30,0.8,54,-6,4989,Win,,,,,,,,,,,,,6,8,4,16,8,997.8
 97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,Skrapz,3600,30,30,1,60,0,5451,Loss,,,,,,,,,,,,,6,20,13,10,4,1090.2
 97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,Classic,4130,25,32,0.78125,57,-7,5471,Loss,,,,,,,,,,,,,8,13,4,12,6,1094.2
-97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,Aqua,3265,28,31,0.9032258064516129,59,-3,5208,Loss,,,,,,,,,,,,,6,19,3,9,8,1041.6
+97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,AquA,3265,28,31,0.9032258064516129,59,-3,5208,Loss,,,,,,,,,,,,,6,19,3,9,8,1041.6
 97,384,Stage 3 Week 1,Paris Legion,Los Angeles Guerrillas,Control,Raid,Temp,3335,29,32,0.90625,61,-3,5905,Loss,,,,,,,,,,,,,5,20,7,9,5,1181
 98,385,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Raid,Accuracy,1040,11,20,0.55,31,-9,2415,Loss,67,34,2,4,0,27
 98,385,Stage 3 Week 1,Minnesota ROKKR,Florida Mutineers,Hardpoint,Raid,Attach,810,8,22,0.36363636363636365,30,-14,2643,Loss,15,7,3,3,0,2
@@ -3329,7 +3329,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 105,416,Stage 3 Week 2,Toronto Ultra,Los Angeles Guerrillas,Control,Raid,CleanX,4125,25,11,2.272727272727273,36,14,3734,Win,,,,,,,,,,,,,7,18,8,7,3,1244.67
 106,417,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Checkmate,Skrapz,2230,19,20,0.95,39,-1,4147,Win,104,28,20,0,19,37
 106,417,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Checkmate,Classic,2195,23,20,1.15,43,3,3995,Win,91,22,23,15,27,4
-106,417,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Checkmate,Aqua,1810,23,19,1.2105263157894737,42,4,4019,Win,18,0,1,0,0,17
+106,417,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Checkmate,AquA,1810,23,19,1.2105263157894737,42,4,4019,Win,18,0,1,0,0,17
 106,417,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Checkmate,Temp,1990,22,18,1.2222222222222223,40,4,4764,Win,65,17,4,41,3,0
 106,417,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Hardpoint,Checkmate,Accuracy,1975,19,20,0.95,39,-1,3633,Loss,93,34,25,5,23,6
 106,417,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Hardpoint,Checkmate,Attach,1330,16,20,0.8,36,-4,3551,Loss,34,11,0,17,6,0
@@ -3337,7 +3337,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 106,417,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Hardpoint,Checkmate,Priestahh,1785,23,27,0.8518518518518519,50,-4,4715,Loss,19,3,11,5,0,0
 106,418,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,Skrapz,275,4,7,0.5714285714285714,11,-3,913,Loss,,,,,,,0,4,0,0,0.5,114.13
 106,418,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,Classic,375,5,7,0.7142857142857143,12,-2,1036,Loss,,,,,,,0,1,1,0,0.63,129.5
-106,418,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,Aqua,390,5,7,0.7142857142857143,12,-2,1059,Loss,,,,,,,0,1,1,0,0.63,132.38
+106,418,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,AquA,390,5,7,0.7142857142857143,12,-2,1059,Loss,,,,,,,0,1,1,0,0.63,132.38
 106,418,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Search and Destroy,Miami,Temp,1150,8,6,1.3333333333333333,14,2,1572,Loss,,,,,,,1,1,0,0,1,196.5
 106,418,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Search and Destroy,Miami,Accuracy,655,7,6,1.1666666666666667,13,1,1585,Win,,,,,,,0,0,0,0,0.88,198.13
 106,418,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Search and Destroy,Miami,Attach,865,8,5,1.6,13,3,1484,Win,,,,,,,1,0,0,1,1,185.5
@@ -3345,7 +3345,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 106,418,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Search and Destroy,Miami,Priestahh,805,8,5,1.6,13,3,1351,Win,,,,,,,3,1,1,0,1,168.88
 106,419,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Control,Garrison,Skrapz,950,8,12,0.6666666666666666,20,-4,1966,Loss,,,,,,,,,,,,,0,6,4,2,1,655.33
 106,419,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Control,Garrison,Classic,715,7,15,0.4666666666666667,22,-8,1595,Loss,,,,,,,,,,,,,1,5,2,2,2,531.67
-106,419,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Control,Garrison,Aqua,765,10,16,0.625,26,-6,2284,Loss,,,,,,,,,,,,,0,8,3,2,1,761.33
+106,419,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Control,Garrison,AquA,765,10,16,0.625,26,-6,2284,Loss,,,,,,,,,,,,,0,8,3,2,1,761.33
 106,419,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Control,Garrison,Temp,1100,12,15,0.8,27,-3,2681,Loss,,,,,,,,,,,,,0,10,10,2,2,893.67
 106,419,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Control,Garrison,Accuracy,1505,12,8,1.5,20,4,1933,Win,,,,,,,,,,,,,3,2,2,10,8,644.33
 106,419,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Control,Garrison,Attach,1100,9,9,1,18,0,2147,Win,,,,,,,,,,,,,4,1,1,8,6,715.67
@@ -3353,7 +3353,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 106,419,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Control,Garrison,Priestahh,1700,13,10,1.3,23,3,3003,Win,,,,,,,,,,,,,3,4,2,9,5,1001
 106,420,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Apocalypse,Skrapz,1810,19,20,0.95,39,-1,3485,Loss,39,7,25,6,1,0
 106,420,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Apocalypse,Classic,1515,19,26,0.7307692307692307,45,-7,3530,Loss,35,0,13,0,0,22
-106,420,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Apocalypse,Aqua,1710,18,20,0.9,38,-2,3665,Loss,71,26,10,35,0,0
+106,420,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Apocalypse,AquA,1710,18,20,0.9,38,-2,3665,Loss,71,26,10,35,0,0
 106,420,Stage 3 Week 2,Paris Legion,Minnesota ROKKR,Hardpoint,Apocalypse,Temp,1515,15,22,0.6818181818181818,37,-7,3231,Loss,27,4,0,7,0,16
 106,420,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Hardpoint,Apocalypse,Accuracy,2160,21,17,1.2352941176470589,38,4,4134,Win,102,5,56,0,23,18
 106,420,Stage 3 Week 2,Minnesota ROKKR,Paris Legion,Hardpoint,Apocalypse,Attach,2160,21,14,1.5,35,7,4008,Win,90,2,0,13,75,0
@@ -3465,7 +3465,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 109,433,Stage 3 Week 2,New York Subliners,Seattle Surge,Control,Checkmate,Hydra,1640,9,21,0.42857142857142855,30,-12,2764,Win,,,,,,,,,,,,,4,6,5,3,1,552.8
 110,434,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Skrapz,2500,21,25,0.84,46,-4,4073,Win,88,51,19,1,11,6
 110,434,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Classic,2345,26,24,1.0833333333333333,50,2,4686,Win,128,44,34,1,10,39
-110,434,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Aqua,3410,33,26,1.2692307692307692,59,7,5815,Win,29,7,0,4,0,18
+110,434,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Garrison,AquA,3410,33,26,1.2692307692307692,59,7,5815,Win,29,7,0,4,0,18
 110,434,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Garrison,Temp,2110,25,24,1.0416666666666667,49,1,5172,Win,21,0,15,1,5,0
 110,434,Stage 3 Week 2,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Owakening,3185,26,28,0.9285714285714286,54,-2,5944,Loss,66,4,22,21,8,11
 110,434,Stage 3 Week 2,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Skyz,1610,20,25,0.8,45,-5,4026,Loss,24,4,13,7,0,0
@@ -3473,7 +3473,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 110,434,Stage 3 Week 2,Florida Mutineers,Paris Legion,Hardpoint,Garrison,Neptune,2750,29,22,1.3181818181818181,51,7,4907,Loss,44,13,19,0,0,12
 110,435,Stage 3 Week 2,Paris Legion,Florida Mutineers,Search and Destroy,Moscow,Skrapz,575,6,8,0.75,14,-2,1540,Loss,,,,,,,0,0,1,0,0.55,140
 110,435,Stage 3 Week 2,Paris Legion,Florida Mutineers,Search and Destroy,Moscow,Classic,950,8,10,0.8,18,-2,1386,Loss,,,,,,,2,3,3,0,0.73,126
-110,435,Stage 3 Week 2,Paris Legion,Florida Mutineers,Search and Destroy,Moscow,Aqua,450,6,7,0.8571428571428571,13,-1,1405,Loss,,,,,,,0,1,0,0,0.55,127.73
+110,435,Stage 3 Week 2,Paris Legion,Florida Mutineers,Search and Destroy,Moscow,AquA,450,6,7,0.8571428571428571,13,-1,1405,Loss,,,,,,,0,1,0,0,0.55,127.73
 110,435,Stage 3 Week 2,Paris Legion,Florida Mutineers,Search and Destroy,Moscow,Temp,575,7,8,0.875,15,-1,1841,Loss,,,,,,,3,2,0,0,0.64,167.36
 110,435,Stage 3 Week 2,Florida Mutineers,Paris Legion,Search and Destroy,Moscow,Owakening,1350,8,6,1.3333333333333333,14,2,1578,Win,,,,,,,0,1,0,0,0.73,143.45
 110,435,Stage 3 Week 2,Florida Mutineers,Paris Legion,Search and Destroy,Moscow,Skyz,1050,12,8,1.5,20,4,2132,Win,,,,,,,2,1,0,0,1.09,193.82
@@ -3481,7 +3481,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 110,435,Stage 3 Week 2,Florida Mutineers,Paris Legion,Search and Destroy,Moscow,Neptune,755,6,7,0.8571428571428571,13,-1,1803,Win,,,,,,,2,1,1,1,0.55,163.91
 110,436,Stage 3 Week 2,Paris Legion,Florida Mutineers,Control,Raid,Skrapz,4525,24,21,1.1428571428571428,45,3,4848,Win,,,,,,,,,,,,,7,12,8,12,6,1212
 110,436,Stage 3 Week 2,Paris Legion,Florida Mutineers,Control,Raid,Classic,3000,25,25,1,50,0,4340,Win,,,,,,,,,,,,,7,9,5,16,4,1085
-110,436,Stage 3 Week 2,Paris Legion,Florida Mutineers,Control,Raid,Aqua,2475,27,21,1.2857142857142858,48,6,4823,Win,,,,,,,,,,,,,4,15,8,12,7,1205.75
+110,436,Stage 3 Week 2,Paris Legion,Florida Mutineers,Control,Raid,AquA,2475,27,21,1.2857142857142858,48,6,4823,Win,,,,,,,,,,,,,4,15,8,12,7,1205.75
 110,436,Stage 3 Week 2,Paris Legion,Florida Mutineers,Control,Raid,Temp,2700,26,25,1.04,51,1,5319,Win,,,,,,,,,,,,,5,14,4,12,6,1329.75
 110,436,Stage 3 Week 2,Florida Mutineers,Paris Legion,Control,Raid,Owakening,3490,29,28,1.0357142857142858,57,1,5655,Loss,,,,,,,,,,,,,3,16,6,13,11,1413.75
 110,436,Stage 3 Week 2,Florida Mutineers,Paris Legion,Control,Raid,Skyz,1975,17,23,0.7391304347826086,40,-6,3658,Loss,,,,,,,,,,,,,4,8,3,9,4,914.5
@@ -3489,7 +3489,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 110,436,Stage 3 Week 2,Florida Mutineers,Paris Legion,Control,Raid,Neptune,5005,28,23,1.2173913043478262,51,5,4039,Loss,,,,,,,,,,,,,4,16,3,12,9,1009.75
 110,437,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Moscow,Skrapz,,19,15,1.2666666666666666,34,4,,Win
 110,437,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Moscow,Classic,,16,20,0.8,36,-4,,Win
-110,437,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Moscow,Aqua,,21,18,1.1666666666666667,39,3,,Win
+110,437,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Moscow,AquA,,21,18,1.1666666666666667,39,3,,Win
 110,437,Stage 3 Week 2,Paris Legion,Florida Mutineers,Hardpoint,Moscow,Temp,,20,17,1.1764705882352942,37,3,,Win
 110,437,Stage 3 Week 2,Florida Mutineers,Paris Legion,Hardpoint,Moscow,Owakening,,20,24,0.8333333333333334,44,-4,,Loss
 110,437,Stage 3 Week 2,Florida Mutineers,Paris Legion,Hardpoint,Moscow,Skyz,,18,18,1,36,0,,Loss
@@ -3689,7 +3689,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 116,461,Stage 3 Week 3,Florida Mutineers,Dallas Empire,Control,Checkmate,Neptune,1450,13,16,0.8125,29,-3,2730,Win,,,,,,,,,,,,,2,7,7,6,4,682.5
 117,462,Stage 3 Week 3,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Skrapz,,31,32,0.96875,63,-1,,Loss
 117,462,Stage 3 Week 3,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Classic,,25,35,0.7142857142857143,60,-10,,Loss
-117,462,Stage 3 Week 3,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Aqua,,26,28,0.9285714285714286,54,-2,,Loss
+117,462,Stage 3 Week 3,Paris Legion,Toronto Ultra,Hardpoint,Garrison,AquA,,26,28,0.9285714285714286,54,-2,,Loss
 117,462,Stage 3 Week 3,Paris Legion,Toronto Ultra,Hardpoint,Garrison,Temp,,27,30,0.9,57,-3,,Loss
 117,462,Stage 3 Week 3,Toronto Ultra,Paris Legion,Hardpoint,Garrison,Cammy,,38,27,1.4074074074074074,65,11,,Win
 117,462,Stage 3 Week 3,Toronto Ultra,Paris Legion,Hardpoint,Garrison,Bance,,33,26,1.2692307692307692,59,7,,Win
@@ -3697,7 +3697,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 117,462,Stage 3 Week 3,Toronto Ultra,Paris Legion,Hardpoint,Garrison,CleanX,,22,33,0.6666666666666666,55,-11,,Win
 117,463,Stage 3 Week 3,Paris Legion,Toronto Ultra,Search and Destroy,Raid,Skrapz,1240,8,6,1.3333333333333333,14,2,1500,Loss,,,,,,,2,2,0,0,0.89,166.67
 117,463,Stage 3 Week 3,Paris Legion,Toronto Ultra,Search and Destroy,Raid,Classic,200,3,7,0.42857142857142855,10,-4,735,Loss,,,,,,,1,2,0,0,0.33,81.67
-117,463,Stage 3 Week 3,Paris Legion,Toronto Ultra,Search and Destroy,Raid,Aqua,540,4,6,0.6666666666666666,10,-2,1123,Loss,,,,,,,1,1,0,0,0.44,124.78
+117,463,Stage 3 Week 3,Paris Legion,Toronto Ultra,Search and Destroy,Raid,AquA,540,4,6,0.6666666666666666,10,-2,1123,Loss,,,,,,,1,1,0,0,0.44,124.78
 117,463,Stage 3 Week 3,Paris Legion,Toronto Ultra,Search and Destroy,Raid,Temp,440,8,9,0.8888888888888888,17,-1,1265,Loss,,,,,,,0,0,0,0,0.89,140.56
 117,463,Stage 3 Week 3,Toronto Ultra,Paris Legion,Search and Destroy,Raid,Cammy,575,9,6,1.5,15,3,1448,Win,,,,,,,1,0,0,0,1,160.89
 117,463,Stage 3 Week 3,Toronto Ultra,Paris Legion,Search and Destroy,Raid,Bance,1140,7,5,1.4,12,2,1126,Win,,,,,,,2,1,4,0,0.78,125.11
@@ -3705,7 +3705,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 117,463,Stage 3 Week 3,Toronto Ultra,Paris Legion,Search and Destroy,Raid,CleanX,625,8,7,1.1428571428571428,15,1,1571,Win,,,,,,,1,1,0,0,0.89,174.56
 117,464,Stage 3 Week 3,Paris Legion,Toronto Ultra,Control,Garrison,Skrapz,2855,27,21,1.2857142857142858,48,6,5846,Loss,,,,,,,,,,,,,3,15,8,12,11,1461.5
 117,464,Stage 3 Week 3,Paris Legion,Toronto Ultra,Control,Garrison,Classic,2050,17,28,0.6071428571428571,45,-11,3163,Loss,,,,,,,,,,,,,4,7,4,10,4,790.75
-117,464,Stage 3 Week 3,Paris Legion,Toronto Ultra,Control,Garrison,Aqua,2300,18,21,0.8571428571428571,39,-3,3838,Loss,,,,,,,,,,,,,2,8,5,10,8,959.5
+117,464,Stage 3 Week 3,Paris Legion,Toronto Ultra,Control,Garrison,AquA,2300,18,21,0.8571428571428571,39,-3,3838,Loss,,,,,,,,,,,,,2,8,5,10,8,959.5
 117,464,Stage 3 Week 3,Paris Legion,Toronto Ultra,Control,Garrison,Temp,3550,32,26,1.2307692307692308,58,6,5522,Loss,,,,,,,,,,,,,3,13,6,19,5,1380.5
 117,464,Stage 3 Week 3,Toronto Ultra,Paris Legion,Control,Garrison,Cammy,2075,17,29,0.5862068965517241,46,-12,3966,Win,,,,,,,,,,,,,5,7,3,10,7,991.5
 117,464,Stage 3 Week 3,Toronto Ultra,Paris Legion,Control,Garrison,Bance,3740,22,24,0.9166666666666666,46,-2,4237,Win,,,,,,,,,,,,,9,10,7,12,8,1059.25
@@ -3877,7 +3877,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 123,485,Major 3,London Royal Ravens,Paris Legion,Hardpoint,Moscow,Zed,1985,20,18,1.1111111111111112,38,2,3353,Win,72,9,1,48,14
 123,485,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Moscow,Skrapz,1385,16,23,0.6956521739130435,39,-7,3567,Loss,40,30,7,3,0
 123,485,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Moscow,Classic,1200,15,21,0.7142857142857143,36,-6,2629,Loss,14,7,0,7,0
-123,485,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Moscow,Aqua,1470,15,23,0.6521739130434783,38,-8,2597,Loss,31,1,28,0,2
+123,485,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Moscow,AquA,1470,15,23,0.6521739130434783,38,-8,2597,Loss,31,1,28,0,2
 123,485,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Moscow,Temp,3290,26,19,1.368421052631579,45,7,5028,Loss,28,0,13,1,14
 123,486,Major 3,London Royal Ravens,Paris Legion,Search and Destroy,Moscow,PaulEhx,2100,10,6,1.6666666666666667,16,4,2285,Loss,,,,,,,1,1,0,2,1,228.5
 123,486,Major 3,London Royal Ravens,Paris Legion,Search and Destroy,Moscow,Zaptius,525,9,9,1,18,0,1218,Loss,,,,,,,2,1,0,0,0.9,121.8
@@ -3885,7 +3885,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 123,486,Major 3,London Royal Ravens,Paris Legion,Search and Destroy,Moscow,Zed,225,3,9,0.3333333333333333,12,-6,608,Loss,,,,,,,0,1,0,0,0.3,60.8
 123,486,Major 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,Skrapz,1050,13,6,2.1666666666666665,19,7,1925,Win,,,,,,,2,0,0,0,1.3,192.5
 123,486,Major 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,Classic,575,3,7,0.42857142857142855,10,-4,1106,Win,,,,,,,1,2,3,0,0.3,110.6
-123,486,Major 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,Aqua,2190,12,6,2,18,6,2227,Win,,,,,,,2,0,1,0,1.2,222.7
+123,486,Major 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,AquA,2190,12,6,2,18,6,2227,Win,,,,,,,2,0,1,0,1.2,222.7
 123,486,Major 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,Temp,465,5,8,0.625,13,-3,1106,Win,,,,,,,1,1,0,0,0.5,110.6
 123,487,Major 3,London Royal Ravens,Paris Legion,Control,Checkmate,PaulEhx,2440,30,23,1.3043478260869565,53,7,5589,Win,,,,,,,,,,,,,1,14,4,16,12,1117.8
 123,487,Major 3,London Royal Ravens,Paris Legion,Control,Checkmate,Zaptius,3355,20,17,1.1764705882352942,37,3,4053,Win,,,,,,,,,,,,,7,9,5,11,7,810.6
@@ -3893,7 +3893,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 123,487,Major 3,London Royal Ravens,Paris Legion,Control,Checkmate,Zed,4700,26,22,1.1818181818181819,48,4,4110,Win,,,,,,,,,,,,,8,11,9,15,11,822
 123,487,Major 3,Paris Legion,London Royal Ravens,Control,Checkmate,Skrapz,2025,22,25,0.88,47,-3,4663,Loss,,,,,,,,,,,,,0,8,7,14,14,932.6
 123,487,Major 3,Paris Legion,London Royal Ravens,Control,Checkmate,Classic,1765,23,28,0.8214285714285714,51,-5,3841,Loss,,,,,,,,,,,,,0,7,4,16,6,768.2
-123,487,Major 3,Paris Legion,London Royal Ravens,Control,Checkmate,Aqua,1420,20,25,0.8,45,-5,5162,Loss,,,,,,,,,,,,,0,8,2,12,9,1032.4
+123,487,Major 3,Paris Legion,London Royal Ravens,Control,Checkmate,AquA,1420,20,25,0.8,45,-5,5162,Loss,,,,,,,,,,,,,0,8,2,12,9,1032.4
 123,487,Major 3,Paris Legion,London Royal Ravens,Control,Checkmate,Temp,2380,23,22,1.0454545454545454,45,1,4080,Loss,,,,,,,,,,,,,1,12,11,11,5,816
 123,488,Major 3,London Royal Ravens,Paris Legion,Hardpoint,Checkmate,PaulEhx,3435,32,25,1.28,57,7,5883,Win,65,22,0,33,9,1
 123,488,Major 3,London Royal Ravens,Paris Legion,Hardpoint,Checkmate,Zaptius,2250,23,23,1,46,0,4957,Win,105,40,12,0,0,53
@@ -3901,7 +3901,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 123,488,Major 3,London Royal Ravens,Paris Legion,Hardpoint,Checkmate,Zed,4065,29,22,1.3181818181818181,51,7,4160,Win,100,31,19,13,18,19
 123,488,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,Skrapz,2040,23,26,0.8846153846153846,49,-3,4113,Loss,74,13,31,3,27,0
 123,488,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,Classic,2380,25,31,0.8064516129032258,56,-6,5059,Loss,51,13,18,8,9,3
-123,488,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,Aqua,2140,24,29,0.8275862068965517,53,-5,4457,Loss,13,6,4,0,2,1
+123,488,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,AquA,2140,24,29,0.8275862068965517,53,-5,4457,Loss,13,6,4,0,2,1
 123,488,Major 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,Temp,2260,24,29,0.8275862068965517,53,-5,5454,Loss,50,5,5,6,29,5
 124,489,Major 3,Los Angeles Guerrillas,Seattle Surge,Hardpoint,Garrison,Cheen,3520,25,20,1.25,45,5,4398,Win,48,9,16,0,17,6
 124,489,Major 3,Los Angeles Guerrillas,Seattle Surge,Hardpoint,Garrison,Assault,3630,29,19,1.5263157894736843,48,10,5737,Win,91,6,35,32,11,7
@@ -4393,7 +4393,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 138,549,Major 3,Atlanta FaZe,New York Subliners,Search and Destroy,Raid,aBeZy,,5,4,1.25,9,1,,Win
 139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Skrapz,2080,18,27,0.6666666666666666,45,-9,4363,Loss,117,1,38,9,31,38
 139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Zaptius,1875,20,28,0.7142857142857143,48,-8,3590,Loss,28,4,14,5,0,5
-139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Aqua,2890,28,26,1.0769230769230769,54,2,4618,Loss,35,16,0,0,19,0
+139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,AquA,2890,28,26,1.0769230769230769,54,2,4618,Loss,35,16,0,0,19,0
 139,550,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Temp,1810,18,22,0.8181818181818182,40,-4,3640,Loss,46,0,8,38,0,0
 139,550,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,Arcitys,2355,22,23,0.9565217391304348,45,-1,5297,Win,34,9,8,0,3,14
 139,550,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,Cellium,2240,26,19,1.368421052631579,45,7,4295,Win,50,18,31,0,0,1
@@ -4401,7 +4401,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 139,550,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,aBeZy,1855,21,22,0.9545454545454546,43,-1,4132,Win,59,29,3,23,0,4
 139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,Skrapz,1860,8,1,8,9,7,1473,Win,,,,,,,1,0,1,3,1.14,210.43
 139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,Zaptius,765,5,4,1.25,9,1,915,Win,,,,,,,2,2,2,0,0.71,130.71
-139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,Aqua,350,3,4,0.75,7,-1,1099,Win,,,,,,,0,0,0,0,0.43,157
+139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,AquA,350,3,4,0.75,7,-1,1099,Win,,,,,,,0,0,0,0,0.43,157
 139,551,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Standoff,Temp,875,10,4,2.5,14,6,2039,Win,,,,,,,2,0,0,0,1.43,291.29
 139,551,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Standoff,Arcitys,170,0,6,0,6,-6,685,Loss,,,,,,,0,0,0,0,0,97.86
 139,551,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Standoff,Cellium,520,4,7,0.5714285714285714,11,-3,1098,Loss,,,,,,,0,0,1,0,0.57,156.86
@@ -4409,7 +4409,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 139,551,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Standoff,aBeZy,415,5,6,0.8333333333333334,11,-1,947,Loss,,,,,,,2,4,0,0,0.71,135.29
 139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Skrapz,1940,20,28,0.7142857142857143,48,-8,4266,Loss,,,,,,,,,,,,,3,11,6,9,2,1066.5
 139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Zaptius,4625,24,25,0.96,49,-1,3871,Loss,,,,,,,,,,,,,7,15,7,9,5,967.75
-139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Aqua,2950,24,28,0.8571428571428571,52,-4,5168,Loss,,,,,,,,,,,,,2,14,8,10,5,1292
+139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,AquA,2950,24,28,0.8571428571428571,52,-4,5168,Loss,,,,,,,,,,,,,2,14,8,10,5,1292
 139,552,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Temp,3525,27,24,1.125,51,3,5448,Loss,,,,,,,,,,,,,7,10,3,17,7,1362
 139,552,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Arcitys,3500,30,25,1.2,55,5,5671,Win,,,,,,,,,,,,,6,10,6,20,14,1417.75
 139,552,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Cellium,4190,29,23,1.2608695652173914,52,6,5332,Win,,,,,,,,,,,,,7,15,5,14,7,1333
@@ -4417,7 +4417,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 139,552,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,aBeZy,2040,19,26,0.7307692307692307,45,-7,3871,Win,,,,,,,,,,,,,5,10,2,9,4,967.75
 139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Skrapz,2100,22,27,0.8148148148148148,49,-5,4685,Loss,54,2,0,0,26,26
 139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Zaptius,1645,16,21,0.7619047619047619,37,-5,3413,Loss,95,32,8,29,2,24
-139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Aqua,1960,18,20,0.9,38,-2,4328,Loss,75,7,24,20,0,24
+139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,AquA,1960,18,20,0.9,38,-2,4328,Loss,75,7,24,20,0,24
 139,553,Stage 4 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Raid,Temp,2900,24,20,1.2,44,4,4392,Loss,60,12,4,12,26,6
 139,553,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Arcitys,2850,25,18,1.3888888888888888,43,7,3963,Win,77,2,22,53,0,0
 139,553,Stage 4 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Raid,Cellium,2480,22,22,1,44,0,4900,Win,111,33,39,2,2,35
@@ -4529,7 +4529,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 142,566,Stage 4 Week 1,Minnesota ROKKR,OpTic Chicago,Control,Raid,Priestahh,2050,10,20,0.5,30,-10,2680,Loss,,,,,,,,,,,,,5,6,4,4,3,893.33
 143,567,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Garrison,Skrapz,1745,18,24,0.75,42,-6,3745,Loss,44,0,1,1,21,21
 143,567,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Garrison,Zaptius,1345,14,22,0.6363636363636364,36,-8,2401,Loss,47,5,17,23,1,1
-143,567,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Garrison,Aqua,1510,14,17,0.8235294117647058,31,-3,3943,Loss,46,3,2,41,0,0
+143,567,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Garrison,AquA,1510,14,17,0.8235294117647058,31,-3,3943,Loss,46,3,2,41,0,0
 143,567,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Garrison,Temp,1985,16,20,0.8,36,-4,3517,Loss,15,0,5,10,0,0
 143,567,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Hardpoint,Garrison,majormaniak,2705,19,13,1.4615384615384615,32,6,3649,Win,89,18,48,0,23,0
 143,567,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Hardpoint,Garrison,Attach,1970,23,18,1.2777777777777777,41,5,4414,Win,49,0,16,30,0,3
@@ -4537,7 +4537,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 143,567,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Hardpoint,Garrison,Priestahh,2070,22,15,1.4666666666666666,37,7,4012,Win,84,25,21,17,17,4
 143,568,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Raid,Skrapz,1615,11,2,5.5,13,9,2250,Win,,,,,,,2,0,0,0,1.57,321.43
 143,568,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Raid,Zaptius,1880,6,3,2,9,3,1153,Win,,,,,,,1,1,1,2,0.86,164.71
-143,568,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Raid,Aqua,400,1,4,0.25,5,-3,670,Win,,,,,,,0,0,1,1,0.14,95.71
+143,568,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Raid,AquA,400,1,4,0.25,5,-3,670,Win,,,,,,,0,0,1,1,0.14,95.71
 143,568,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Search and Destroy,Raid,Temp,825,7,3,2.3333333333333335,10,4,1107,Win,,,,,,,3,0,1,1,1,158.14
 143,568,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Search and Destroy,Raid,majormaniak,165,1,7,0.14285714285714285,8,-6,696,Loss,,,,,,,0,1,1,0,0.14,99.43
 143,568,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Search and Destroy,Raid,Attach,600,2,6,0.3333333333333333,8,-4,1280,Loss,,,,,,,0,2,2,1,0.29,182.86
@@ -4545,7 +4545,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 143,568,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Search and Destroy,Raid,Priestahh,290,2,7,0.2857142857142857,9,-5,564,Loss,,,,,,,0,2,1,0,0.29,80.57
 143,569,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Skrapz,2965,29,28,1.0357142857142858,57,1,5482,Loss,,,,,,,,,,,,,2,15,7,14,3,1370.5
 143,569,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Zaptius,2190,22,24,0.9166666666666666,46,-2,3693,Loss,,,,,,,,,,,,,3,10,3,12,3,923.25
-143,569,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Aqua,3650,28,26,1.0769230769230769,54,2,4915,Loss,,,,,,,,,,,,,6,7,6,21,14,1228.75
+143,569,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,AquA,3650,28,26,1.0769230769230769,54,2,4915,Loss,,,,,,,,,,,,,6,7,6,21,14,1228.75
 143,569,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Control,Raid,Temp,3175,24,27,0.8888888888888888,51,-3,5554,Loss,,,,,,,,,,,,,6,13,7,11,5,1388.5
 143,569,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Control,Raid,majormaniak,5090,33,23,1.434782608695652,56,10,5220,Win,,,,,,,,,,,,,7,12,5,21,18,1305
 143,569,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Control,Raid,Attach,3450,25,23,1.0869565217391304,48,2,5975,Win,,,,,,,,,,,,,7,11,5,14,8,1493.75
@@ -4553,7 +4553,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 143,569,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Control,Raid,Priestahh,2885,24,31,0.7741935483870968,55,-7,5029,Win,,,,,,,,,,,,,6,11,6,13,9,1257.25
 143,570,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Moscow,Skrapz,2570,26,27,0.9629629629629629,53,-1,5199,Loss,96,8,28,46,14
 143,570,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Moscow,Zaptius,3190,26,26,1,52,0,4570,Loss,93,19,11,48,15
-143,570,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Moscow,Aqua,3100,29,23,1.2608695652173914,52,6,5299,Loss,33,6,2,4,21
+143,570,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Moscow,AquA,3100,29,23,1.2608695652173914,52,6,5299,Loss,33,6,2,4,21
 143,570,Stage 4 Week 1,Paris Legion,Minnesota ROKKR,Hardpoint,Moscow,Temp,2160,21,28,0.75,49,-7,4788,Loss,51,16,20,0,15
 143,570,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Hardpoint,Moscow,majormaniak,2670,23,21,1.0952380952380953,44,2,3687,Win,99,24,20,5,50
 143,570,Stage 4 Week 1,Minnesota ROKKR,Paris Legion,Hardpoint,Moscow,Attach,2800,23,23,1,46,0,4355,Win,79,42,37,0,0
@@ -4753,7 +4753,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 150,594,Stage 4 Week 2,Los Angeles Guerrillas,Dallas Empire,Control,Garrison,Apathy,1730,18,21,0.8571428571428571,39,-3,3348,Loss,,,,,,,,,,,,,1,7,4,11,8,837
 151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Skrapz,4270,27,24,1.125,51,3,4651,Loss,48,0,15,15,18
 151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Zaptius,1560,17,27,0.6296296296296297,44,-10,3482,Loss,41,21,3,17,0
-151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Aqua,4920,29,23,1.2608695652173914,52,6,5219,Loss,110,45,0,57,8
+151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,AquA,4920,29,23,1.2608695652173914,52,6,5219,Loss,110,45,0,57,8
 151,595,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Moscow,Temp,2305,20,24,0.8333333333333334,44,-4,3674,Loss,63,22,36,5,0
 151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,Kenny,2720,27,22,1.2272727272727273,49,5,5291,Win,92,70,2,0,20
 151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,TJHaLy,3555,26,25,1.04,51,1,4611,Win,88,22,54,0,12
@@ -4761,7 +4761,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 151,595,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Moscow,Venom,1925,22,19,1.1578947368421053,41,3,3817,Win,66,8,7,23,28
 151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Skrapz,380,4,7,0.5714285714285714,11,-3,1130,Win,,,,,,,0,2,0,0,0.44,125.56
 151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Zaptius,1025,10,5,2,15,5,1502,Win,,,,,,,4,0,2,0,1.11,166.89
-151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Aqua,705,7,5,1.4,12,2,1661,Win,,,,,,,1,1,0,0,0.78,184.56
+151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,AquA,705,7,5,1.4,12,2,1661,Win,,,,,,,1,1,0,0,0.78,184.56
 151,596,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Temp,850,7,5,1.4,12,2,1641,Win,,,,,,,0,1,1,0,0.78,182.33
 151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Kenny,500,6,6,1,12,0,1667,Loss,,,,,,,0,0,0,0,0.67,185.22
 151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,TJHaLy,605,6,8,0.75,14,-2,1342,Loss,,,,,,,3,4,0,0,0.67,149.11
@@ -4769,7 +4769,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 151,596,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Venom,850,6,6,1,12,0,1385,Loss,,,,,,,0,1,1,1,0.67,153.89
 151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Skrapz,3370,15,17,0.8823529411764706,32,-2,3199,Win,,,,,,,,,,,,,8,8,6,7,5,639.8
 151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Zaptius,4350,19,12,1.5833333333333333,31,7,2751,Win,,,,,,,,,,,,,9,10,7,9,6,550.2
-151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Aqua,3265,18,13,1.3846153846153846,31,5,3302,Win,,,,,,,,,,,,,8,12,7,6,4,660.4
+151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,AquA,3265,18,13,1.3846153846153846,31,5,3302,Win,,,,,,,,,,,,,8,12,7,6,4,660.4
 151,597,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Control,Garrison,Temp,2350,14,14,1,28,0,3047,Win,,,,,,,,,,,,,7,9,4,5,3,609.4
 151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,Kenny,2045,12,17,0.7058823529411765,29,-5,3458,Loss,,,,,,,,,,,,,4,3,1,9,6,691.6
 151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,TJHaLy,1690,15,17,0.8823529411764706,32,-2,2853,Loss,,,,,,,,,,,,,2,9,6,6,3,570.6
@@ -4777,7 +4777,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 151,597,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Control,Garrison,Venom,1325,13,17,0.7647058823529411,30,-4,2601,Loss,,,,,,,,,,,,,3,3,2,10,7,520.2
 151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Skrapz,3370,25,21,1.1904761904761905,46,4,5080,Win,89,19,51,8,4,7
 151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Zaptius,2235,22,20,1.1,42,2,3428,Win,74,6,4,2,6,56
-151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Aqua,2395,25,23,1.0869565217391304,48,2,4152,Win,55,9,6,26,2,12
+151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,AquA,2395,25,23,1.0869565217391304,48,2,4152,Win,55,9,6,26,2,12
 151,598,Stage 4 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Temp,2280,21,21,1,42,0,4335,Win,86,2,13,19,51,1
 151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Kenny,3115,29,24,1.2083333333333333,53,5,5353,Loss,76,17,24,35,0,0
 151,598,Stage 4 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,TJHaLy,1410,13,22,0.5909090909090909,35,-9,3771,Loss,69,29,0,14,17,9
@@ -4849,7 +4849,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 153,606,Stage 4 Week 2,London Royal Ravens,Toronto Ultra,Control,Garrison,Alexx,1375,15,21,0.7142857142857143,36,-6,2700,Loss,,,,,,,,,,,,,1,4,3,11,9,675
 154,607,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Garrison,Skrapz,2280,27,29,0.9310344827586207,56,-2,5283,Loss,51,21,7,9,14,0
 154,607,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Garrison,Zaptius,2195,25,27,0.9259259259259259,52,-2,4248,Loss,72,12,31,10,10,9
-154,607,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Garrison,Aqua,2240,22,25,0.88,47,-3,4410,Loss,84,0,18,12,40,14
+154,607,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Garrison,AquA,2240,22,25,0.88,47,-3,4410,Loss,84,0,18,12,40,14
 154,607,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Garrison,Temp,2620,25,32,0.78125,57,-7,5758,Loss,70,26,10,24,10,0
 154,607,Stage 4 Week 2,OpTic Chicago,Paris Legion,Hardpoint,Garrison,FORMAL,2695,28,24,1.1666666666666667,52,4,5524,Win,104,13,33,23,3,32
 154,607,Stage 4 Week 2,OpTic Chicago,Paris Legion,Hardpoint,Garrison,Dashy,2810,26,22,1.1818181818181819,48,4,4765,Win,77,25,32,8,12,0
@@ -4857,7 +4857,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 154,607,Stage 4 Week 2,OpTic Chicago,Paris Legion,Hardpoint,Garrison,Scump,2205,28,24,1.1666666666666667,52,4,4668,Win,31,20,6,5,0,0
 154,608,Stage 4 Week 2,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,Skrapz,,2,8,0.25,10,-6,,Loss
 154,608,Stage 4 Week 2,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,Zaptius,,1,8,0.125,9,-7,,Loss
-154,608,Stage 4 Week 2,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,Aqua,,7,6,1.1666666666666667,13,1,,Loss
+154,608,Stage 4 Week 2,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,AquA,,7,6,1.1666666666666667,13,1,,Loss
 154,608,Stage 4 Week 2,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,Temp,,3,5,0.6,8,-2,,Loss
 154,608,Stage 4 Week 2,OpTic Chicago,Paris Legion,Search and Destroy,Standoff,FORMAL,,7,3,2.3333333333333335,10,4,,Win
 154,608,Stage 4 Week 2,OpTic Chicago,Paris Legion,Search and Destroy,Standoff,Dashy,,6,2,3,8,4,,Win
@@ -4865,7 +4865,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 154,608,Stage 4 Week 2,OpTic Chicago,Paris Legion,Search and Destroy,Standoff,Scump,,9,3,3,12,6,,Win
 154,609,Stage 4 Week 2,Paris Legion,OpTic Chicago,Control,Raid,Skrapz,,18,18,1,36,0,,Win
 154,609,Stage 4 Week 2,Paris Legion,OpTic Chicago,Control,Raid,Zaptius,,16,18,0.8888888888888888,34,-2,,Win
-154,609,Stage 4 Week 2,Paris Legion,OpTic Chicago,Control,Raid,Aqua,,26,21,1.2380952380952381,47,5,,Win
+154,609,Stage 4 Week 2,Paris Legion,OpTic Chicago,Control,Raid,AquA,,26,21,1.2380952380952381,47,5,,Win
 154,609,Stage 4 Week 2,Paris Legion,OpTic Chicago,Control,Raid,Temp,,25,17,1.4705882352941178,42,8,,Win
 154,609,Stage 4 Week 2,OpTic Chicago,Paris Legion,Control,Raid,FORMAL,,11,22,0.5,33,-11,,Loss
 154,609,Stage 4 Week 2,OpTic Chicago,Paris Legion,Control,Raid,Dashy,,15,18,0.8333333333333334,33,-3,,Loss
@@ -4873,7 +4873,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 154,609,Stage 4 Week 2,OpTic Chicago,Paris Legion,Control,Raid,Scump,,31,20,1.55,51,11,,Loss
 154,610,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Moscow,Skrapz,1550,20,21,0.9523809523809523,41,-1,3758,Loss,33,18,10,0,5
 154,610,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Moscow,Zaptius,1460,13,24,0.5416666666666666,37,-11,3063,Loss,85,21,13,46,5
-154,610,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Moscow,Aqua,1365,17,20,0.85,37,-3,3260,Loss,25,9,2,0,14
+154,610,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Moscow,AquA,1365,17,20,0.85,37,-3,3260,Loss,25,9,2,0,14
 154,610,Stage 4 Week 2,Paris Legion,OpTic Chicago,Hardpoint,Moscow,Temp,1595,18,21,0.8571428571428571,39,-3,3562,Loss,28,9,19,0,0
 154,610,Stage 4 Week 2,OpTic Chicago,Paris Legion,Hardpoint,Moscow,FORMAL,1855,16,16,1,32,0,3181,Win,94,11,5,33,45
 154,610,Stage 4 Week 2,OpTic Chicago,Paris Legion,Hardpoint,Moscow,Dashy,3430,26,17,1.5294117647058822,43,9,4479,Win,79,56,8,1,14
@@ -5245,7 +5245,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 166,656,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Gunless,2815,19,18,1.0555555555555556,37,1,3488,Loss,73,0,0,15,39,19
 166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Skrapz,3155,24,20,1.2,44,4,4892,Win,124,34,13,24,34,19
 166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Zaptius,2875,23,17,1.3529411764705883,40,6,3691,Win,92,10,23,29,2,28
-166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Aqua,1695,20,20,1,40,0,3484,Win,39,17,1,1,4,16
+166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,AquA,1695,20,20,1,40,0,3484,Win,39,17,1,1,4,16
 166,656,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Temp,1365,15,19,0.7894736842105263,34,-4,4127,Win,29,0,19,10,0,0
 166,657,Stage 4 Week 3,Seattle Surge,Paris Legion,Search and Destroy,Miami,Octane,1650,12,8,1.5,20,4,2472,Loss,,,,,,,2,1,0,1,1.09,224.73
 166,657,Stage 4 Week 3,Seattle Surge,Paris Legion,Search and Destroy,Miami,Prestinni,500,5,9,0.5555555555555556,14,-4,876,Loss,,,,,,,1,2,0,0,0.45,79.64
@@ -5253,7 +5253,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 166,657,Stage 4 Week 3,Seattle Surge,Paris Legion,Search and Destroy,Miami,Gunless,1425,10,8,1.25,18,2,2080,Loss,,,,,,,1,2,1,1,0.91,189.09
 166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,Skrapz,1600,13,6,2.1666666666666665,19,7,1688,Win,,,,,,,3,1,1,0,1.18,153.45
 166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,Zaptius,650,7,8,0.875,15,-1,1595,Win,,,,,,,0,0,1,0,0.64,145
-166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,Aqua,400,6,9,0.6666666666666666,15,-3,1434,Win,,,,,,,0,2,0,0,0.55,130.36
+166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,AquA,400,6,9,0.6666666666666666,15,-3,1434,Win,,,,,,,0,2,0,0,0.55,130.36
 166,657,Stage 4 Week 3,Paris Legion,Seattle Surge,Search and Destroy,Miami,Temp,775,6,8,0.75,14,-2,1666,Win,,,,,,,4,1,2,0,0.55,151.45
 166,658,Stage 4 Week 3,Seattle Surge,Paris Legion,Control,Garrison,Octane,2125,15,20,0.75,35,-5,4244,Win,,,,,,,,,,,,,3,10,7,5,3,1061
 166,658,Stage 4 Week 3,Seattle Surge,Paris Legion,Control,Garrison,Prestinni,3150,22,24,0.9166666666666666,46,-2,3895,Win,,,,,,,,,,,,,2,9,8,13,5,973.75
@@ -5262,14 +5262,14 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,Skrapz,2525,23,24,0.9583333333333334,47,-1,4532,Loss,,,,,,,,,,,,,4,10,3,13,10,1133
 166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,Zaptius,3090,19,21,0.9047619047619048,40,-2,4134,Loss,,,,,,,,,,,,,6,8,5,11,6,1033.5
 166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,Temp,2450,24,26,0.9230769230769231,50,-2,4563,Loss,,,,,,,,,,,,,3,12,5,12,9,1140.75
-166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,Aqua,2900,27,28,0.9642857142857143,55,-1,5521,Loss,,,,,,,,,,,,,3,15,5,12,8,1380.25
+166,658,Stage 4 Week 3,Paris Legion,Seattle Surge,Control,Garrison,AquA,2900,27,28,0.9642857142857143,55,-1,5521,Loss,,,,,,,,,,,,,3,15,5,12,8,1380.25
 166,659,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Octane,1520,20,17,1.1764705882352942,37,3,3815,Loss,46,15,0,0,22,9
 166,659,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Prestinni,1910,14,23,0.6086956521739131,37,-9,3540,Loss,82,26,35,0,21,0
 166,659,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Classic,1930,22,23,0.9565217391304348,45,-1,3920,Loss,56,16,16,8,16,0
 166,659,Stage 4 Week 3,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Gunless,1665,17,20,0.85,37,-3,3522,Loss,35,0,0,2,33,0
 166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Skrapz,2145,25,22,1.1363636363636365,47,3,4108,Win,40,14,5,5,16,0
 166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Zaptius,2320,14,15,0.9333333333333333,29,-1,3084,Win,166,6,57,63,3,37
-166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Aqua,1715,22,17,1.2941176470588236,39,5,3858,Win,27,3,0,10,14,0
+166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,AquA,1715,22,17,1.2941176470588236,39,5,3858,Win,27,3,0,10,14,0
 166,659,Stage 4 Week 3,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Temp,2365,22,19,1.1578947368421053,41,3,4448,Win,69,43,0,11,0,15
 167,660,Stage 4 Week 3,Toronto Ultra,New York Subliners,Hardpoint,Checkmate,Cammy,3465,36,31,1.1612903225806452,67,5,6866,Win,64,22,26,14,2,0
 167,660,Stage 4 Week 3,Toronto Ultra,New York Subliners,Hardpoint,Checkmate,Bance,2885,25,29,0.8620689655172413,54,-4,4734,Win,81,17,0,8,39,17
@@ -5448,7 +5448,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,Attach,2680,18,17,1.0588235294117647,35,1,3631,Win,,,,,,,,,,,,,4,8,6,10,5,907.75
 172,681,Major 4,Minnesota ROKKR,New York Subliners,Control,Garrison,Standy,3975,24,17,1.411764705882353,41,7,4055,Win,,,,,,,,,,,,,5,12,11,12,7,1013.75
 173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Zaptius,3070,27,28,0.9642857142857143,55,-1,4847,Loss,54,21,19,1,13,0
-173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Aqua,3925,37,28,1.3214285714285714,65,9,7226,Loss,60,5,29,25,0,1
+173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,AquA,3925,37,28,1.3214285714285714,65,9,7226,Loss,60,5,29,25,0,1
 173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Temp,2005,24,30,0.8,54,-6,5625,Loss,67,25,0,15,0,27
 173,682,Major 4,Paris Legion,Seattle Surge,Hardpoint,Checkmate,Skrapz,2590,29,29,1,58,0,5257,Loss,108,26,64,13,4,1
 173,682,Major 4,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Gunless,3765,23,24,0.9583333333333334,47,-1,5711,Win,130,35,22,8,65,0
@@ -5456,7 +5456,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 173,682,Major 4,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Classic,2370,26,35,0.7428571428571429,61,-9,4708,Win,59,4,8,4,16,27
 173,682,Major 4,Seattle Surge,Paris Legion,Hardpoint,Checkmate,Octane,6905,38,24,1.5833333333333333,62,14,6184,Win,86,32,0,3,42,9
 173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,Zaptius,100,2,7,0.2857142857142857,9,-5,383,Loss,,,,,,,2,2,0,0,0.25,47.88
-173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,Aqua,475,6,7,0.8571428571428571,13,-1,1372,Loss,,,,,,,0,2,0,0,0.75,171.5
+173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,AquA,475,6,7,0.8571428571428571,13,-1,1372,Loss,,,,,,,0,2,0,0,0.75,171.5
 173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,Temp,500,6,6,1,12,0,1119,Loss,,,,,,,1,0,0,0,0.75,139.88
 173,683,Major 4,Paris Legion,Seattle Surge,Search and Destroy,Express,Skrapz,300,2,7,0.2857142857142857,9,-5,1190,Loss,,,,,,,0,1,0,0,0.25,148.75
 173,683,Major 4,Seattle Surge,Paris Legion,Search and Destroy,Express,Gunless,300,4,5,0.8,9,-1,914,Win,,,,,,,1,0,0,0,0.5,114.25
@@ -5464,7 +5464,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 173,683,Major 4,Seattle Surge,Paris Legion,Search and Destroy,Express,Classic,1400,7,4,1.75,11,3,935,Win,,,,,,,1,1,2,0,0.88,116.88
 173,683,Major 4,Seattle Surge,Paris Legion,Search and Destroy,Express,Octane,1525,8,3,2.6666666666666665,11,5,1729,Win,,,,,,,1,0,0,0,1,216.13
 173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,Zaptius,2300,17,22,0.7727272727272727,39,-5,2972,Loss,,,,,,,,,,,,,3,7,6,10,8,743
-173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,Aqua,1650,20,25,0.8,45,-5,3771,Loss,,,,,,,,,,,,,1,11,7,9,4,942.75
+173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,AquA,1650,20,25,0.8,45,-5,3771,Loss,,,,,,,,,,,,,1,11,7,9,4,942.75
 173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,Temp,3275,24,17,1.411764705882353,41,7,4379,Loss,,,,,,,,,,,,,2,8,5,16,11,1094.75
 173,684,Major 4,Paris Legion,Seattle Surge,Control,Garrison,Skrapz,2050,18,24,0.75,42,-6,3753,Loss,,,,,,,,,,,,,2,8,5,10,8,938.25
 173,684,Major 4,Seattle Surge,Paris Legion,Control,Garrison,Gunless,4025,24,19,1.263157894736842,43,5,4915,Win,,,,,,,,,,,,,8,14,14,10,6,1228.75
@@ -5905,7 +5905,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 185,738,Stage 5 Week 1,Atlanta FaZe,London Royal Ravens,Control,Garrison,aBeZy,3750,24,19,1.263157894736842,43,5,4549,Win,,,,,,,,,,,,,6,11,10,13,11,1137.25
 186,739,Stage 5 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Garrison,Skrapz,2230,23,32,0.71875,55,-9,5407,Loss,62,29,16,11,0,6
 186,739,Stage 5 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Garrison,Zaptius,2245,20,29,0.6896551724137931,49,-9,3894,Loss,78,45,19,13,0,1
-186,739,Stage 5 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Garrison,Aqua,2175,22,28,0.7857142857142857,50,-6,4509,Loss,53,35,0,10,0,8
+186,739,Stage 5 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Garrison,AquA,2175,22,28,0.7857142857142857,50,-6,4509,Loss,53,35,0,10,0,8
 186,739,Stage 5 Week 1,Paris Legion,OpTic Chicago,Hardpoint,Garrison,Temp,2835,30,23,1.3043478260869565,53,7,5124,Loss,26,5,0,1,20,0
 186,739,Stage 5 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Garrison,FORMAL,4925,32,20,1.6,52,12,5506,Win,75,2,12,3,28,30
 186,739,Stage 5 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Garrison,Dashy,3255,26,26,1,52,0,5323,Win,38,16,6,0,4,12
@@ -5913,7 +5913,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 186,739,Stage 5 Week 1,OpTic Chicago,Paris Legion,Hardpoint,Garrison,Scump,3115,31,22,1.4090909090909092,53,9,5337,Win,83,4,26,17,34,2
 186,740,Stage 5 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,Skrapz,700,8,6,1.3333333333333333,14,2,1952,Loss,,,,,,,0,2,0,0,0.73,177.45
 186,740,Stage 5 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,Zaptius,965,8,7,1.1428571428571428,15,1,1436,Loss,,,,,,,3,3,3,0,0.73,130.55
-186,740,Stage 5 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,Aqua,700,6,7,0.8571428571428571,13,-1,1405,Loss,,,,,,,1,2,0,0,0.55,127.73
+186,740,Stage 5 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,AquA,700,6,7,0.8571428571428571,13,-1,1405,Loss,,,,,,,1,2,0,0,0.55,127.73
 186,740,Stage 5 Week 1,Paris Legion,OpTic Chicago,Search and Destroy,Standoff,Temp,700,6,9,0.6666666666666666,15,-3,1538,Loss,,,,,,,1,0,1,0,0.55,139.82
 186,740,Stage 5 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Standoff,FORMAL,590,8,6,1.3333333333333333,14,2,1834,Win,,,,,,,1,0,0,0,0.73,166.73
 186,740,Stage 5 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Standoff,Dashy,665,9,8,1.125,17,1,2157,Win,,,,,,,4,0,0,0,0.82,196.09
@@ -5921,7 +5921,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 186,740,Stage 5 Week 1,OpTic Chicago,Paris Legion,Search and Destroy,Standoff,Scump,900,7,7,1,14,0,1391,Win,,,,,,,1,2,2,1,0.64,126.45
 186,741,Stage 5 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Skrapz,2300,25,22,1.1363636363636365,47,3,4646,Loss,,,,,,,,,,,,,2,7,4,18,10,1548.67
 186,741,Stage 5 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Zaptius,1475,13,24,0.5416666666666666,37,-11,2713,Loss,,,,,,,,,,,,,2,3,1,10,6,904.33
-186,741,Stage 5 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Aqua,1500,16,21,0.7619047619047619,37,-5,2957,Loss,,,,,,,,,,,,,1,7,2,9,6,985.67
+186,741,Stage 5 Week 1,Paris Legion,OpTic Chicago,Control,Raid,AquA,1500,16,21,0.7619047619047619,37,-5,2957,Loss,,,,,,,,,,,,,1,7,2,9,6,985.67
 186,741,Stage 5 Week 1,Paris Legion,OpTic Chicago,Control,Raid,Temp,1165,15,20,0.75,35,-5,3310,Loss,,,,,,,,,,,,,1,5,2,10,2,1103.33
 186,741,Stage 5 Week 1,OpTic Chicago,Paris Legion,Control,Raid,FORMAL,2875,28,20,1.4,48,8,5194,Win,,,,,,,,,,,,,4,19,11,9,3,1731.33
 186,741,Stage 5 Week 1,OpTic Chicago,Paris Legion,Control,Raid,Dashy,2725,19,16,1.1875,35,3,3931,Win,,,,,,,,,,,,,6,14,9,5,3,1310.33
@@ -6001,7 +6001,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 188,750,Stage 5 Week 1,Los Angeles Thieves,New York Subliners,Search and Destroy,Miami,SlasheR,,9,6,1.5,15,3,,Win
 189,751,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Skrapz,1635,18,25,0.72,43,-7,4337,Loss,64,28,4,3,3,26
 189,751,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Zaptius,2075,18,23,0.782608695652174,41,-5,3338,Loss,115,24,2,40,11,38
-189,751,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Aqua,1505,16,25,0.64,41,-9,3326,Loss,19,4,9,5,0,1
+189,751,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,AquA,1505,16,25,0.64,41,-9,3326,Loss,19,4,9,5,0,1
 189,751,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Hardpoint,Garrison,Temp,3655,25,19,1.3157894736842106,44,6,4103,Loss,43,7,12,24,0,0
 189,751,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,Arcitys,2330,24,20,1.2,44,4,5447,Win,32,6,5,9,8,4
 189,751,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,Cellium,3225,21,15,1.4,36,6,4818,Win,54,1,50,0,3,0
@@ -6009,7 +6009,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 189,751,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Hardpoint,Garrison,aBeZy,1865,22,24,0.9166666666666666,46,-2,4076,Win,77,34,9,0,33,1
 189,752,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Miami,Skrapz,100,1,6,0.16666666666666666,7,-5,487,Loss,,,,,,,0,0,0,0,0.17,81.17
 189,752,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Miami,Zaptius,125,2,6,0.3333333333333333,8,-4,443,Loss,,,,,,,1,1,0,0,0.33,73.83
-189,752,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Miami,Aqua,100,1,6,0.16666666666666666,7,-5,495,Loss,,,,,,,0,3,0,0,0.17,82.5
+189,752,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Miami,AquA,100,1,6,0.16666666666666666,7,-5,495,Loss,,,,,,,0,3,0,0,0.17,82.5
 189,752,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Search and Destroy,Miami,Temp,200,4,6,0.6666666666666666,10,-2,724,Loss,,,,,,,0,1,0,0,0.67,120.67
 189,752,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Miami,Arcitys,290,3,2,1.5,5,1,712,Win,,,,,,,0,1,0,0,0.5,118.67
 189,752,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Miami,Cellium,1925,7,0,7,7,7,1240,Win,,,,,,,0,0,0,0,1.17,206.67
@@ -6017,7 +6017,7 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 189,752,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Search and Destroy,Miami,aBeZy,525,5,4,1.25,9,1,712,Win,,,,,,,4,0,2,0,0.83,118.67
 189,753,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Skrapz,2725,18,16,1.125,34,2,4109,Loss,,,,,,,,,,,,,3,5,2,13,9,1369.67
 189,753,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Zaptius,1375,11,23,0.4782608695652174,34,-12,3194,Loss,,,,,,,,,,,,,2,2,0,9,5,1064.67
-189,753,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Aqua,965,11,21,0.5238095238095238,32,-10,3090,Loss,,,,,,,,,,,,,1,3,1,8,3,1030
+189,753,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,AquA,965,11,21,0.5238095238095238,32,-10,3090,Loss,,,,,,,,,,,,,1,3,1,8,3,1030
 189,753,Stage 5 Week 1,Paris Legion,Atlanta FaZe,Control,Raid,Temp,1600,18,20,0.9,38,-2,3290,Loss,,,,,,,,,,,,,1,6,0,12,4,1096.67
 189,753,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Arcitys,3540,15,12,1.25,27,3,3131,Win,,,,,,,,,,,,,8,9,4,6,3,1043.67
 189,753,Stage 5 Week 1,Atlanta FaZe,Paris Legion,Control,Raid,Cellium,5860,24,13,1.8461538461538463,37,11,4563,Win,,,,,,,,,,,,,7,13,8,11,5,1521
@@ -6375,3 +6375,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 201,797,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Control,Garrison,Prestinni,800,11,13,0.8461538461538461,24,-2,2109,Loss,,,,,,,,,,,,,0,4,2,7,4,703
 201,797,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Control,Garrison,Classic,1275,13,14,0.9285714285714286,27,-1,2987,Loss,,,,,,,,,,,,,0,6,3,7,6,995.67
 201,797,Stage 5 Week 2,Seattle Surge,Toronto Ultra,Control,Garrison,Gunless,600,7,17,0.4117647058823529,24,-10,1688,Loss,,,,,,,,,,,,,0,3,1,4,2,562.67
+202,798,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Raid,Kenny,2775,20,20,1,40,0,3752,Win,113,1,0,53,33,26
+202,798,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Raid,Drazah,3665,26,17,1.5294117647058822,43,9,3916,Win,102,21,0,17,35,29
+202,798,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Raid,John,2440,21,20,1.05,41,1,4105,Win,34,29,0,0,5,0
+202,798,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Raid,SlasheR,1575,19,27,0.7037037037037037,46,-8,3831,Win,34,7,0,3,7,17
+202,798,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Raid,Skrapz,2685,26,23,1.1304347826086956,49,3,4879,Loss,43,27,16,0,0,0
+202,798,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Raid,Zaptius,2070,16,20,0.8,36,-4,3018,Loss,139,3,62,36,34,4
+202,798,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Raid,AquA,2010,22,23,0.9565217391304348,45,-1,4121,Loss,62,24,15,23,0,0
+202,798,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Raid,Temp,1585,20,20,1,40,0,4228,Loss,75,8,47,20,0,0
+202,799,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Kenny,750,9,7,1.2857142857142858,16,2,1610,Loss,,,,,,,1,1,0,1,0.82,146.36
+202,799,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,Drazah,440,6,10,0.6,16,-4,1432,Loss,,,,,,,1,3,0,0,0.55,130.18
+202,799,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,John,1055,11,8,1.375,19,3,1970,Loss,,,,,,,1,2,0,0,1,179.09
+202,799,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Search and Destroy,Raid,SlasheR,475,3,9,0.3333333333333333,12,-6,1106,Loss,,,,,,,0,2,1,0,0.27,100.55
+202,799,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Skrapz,755,7,9,0.7777777777777778,16,-2,2148,Win,,,,,,,2,0,0,1,0.64,195.27
+202,799,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Zaptius,725,10,8,1.25,18,2,1699,Win,,,,,,,3,2,0,0,0.91,154.45
+202,799,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,AquA,675,6,7,0.8571428571428571,13,-1,1658,Win,,,,,,,2,1,0,0,0.55,150.73
+202,799,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Search and Destroy,Raid,Temp,1050,10,5,2,15,5,1979,Win,,,,,,,1,0,1,0,0.91,179.91
+202,800,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Control,Raid,Kenny,1975,21,20,1.05,41,1,3905,Loss,,,,,,,,,,,,,2,9,6,12,9,1301.67
+202,800,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Control,Raid,Drazah,1250,15,17,0.8823529411764706,32,-2,2412,Loss,,,,,,,,,,,,,1,10,6,5,3,804
+202,800,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Control,Raid,John,2225,13,19,0.6842105263157895,32,-6,3111,Loss,,,,,,,,,,,,,4,4,1,9,1,1037
+202,800,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Control,Raid,SlasheR,1295,9,19,0.47368421052631576,28,-10,2556,Loss,,,,,,,,,,,,,3,3,2,6,4,852
+202,800,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Control,Raid,Skrapz,4000,23,11,2.090909090909091,34,12,3960,Win,,,,,,,,,,,,,8,12,9,11,9,1320
+202,800,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Control,Raid,Zaptius,3355,13,17,0.7647058823529411,30,-4,2355,Win,,,,,,,,,,,,,11,7,4,6,4,785
+202,800,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Control,Raid,AquA,2830,20,17,1.1764705882352942,37,3,3810,Win,,,,,,,,,,,,,7,12,9,8,6,1270
+202,800,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Control,Raid,Temp,1675,19,14,1.3571428571428572,33,5,3868,Win,,,,,,,,,,,,,4,15,5,4,3,1289.33
+202,801,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Kenny,1870,23,21,1.0952380952380953,44,2,4428,Loss,41,5,22,0,12,2
+202,801,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,Drazah,2630,22,19,1.1578947368421053,41,3,4185,Loss,78,8,38,4,0,28
+202,801,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,John,2145,22,22,1,44,0,3461,Loss,42,6,22,11,1,2
+202,801,Stage 5 Week 2,Los Angeles Thieves,Paris Legion,Hardpoint,Apocalypse,SlasheR,1525,14,22,0.6363636363636364,36,-8,3316,Loss,38,4,2,0,28,4
+202,801,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Skrapz,1855,16,17,0.9411764705882353,33,-1,3603,Win,99,9,3,11,39,37
+202,801,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Zaptius,2210,24,19,1.263157894736842,43,5,3158,Win,63,2,20,16,14,11
+202,801,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,AquA,2060,23,24,0.9583333333333334,47,-1,4851,Win,54,40,10,0,1,3
+202,801,Stage 5 Week 2,Paris Legion,Los Angeles Thieves,Hardpoint,Apocalypse,Temp,2060,20,21,0.9523809523809523,41,-1,4543,Win,64,7,3,48,5,1
