@@ -6479,3 +6479,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 204,810,Stage 5 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,C6,2270,25,27,0.9259259259259259,52,-2,5748,Win,61,6,40,7,5,3
 204,810,Stage 5 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,iLLeY,2565,28,26,1.0769230769230769,54,2,5185,Win,90,17,22,44,4,3
 204,810,Stage 5 Week 2,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Vivid,2360,25,32,0.78125,57,-7,5212,Win,65,28,24,5,7,1
+205,811,Stage 5 Week 3,New York Subliners,Paris Legion,Hardpoint,Garrison,Asim,,30,31,0.967741935483871,61,-1,,Win,54
+205,811,Stage 5 Week 3,New York Subliners,Paris Legion,Hardpoint,Garrison,Diamondcon,,22,29,0.7586206896551724,51,-7,,Win,106
+205,811,Stage 5 Week 3,New York Subliners,Paris Legion,Hardpoint,Garrison,Mack,,14,27,0.5185185185185185,41,-13,,Win,83
+205,811,Stage 5 Week 3,New York Subliners,Paris Legion,Hardpoint,Garrison,Hydra,,36,21,1.7142857142857142,57,15,,Win,44
+205,811,Stage 5 Week 3,Paris Legion,New York Subliners,Hardpoint,Garrison,Skrapz,,22,28,0.7857142857142857,50,-6,,Loss,100
+205,811,Stage 5 Week 3,Paris Legion,New York Subliners,Hardpoint,Garrison,Zaptius,,28,25,1.12,53,3,,Loss,106
+205,811,Stage 5 Week 3,Paris Legion,New York Subliners,Hardpoint,Garrison,AquA,,28,26,1.0769230769230769,54,2,,Loss,10
+205,811,Stage 5 Week 3,Paris Legion,New York Subliners,Hardpoint,Garrison,Temp,,30,23,1.3043478260869565,53,7,,Loss,40
+205,812,Stage 5 Week 3,New York Subliners,Paris Legion,Search and Destroy,Moscow,Asim,800,6,9,0.6666666666666666,15,-3,1406,Loss,,,,,,,1,3,2,1,0.55,127.82
+205,812,Stage 5 Week 3,New York Subliners,Paris Legion,Search and Destroy,Moscow,Diamondcon,1050,7,9,0.7777777777777778,16,-2,1387,Loss,,,,,,,0,1,0,0,0.64,126.09
+205,812,Stage 5 Week 3,New York Subliners,Paris Legion,Search and Destroy,Moscow,Mack,1050,11,8,1.375,19,3,1769,Loss,,,,,,,2,2,0,1,1,160.82
+205,812,Stage 5 Week 3,New York Subliners,Paris Legion,Search and Destroy,Moscow,Hydra,650,9,8,1.125,17,1,1707,Loss,,,,,,,1,1,0,0,0.82,155.18
+205,812,Stage 5 Week 3,Paris Legion,New York Subliners,Search and Destroy,Moscow,Skrapz,455,5,9,0.5555555555555556,14,-4,988,Win,,,,,,,3,0,0,0,0.45,89.82
+205,812,Stage 5 Week 3,Paris Legion,New York Subliners,Search and Destroy,Moscow,Zaptius,1775,13,8,1.625,21,5,2037,Win,,,,,,,1,1,1,1,1.18,185.18
+205,812,Stage 5 Week 3,Paris Legion,New York Subliners,Search and Destroy,Moscow,AquA,830,8,8,1,16,0,1936,Win,,,,,,,2,1,0,0,0.73,176
+205,812,Stage 5 Week 3,Paris Legion,New York Subliners,Search and Destroy,Moscow,Temp,965,8,8,1,16,0,1611,Win,,,,,,,1,2,3,0,0.73,146.45
+205,813,Stage 5 Week 3,New York Subliners,Paris Legion,Control,Garrison,Asim,3225,28,24,1.1666666666666667,52,4,4901,Win,,,,,,,,,,,,,3,13,12,15,10,1225.25
+205,813,Stage 5 Week 3,New York Subliners,Paris Legion,Control,Garrison,Diamondcon,2575,17,20,0.85,37,-3,3551,Win,,,,,,,,,,,,,4,6,3,11,6,887.75
+205,813,Stage 5 Week 3,New York Subliners,Paris Legion,Control,Garrison,Mack,4400,28,18,1.5555555555555556,46,10,4992,Win,,,,,,,,,,,,,6,16,8,12,9,1248
+205,813,Stage 5 Week 3,New York Subliners,Paris Legion,Control,Garrison,Hydra,1375,16,19,0.8421052631578947,35,-3,3299,Win,,,,,,,,,,,,,2,5,1,11,6,824.75
+205,813,Stage 5 Week 3,Paris Legion,New York Subliners,Control,Garrison,Skrapz,1775,14,27,0.5185185185185185,41,-13,3349,Loss,,,,,,,,,,,,,3,6,4,8,7,837.25
+205,813,Stage 5 Week 3,Paris Legion,New York Subliners,Control,Garrison,Zaptius,3705,22,18,1.2222222222222223,40,4,3587,Loss,,,,,,,,,,,,,7,12,6,10,9,896.75
+205,813,Stage 5 Week 3,Paris Legion,New York Subliners,Control,Garrison,AquA,4295,28,17,1.6470588235294117,45,11,5285,Loss,,,,,,,,,,,,,3,13,8,15,12,1321.25
+205,813,Stage 5 Week 3,Paris Legion,New York Subliners,Control,Garrison,Temp,1365,17,27,0.6296296296296297,44,-10,3947,Loss,,,,,,,,,,,,,1,8,7,9,6,986.75
+205,814,Stage 5 Week 3,New York Subliners,Paris Legion,Hardpoint,Apocalypse,Asim,1330,15,20,0.75,35,-5,3532,Loss,26,18,0,5,0,3
+205,814,Stage 5 Week 3,New York Subliners,Paris Legion,Hardpoint,Apocalypse,Diamondcon,895,13,21,0.6190476190476191,34,-8,2203,Loss,18,9,7,2,0,0
+205,814,Stage 5 Week 3,New York Subliners,Paris Legion,Hardpoint,Apocalypse,Mack,2530,17,18,0.9444444444444444,35,-1,3600,Loss,55,7,15,33,0,0
+205,814,Stage 5 Week 3,New York Subliners,Paris Legion,Hardpoint,Apocalypse,Hydra,1935,17,17,1,34,0,3242,Loss,41,1,1,39,0,0
+205,814,Stage 5 Week 3,Paris Legion,New York Subliners,Hardpoint,Apocalypse,Skrapz,1720,21,21,1,42,0,3847,Win,44,10,8,6,1,19
+205,814,Stage 5 Week 3,Paris Legion,New York Subliners,Hardpoint,Apocalypse,Zaptius,2305,16,12,1.3333333333333333,28,4,2978,Win,138,31,19,2,63,23
+205,814,Stage 5 Week 3,Paris Legion,New York Subliners,Hardpoint,Apocalypse,AquA,3580,22,13,1.6923076923076923,35,9,3746,Win,78,13,45,0,11,9
+205,814,Stage 5 Week 3,Paris Legion,New York Subliners,Hardpoint,Apocalypse,Temp,1545,17,16,1.0625,33,1,3605,Win,17,13,2,0,0,2
+205,815,Stage 5 Week 3,New York Subliners,Paris Legion,Search and Destroy,Standoff,Asim,775,7,5,1.4,12,2,1189,Win,,,,,,,2,1,0,0,1,169.86
+205,815,Stage 5 Week 3,New York Subliners,Paris Legion,Search and Destroy,Standoff,Diamondcon,1150,6,3,2,9,3,1047,Win,,,,,,,0,1,0,0,0.86,149.57
+205,815,Stage 5 Week 3,New York Subliners,Paris Legion,Search and Destroy,Standoff,Mack,1400,9,3,3,12,6,1755,Win,,,,,,,1,1,0,0,1.29,250.71
+205,815,Stage 5 Week 3,New York Subliners,Paris Legion,Search and Destroy,Standoff,Hydra,525,4,4,1,8,0,873,Win,,,,,,,1,0,2,0,0.57,124.71
+205,815,Stage 5 Week 3,Paris Legion,New York Subliners,Search and Destroy,Standoff,Skrapz,350,5,6,0.8333333333333334,11,-1,1367,Loss,,,,,,,0,0,0,0,0.71,195.29
+205,815,Stage 5 Week 3,Paris Legion,New York Subliners,Search and Destroy,Standoff,Zaptius,215,3,6,0.5,9,-3,763,Loss,,,,,,,0,2,0,0,0.43,109
+205,815,Stage 5 Week 3,Paris Legion,New York Subliners,Search and Destroy,Standoff,AquA,265,4,7,0.5714285714285714,11,-3,1076,Loss,,,,,,,1,1,0,0,0.57,153.71
+205,815,Stage 5 Week 3,Paris Legion,New York Subliners,Search and Destroy,Standoff,Temp,200,3,7,0.42857142857142855,10,-4,803,Loss,,,,,,,2,1,0,0,0.43,114.71
