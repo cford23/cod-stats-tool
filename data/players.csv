@@ -6599,3 +6599,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 208,825,Stage 5 Week 3,Dallas Empire,Seattle Surge,Control,Garrison,C6,5125,24,14,1.7142857142857142,38,10,4588,Win,,,,,,,,,,,,,7,9,8,15,5,917.6
 208,825,Stage 5 Week 3,Dallas Empire,Seattle Surge,Control,Garrison,iLLeY,3050,17,20,0.85,37,-3,4052,Win,,,,,,,,,,,,,6,5,2,12,7,810.4
 208,825,Stage 5 Week 3,Dallas Empire,Seattle Surge,Control,Garrison,Vivid,2925,19,20,0.95,39,-1,3376,Win,,,,,,,,,,,,,7,3,2,16,11,675.2
+209,826,Stage 5 Week 3,London Royal Ravens,Paris Legion,Hardpoint,Checkmate,PaulEhx,2325,19,20,0.95,39,-1,4801,Win,87,34,26,3,2,22
+209,826,Stage 5 Week 3,London Royal Ravens,Paris Legion,Hardpoint,Checkmate,Afro,2985,35,20,1.75,55,15,6144,Win,53,5,18,1,26,3
+209,826,Stage 5 Week 3,London Royal Ravens,Paris Legion,Hardpoint,Checkmate,Seany,3775,28,21,1.3333333333333333,49,7,4180,Win,113,7,37,1,19,49
+209,826,Stage 5 Week 3,London Royal Ravens,Paris Legion,Hardpoint,Checkmate,Alexx,1775,21,25,0.84,46,-4,3954,Win,50,22,0,0,28,0
+209,826,Stage 5 Week 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,Skrapz,1200,13,29,0.4482758620689655,42,-16,3678,Loss,37,5,12,3,16,1
+209,826,Stage 5 Week 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,Zaptius,2090,20,27,0.7407407407407407,47,-7,3945,Loss,73,21,0,14,26,12
+209,826,Stage 5 Week 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,AquA,2880,30,24,1.25,54,6,5242,Loss,17,3,0,9,1,4
+209,826,Stage 5 Week 3,Paris Legion,London Royal Ravens,Hardpoint,Checkmate,Temp,1970,23,23,1,46,0,4053,Loss,47,13,0,9,20,5
+209,827,Stage 5 Week 3,London Royal Ravens,Paris Legion,Search and Destroy,Moscow,PaulEhx,1840,15,6,2.5,21,9,2651,Win,,,,,,,2,1,0,0,1.36,241
+209,827,Stage 5 Week 3,London Royal Ravens,Paris Legion,Search and Destroy,Moscow,Afro,525,6,7,0.8571428571428571,13,-1,1111,Win,,,,,,,4,0,1,0,0.55,101
+209,827,Stage 5 Week 3,London Royal Ravens,Paris Legion,Search and Destroy,Moscow,Seany,1250,7,7,1,14,0,1848,Win,,,,,,,2,1,0,1,0.64,168
+209,827,Stage 5 Week 3,London Royal Ravens,Paris Legion,Search and Destroy,Moscow,Alexx,750,6,7,0.8571428571428571,13,-1,1049,Win,,,,,,,0,1,1,1,0.55,95.36
+209,827,Stage 5 Week 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,Skrapz,525,7,11,0.6363636363636364,18,-4,1415,Loss,,,,,,,1,1,0,0,0.64,128.64
+209,827,Stage 5 Week 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,Zaptius,1180,8,7,1.1428571428571428,15,1,1196,Loss,,,,,,,0,3,4,0,0.73,108.73
+209,827,Stage 5 Week 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,AquA,815,8,8,1,16,0,1949,Loss,,,,,,,2,1,1,0,0.73,177.18
+209,827,Stage 5 Week 3,Paris Legion,London Royal Ravens,Search and Destroy,Moscow,Temp,355,4,8,0.5,12,-4,1036,Loss,,,,,,,0,3,0,0,0.36,94.18
+209,828,Stage 5 Week 3,London Royal Ravens,Paris Legion,Control,Raid,PaulEhx,2090,20,29,0.6896551724137931,49,-9,5222,Loss,,,,,,,,,,,,,2,8,5,12,4,1044.4
+209,828,Stage 5 Week 3,London Royal Ravens,Paris Legion,Control,Raid,Afro,4875,32,22,1.4545454545454546,54,10,6196,Loss,,,,,,,,,,,,,2,13,4,19,9,1239.2
+209,828,Stage 5 Week 3,London Royal Ravens,Paris Legion,Control,Raid,Seany,2140,22,26,0.8461538461538461,48,-4,4874,Loss,,,,,,,,,,,,,2,8,2,14,11,974.8
+209,828,Stage 5 Week 3,London Royal Ravens,Paris Legion,Control,Raid,Alexx,3270,17,28,0.6071428571428571,45,-11,4257,Loss,,,,,,,,,,,,,6,7,3,10,6,851.4
+209,828,Stage 5 Week 3,Paris Legion,London Royal Ravens,Control,Raid,Skrapz,4225,28,23,1.2173913043478262,51,5,5226,Win,,,,,,,,,,,,,5,10,6,18,7,1045.2
+209,828,Stage 5 Week 3,Paris Legion,London Royal Ravens,Control,Raid,Zaptius,3080,24,20,1.2,44,4,4732,Win,,,,,,,,,,,,,5,8,4,16,12,946.4
+209,828,Stage 5 Week 3,Paris Legion,London Royal Ravens,Control,Raid,AquA,4840,28,25,1.12,53,3,5725,Win,,,,,,,,,,,,,4,14,6,14,9,1145
+209,828,Stage 5 Week 3,Paris Legion,London Royal Ravens,Control,Raid,Temp,2725,25,23,1.0869565217391304,48,2,5506,Win,,,,,,,,,,,,,3,11,5,14,4,1101.2
+209,829,Stage 5 Week 3,London Royal Ravens,Paris Legion,Hardpoint,Apocalypse,PaulEhx,2085,22,22,1,44,0,5183,Loss,20,3,11,3,3,0
+209,829,Stage 5 Week 3,London Royal Ravens,Paris Legion,Hardpoint,Apocalypse,Afro,1875,23,20,1.15,43,3,4130,Loss,10,3,0,1,3,3
+209,829,Stage 5 Week 3,London Royal Ravens,Paris Legion,Hardpoint,Apocalypse,Seany,1680,13,20,0.65,33,-7,2537,Loss,114,0,53,4,20,37
+209,829,Stage 5 Week 3,London Royal Ravens,Paris Legion,Hardpoint,Apocalypse,Alexx,1820,23,21,1.0952380952380953,44,2,3045,Loss,42,2,2,19,8,11
+209,829,Stage 5 Week 3,Paris Legion,London Royal Ravens,Hardpoint,Apocalypse,Skrapz,1830,17,23,0.7391304347826086,40,-6,3382,Win,56,29,0,13,2,12
+209,829,Stage 5 Week 3,Paris Legion,London Royal Ravens,Hardpoint,Apocalypse,Zaptius,5240,27,15,1.8,42,12,4034,Win,161,29,35,20,50,27
+209,829,Stage 5 Week 3,Paris Legion,London Royal Ravens,Hardpoint,Apocalypse,AquA,1350,13,22,0.5909090909090909,35,-9,3761,Win,37,15,1,10,3,8
+209,829,Stage 5 Week 3,Paris Legion,London Royal Ravens,Hardpoint,Apocalypse,Temp,2765,26,21,1.2380952380952381,47,5,4419,Win,22,3,0,4,9,6
+209,830,Stage 5 Week 3,London Royal Ravens,Paris Legion,Search and Destroy,Miami,PaulEhx,480,5,8,0.625,13,-3,1326,Win,,,,,,,1,1,0,0,0.45,120.55
+209,830,Stage 5 Week 3,London Royal Ravens,Paris Legion,Search and Destroy,Miami,Afro,525,6,7,0.8571428571428571,13,-1,1242,Win,,,,,,,3,1,0,0,0.55,112.91
+209,830,Stage 5 Week 3,London Royal Ravens,Paris Legion,Search and Destroy,Miami,Seany,450,7,8,0.875,15,-1,2067,Win,,,,,,,0,2,0,0,0.64,187.91
+209,830,Stage 5 Week 3,London Royal Ravens,Paris Legion,Search and Destroy,Miami,Alexx,1125,9,7,1.2857142857142858,16,2,1749,Win,,,,,,,3,0,1,1,0.82,159
+209,830,Stage 5 Week 3,Paris Legion,London Royal Ravens,Search and Destroy,Miami,Skrapz,700,8,5,1.6,13,3,1770,Loss,,,,,,,1,1,0,0,0.73,160.91
+209,830,Stage 5 Week 3,Paris Legion,London Royal Ravens,Search and Destroy,Miami,Zaptius,715,6,7,0.8571428571428571,13,-1,1071,Loss,,,,,,,2,3,1,0,0.55,97.36
+209,830,Stage 5 Week 3,Paris Legion,London Royal Ravens,Search and Destroy,Miami,AquA,1090,11,6,1.8333333333333333,17,5,1819,Loss,,,,,,,0,2,1,0,1,165.36
+209,830,Stage 5 Week 3,Paris Legion,London Royal Ravens,Search and Destroy,Miami,Temp,525,5,9,0.5555555555555556,14,-4,1469,Loss,,,,,,,1,1,0,0,0.45,133.55
