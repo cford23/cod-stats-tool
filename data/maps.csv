@@ -832,8 +832,11 @@ Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Scor
 210,831,Florida Mutineers,Minnesota ROKKR,Stage 5 Week 3,Hardpoint,Garrison,1,140,250,Minnesota ROKKR,10:05,https://youtu.be/RkHZaYOYwUY?t=568
 210,832,Florida Mutineers,Minnesota ROKKR,Stage 5 Week 3,Search and Destroy,Moscow,2,5,6,Minnesota ROKKR,10:44,https://youtu.be/RkHZaYOYwUY?t=1542
 210,833,Florida Mutineers,Minnesota ROKKR,Stage 5 Week 3,Control,Garrison,3,0,3,Minnesota ROKKR,8:29,https://youtu.be/RkHZaYOYwUY?t=3234
-211,834,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Hardpoint,Moscow,1,72,250,OpTic Chicago,7:34
-211,835,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Search and Destroy,Express,2,1,6,OpTic Chicago,7:08
-211,836,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Control,Checkmate,3,3,1,Los Angeles Thieves,9:27
-211,837,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Hardpoint,Checkmate,4,250,196,Los Angeles Thieves,10:35
-211,838,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Search and Destroy,Moscow,5,6,3,Los Angeles Thieves,10:02
+211,834,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Hardpoint,Moscow,1,72,250,OpTic Chicago,7:34,https://youtu.be/0TOv6uRjEIs?t=479
+211,835,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Search and Destroy,Express,2,1,6,OpTic Chicago,7:08,https://youtu.be/0TOv6uRjEIs?t=1243
+211,836,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Control,Checkmate,3,3,1,Los Angeles Thieves,9:27,https://youtu.be/0TOv6uRjEIs?t=2415
+211,837,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Hardpoint,Checkmate,4,250,196,Los Angeles Thieves,10:35,https://youtu.be/0TOv6uRjEIs?t=3417
+211,838,Los Angeles Thieves,OpTic Chicago,Stage 5 Week 3,Search and Destroy,Moscow,5,6,3,Los Angeles Thieves,10:02,https://youtu.be/0TOv6uRjEIs?t=4443
+212,839,Seattle Surge,Los Angeles Guerrillas,Stage 5 Week 3,Hardpoint,Apocalypse,1,250,108,Seattle Surge,8:34
+212,840,Seattle Surge,Los Angeles Guerrillas,Stage 5 Week 3,Search and Destroy,Moscow,2,6,2,Seattle Surge,8:48
+212,841,Seattle Surge,Los Angeles Guerrillas,Stage 5 Week 3,Control,Garrison,3,3,0,Seattle Surge,8:16

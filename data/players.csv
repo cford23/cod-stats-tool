@@ -6703,3 +6703,27 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 211,838,Stage 5 Week 3,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Moscow,Dashy,375,4,7,0.5714285714285714,11,-3,1166,Loss,,,,,,,1,2,0,0,0.44,129.56
 211,838,Stage 5 Week 3,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Moscow,Envoy,585,4,6,0.6666666666666666,10,-2,903,Loss,,,,,,,1,1,0,0,0.44,100.33
 211,838,Stage 5 Week 3,OpTic Chicago,Los Angeles Thieves,Search and Destroy,Moscow,Scump,765,6,7,0.8571428571428571,13,-1,1388,Loss,,,,,,,2,0,3,0,0.67,154.22
+212,839,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Hardpoint,Apocalypse,Octane,2010,22,16,1.375,38,6,3580,Win,87,24,6,14,37,6
+212,839,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Hardpoint,Apocalypse,Prestinni,1260,13,17,0.7647058823529411,30,-4,3595,Win,46,6,27,4,1,8
+212,839,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Hardpoint,Apocalypse,Classic,2370,21,18,1.1666666666666667,39,3,3726,Win,77,47,2,1,0,27
+212,839,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Hardpoint,Apocalypse,Gunless,1935,20,13,1.5384615384615385,33,7,3164,Win,62,7,6,13,28,8
+212,839,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Hardpoint,Apocalypse,MentaL,1215,11,17,0.6470588235294118,28,-6,2410,Loss,63,11,40,5,0,7
+212,839,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Hardpoint,Apocalypse,Assault,1310,18,18,1,36,0,3817,Loss,19,0,18,1,0,0
+212,839,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Hardpoint,Apocalypse,Silly,1360,15,22,0.6818181818181818,37,-7,2991,Loss,25,3,11,2,0,9
+212,839,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Hardpoint,Apocalypse,Apathy,1915,20,20,1,40,0,3391,Loss,15,3,3,6,3,0
+212,840,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Search and Destroy,Moscow,Octane,350,5,8,0.625,13,-3,1212,Win,,,,,,,2,2,0,0,0.63,151.5
+212,840,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Search and Destroy,Moscow,Prestinni,650,6,5,1.2,11,1,1379,Win,,,,,,,1,0,0,0,0.75,172.38
+212,840,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Search and Destroy,Moscow,Classic,675,7,6,1.1666666666666667,13,1,1225,Win,,,,,,,0,1,2,0,0.88,153.13
+212,840,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Search and Destroy,Moscow,Gunless,715,9,4,2.25,13,5,1396,Win,,,,,,,1,1,0,0,1.13,174.5
+212,840,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Search and Destroy,Moscow,MentaL,475,5,6,0.8333333333333334,11,-1,1237,Loss,,,,,,,0,1,0,0,0.63,154.63
+212,840,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Search and Destroy,Moscow,Assault,430,6,7,0.8571428571428571,13,-1,1148,Loss,,,,,,,1,1,0,0,0.75,143.5
+212,840,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Search and Destroy,Moscow,Silly,515,7,7,1,14,0,1306,Loss,,,,,,,2,1,0,0,0.88,163.25
+212,840,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Search and Destroy,Moscow,Apathy,550,5,7,0.7142857142857143,12,-2,1032,Loss,,,,,,,1,1,1,0,0.63,129
+212,841,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Control,Garrison,Octane,1775,13,14,0.9285714285714286,27,-1,2617,Win,,,,,,,,,,,,,4,4,3,9,8,872.33
+212,841,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Control,Garrison,Prestinni,2840,14,12,1.1666666666666667,26,2,2624,Win,,,,,,,,,,,,,4,7,5,7,6,874.67
+212,841,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Control,Garrison,Classic,1800,20,16,1.25,36,4,3342,Win,,,,,,,,,,,,,3,5,5,15,11,1114
+212,841,Stage 5 Week 3,Seattle Surge,Los Angeles Guerrillas,Control,Garrison,Gunless,3275,16,11,1.4545454545454546,27,5,3195,Win,,,,,,,,,,,,,6,3,3,13,8,1065
+212,841,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Control,Garrison,MentaL,2115,11,18,0.6111111111111112,29,-7,2340,Loss,,,,,,,,,,,,,5,8,5,3,3,780
+212,841,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Control,Garrison,Assault,1125,15,17,0.8823529411764706,32,-2,2700,Loss,,,,,,,,,,,,,1,12,5,3,2,900
+212,841,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Control,Garrison,Silly,1300,11,13,0.8461538461538461,24,-2,2968,Loss,,,,,,,,,,,,,1,9,6,2,0,989.33
+212,841,Stage 5 Week 3,Los Angeles Guerrillas,Seattle Surge,Control,Garrison,Apathy,2500,16,16,1,32,0,3020,Loss,,,,,,,,,,,,,4,12,8,4,3,1006.67
