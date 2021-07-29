@@ -6783,3 +6783,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 214,848,Stage 5 Week 3,Dallas Empire,Toronto Ultra,Hardpoint,Garrison,C6,2690,34,29,1.1724137931034482,63,5,6263,Win,24,14,3,1,5,1
 214,848,Stage 5 Week 3,Dallas Empire,Toronto Ultra,Hardpoint,Garrison,iLLeY,2760,34,26,1.3076923076923077,60,8,6338,Win,59,0,11,9,12,27
 214,848,Stage 5 Week 3,Dallas Empire,Toronto Ultra,Hardpoint,Garrison,Vivid,2355,25,29,0.8620689655172413,54,-4,5091,Win,53,23,3,10,16,1
+215,849,Major 5,Seattle Surge,Paris Legion,Hardpoint,Raid,Octane,,17,12,1.4166666666666667,29,5,,Win,145
+215,849,Major 5,Seattle Surge,Paris Legion,Hardpoint,Raid,Classic,,18,19,0.9473684210526315,37,-1,,Win,47
+215,849,Major 5,Seattle Surge,Paris Legion,Hardpoint,Raid,Prestinni,,18,12,1.5,30,6,,Win,49
+215,849,Major 5,Seattle Surge,Paris Legion,Hardpoint,Raid,Gunless,,21,15,1.4,36,6,,Win,104
+215,849,Major 5,Paris Legion,Seattle Surge,Hardpoint,Raid,Zaptius,,14,18,0.7777777777777778,32,-4,,Loss,15
+215,849,Major 5,Paris Legion,Seattle Surge,Hardpoint,Raid,AquA,,16,19,0.8421052631578947,35,-3,,Loss,50
+215,849,Major 5,Paris Legion,Seattle Surge,Hardpoint,Raid,Temp,,14,17,0.8235294117647058,31,-3,,Loss,12
+215,849,Major 5,Paris Legion,Seattle Surge,Hardpoint,Raid,Skrapz,,14,20,0.7,34,-6,,Loss,21
+215,850,Major 5,Seattle Surge,Paris Legion,Search and Destroy,Raid,Octane,,2,8,0.25,10,-6,,Loss
+215,850,Major 5,Seattle Surge,Paris Legion,Search and Destroy,Raid,Classic,,7,6,1.1666666666666667,13,1,,Loss
+215,850,Major 5,Seattle Surge,Paris Legion,Search and Destroy,Raid,Prestinni,,6,7,0.8571428571428571,13,-1,,Loss
+215,850,Major 5,Seattle Surge,Paris Legion,Search and Destroy,Raid,Gunless,,5,6,0.8333333333333334,11,-1,,Loss
+215,850,Major 5,Paris Legion,Seattle Surge,Search and Destroy,Raid,Zaptius,,6,5,1.2,11,1,,Win
+215,850,Major 5,Paris Legion,Seattle Surge,Search and Destroy,Raid,AquA,,9,6,1.5,15,3,,Win
+215,850,Major 5,Paris Legion,Seattle Surge,Search and Destroy,Raid,Temp,,7,6,1.1666666666666667,13,1,,Win
+215,850,Major 5,Paris Legion,Seattle Surge,Search and Destroy,Raid,Skrapz,,5,3,1.6666666666666667,8,2,,Win
+215,851,Major 5,Seattle Surge,Paris Legion,Control,Garrison,Octane,,18,14,1.2857142857142858,32,4,,Win
+215,851,Major 5,Seattle Surge,Paris Legion,Control,Garrison,Classic,,16,21,0.7619047619047619,37,-5,,Win
+215,851,Major 5,Seattle Surge,Paris Legion,Control,Garrison,Prestinni,,23,16,1.4375,39,7,,Win
+215,851,Major 5,Seattle Surge,Paris Legion,Control,Garrison,Gunless,,19,16,1.1875,35,3,,Win
+215,851,Major 5,Paris Legion,Seattle Surge,Control,Garrison,Zaptius,,21,20,1.05,41,1,,Loss
+215,851,Major 5,Paris Legion,Seattle Surge,Control,Garrison,AquA,,16,18,0.8888888888888888,34,-2,,Loss
+215,851,Major 5,Paris Legion,Seattle Surge,Control,Garrison,Temp,,14,17,0.8235294117647058,31,-3,,Loss
+215,851,Major 5,Paris Legion,Seattle Surge,Control,Garrison,Skrapz,,16,21,0.7619047619047619,37,-5,,Loss
+215,852,Major 5,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Octane,3105,13,5,2.6,18,8,2495,Win,110,0,102,3,5,0
+215,852,Major 5,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Classic,2645,19,17,1.1176470588235294,36,2,3898,Win,62,2,8,11,10,31
+215,852,Major 5,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Prestinni,2250,19,13,1.4615384615384615,32,6,3516,Win,44,15,3,0,10,16
+215,852,Major 5,Seattle Surge,Paris Legion,Hardpoint,Apocalypse,Gunless,1820,17,13,1.3076923076923077,30,4,3154,Win,63,38,7,4,0,14
+215,852,Major 5,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Zaptius,1155,13,14,0.9285714285714286,27,-1,2983,Loss,52,2,0,38,12,0
+215,852,Major 5,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,AquA,1075,14,15,0.9333333333333333,29,-1,2613,Loss,32,27,0,0,4,1
+215,852,Major 5,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Temp,660,9,19,0.47368421052631576,28,-10,1695,Loss,13,0,0,13,0,0
+215,852,Major 5,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Skrapz,905,12,20,0.6,32,-8,3010,Loss,18,16,0,0,0,2
