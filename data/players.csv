@@ -6815,3 +6815,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 215,852,Major 5,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,AquA,1075,14,15,0.9333333333333333,29,-1,2613,Loss,32,27,0,0,4,1
 215,852,Major 5,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Temp,660,9,19,0.47368421052631576,28,-10,1695,Loss,13,0,0,13,0,0
 215,852,Major 5,Paris Legion,Seattle Surge,Hardpoint,Apocalypse,Skrapz,905,12,20,0.6,32,-8,3010,Loss,18,16,0,0,0,2
+216,853,Major 5,New York Subliners,Los Angeles Guerrillas,Hardpoint,Garrison,Asim,2475,22,22,1,44,0,5283,Win,75,8,0,57,2,8
+216,853,Major 5,New York Subliners,Los Angeles Guerrillas,Hardpoint,Garrison,Hydra,2030,27,19,1.4210526315789473,46,8,4742,Win,43,2,5,13,0,23
+216,853,Major 5,New York Subliners,Los Angeles Guerrillas,Hardpoint,Garrison,Diamondcon,2090,22,19,1.1578947368421053,41,3,4077,Win,69,37,5,5,16,6
+216,853,Major 5,New York Subliners,Los Angeles Guerrillas,Hardpoint,Garrison,Mack,2045,16,21,0.7619047619047619,37,-5,3489,Win,89,2,49,14,0,24
+216,853,Major 5,Los Angeles Guerrillas,New York Subliners,Hardpoint,Garrison,Apathy,1960,21,23,0.9130434782608695,44,-2,3993,Loss,34,21,6,1,3,3
+216,853,Major 5,Los Angeles Guerrillas,New York Subliners,Hardpoint,Garrison,MentaL,2465,16,18,0.8888888888888888,34,-2,3679,Loss,56,2,45,0,9,0
+216,853,Major 5,Los Angeles Guerrillas,New York Subliners,Hardpoint,Garrison,Silly,1665,19,24,0.7916666666666666,43,-5,3859,Loss,60,8,0,0,38,14
+216,853,Major 5,Los Angeles Guerrillas,New York Subliners,Hardpoint,Garrison,Assault,2645,25,22,1.1363636363636365,47,3,5343,Loss,47,0,17,0,18,12
+216,854,Major 5,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Moscow,Asim,625,5,7,0.7142857142857143,12,-2,1385,Loss,,,,,,,1,2,1,1,0.5,138.5
+216,854,Major 5,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Moscow,Hydra,865,9,6,1.5,15,3,1733,Loss,,,,,,,3,2,1,0,0.9,173.3
+216,854,Major 5,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Moscow,Diamondcon,600,6,8,0.75,14,-2,1746,Loss,,,,,,,0,0,0,0,0.6,174.6
+216,854,Major 5,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Moscow,Mack,690,6,7,0.8571428571428571,13,-1,1927,Loss,,,,,,,1,1,0,1,0.6,192.7
+216,854,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Moscow,Apathy,1375,7,7,1,14,0,1332,Win,,,,,,,1,0,3,0,0.7,133.2
+216,854,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Moscow,MentaL,825,7,6,1.1666666666666667,13,1,1718,Win,,,,,,,1,3,0,0,0.7,171.8
+216,854,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Moscow,Silly,1700,10,5,2,15,5,1850,Win,,,,,,,2,0,1,1,1,185
+216,854,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Moscow,Assault,340,4,8,0.5,12,-4,986,Win,,,,,,,1,2,0,0,0.4,98.6
+216,855,Major 5,New York Subliners,Los Angeles Guerrillas,Control,Checkmate,Asim,3420,20,16,1.25,36,4,3356,Win,,,,,,,,,,,,,1,11,8,9,5,1118.67
+216,855,Major 5,New York Subliners,Los Angeles Guerrillas,Control,Checkmate,Hydra,2315,19,12,1.5833333333333333,31,7,3590,Win,,,,,,,,,,,,,1,5,3,14,10,1196.67
+216,855,Major 5,New York Subliners,Los Angeles Guerrillas,Control,Checkmate,Diamondcon,2000,22,16,1.375,38,6,3394,Win,,,,,,,,,,,,,2,7,2,15,11,1131.33
+216,855,Major 5,New York Subliners,Los Angeles Guerrillas,Control,Checkmate,Mack,2930,19,12,1.5833333333333333,31,7,3325,Win,,,,,,,,,,,,,4,7,1,12,8,1108.33
+216,855,Major 5,Los Angeles Guerrillas,New York Subliners,Control,Checkmate,Apathy,1905,15,21,0.7142857142857143,36,-6,3066,Loss,,,,,,,,,,,,,1,12,8,3,0,1022
+216,855,Major 5,Los Angeles Guerrillas,New York Subliners,Control,Checkmate,MentaL,1580,16,19,0.8421052631578947,35,-3,2521,Loss,,,,,,,,,,,,,1,12,12,4,1,840.33
+216,855,Major 5,Los Angeles Guerrillas,New York Subliners,Control,Checkmate,Silly,2270,11,22,0.5,33,-11,2906,Loss,,,,,,,,,,,,,4,7,5,4,2,968.67
+216,855,Major 5,Los Angeles Guerrillas,New York Subliners,Control,Checkmate,Assault,2060,14,18,0.7777777777777778,32,-4,3055,Loss,,,,,,,,,,,,,4,14,5,0,0,1018.33
+216,856,Major 5,New York Subliners,Los Angeles Guerrillas,Hardpoint,Apocalypse,Asim,2505,23,26,0.8846153846153846,49,-3,5457,Loss,67,37,2,17,11,0
+216,856,Major 5,New York Subliners,Los Angeles Guerrillas,Hardpoint,Apocalypse,Hydra,1625,17,29,0.5862068965517241,46,-12,4405,Loss,18,8,4,0,3,3
+216,856,Major 5,New York Subliners,Los Angeles Guerrillas,Hardpoint,Apocalypse,Diamondcon,3295,23,20,1.15,43,3,3785,Loss,120,27,35,15,39,4
+216,856,Major 5,New York Subliners,Los Angeles Guerrillas,Hardpoint,Apocalypse,Mack,2935,26,24,1.0833333333333333,50,2,4257,Loss,75,51,17,6,1,0
+216,856,Major 5,Los Angeles Guerrillas,New York Subliners,Hardpoint,Apocalypse,Apathy,6815,32,25,1.28,57,7,4956,Win,77,5,12,22,27,11
+216,856,Major 5,Los Angeles Guerrillas,New York Subliners,Hardpoint,Apocalypse,MentaL,2325,26,20,1.3,46,6,4012,Win,82,16,6,17,0,43
+216,856,Major 5,Los Angeles Guerrillas,New York Subliners,Hardpoint,Apocalypse,Silly,2405,26,22,1.1818181818181819,48,4,4582,Win,106,15,26,4,0,61
+216,856,Major 5,Los Angeles Guerrillas,New York Subliners,Hardpoint,Apocalypse,Assault,2210,15,22,0.6818181818181818,37,-7,4115,Win,56,0,23,1,0,32
+216,857,Major 5,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Express,Asim,2265,12,6,2,18,6,2442,Win,,,,,,,2,1,3,0,1.2,244.2
+216,857,Major 5,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Express,Hydra,750,8,6,1.3333333333333333,14,2,1324,Win,,,,,,,1,2,1,0,0.8,132.4
+216,857,Major 5,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Express,Diamondcon,900,6,6,1,12,0,1344,Win,,,,,,,2,0,0,1,0.6,134.4
+216,857,Major 5,New York Subliners,Los Angeles Guerrillas,Search and Destroy,Express,Mack,325,4,8,0.5,12,-4,1224,Win,,,,,,,1,1,0,0,0.4,122.4
+216,857,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Express,Apathy,680,5,8,0.625,13,-3,935,Loss,,,,,,,1,0,2,0,0.5,93.5
+216,857,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Express,MentaL,565,5,8,0.625,13,-3,1231,Loss,,,,,,,2,3,1,0,0.5,123.1
+216,857,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Express,Silly,500,5,7,0.7142857142857143,12,-2,1289,Loss,,,,,,,0,1,0,0,0.5,128.9
+216,857,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Express,Assault,2280,11,7,1.5714285714285714,18,4,1798,Loss,,,,,,,1,2,0,1,1.1,179.8
