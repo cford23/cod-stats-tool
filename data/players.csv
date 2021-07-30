@@ -6855,3 +6855,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 216,857,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Express,MentaL,565,5,8,0.625,13,-3,1231,Loss,,,,,,,2,3,1,0,0.5,123.1
 216,857,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Express,Silly,500,5,7,0.7142857142857143,12,-2,1289,Loss,,,,,,,0,1,0,0,0.5,128.9
 216,857,Major 5,Los Angeles Guerrillas,New York Subliners,Search and Destroy,Express,Assault,2280,11,7,1.5714285714285714,18,4,1798,Loss,,,,,,,1,2,0,1,1.1,179.8
+217,858,Major 5,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Checkmate,Standy,2620,31,27,1.1481481481481481,58,4,4595,Win,50,12,6,20,9,3
+217,858,Major 5,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Checkmate,Attach,2910,27,21,1.2857142857142858,48,6,5574,Win,85,19,2,3,3,58
+217,858,Major 5,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Checkmate,majormaniak,4660,25,16,1.5625,41,9,4559,Win,117,33,60,2,21,1
+217,858,Major 5,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Checkmate,Priestahh,2165,24,23,1.0434782608695652,47,1,4857,Win,22,4,12,0,6,0
+217,858,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Checkmate,Arcitys,1610,19,25,0.76,44,-6,4606,Loss,32,11,13,0,7,1
+217,858,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Checkmate,aBeZy,2080,26,30,0.8666666666666667,56,-4,4273,Loss,77,12,7,8,32,18
+217,858,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Checkmate,Simp,2695,26,28,0.9285714285714286,54,-2,4746,Loss,48,11,9,10,14,4
+217,858,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Checkmate,Cellium,2215,16,24,0.6666666666666666,40,-8,4045,Loss,118,59,3,13,41,2
+217,859,Major 5,Minnesota ROKKR,Atlanta FaZe,Search and Destroy,Express,Standy,1615,12,5,2.4,17,7,1839,Win,,,,,,,1,0,1,1,1.09,167.18
+217,859,Major 5,Minnesota ROKKR,Atlanta FaZe,Search and Destroy,Express,Attach,540,5,8,0.625,13,-3,1100,Win,,,,,,,0,3,2,0,0.45,100
+217,859,Major 5,Minnesota ROKKR,Atlanta FaZe,Search and Destroy,Express,majormaniak,405,4,6,0.6666666666666666,10,-2,739,Win,,,,,,,1,0,0,0,0.36,67.18
+217,859,Major 5,Minnesota ROKKR,Atlanta FaZe,Search and Destroy,Express,Priestahh,675,11,9,1.2222222222222223,20,2,2198,Win,,,,,,,3,3,0,0,1,199.82
+217,859,Major 5,Atlanta FaZe,Minnesota ROKKR,Search and Destroy,Express,Arcitys,915,5,6,0.8333333333333334,11,-1,940,Loss,,,,,,,0,2,4,0,0.45,85.45
+217,859,Major 5,Atlanta FaZe,Minnesota ROKKR,Search and Destroy,Express,aBeZy,450,6,9,0.6666666666666666,15,-3,1810,Loss,,,,,,,2,2,0,0,0.55,164.55
+217,859,Major 5,Atlanta FaZe,Minnesota ROKKR,Search and Destroy,Express,Simp,725,10,8,1.25,18,2,1768,Loss,,,,,,,2,1,0,0,0.91,160.73
+217,859,Major 5,Atlanta FaZe,Minnesota ROKKR,Search and Destroy,Express,Cellium,750,7,9,0.7777777777777778,16,-2,1739,Loss,,,,,,,2,0,0,0,0.64,158.09
+217,860,Major 5,Minnesota ROKKR,Atlanta FaZe,Control,Garrison,Standy,1150,10,18,0.5555555555555556,28,-8,1896,Loss,,,,,,,,,,,,,2,4,1,6,2,632
+217,860,Major 5,Minnesota ROKKR,Atlanta FaZe,Control,Garrison,Attach,945,11,18,0.6111111111111112,29,-7,2449,Loss,,,,,,,,,,,,,1,8,4,3,3,816.33
+217,860,Major 5,Minnesota ROKKR,Atlanta FaZe,Control,Garrison,majormaniak,1540,8,14,0.5714285714285714,22,-6,2268,Loss,,,,,,,,,,,,,3,3,3,5,4,756
+217,860,Major 5,Minnesota ROKKR,Atlanta FaZe,Control,Garrison,Priestahh,1965,17,13,1.3076923076923077,30,4,3084,Loss,,,,,,,,,,,,,3,6,3,11,9,1028
+217,860,Major 5,Atlanta FaZe,Minnesota ROKKR,Control,Garrison,Arcitys,3400,18,11,1.6363636363636365,29,7,2986,Win,,,,,,,,,,,,,8,11,7,7,5,995.33
+217,860,Major 5,Atlanta FaZe,Minnesota ROKKR,Control,Garrison,aBeZy,3515,11,11,1,22,0,2743,Win,,,,,,,,,,,,,12,8,8,3,4,914.33
+217,860,Major 5,Atlanta FaZe,Minnesota ROKKR,Control,Garrison,Simp,2575,12,15,0.8,27,-3,2718,Win,,,,,,,,,,,,,8,6,3,6,3,906
+217,860,Major 5,Atlanta FaZe,Minnesota ROKKR,Control,Garrison,Cellium,5975,22,9,2.4444444444444446,31,13,3684,Win,,,,,,,,,,,,,10,13,9,9,7,1228
+217,861,Major 5,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Raid,Standy,2790,27,17,1.588235294117647,44,10,3843,Win,96,13,0,17,48,18
+217,861,Major 5,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Raid,Attach,1385,16,18,0.8888888888888888,34,-2,3696,Win,37,8,3,4,14,8
+217,861,Major 5,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Raid,majormaniak,1775,10,14,0.7142857142857143,24,-4,2141,Win,139,0,16,80,30,13
+217,861,Major 5,Minnesota ROKKR,Atlanta FaZe,Hardpoint,Raid,Priestahh,1835,24,18,1.3333333333333333,42,6,4828,Win,37,10,1,26,0,0
+217,861,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,Arcitys,1385,15,19,0.7894736842105263,34,-4,3091,Loss,61,30,14,0,0,17
+217,861,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,aBeZy,1690,17,19,0.8947368421052632,36,-2,3498,Loss,80,5,61,14,0,0
+217,861,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,Simp,1605,15,20,0.75,35,-5,2644,Loss,57,23,28,0,0,6
+217,861,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,Cellium,2960,20,19,1.0526315789473684,39,1,3922,Loss,68,18,24,0,26,0
