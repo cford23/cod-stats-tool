@@ -847,21 +847,21 @@ Match ID,Map ID,Team 1,Team 2,Event,Mode,Map,Map Number,Team 1 Score,Team 2 Scor
 214,846,Toronto Ultra,Dallas Empire,Stage 5 Week 3,Search and Destroy,Express,2,4,6,Dallas Empire,9:45,https://youtu.be/_kqMVbui-PM?t=1522
 214,847,Toronto Ultra,Dallas Empire,Stage 5 Week 3,Control,Raid,3,3,2,Toronto Ultra,16:09,https://youtu.be/_kqMVbui-PM?t=3585
 214,848,Toronto Ultra,Dallas Empire,Stage 5 Week 3,Hardpoint,Garrison,4,216,250,Dallas Empire,12:38,https://youtu.be/_kqMVbui-PM?t=5049
-215,849,Paris Legion,Seattle Surge,Major 5,Hardpoint,Raid,1,86,250,Seattle Surge,7:21
-215,850,Paris Legion,Seattle Surge,Major 5,Search and Destroy,Raid,2,6,2,Paris Legion,8:21
-215,851,Paris Legion,Seattle Surge,Major 5,Control,Garrison,3,1,3,Seattle Surge,9:48
-215,852,Paris Legion,Seattle Surge,Major 5,Hardpoint,Apocalypse,4,112,250,Seattle Surge,7:35
-216,853,Los Angeles Guerrillas,New York Subliners,Major 5,Hardpoint,Garrison,1,178,250,New York Subliners,10:20
-216,854,Los Angeles Guerrillas,New York Subliners,Major 5,Search and Destroy,Moscow,2,6,4,Los Angeles Guerrillas,13:22
-216,855,Los Angeles Guerrillas,New York Subliners,Major 5,Control,Checkmate,3,0,3,New York Subliners,8:01
-216,856,Los Angeles Guerrillas,New York Subliners,Major 5,Hardpoint,Apocalypse,4,250,238,Los Angeles Guerrillas,11:19
-216,857,Los Angeles Guerrillas,New York Subliners,Major 5,Search and Destroy,Express,5,4,6,New York Subliners,10:06
-217,858,Minnesota ROKKR,Atlanta FaZe,Major 5,Hardpoint,Checkmate,1,250,211,Minnesota ROKKR,11:28
-217,859,Minnesota ROKKR,Atlanta FaZe,Major 5,Search and Destroy,Express,2,6,5,Minnesota ROKKR,8:42
-217,860,Minnesota ROKKR,Atlanta FaZe,Major 5,Control,Garrison,3,0,3,Atlanta FaZe,8:29
-217,861,Minnesota ROKKR,Atlanta FaZe,Major 5,Hardpoint,Raid,4,250,205,Minnesota ROKKR,9:06
-218,862,Los Angeles Thieves,Toronto Ultra,Major 5,Hardpoint,Raid,1,250,167,Los Angeles Thieves,9:11
-218,863,Los Angeles Thieves,Toronto Ultra,Major 5,Search and Destroy,Moscow,2,0,6,Toronto Ultra,6:59
-218,864,Los Angeles Thieves,Toronto Ultra,Major 5,Control,Garrison,3,0,3,Toronto Ultra,7:32
-218,865,Los Angeles Thieves,Toronto Ultra,Major 5,Hardpoint,Checkmate,4,250,207,Los Angeles Thieves,10:36
-218,866,Los Angeles Thieves,Toronto Ultra,Major 5,Search and Destroy,Standoff,5,3,6,Toronto Ultra,12:53
+215,849,Paris Legion,Seattle Surge,Major 5,Hardpoint,Raid,1,86,250,Seattle Surge,7:21,https://youtu.be/7Z6emVhNNtw?t=568
+215,850,Paris Legion,Seattle Surge,Major 5,Search and Destroy,Raid,2,6,2,Paris Legion,8:21,https://youtu.be/7Z6emVhNNtw?t=1379
+215,851,Paris Legion,Seattle Surge,Major 5,Control,Garrison,3,1,3,Seattle Surge,9:48,https://youtu.be/7Z6emVhNNtw?t=2577
+215,852,Paris Legion,Seattle Surge,Major 5,Hardpoint,Apocalypse,4,112,250,Seattle Surge,7:35,https://youtu.be/7Z6emVhNNtw?t=4291
+216,853,Los Angeles Guerrillas,New York Subliners,Major 5,Hardpoint,Garrison,1,178,250,New York Subliners,10:20,https://youtu.be/DM1RC6kc_Z4?t=685
+216,854,Los Angeles Guerrillas,New York Subliners,Major 5,Search and Destroy,Moscow,2,6,4,Los Angeles Guerrillas,13:22,https://youtu.be/DM1RC6kc_Z4?t=1659
+216,855,Los Angeles Guerrillas,New York Subliners,Major 5,Control,Checkmate,3,0,3,New York Subliners,8:01,https://youtu.be/DM1RC6kc_Z4?t=3205
+216,856,Los Angeles Guerrillas,New York Subliners,Major 5,Hardpoint,Apocalypse,4,250,238,Los Angeles Guerrillas,11:19,https://youtu.be/DM1RC6kc_Z4?t=4060
+216,857,Los Angeles Guerrillas,New York Subliners,Major 5,Search and Destroy,Express,5,4,6,New York Subliners,10:06,https://youtu.be/DM1RC6kc_Z4?t=5190
+217,858,Minnesota ROKKR,Atlanta FaZe,Major 5,Hardpoint,Checkmate,1,250,211,Minnesota ROKKR,11:28,https://youtu.be/4XujRhxyetk?t=482
+217,859,Minnesota ROKKR,Atlanta FaZe,Major 5,Search and Destroy,Express,2,6,5,Minnesota ROKKR,8:42,https://youtu.be/4XujRhxyetk?t=1564
+217,860,Minnesota ROKKR,Atlanta FaZe,Major 5,Control,Garrison,3,0,3,Atlanta FaZe,8:29,https://youtu.be/4XujRhxyetk?t=2858
+217,861,Minnesota ROKKR,Atlanta FaZe,Major 5,Hardpoint,Raid,4,250,205,Minnesota ROKKR,9:06,https://youtu.be/4XujRhxyetk?t=3778
+218,862,Los Angeles Thieves,Toronto Ultra,Major 5,Hardpoint,Raid,1,250,167,Los Angeles Thieves,9:11,https://youtu.be/Y0HClLkIVIw?t=883
+218,863,Los Angeles Thieves,Toronto Ultra,Major 5,Search and Destroy,Moscow,2,0,6,Toronto Ultra,6:59,https://youtu.be/Y0HClLkIVIw?t=1747
+218,864,Los Angeles Thieves,Toronto Ultra,Major 5,Control,Garrison,3,0,3,Toronto Ultra,7:32,https://youtu.be/Y0HClLkIVIw?t=2878
+218,865,Los Angeles Thieves,Toronto Ultra,Major 5,Hardpoint,Checkmate,4,250,207,Los Angeles Thieves,10:36,https://youtu.be/Y0HClLkIVIw?t=3734
+218,866,Los Angeles Thieves,Toronto Ultra,Major 5,Search and Destroy,Standoff,5,3,6,Toronto Ultra,12:53,https://youtu.be/Y0HClLkIVIw?t=4762
