@@ -6887,3 +6887,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 217,861,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,aBeZy,1690,17,19,0.8947368421052632,36,-2,3498,Loss,80,5,61,14,0,0
 217,861,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,Simp,1605,15,20,0.75,35,-5,2644,Loss,57,23,28,0,0,6
 217,861,Major 5,Atlanta FaZe,Minnesota ROKKR,Hardpoint,Raid,Cellium,2960,20,19,1.0526315789473684,39,1,3922,Loss,68,18,24,0,26,0
+218,862,Major 5,Toronto Ultra,Los Angeles Thieves,Hardpoint,Raid,Bance,1315,13,21,0.6190476190476191,34,-8,2289,Loss,35,2,20,0,0,13
+218,862,Major 5,Toronto Ultra,Los Angeles Thieves,Hardpoint,Raid,Cammy,2795,22,22,1,44,0,4520,Loss,25,13,6,6,0,0
+218,862,Major 5,Toronto Ultra,Los Angeles Thieves,Hardpoint,Raid,Insight,2415,17,17,1,34,0,3441,Loss,118,44,16,46,0,12
+218,862,Major 5,Toronto Ultra,Los Angeles Thieves,Hardpoint,Raid,CleanX,2335,19,22,0.8636363636363636,41,-3,4045,Loss,44,1,24,16,0,3
+218,862,Major 5,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,SlasheR,2310,21,17,1.2352941176470589,38,4,3814,Win,115,7,47,34,16,11
+218,862,Major 5,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,Kenny,1660,20,21,0.9523809523809523,41,-1,3638,Win,45,7,0,17,6,15
+218,862,Major 5,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,Drazah,2360,17,14,1.2142857142857142,31,3,2852,Win,142,4,27,17,94,0
+218,862,Major 5,Los Angeles Thieves,Toronto Ultra,Hardpoint,Raid,John,2945,24,19,1.263157894736842,43,5,4163,Win,96,9,8,29,43,7
+218,863,Major 5,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,Bance,500,5,4,1.25,9,1,925,Win,,,,,,,1,1,1,0,0.83,154.17
+218,863,Major 5,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,Cammy,800,8,3,2.6666666666666665,11,5,1283,Win,,,,,,,2,1,0,0,1.33,213.83
+218,863,Major 5,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,Insight,740,6,2,3,8,4,1360,Win,,,,,,,0,0,0,1,1,226.67
+218,863,Major 5,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Moscow,CleanX,575,5,3,1.6666666666666667,8,2,704,Win,,,,,,,1,0,0,1,0.83,117.33
+218,863,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,SlasheR,150,2,6,0.3333333333333333,8,-4,801,Loss,,,,,,,0,1,0,0,0.33,133.5
+218,863,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,Kenny,200,2,6,0.3333333333333333,8,-4,974,Loss,,,,,,,0,0,0,0,0.33,162.33
+218,863,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,Drazah,175,3,6,0.5,9,-3,1004,Loss,,,,,,,1,2,0,0,0.5,167.33
+218,863,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Moscow,John,525,5,6,0.8333333333333334,11,-1,890,Loss,,,,,,,1,1,2,0,0.83,148.33
+218,864,Major 5,Toronto Ultra,Los Angeles Thieves,Control,Garrison,Bance,1500,12,14,0.8571428571428571,26,-2,2530,Win,,,,,,,,,,,,,4,3,3,9,5,843.33
+218,864,Major 5,Toronto Ultra,Los Angeles Thieves,Control,Garrison,Cammy,2040,19,11,1.7272727272727273,30,8,3229,Win,,,,,,,,,,,,,3,6,4,13,11,1076.33
+218,864,Major 5,Toronto Ultra,Los Angeles Thieves,Control,Garrison,Insight,2375,15,9,1.6666666666666667,24,6,3106,Win,,,,,,,,,,,,,4,8,7,7,3,1035.33
+218,864,Major 5,Toronto Ultra,Los Angeles Thieves,Control,Garrison,CleanX,1845,15,14,1.0714285714285714,29,1,2595,Win,,,,,,,,,,,,,4,4,2,11,6,865
+218,864,Major 5,Los Angeles Thieves,Toronto Ultra,Control,Garrison,SlasheR,1040,11,15,0.7333333333333333,26,-4,2919,Loss,,,,,,,,,,,,,1,7,4,4,2,973
+218,864,Major 5,Los Angeles Thieves,Toronto Ultra,Control,Garrison,Kenny,1325,14,12,1.1666666666666667,26,2,2609,Loss,,,,,,,,,,,,,2,9,5,5,3,869.67
+218,864,Major 5,Los Angeles Thieves,Toronto Ultra,Control,Garrison,Drazah,1800,14,16,0.875,30,-2,2275,Loss,,,,,,,,,,,,,3,8,6,6,5,758.33
+218,864,Major 5,Los Angeles Thieves,Toronto Ultra,Control,Garrison,John,750,9,18,0.5,27,-9,1910,Loss,,,,,,,,,,,,,2,7,2,2,2,636.67
+218,865,Major 5,Toronto Ultra,Los Angeles Thieves,Hardpoint,Checkmate,Bance,2315,18,27,0.6666666666666666,45,-9,3754,Loss,61,31,20,0,6,4
+218,865,Major 5,Toronto Ultra,Los Angeles Thieves,Hardpoint,Checkmate,Cammy,2995,24,27,0.8888888888888888,51,-3,4955,Loss,32,13,0,12,0,7
+218,865,Major 5,Toronto Ultra,Los Angeles Thieves,Hardpoint,Checkmate,Insight,2065,20,21,0.9523809523809523,41,-1,4344,Loss,110,24,29,27,28,2
+218,865,Major 5,Toronto Ultra,Los Angeles Thieves,Hardpoint,Checkmate,CleanX,4120,34,27,1.2592592592592593,61,7,5310,Loss,45,7,10,17,11,0
+218,865,Major 5,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,SlasheR,3915,36,23,1.565217391304348,59,13,5586,Win,20,0,0,0,20,0
+218,865,Major 5,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,Kenny,2750,26,24,1.0833333333333333,50,2,4899,Win,54,13,11,10,15,5
+218,865,Major 5,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,Drazah,2565,20,25,0.8,45,-5,4174,Win,151,25,22,12,8,84
+218,865,Major 5,Los Angeles Thieves,Toronto Ultra,Hardpoint,Checkmate,John,2615,19,24,0.7916666666666666,43,-5,4157,Win,95,23,18,0,37,17
+218,866,Major 5,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Standoff,Bance,765,4,7,0.5714285714285714,11,-3,707,Win,,,,,,,0,4,2,1,0.44,78.56
+218,866,Major 5,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Standoff,Cammy,675,10,6,1.6666666666666667,16,4,1754,Win,,,,,,,0,1,0,1,1.11,194.89
+218,866,Major 5,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Standoff,Insight,845,6,5,1.2,11,1,1399,Win,,,,,,,1,1,1,1,0.67,155.44
+218,866,Major 5,Toronto Ultra,Los Angeles Thieves,Search and Destroy,Standoff,CleanX,1125,8,6,1.3333333333333333,14,2,1616,Win,,,,,,,2,0,1,0,0.89,179.56
+218,866,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Standoff,SlasheR,520,7,6,1.1666666666666667,13,1,1711,Loss,,,,,,,1,2,0,0,0.78,190.11
+218,866,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Standoff,Kenny,825,7,8,0.875,15,-1,1472,Loss,,,,,,,2,1,0,1,0.78,163.56
+218,866,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Standoff,Drazah,650,4,8,0.5,12,-4,1080,Loss,,,,,,,1,0,1,1,0.44,120
+218,866,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Standoff,John,765,6,6,1,12,0,1130,Loss,,,,,,,2,0,2,0,0.67,125.56
