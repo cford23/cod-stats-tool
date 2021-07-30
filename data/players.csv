@@ -6951,3 +6951,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 219,869,Major 5,Seattle Surge,London Royal Ravens,Control,Garrison,Prestinni,3675,18,21,0.8571428571428571,39,-3,3970,Win,,,,,,,,,,,,,7,7,6,11,10,794
 219,869,Major 5,Seattle Surge,London Royal Ravens,Control,Garrison,Classic,2175,21,28,0.75,49,-7,3593,Win,,,,,,,,,,,,,4,8,4,13,9,718.6
 219,869,Major 5,Seattle Surge,London Royal Ravens,Control,Garrison,Octane,3990,27,21,1.2857142857142858,48,6,4213,Win,,,,,,,,,,,,,4,16,9,11,10,842.6
+220,870,Major 5,Florida Mutineers,New York Subliners,Hardpoint,Checkmate,Neptune,2000,22,21,1.0476190476190477,43,1,3923,Win,65,25,9,25,6,0
+220,870,Major 5,Florida Mutineers,New York Subliners,Hardpoint,Checkmate,Skyz,3025,26,21,1.2380952380952381,47,5,6018,Win,121,39,48,11,23,0
+220,870,Major 5,Florida Mutineers,New York Subliners,Hardpoint,Checkmate,Owakening,1915,23,22,1.0454545454545454,45,1,5097,Win,29,23,0,6,0,0
+220,870,Major 5,Florida Mutineers,New York Subliners,Hardpoint,Checkmate,Havok,3120,30,19,1.5789473684210527,49,11,4429,Win,79,41,13,0,4,21
+220,870,Major 5,New York Subliners,Florida Mutineers,Hardpoint,Checkmate,Asim,1850,19,28,0.6785714285714286,47,-9,5551,Loss,51,0,8,0,20,23
+220,870,Major 5,New York Subliners,Florida Mutineers,Hardpoint,Checkmate,Hydra,2135,20,26,0.7692307692307693,46,-6,4197,Loss,19,8,7,0,3,1
+220,870,Major 5,New York Subliners,Florida Mutineers,Hardpoint,Checkmate,Diamondcon,3765,25,20,1.25,45,5,4081,Loss,113,0,26,24,54,9
+220,870,Major 5,New York Subliners,Florida Mutineers,Hardpoint,Checkmate,Mack,1900,19,27,0.7037037037037037,46,-8,3477,Loss,61,6,3,4,12,36
+220,871,Major 5,Florida Mutineers,New York Subliners,Search and Destroy,Miami,Neptune,1025,8,5,1.6,13,3,1642,Win,,,,,,,1,0,1,0,0.8,164.2
+220,871,Major 5,Florida Mutineers,New York Subliners,Search and Destroy,Miami,Skyz,775,9,6,1.5,15,3,2119,Win,,,,,,,0,1,0,0,0.9,211.9
+220,871,Major 5,Florida Mutineers,New York Subliners,Search and Destroy,Miami,Owakening,1405,9,7,1.2857142857142858,16,2,1954,Win,,,,,,,2,2,0,0,0.9,195.4
+220,871,Major 5,Florida Mutineers,New York Subliners,Search and Destroy,Miami,Havok,465,7,8,0.875,15,-1,1230,Win,,,,,,,0,4,1,0,0.7,123
+220,871,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Miami,Asim,550,4,9,0.4444444444444444,13,-5,919,Loss,,,,,,,0,1,2,0,0.4,91.9
+220,871,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Miami,Hydra,750,8,8,1,16,0,1590,Loss,,,,,,,3,1,2,0,0.8,159
+220,871,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Miami,Diamondcon,500,7,9,0.7777777777777778,16,-2,1644,Loss,,,,,,,1,1,0,0,0.7,164.4
+220,871,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Miami,Mack,750,7,7,1,14,0,1857,Loss,,,,,,,3,0,0,0,0.7,185.7
+220,872,Major 5,Florida Mutineers,New York Subliners,Control,Checkmate,Neptune,3715,22,20,1.1,42,2,4674,Loss,,,,,,,,,,,,,10,6,6,16,10,934.8
+220,872,Major 5,Florida Mutineers,New York Subliners,Control,Checkmate,Skyz,3965,24,22,1.0909090909090908,46,2,4481,Loss,,,,,,,,,,,,,10,8,8,16,9,896.2
+220,872,Major 5,Florida Mutineers,New York Subliners,Control,Checkmate,Owakening,3370,21,24,0.875,45,-3,4341,Loss,,,,,,,,,,,,,8,9,6,12,11,868.2
+220,872,Major 5,Florida Mutineers,New York Subliners,Control,Checkmate,Havok,2970,21,24,0.875,45,-3,3817,Loss,,,,,,,,,,,,,8,7,2,14,10,763.4
+220,872,Major 5,New York Subliners,Florida Mutineers,Control,Checkmate,Asim,3050,16,23,0.6956521739130435,39,-7,3420,Win,,,,,,,,,,,,,8,13,12,3,3,684
+220,872,Major 5,New York Subliners,Florida Mutineers,Control,Checkmate,Hydra,4250,23,23,1,46,0,4651,Win,,,,,,,,,,,,,8,21,17,2,2,930.2
+220,872,Major 5,New York Subliners,Florida Mutineers,Control,Checkmate,Diamondcon,5925,25,22,1.1363636363636365,47,3,4724,Win,,,,,,,,,,,,,12,22,11,3,2,944.8
+220,872,Major 5,New York Subliners,Florida Mutineers,Control,Checkmate,Mack,4200,26,20,1.3,46,6,4292,Win,,,,,,,,,,,,,9,20,14,6,4,858.8
+220,873,Major 5,Florida Mutineers,New York Subliners,Hardpoint,Raid,Neptune,1795,22,23,0.9565217391304348,45,-1,4026,Loss,33,0,11,17,5,0
+220,873,Major 5,Florida Mutineers,New York Subliners,Hardpoint,Raid,Skyz,1690,16,17,0.9411764705882353,33,-1,3380,Loss,111,29,23,9,50,0
+220,873,Major 5,Florida Mutineers,New York Subliners,Hardpoint,Raid,Owakening,1970,21,16,1.3125,37,5,3958,Loss,79,2,43,7,27,0
+220,873,Major 5,Florida Mutineers,New York Subliners,Hardpoint,Raid,Havok,1110,11,19,0.5789473684210527,30,-8,2392,Loss,63,0,35,0,28,0
+220,873,Major 5,New York Subliners,Florida Mutineers,Hardpoint,Raid,Asim,1975,14,17,0.8235294117647058,31,-3,2543,Win,69,22,8,5,0,34
+220,873,Major 5,New York Subliners,Florida Mutineers,Hardpoint,Raid,Hydra,1765,22,16,1.375,38,6,3759,Win,33,5,13,15,0,0
+220,873,Major 5,New York Subliners,Florida Mutineers,Hardpoint,Raid,Diamondcon,2225,17,18,0.9444444444444444,35,-1,3345,Win,124,25,0,82,0,17
+220,873,Major 5,New York Subliners,Florida Mutineers,Hardpoint,Raid,Mack,2645,22,19,1.1578947368421053,41,3,3935,Win,86,25,16,1,12,32
+220,874,Major 5,Florida Mutineers,New York Subliners,Search and Destroy,Standoff,Neptune,775,10,10,1,20,0,1510,Loss,,,,,,,4,3,0,0,0.91,137.27
+220,874,Major 5,Florida Mutineers,New York Subliners,Search and Destroy,Standoff,Skyz,805,10,8,1.25,18,2,2671,Loss,,,,,,,0,0,0,0,0.91,242.82
+220,874,Major 5,Florida Mutineers,New York Subliners,Search and Destroy,Standoff,Owakening,1030,5,7,0.7142857142857143,12,-2,1317,Loss,,,,,,,0,2,3,0,0.45,119.73
+220,874,Major 5,Florida Mutineers,New York Subliners,Search and Destroy,Standoff,Havok,265,2,8,0.25,10,-6,1207,Loss,,,,,,,0,2,0,0,0.18,109.73
+220,874,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Asim,2025,9,7,1.2857142857142858,16,2,1625,Win,,,,,,,3,2,0,1,0.82,147.73
+220,874,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Hydra,750,10,8,1.25,18,2,2161,Win,,,,,,,3,1,0,0,0.91,196.45
+220,874,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Diamondcon,500,6,7,0.8571428571428571,13,-1,1308,Win,,,,,,,1,0,0,0,0.55,118.91
+220,874,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Mack,1125,8,5,1.6,13,3,1734,Win,,,,,,,0,1,1,1,0.73,157.64
