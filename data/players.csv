@@ -6927,3 +6927,27 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 218,866,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Standoff,Kenny,825,7,8,0.875,15,-1,1472,Loss,,,,,,,2,1,0,1,0.78,163.56
 218,866,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Standoff,Drazah,650,4,8,0.5,12,-4,1080,Loss,,,,,,,1,0,1,1,0.44,120
 218,866,Major 5,Los Angeles Thieves,Toronto Ultra,Search and Destroy,Standoff,John,765,6,6,1,12,0,1130,Loss,,,,,,,2,0,2,0,0.67,125.56
+219,867,Major 5,London Royal Ravens,Seattle Surge,Hardpoint,Raid,Alexx,1915,19,27,0.7037037037037037,46,-8,3699,Loss,83,32,31,4,0,16
+219,867,Major 5,London Royal Ravens,Seattle Surge,Hardpoint,Raid,Seany,2955,30,28,1.0714285714285714,58,2,5757,Loss,90,24,20,20,6,20
+219,867,Major 5,London Royal Ravens,Seattle Surge,Hardpoint,Raid,Afro,3045,31,23,1.3478260869565217,54,8,5273,Loss,56,1,23,13,17,2
+219,867,Major 5,London Royal Ravens,Seattle Surge,Hardpoint,Raid,PaulEhx,2405,23,27,0.8518518518518519,50,-4,4198,Loss,75,11,15,29,7,13
+219,867,Major 5,Seattle Surge,London Royal Ravens,Hardpoint,Raid,Gunless,2420,23,24,0.9583333333333334,47,-1,4712,Win,92,66,0,26,0,0
+219,867,Major 5,Seattle Surge,London Royal Ravens,Hardpoint,Raid,Prestinni,6605,33,23,1.434782608695652,56,10,5147,Win,72,7,0,10,37,18
+219,867,Major 5,Seattle Surge,London Royal Ravens,Hardpoint,Raid,Classic,3605,25,26,0.9615384615384616,51,-1,3857,Win,57,16,15,0,13,13
+219,867,Major 5,Seattle Surge,London Royal Ravens,Hardpoint,Raid,Octane,2500,24,30,0.8,54,-6,4489,Win,61,15,8,10,16,12
+219,868,Major 5,London Royal Ravens,Seattle Surge,Search and Destroy,Moscow,Alexx,465,6,7,0.8571428571428571,13,-1,912,Loss,,,,,,,0,0,1,0,0.75,114
+219,868,Major 5,London Royal Ravens,Seattle Surge,Search and Destroy,Moscow,Seany,255,2,6,0.3333333333333333,8,-4,522,Loss,,,,,,,0,1,0,0,0.25,65.25
+219,868,Major 5,London Royal Ravens,Seattle Surge,Search and Destroy,Moscow,Afro,425,6,7,0.8571428571428571,13,-1,1414,Loss,,,,,,,3,2,0,0,0.75,176.75
+219,868,Major 5,London Royal Ravens,Seattle Surge,Search and Destroy,Moscow,PaulEhx,530,3,6,0.5,9,-3,1048,Loss,,,,,,,1,1,0,1,0.38,131
+219,868,Major 5,Seattle Surge,London Royal Ravens,Search and Destroy,Moscow,Gunless,500,4,5,0.8,9,-1,1190,Win,,,,,,,0,1,0,0,0.5,148.75
+219,868,Major 5,Seattle Surge,London Royal Ravens,Search and Destroy,Moscow,Prestinni,1025,7,6,1.1666666666666667,13,1,1146,Win,,,,,,,3,2,0,0,0.88,143.25
+219,868,Major 5,Seattle Surge,London Royal Ravens,Search and Destroy,Moscow,Classic,690,6,4,1.5,10,2,676,Win,,,,,,,0,0,2,0,0.75,84.5
+219,868,Major 5,Seattle Surge,London Royal Ravens,Search and Destroy,Moscow,Octane,1220,9,2,4.5,11,7,1596,Win,,,,,,,1,1,0,1,1.13,199.5
+219,869,Major 5,London Royal Ravens,Seattle Surge,Control,Garrison,Alexx,2665,21,26,0.8076923076923077,47,-5,3395,Loss,,,,,,,,,,,,,4,10,8,11,6,679
+219,869,Major 5,London Royal Ravens,Seattle Surge,Control,Garrison,Seany,3465,24,21,1.1428571428571428,45,3,4161,Loss,,,,,,,,,,,,,4,11,8,13,10,832.2
+219,869,Major 5,London Royal Ravens,Seattle Surge,Control,Garrison,Afro,6375,29,19,1.5263157894736843,48,10,4970,Loss,,,,,,,,,,,,,6,10,6,19,12,994
+219,869,Major 5,London Royal Ravens,Seattle Surge,Control,Garrison,PaulEhx,2515,19,22,0.8636363636363636,41,-3,4502,Loss,,,,,,,,,,,,,3,7,3,12,9,900.4
+219,869,Major 5,Seattle Surge,London Royal Ravens,Control,Garrison,Gunless,3450,22,23,0.9565217391304348,45,-1,4545,Win,,,,,,,,,,,,,8,10,7,12,10,909
+219,869,Major 5,Seattle Surge,London Royal Ravens,Control,Garrison,Prestinni,3675,18,21,0.8571428571428571,39,-3,3970,Win,,,,,,,,,,,,,7,7,6,11,10,794
+219,869,Major 5,Seattle Surge,London Royal Ravens,Control,Garrison,Classic,2175,21,28,0.75,49,-7,3593,Win,,,,,,,,,,,,,4,8,4,13,9,718.6
+219,869,Major 5,Seattle Surge,London Royal Ravens,Control,Garrison,Octane,3990,27,21,1.2857142857142858,48,6,4213,Win,,,,,,,,,,,,,4,16,9,11,10,842.6
