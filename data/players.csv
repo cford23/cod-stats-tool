@@ -6991,3 +6991,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 220,874,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Hydra,750,10,8,1.25,18,2,2161,Win,,,,,,,3,1,0,0,0.91,196.45
 220,874,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Diamondcon,500,6,7,0.8571428571428571,13,-1,1308,Win,,,,,,,1,0,0,0,0.55,118.91
 220,874,Major 5,New York Subliners,Florida Mutineers,Search and Destroy,Standoff,Mack,1125,8,5,1.6,13,3,1734,Win,,,,,,,0,1,1,1,0.73,157.64
+221,875,Major 5,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,Vivid,2545,26,27,0.9629629629629629,53,-1,4380,Win,62,11,5,37,0,9
+221,875,Major 5,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,Shotzzy,3200,30,22,1.3636363636363635,52,8,5128,Win,122,21,31,43,3,24
+221,875,Major 5,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,C6,1940,19,24,0.7916666666666666,43,-5,4197,Win,43,20,0,0,8,15
+221,875,Major 5,Dallas Empire,Minnesota ROKKR,Hardpoint,Garrison,iLLeY,2250,27,27,1,54,0,4971,Win,48,22,15,5,6,0
+221,875,Major 5,Minnesota ROKKR,Dallas Empire,Hardpoint,Garrison,Priestahh,3135,30,25,1.2,55,5,5186,Loss,48,13,16,12,1,6
+221,875,Major 5,Minnesota ROKKR,Dallas Empire,Hardpoint,Garrison,majormaniak,1665,18,24,0.75,42,-6,3549,Loss,16,3,5,0,8,0
+221,875,Major 5,Minnesota ROKKR,Dallas Empire,Hardpoint,Garrison,Attach,2245,28,27,1.037037037037037,55,1,5034,Loss,47,25,4,5,2,11
+221,875,Major 5,Minnesota ROKKR,Dallas Empire,Hardpoint,Garrison,Standy,2035,24,26,0.9230769230769231,50,-2,4500,Loss,80,7,14,3,47,9
+221,876,Major 5,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,Vivid,700,9,9,1,18,0,1507,Loss,,,,,,,2,1,0,0,0.9,150.7
+221,876,Major 5,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,Shotzzy,1075,7,7,1,14,0,1112,Loss,,,,,,,3,3,3,1,0.7,111.2
+221,876,Major 5,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,C6,380,4,8,0.5,12,-4,1609,Loss,,,,,,,0,0,0,0,0.4,160.9
+221,876,Major 5,Dallas Empire,Minnesota ROKKR,Search and Destroy,Miami,iLLeY,625,6,8,0.75,14,-2,1581,Loss,,,,,,,1,0,1,0,0.6,158.1
+221,876,Major 5,Minnesota ROKKR,Dallas Empire,Search and Destroy,Miami,Priestahh,475,5,7,0.7142857142857143,12,-2,1413,Win,,,,,,,0,3,0,0,0.5,141.3
+221,876,Major 5,Minnesota ROKKR,Dallas Empire,Search and Destroy,Miami,majormaniak,825,9,7,1.2857142857142858,16,2,1708,Win,,,,,,,1,2,0,0,0.9,170.8
+221,876,Major 5,Minnesota ROKKR,Dallas Empire,Search and Destroy,Miami,Attach,675,6,6,1,12,0,1485,Win,,,,,,,2,1,0,2,0.6,148.5
+221,876,Major 5,Minnesota ROKKR,Dallas Empire,Search and Destroy,Miami,Standy,1450,12,6,2,18,6,1611,Win,,,,,,,1,0,4,0,1.2,161.1
+221,877,Major 5,Dallas Empire,Minnesota ROKKR,Control,Raid,Vivid,2690,17,29,0.5862068965517241,46,-12,4011,Loss,,,,,,,,,,,,,5,11,4,6,3,1002.75
+221,877,Major 5,Dallas Empire,Minnesota ROKKR,Control,Raid,Shotzzy,3020,26,18,1.4444444444444444,44,8,4160,Loss,,,,,,,,,,,,,2,12,4,14,5,1040
+221,877,Major 5,Dallas Empire,Minnesota ROKKR,Control,Raid,C6,3790,24,22,1.0909090909090908,46,2,5217,Loss,,,,,,,,,,,,,8,10,3,14,5,1304.25
+221,877,Major 5,Dallas Empire,Minnesota ROKKR,Control,Raid,iLLeY,2850,21,25,0.84,46,-4,4502,Loss,,,,,,,,,,,,,6,13,6,8,2,1125.5
+221,877,Major 5,Minnesota ROKKR,Dallas Empire,Control,Raid,Priestahh,3725,29,24,1.2083333333333333,53,5,5208,Win,,,,,,,,,,,,,4,14,6,15,7,1302
+221,877,Major 5,Minnesota ROKKR,Dallas Empire,Control,Raid,majormaniak,2680,14,19,0.7368421052631579,33,-5,4141,Win,,,,,,,,,,,,,7,6,2,8,7,1035.25
+221,877,Major 5,Minnesota ROKKR,Dallas Empire,Control,Raid,Attach,3900,24,20,1.2,44,4,4874,Win,,,,,,,,,,,,,7,11,7,13,2,1218.5
+221,877,Major 5,Minnesota ROKKR,Dallas Empire,Control,Raid,Standy,3090,27,25,1.08,52,2,4584,Win,,,,,,,,,,,,,5,8,2,19,7,1146
+221,878,Major 5,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Vivid,2630,30,31,0.967741935483871,61,-1,5293,Loss,49,3,22,0,0,24
+221,878,Major 5,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,Shotzzy,2590,17,25,0.68,42,-8,4037,Loss,80,6,13,36,21,4
+221,878,Major 5,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,C6,1625,14,23,0.6086956521739131,37,-9,3774,Loss,52,0,46,4,0,2
+221,878,Major 5,Dallas Empire,Minnesota ROKKR,Hardpoint,Checkmate,iLLeY,1760,20,27,0.7407407407407407,47,-7,4265,Loss,27,1,9,0,14,3
+221,878,Major 5,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Priestahh,3605,30,20,1.5,50,10,5613,Win,83,26,0,18,39,0
+221,878,Major 5,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,majormaniak,1995,17,19,0.8947368421052632,36,-2,2751,Win,96,40,0,0,11,45
+221,878,Major 5,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Attach,3165,26,22,1.1818181818181819,48,4,5001,Win,89,32,0,14,35,8
+221,878,Major 5,Minnesota ROKKR,Dallas Empire,Hardpoint,Checkmate,Standy,3045,33,20,1.65,53,13,5694,Win,49,23,8,5,8,5
