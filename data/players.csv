@@ -7095,3 +7095,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 223,887,Major 5,New York Subliners,Los Angeles Thieves,Hardpoint,Apocalypse,Hydra,,34,20,1.7,54,14,,Loss,45
 223,887,Major 5,New York Subliners,Los Angeles Thieves,Hardpoint,Apocalypse,Diamondcon,,15,22,0.6818181818181818,37,-7,,Loss,56
 223,887,Major 5,New York Subliners,Los Angeles Thieves,Hardpoint,Apocalypse,Mack,,16,22,0.7272727272727273,38,-6,,Loss,103
+224,888,Major 5,Atlanta FaZe,Seattle Surge,Hardpoint,Moscow,Cellium,2710,23,21,1.0952380952380953,44,2,4244,Loss,76,13,41,6,16
+224,888,Major 5,Atlanta FaZe,Seattle Surge,Hardpoint,Moscow,Simp,2535,25,23,1.0869565217391304,48,2,4746,Loss,65,5,24,14,22
+224,888,Major 5,Atlanta FaZe,Seattle Surge,Hardpoint,Moscow,aBeZy,1490,20,26,0.7692307692307693,46,-6,4069,Loss,28,16,4,8,0
+224,888,Major 5,Atlanta FaZe,Seattle Surge,Hardpoint,Moscow,Arcitys,1525,17,25,0.68,42,-8,3285,Loss,24,17,0,4,3
+224,888,Major 5,Seattle Surge,Atlanta FaZe,Hardpoint,Moscow,Gunless,2300,24,17,1.411764705882353,41,7,4125,Win,102,9,51,34,8
+224,888,Major 5,Seattle Surge,Atlanta FaZe,Hardpoint,Moscow,Prestinni,1965,24,26,0.9230769230769231,50,-2,4129,Win,22,15,0,0,7
+224,888,Major 5,Seattle Surge,Atlanta FaZe,Hardpoint,Moscow,Classic,2170,27,24,1.125,51,3,4603,Win,37,16,2,16,3
+224,888,Major 5,Seattle Surge,Atlanta FaZe,Hardpoint,Moscow,Octane,2500,20,18,1.1111111111111112,38,2,4251,Win,131,50,23,37,21
+224,889,Major 5,Atlanta FaZe,Seattle Surge,Search and Destroy,Express,Cellium,265,3,6,0.5,9,-3,626,Win,,,,,,,0,0,0,0,0.38,78.25
+224,889,Major 5,Atlanta FaZe,Seattle Surge,Search and Destroy,Express,Simp,515,5,5,1,10,0,1125,Win,,,,,,,2,0,0,1,0.63,140.63
+224,889,Major 5,Atlanta FaZe,Seattle Surge,Search and Destroy,Express,aBeZy,1020,10,4,2.5,14,6,1796,Win,,,,,,,1,1,0,0,1.25,224.5
+224,889,Major 5,Atlanta FaZe,Seattle Surge,Search and Destroy,Express,Arcitys,925,6,7,0.8571428571428571,13,-1,1031,Win,,,,,,,3,1,4,0,0.75,128.88
+224,889,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Express,Gunless,215,3,6,0.5,9,-3,698,Loss,,,,,,,1,1,0,0,0.38,87.25
+224,889,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Express,Prestinni,575,7,6,1.1666666666666667,13,1,1230,Loss,,,,,,,1,4,0,0,0.88,153.75
+224,889,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Express,Classic,900,8,6,1.3333333333333333,14,2,1196,Loss,,,,,,,0,1,3,0,1,149.5
+224,889,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Express,Octane,500,4,6,0.6666666666666666,10,-2,1397,Loss,,,,,,,0,0,0,0,0.5,174.63
+224,890,Major 5,Atlanta FaZe,Seattle Surge,Control,Garrison,Cellium,3070,23,22,1.0454545454545454,45,1,4476,Win,,,,,,,,,,,,,7,7,5,16,6,1119
+224,890,Major 5,Atlanta FaZe,Seattle Surge,Control,Garrison,Simp,3345,25,22,1.1363636363636365,47,3,4621,Win,,,,,,,,,,,,,4,11,9,14,11,1155.25
+224,890,Major 5,Atlanta FaZe,Seattle Surge,Control,Garrison,aBeZy,2975,17,21,0.8095238095238095,38,-4,3710,Win,,,,,,,,,,,,,8,6,5,11,7,927.5
+224,890,Major 5,Atlanta FaZe,Seattle Surge,Control,Garrison,Arcitys,6575,32,20,1.6,52,12,5508,Win,,,,,,,,,,,,,8,19,13,13,8,1377
+224,890,Major 5,Seattle Surge,Atlanta FaZe,Control,Garrison,Gunless,2775,19,24,0.7916666666666666,43,-5,4421,Loss,,,,,,,,,,,,,5,13,6,6,4,1105.25
+224,890,Major 5,Seattle Surge,Atlanta FaZe,Control,Garrison,Prestinni,2750,20,24,0.8333333333333334,44,-4,3400,Loss,,,,,,,,,,,,,5,8,5,12,9,850
+224,890,Major 5,Seattle Surge,Atlanta FaZe,Control,Garrison,Classic,3750,27,28,0.9642857142857143,55,-1,4923,Loss,,,,,,,,,,,,,6,13,9,14,13,1230.75
+224,890,Major 5,Seattle Surge,Atlanta FaZe,Control,Garrison,Octane,2825,19,21,0.9047619047619048,40,-2,4240,Loss,,,,,,,,,,,,,7,10,2,9,8,1060
+224,891,Major 5,Atlanta FaZe,Seattle Surge,Hardpoint,Raid,Cellium,4055,27,24,1.125,51,3,5442,Loss,78,0,4,32,32,10
+224,891,Major 5,Atlanta FaZe,Seattle Surge,Hardpoint,Raid,Simp,2040,18,23,0.782608695652174,41,-5,3787,Loss,104,20,11,20,53,0
+224,891,Major 5,Atlanta FaZe,Seattle Surge,Hardpoint,Raid,aBeZy,3185,31,24,1.2916666666666667,55,7,4883,Loss,89,33,18,4,3,31
+224,891,Major 5,Atlanta FaZe,Seattle Surge,Hardpoint,Raid,Arcitys,1990,21,22,0.9545454545454546,43,-1,3670,Loss,41,0,21,0,19,1
+224,891,Major 5,Seattle Surge,Atlanta FaZe,Hardpoint,Raid,Gunless,2020,19,24,0.7916666666666666,43,-5,3895,Win,80,10,16,43,11,0
+224,891,Major 5,Seattle Surge,Atlanta FaZe,Hardpoint,Raid,Prestinni,2005,26,27,0.9629629629629629,53,-1,4930,Win,69,5,15,31,9,9
+224,891,Major 5,Seattle Surge,Atlanta FaZe,Hardpoint,Raid,Classic,2415,30,27,1.1111111111111112,57,3,5627,Win,41,1,6,7,18,9
+224,891,Major 5,Seattle Surge,Atlanta FaZe,Hardpoint,Raid,Octane,2250,18,19,0.9473684210526315,37,-1,3590,Win,146,34,34,21,4,53
+224,892,Major 5,Atlanta FaZe,Seattle Surge,Search and Destroy,Standoff,Cellium,,13,6,2.1666666666666665,19,7,,Loss
+224,892,Major 5,Atlanta FaZe,Seattle Surge,Search and Destroy,Standoff,Simp,,3,8,0.375,11,-5,,Loss
+224,892,Major 5,Atlanta FaZe,Seattle Surge,Search and Destroy,Standoff,aBeZy,,4,7,0.5714285714285714,11,-3,,Loss
+224,892,Major 5,Atlanta FaZe,Seattle Surge,Search and Destroy,Standoff,Arcitys,,4,9,0.4444444444444444,13,-5,,Loss
+224,892,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Standoff,Gunless,,6,4,1.5,10,2,,Win
+224,892,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Standoff,Prestinni,,6,9,0.6666666666666666,15,-3,,Win
+224,892,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Standoff,Classic,,12,6,2,18,6,,Win
+224,892,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Standoff,Octane,,6,5,1.2,11,1,,Win
