@@ -7135,3 +7135,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 224,892,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Standoff,Prestinni,,6,9,0.6666666666666666,15,-3,,Win
 224,892,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Standoff,Classic,,12,6,2,18,6,,Win
 224,892,Major 5,Seattle Surge,Atlanta FaZe,Search and Destroy,Standoff,Octane,,6,5,1.2,11,1,,Win
+225,893,Major 5,Dallas Empire,Los Angeles Thieves,Hardpoint,Checkmate,Vivid,3185,25,31,0.8064516129032258,56,-6,4585,Loss,57,33,8,2,3,11
+225,893,Major 5,Dallas Empire,Los Angeles Thieves,Hardpoint,Checkmate,Shotzzy,2190,24,23,1.0434782608695652,47,1,4618,Loss,47,35,0,0,3,9
+225,893,Major 5,Dallas Empire,Los Angeles Thieves,Hardpoint,Checkmate,iLLeY,2095,22,28,0.7857142857142857,50,-6,4617,Loss,69,44,1,10,9,5
+225,893,Major 5,Dallas Empire,Los Angeles Thieves,Hardpoint,Checkmate,C6,3325,31,29,1.0689655172413792,60,2,6391,Loss,62,6,14,17,2,23
+225,893,Major 5,Los Angeles Thieves,Dallas Empire,Hardpoint,Checkmate,SlasheR,4410,35,22,1.5909090909090908,57,13,6725,Win,66,12,10,21,7,16
+225,893,Major 5,Los Angeles Thieves,Dallas Empire,Hardpoint,Checkmate,Kenny,1830,25,29,0.8620689655172413,54,-4,4851,Win,29,1,9,0,10,9
+225,893,Major 5,Los Angeles Thieves,Dallas Empire,Hardpoint,Checkmate,Drazah,5205,33,23,1.434782608695652,56,10,5356,Win,117,24,66,10,17,0
+225,893,Major 5,Los Angeles Thieves,Dallas Empire,Hardpoint,Checkmate,John,2635,18,28,0.6428571428571429,46,-10,4271,Win,97,9,12,1,35,40
+225,894,Major 5,Dallas Empire,Los Angeles Thieves,Search and Destroy,Miami,Vivid,450,3,8,0.375,11,-5,907,Win,,,,,,,1,3,1,0,0.27,82.45
+225,894,Major 5,Dallas Empire,Los Angeles Thieves,Search and Destroy,Miami,Shotzzy,1200,9,9,1,18,0,1832,Win,,,,,,,2,0,5,0,0.82,166.55
+225,894,Major 5,Dallas Empire,Los Angeles Thieves,Search and Destroy,Miami,iLLeY,550,8,9,0.8888888888888888,17,-1,1801,Win,,,,,,,1,0,0,0,0.73,163.73
+225,894,Major 5,Dallas Empire,Los Angeles Thieves,Search and Destroy,Miami,C6,675,10,8,1.25,18,2,2159,Win,,,,,,,3,1,0,0,0.91,196.27
+225,894,Major 5,Los Angeles Thieves,Dallas Empire,Search and Destroy,Miami,SlasheR,1050,12,7,1.7142857142857142,19,5,2494,Loss,,,,,,,2,1,0,1,1.09,226.73
+225,894,Major 5,Los Angeles Thieves,Dallas Empire,Search and Destroy,Miami,Kenny,475,4,8,0.5,12,-4,1569,Loss,,,,,,,1,2,0,1,0.36,142.64
+225,894,Major 5,Los Angeles Thieves,Dallas Empire,Search and Destroy,Miami,Drazah,875,10,8,1.25,18,2,1998,Loss,,,,,,,1,1,0,0,0.91,181.64
+225,894,Major 5,Los Angeles Thieves,Dallas Empire,Search and Destroy,Miami,John,815,8,7,1.1428571428571428,15,1,1492,Loss,,,,,,,0,3,0,0,0.73,135.64
+225,895,Major 5,Dallas Empire,Los Angeles Thieves,Control,Garrison,Vivid,2630,28,31,0.9032258064516129,59,-3,5166,Win,,,,,,,,,,,,,3,13,8,15,5,1033.2
+225,895,Major 5,Dallas Empire,Los Angeles Thieves,Control,Garrison,Shotzzy,3925,25,22,1.1363636363636365,47,3,5017,Win,,,,,,,,,,,,,6,8,7,17,8,1003.4
+225,895,Major 5,Dallas Empire,Los Angeles Thieves,Control,Garrison,iLLeY,4675,29,22,1.3181818181818181,51,7,5409,Win,,,,,,,,,,,,,6,11,5,18,10,1081.8
+225,895,Major 5,Dallas Empire,Los Angeles Thieves,Control,Garrison,C6,2465,20,28,0.7142857142857143,48,-8,4090,Win,,,,,,,,,,,,,5,8,5,12,7,818
+225,895,Major 5,Los Angeles Thieves,Dallas Empire,Control,Garrison,SlasheR,4985,28,25,1.12,53,3,5882,Loss,,,,,,,,,,,,,7,12,6,16,13,1176.4
+225,895,Major 5,Los Angeles Thieves,Dallas Empire,Control,Garrison,Kenny,4405,29,23,1.2608695652173914,52,6,5368,Loss,,,,,,,,,,,,,2,19,10,10,6,1073.6
+225,895,Major 5,Los Angeles Thieves,Dallas Empire,Control,Garrison,Drazah,3430,27,28,0.9642857142857143,55,-1,4580,Loss,,,,,,,,,,,,,6,10,5,17,11,916
+225,895,Major 5,Los Angeles Thieves,Dallas Empire,Control,Garrison,John,2990,19,26,0.7307692307692307,45,-7,3728,Loss,,,,,,,,,,,,,7,11,5,8,4,745.6
+225,896,Major 5,Dallas Empire,Los Angeles Thieves,Hardpoint,Moscow,Vivid,2900,24,25,0.96,49,-1,5178,Win,72,25,18,11,18
+225,896,Major 5,Dallas Empire,Los Angeles Thieves,Hardpoint,Moscow,Shotzzy,2235,21,22,0.9545454545454546,43,-1,3940,Win,79,24,31,16,8
+225,896,Major 5,Dallas Empire,Los Angeles Thieves,Hardpoint,Moscow,iLLeY,1865,22,24,0.9166666666666666,46,-2,5155,Win,83,33,26,18,6
+225,896,Major 5,Dallas Empire,Los Angeles Thieves,Hardpoint,Moscow,C6,2140,28,21,1.3333333333333333,49,7,5431,Win,52,8,21,21,2
+225,896,Major 5,Los Angeles Thieves,Dallas Empire,Hardpoint,Moscow,SlasheR,2170,23,23,1,46,0,4270,Loss,83,33,3,6,41
+225,896,Major 5,Los Angeles Thieves,Dallas Empire,Hardpoint,Moscow,Kenny,1860,18,26,0.6923076923076923,44,-8,4681,Loss,63,23,8,20,12
+225,896,Major 5,Los Angeles Thieves,Dallas Empire,Hardpoint,Moscow,Drazah,2345,27,22,1.2272727272727273,49,5,4528,Loss,51,0,3,30,18
+225,896,Major 5,Los Angeles Thieves,Dallas Empire,Hardpoint,Moscow,John,2250,24,24,1,48,0,4206,Loss,63,13,36,6,8
