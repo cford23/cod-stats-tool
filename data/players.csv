@@ -7263,3 +7263,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 228,908,Major 5,OpTic Chicago,Dallas Empire,Hardpoint,Raid,Dashy,2015,19,18,1.0555555555555556,37,1,3934,Win,99,24,54,21,0,0
 228,908,Major 5,OpTic Chicago,Dallas Empire,Hardpoint,Raid,Envoy,3580,30,17,1.7647058823529411,47,13,4348,Win,67,16,21,0,6,24
 228,908,Major 5,OpTic Chicago,Dallas Empire,Hardpoint,Raid,FORMAL,2715,22,17,1.2941176470588236,39,5,3883,Win,86,19,4,20,6,37
+229,909,Major 5,Toronto Ultra,OpTic Chicago,Hardpoint,Garrison,Bance,,25,25,1,50,0,,Win,78
+229,909,Major 5,Toronto Ultra,OpTic Chicago,Hardpoint,Garrison,Cammy,,34,29,1.1724137931034482,63,5,,Win,28
+229,909,Major 5,Toronto Ultra,OpTic Chicago,Hardpoint,Garrison,Insight,,18,22,0.8181818181818182,40,-4,,Win,145
+229,909,Major 5,Toronto Ultra,OpTic Chicago,Hardpoint,Garrison,CleanX,,30,35,0.8571428571428571,65,-5,,Win,36
+229,909,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Garrison,Scump,,26,28,0.9285714285714286,54,-2,,Loss,92
+229,909,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Garrison,Dashy,,26,28,0.9285714285714286,54,-2,,Loss,36
+229,909,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Garrison,Envoy,,36,26,1.3846153846153846,62,10,,Loss,106
+229,909,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Garrison,FORMAL,,23,25,0.92,48,-2,,Loss,40
+229,910,Major 5,Toronto Ultra,OpTic Chicago,Search and Destroy,Moscow,Bance,865,5,9,0.5555555555555556,14,-4,1200,Loss,,,,,,,2,3,4,0,0.5,120
+229,910,Major 5,Toronto Ultra,OpTic Chicago,Search and Destroy,Moscow,Cammy,650,8,8,1,16,0,1488,Loss,,,,,,,2,3,0,0,0.8,148.8
+229,910,Major 5,Toronto Ultra,OpTic Chicago,Search and Destroy,Moscow,Insight,1015,6,9,0.6666666666666666,15,-3,1773,Loss,,,,,,,0,0,0,0,0.6,177.3
+229,910,Major 5,Toronto Ultra,OpTic Chicago,Search and Destroy,Moscow,CleanX,925,7,7,1,14,0,1774,Loss,,,,,,,0,0,1,1,0.7,177.4
+229,910,Major 5,OpTic Chicago,Toronto Ultra,Search and Destroy,Moscow,Scump,900,8,7,1.1428571428571428,15,1,2034,Win,,,,,,,1,1,2,0,0.8,203.4
+229,910,Major 5,OpTic Chicago,Toronto Ultra,Search and Destroy,Moscow,Dashy,3240,14,5,2.8,19,9,2456,Win,,,,,,,1,1,0,1,1.4,245.6
+229,910,Major 5,OpTic Chicago,Toronto Ultra,Search and Destroy,Moscow,Envoy,450,4,8,0.5,12,-4,1210,Win,,,,,,,2,1,0,1,0.4,121
+229,910,Major 5,OpTic Chicago,Toronto Ultra,Search and Destroy,Moscow,FORMAL,775,7,6,1.1666666666666667,13,1,1682,Win,,,,,,,2,1,0,1,0.7,168.2
+229,911,Major 5,Toronto Ultra,OpTic Chicago,Control,Raid,Bance,2690,22,25,0.88,47,-3,4204,Win,,,,,,,,,,,,,5,11,2,11,3,1051
+229,911,Major 5,Toronto Ultra,OpTic Chicago,Control,Raid,Cammy,2275,25,23,1.0869565217391304,48,2,5474,Win,,,,,,,,,,,,,3,8,3,17,7,1368.5
+229,911,Major 5,Toronto Ultra,OpTic Chicago,Control,Raid,Insight,4525,30,19,1.5789473684210527,49,11,5536,Win,,,,,,,,,,,,,5,14,10,16,5,1384
+229,911,Major 5,Toronto Ultra,OpTic Chicago,Control,Raid,CleanX,3050,34,28,1.2142857142857142,62,6,6118,Win,,,,,,,,,,,,,3,19,12,15,2,1529.5
+229,911,Major 5,OpTic Chicago,Toronto Ultra,Control,Raid,Scump,2400,24,28,0.8571428571428571,52,-4,4113,Loss,,,,,,,,,,,,,4,14,3,10,6,1028.25
+229,911,Major 5,OpTic Chicago,Toronto Ultra,Control,Raid,Dashy,3420,23,24,0.9583333333333334,47,-1,5389,Loss,,,,,,,,,,,,,6,12,4,11,9,1347.25
+229,911,Major 5,OpTic Chicago,Toronto Ultra,Control,Raid,Envoy,2225,27,31,0.8709677419354839,58,-4,5320,Loss,,,,,,,,,,,,,3,13,3,14,4,1330
+229,911,Major 5,OpTic Chicago,Toronto Ultra,Control,Raid,FORMAL,2965,21,28,0.75,49,-7,3814,Loss,,,,,,,,,,,,,4,13,6,8,6,953.5
+229,912,Major 5,Toronto Ultra,OpTic Chicago,Hardpoint,Checkmate,Bance,2225,21,22,0.9545454545454546,43,-1,3782,Win,98,22,0,0,43,33
+229,912,Major 5,Toronto Ultra,OpTic Chicago,Hardpoint,Checkmate,Cammy,2060,23,18,1.2777777777777777,41,5,4178,Win,80,19,7,18,13,23
+229,912,Major 5,Toronto Ultra,OpTic Chicago,Hardpoint,Checkmate,Insight,2310,21,21,1,42,0,4276,Win,89,18,15,15,41,0
+229,912,Major 5,Toronto Ultra,OpTic Chicago,Hardpoint,Checkmate,CleanX,4040,32,22,1.4545454545454546,54,10,5240,Win,40,12,13,0,14,1
+229,912,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Checkmate,Scump,1910,25,25,1,50,0,4416,Loss,45,11,15,19,0,0
+229,912,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Checkmate,Dashy,2525,27,23,1.173913043478261,50,4,4912,Loss,34,14,14,0,6,0
+229,912,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Checkmate,Envoy,2215,23,24,0.9583333333333334,47,-1,4097,Loss,53,8,11,17,4,13
+229,912,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Checkmate,FORMAL,1240,8,25,0.32,33,-17,3615,Loss,29,2,27,0,0,0
