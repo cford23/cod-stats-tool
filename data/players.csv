@@ -7295,3 +7295,75 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 229,912,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Checkmate,Dashy,2525,27,23,1.173913043478261,50,4,4912,Loss,34,14,14,0,6,0
 229,912,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Checkmate,Envoy,2215,23,24,0.9583333333333334,47,-1,4097,Loss,53,8,11,17,4,13
 229,912,Major 5,OpTic Chicago,Toronto Ultra,Hardpoint,Checkmate,FORMAL,1240,8,25,0.32,33,-17,3615,Loss,29,2,27,0,0,0
+230,913,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,Standy,1150,13,19,0.6842105263157895,32,-6,2213,Loss,0,0,0,0,0,0
+230,913,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,Attach,775,10,18,0.5555555555555556,28,-8,1971,Loss,1,0,0,1,0,0
+230,913,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,majormaniak,765,10,18,0.5555555555555556,28,-8,2252,Loss,12,0,6,0,6,0
+230,913,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,Priestahh,1035,12,17,0.7058823529411765,29,-5,3274,Loss,21,2,0,19,0,0
+230,913,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Checkmate,Bance,1475,14,14,1,28,0,3128,Win,67,13,19,0,35,0
+230,913,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Checkmate,Cammy,1825,15,13,1.1538461538461537,28,2,2879,Win,58,13,27,7,0,11
+230,913,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Checkmate,Insight,4785,24,8,3,32,16,3429,Win,105,64,26,15,0,0
+230,913,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Checkmate,CleanX,2455,19,10,1.9,29,9,3145,Win,66,23,5,0,0,38
+230,914,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Standy,150,2,7,0.2857142857142857,9,-5,932,Loss,,,,,,,2,1,0,0,0.29,133.14
+230,914,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Attach,400,5,5,1,10,0,954,Loss,,,,,,,0,0,0,0,0.71,136.29
+230,914,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,majormaniak,250,3,6,0.5,9,-3,915,Loss,,,,,,,2,1,0,0,0.43,130.71
+230,914,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Priestahh,225,3,7,0.42857142857142855,10,-4,1149,Loss,,,,,,,0,2,0,0,0.43,164.14
+230,914,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Bance,675,4,2,2,6,2,505,Win,,,,,,,0,2,2,0,0.57,72.14
+230,914,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Cammy,250,4,6,0.6666666666666666,10,-2,988,Win,,,,,,,3,2,0,0,0.57,141.14
+230,914,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Insight,820,7,2,3.5,9,5,1613,Win,,,,,,,0,0,1,0,1,230.43
+230,914,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,CleanX,1600,10,3,3.3333333333333335,13,7,2087,Win,,,,,,,1,0,0,0,1.43,298.14
+230,915,Major 5,Minnesota ROKKR,Toronto Ultra,Control,Raid,Standy,2075,18,26,0.6923076923076923,44,-8,4785,Loss,,,,,,,,,,,,,4,7,3,11,3,1196.25
+230,915,Major 5,Minnesota ROKKR,Toronto Ultra,Control,Raid,Attach,3515,31,26,1.1923076923076923,57,5,6019,Loss,,,,,,,,,,,,,4,15,3,16,7,1504.75
+230,915,Major 5,Minnesota ROKKR,Toronto Ultra,Control,Raid,majormaniak,3550,22,17,1.2941176470588236,39,5,3784,Loss,,,,,,,,,,,,,6,13,4,9,5,946
+230,915,Major 5,Minnesota ROKKR,Toronto Ultra,Control,Raid,Priestahh,2575,20,30,0.6666666666666666,50,-10,4132,Loss,,,,,,,,,,,,,5,10,5,10,6,1033
+230,915,Major 5,Toronto Ultra,Minnesota ROKKR,Control,Raid,Bance,2425,13,19,0.6842105263157895,32,-6,2846,Win,,,,,,,,,,,,,5,5,3,8,1,711.5
+230,915,Major 5,Toronto Ultra,Minnesota ROKKR,Control,Raid,Cammy,3600,27,23,1.173913043478261,50,4,4534,Win,,,,,,,,,,,,,6,15,6,12,1,1133.5
+230,915,Major 5,Toronto Ultra,Minnesota ROKKR,Control,Raid,Insight,4750,28,20,1.4,48,8,5397,Win,,,,,,,,,,,,,6,9,5,19,4,1349.25
+230,915,Major 5,Toronto Ultra,Minnesota ROKKR,Control,Raid,CleanX,3650,31,29,1.0689655172413792,60,2,6276,Win,,,,,,,,,,,,,5,15,5,16,6,1569
+230,916,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Standy,1565,19,23,0.8260869565217391,42,-4,3698,Loss,31,0,2,1,18,10
+230,916,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Attach,2075,25,21,1.1904761904761905,46,4,3851,Loss,47,1,25,14,0,7
+230,916,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,majormaniak,1520,17,19,0.8947368421052632,36,-2,4230,Loss,98,8,17,15,39,19
+230,916,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Priestahh,2985,20,20,1,40,0,4093,Loss,66,0,25,41,0,0
+230,916,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Bance,3185,18,16,1.125,34,2,3046,Win,164,31,2,44,55,32
+230,916,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Cammy,2130,26,26,1,52,0,5476,Win,18,18,0,0,0,0
+230,916,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Insight,3135,21,15,1.4,36,6,3030,Win,102,9,6,31,56,0
+230,916,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,CleanX,1760,18,24,0.75,42,-6,3805,Win,73,8,29,15,21,0
+230,917,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Miami,Standy,1900,12,4,3,16,8,1971,Win,,,,,,,5,0,4,0,1.33,219
+230,917,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Miami,Attach,1300,7,2,3.5,9,5,1349,Win,,,,,,,1,0,0,0,0.78,149.89
+230,917,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Miami,majormaniak,225,2,3,0.6666666666666666,5,-1,965,Win,,,,,,,1,1,0,0,0.22,107.22
+230,917,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Miami,Priestahh,575,6,4,1.5,10,2,1128,Win,,,,,,,0,1,0,0,0.67,125.33
+230,917,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Miami,Bance,250,3,7,0.42857142857142855,10,-4,764,Loss,,,,,,,2,3,1,0,0.33,84.89
+230,917,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Miami,Cammy,550,5,6,0.8333333333333334,11,-1,1131,Loss,,,,,,,0,1,0,1,0.56,125.67
+230,917,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Miami,Insight,400,5,7,0.7142857142857143,12,-2,1313,Loss,,,,,,,0,0,0,0,0.56,145.89
+230,917,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Miami,CleanX,50,0,7,0,7,-7,550,Loss,,,,,,,0,3,0,0,0,61.11
+230,918,Major 5,Minnesota ROKKR,Toronto Ultra,Control,Garrison,Standy,2575,18,17,1.0588235294117647,35,1,4141,Win,,,,,,,,,,,,,5,8,7,10,5,1035.25
+230,918,Major 5,Minnesota ROKKR,Toronto Ultra,Control,Garrison,Attach,2650,16,17,0.9411764705882353,33,-1,2910,Win,,,,,,,,,,,,,6,8,9,8,7,727.5
+230,918,Major 5,Minnesota ROKKR,Toronto Ultra,Control,Garrison,majormaniak,1750,15,14,1.0714285714285714,29,1,3190,Win,,,,,,,,,,,,,2,4,3,11,11,797.5
+230,918,Major 5,Minnesota ROKKR,Toronto Ultra,Control,Garrison,Priestahh,2525,21,18,1.1666666666666667,39,3,4061,Win,,,,,,,,,,,,,4,6,5,15,10,1015.25
+230,918,Major 5,Toronto Ultra,Minnesota ROKKR,Control,Garrison,Bance,2525,15,16,0.9375,31,-1,3072,Loss,,,,,,,,,,,,,5,7,3,8,5,768
+230,918,Major 5,Toronto Ultra,Minnesota ROKKR,Control,Garrison,Cammy,1500,19,17,1.1176470588235294,36,2,3731,Loss,,,,,,,,,,,,,1,15,11,4,3,932.75
+230,918,Major 5,Toronto Ultra,Minnesota ROKKR,Control,Garrison,Insight,2290,17,15,1.1333333333333333,32,2,3235,Loss,,,,,,,,,,,,,3,11,6,6,6,808.75
+230,918,Major 5,Toronto Ultra,Minnesota ROKKR,Control,Garrison,CleanX,2515,15,23,0.6521739130434783,38,-8,2921,Loss,,,,,,,,,,,,,5,8,3,7,6,730.25
+230,919,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Standoff,Standy,725,8,6,1.3333333333333333,14,2,1488,Win,,,,,,,2,1,1,0,1,186
+230,919,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Standoff,Attach,1005,6,4,1.5,10,2,1735,Win,,,,,,,0,0,1,1,0.75,216.88
+230,919,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Standoff,majormaniak,390,5,3,1.6666666666666667,8,2,789,Win,,,,,,,0,0,0,0,0.63,98.63
+230,919,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Standoff,Priestahh,825,7,4,1.75,11,3,1298,Win,,,,,,,3,2,2,0,0.88,162.25
+230,919,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Standoff,Bance,725,5,7,0.7142857142857143,12,-2,974,Loss,,,,,,,2,3,1,1,0.63,121.75
+230,919,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Standoff,Cammy,425,4,6,0.6666666666666666,10,-2,1378,Loss,,,,,,,0,0,1,0,0.5,172.25
+230,919,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Standoff,Insight,530,6,6,1,12,0,1548,Loss,,,,,,,1,0,0,0,0.75,193.5
+230,919,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Standoff,CleanX,180,2,7,0.2857142857142857,9,-5,584,Loss,,,,,,,0,2,0,0,0.25,73
+230,920,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Apocalypse,Standy,2185,22,18,1.2222222222222223,40,4,4305,Win,84,6,39,2,37,0
+230,920,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Apocalypse,Attach,2050,16,11,1.4545454545454546,27,5,2341,Win,112,1,44,3,14,50
+230,920,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Apocalypse,majormaniak,2085,22,13,1.6923076923076923,35,9,4322,Win,49,8,0,29,4,8
+230,920,Major 5,Minnesota ROKKR,Toronto Ultra,Hardpoint,Apocalypse,Priestahh,3475,24,15,1.6,39,9,3800,Win,42,10,5,2,0,25
+230,920,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Apocalypse,Bance,1160,11,24,0.4583333333333333,35,-13,2490,Loss,17,6,0,11,0,0
+230,920,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Apocalypse,Cammy,1395,14,22,0.6363636363636364,36,-8,3424,Loss,74,21,1,39,13,0
+230,920,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Apocalypse,Insight,1890,20,14,1.4285714285714286,34,6,3531,Loss,82,36,16,14,16,0
+230,920,Major 5,Toronto Ultra,Minnesota ROKKR,Hardpoint,Apocalypse,CleanX,1000,12,24,0.5,36,-12,3111,Loss,6,5,1,0,0,0
+230,921,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Raid,Standy,,12,5,2.4,17,7,,Win
+230,921,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Raid,Attach,,9,5,1.8,14,4,,Win
+230,921,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Raid,majormaniak,,3,7,0.42857142857142855,10,-4,,Win
+230,921,Major 5,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Raid,Priestahh,,7,6,1.1666666666666667,13,1,,Win
+230,921,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Raid,Bance,,5,9,0.5555555555555556,14,-4,,Loss
+230,921,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Raid,Cammy,,7,8,0.875,15,-1,,Loss
+230,921,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Raid,Insight,,7,7,1,14,0,,Loss
+230,921,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Raid,CleanX,,4,7,0.5714285714285714,11,-3,,Loss
