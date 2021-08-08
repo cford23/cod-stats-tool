@@ -26,6 +26,8 @@ def index():
     updated = datetime.datetime.combine(datetime.date(year, month, day), datetime.time(hour, minutes, seconds))
     msg = data['commit']['message']
 
+    updated = updated.replace(tzinfo=datetime.timezone.utc).astimezone(tz=None)
+
     return render_template("index.html", hour=updated.strftime("%I"), minutes=updated.strftime("%M"), seconds=updated.strftime("%S"),
                            ampm=updated.strftime("%p"), month=updated.strftime("%B"), day=day, year=year, msg=msg)
 
