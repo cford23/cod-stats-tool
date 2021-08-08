@@ -1,6 +1,8 @@
+import datetime
 from flask import Flask, render_template, request
 from models import CoDStats, Team, Player
 import pandas as pd
+import requests
 
 app = Flask(__name__)
 
@@ -8,7 +10,24 @@ stats = CoDStats()
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    # get last updated time and message
+    data = requests.get('https://api.github.com/repos/cford23/cod-stats-tool/commits/master').json()
+
+    date = data['commit']['author']['date'].partition('T')[0]
+    year = int(date.partition('-')[0])
+    month = int(date.partition('-')[2].partition('-')[0])
+    day = int(date.partition('-')[2].partition('-')[2])
+
+    time = data['commit']['author']['date'].partition('T')[2]
+    time = time[:-1]
+    hour = int(time.partition(':')[0])
+    minutes = int(time.partition(':')[2].partition(':')[0])
+    seconds = int(time.partition(':')[2].partition(':')[2])
+    updated = datetime.datetime.combine(datetime.date(year, month, day), datetime.time(hour, minutes, seconds))
+    msg = data['commit']['message']
+
+    return render_template("index.html", hour=updated.strftime("%I"), minutes=updated.strftime("%M"), seconds=updated.strftime("%S"),
+                           ampm=updated.strftime("%p"), month=updated.strftime("%B"), day=day, year=year, msg=msg)
 
 @app.route("/viewMatches", methods=["GET", "POST"])
 def viewMatches():
