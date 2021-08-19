@@ -7391,3 +7391,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 231,924,Champs,Minnesota ROKKR,Dallas Empire,Control,Raid,majormaniak,2150,16,30,0.5333333333333333,46,-14,3701,Loss,,,,,,,,,,,,,5,9,5,7,5,925.25
 231,924,Champs,Minnesota ROKKR,Dallas Empire,Control,Raid,Attach,3825,22,19,1.1578947368421053,41,3,4631,Loss,,,,,,,,,,,,,9,13,8,9,6,1157.75
 231,924,Champs,Minnesota ROKKR,Dallas Empire,Control,Raid,Standy,2925,21,21,1,42,0,3473,Loss,,,,,,,,,,,,,5,11,4,10,6,868.25
+232,925,Champs,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,FORMAL,1800,22,23,0.9565217391304348,45,-1,4199,Loss,18,2,7,2,6,1
+232,925,Champs,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Envoy,2400,16,25,0.64,41,-9,3927,Loss,72,2,0,21,49,0
+232,925,Champs,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Scump,2585,24,24,1,48,0,4468,Loss,14,10,0,0,0,4
+232,925,Champs,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Dashy,1485,22,28,0.7857142857142857,50,-6,3437,Loss,16,0,9,5,2,0
+232,925,Champs,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Clayster,2395,29,23,1.2608695652173914,52,6,5300,Win,61,8,9,14,18,12
+232,925,Champs,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Hydra,2810,28,20,1.4,48,8,5397,Win,56,26,4,23,0,3
+232,925,Champs,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Mack,2830,17,20,0.85,37,-3,3805,Win,117,12,71,1,20,13
+232,925,Champs,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Asim,2640,26,21,1.2380952380952381,47,5,3774,Win,49,19,13,0,15,2
+232,926,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Express,FORMAL,165,2,6,0.3333333333333333,8,-4,370,Loss,,,,,,,1,2,0,0,0.29,52.86
+232,926,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Express,Envoy,605,7,6,1.1666666666666667,13,1,985,Loss,,,,,,,0,2,0,0,1,140.71
+232,926,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Express,Scump,300,3,7,0.42857142857142855,10,-4,794,Loss,,,,,,,0,1,1,0,0.43,113.43
+232,926,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Express,Dashy,290,3,6,0.5,9,-3,863,Loss,,,,,,,1,0,0,0,0.43,123.29
+232,926,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Express,Clayster,1525,9,3,3,12,6,1646,Win,,,,,,,4,1,0,0,1.29,235.14
+232,926,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Express,Hydra,550,5,4,1.25,9,1,1519,Win,,,,,,,0,0,1,0,0.71,217
+232,926,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Express,Mack,375,4,4,1,8,0,672,Win,,,,,,,0,0,0,0,0.57,96
+232,926,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Express,Asim,1775,7,4,1.75,11,3,1248,Win,,,,,,,1,1,1,1,1,178.29
+232,927,Champs,OpTic Chicago,New York Subliners,Control,Checkmate,FORMAL,3490,32,28,1.1428571428571428,60,4,5307,Win,,,,,,,,,,,,,2,14,11,18,10,1061.4
+232,927,Champs,OpTic Chicago,New York Subliners,Control,Checkmate,Envoy,2290,20,29,0.6896551724137931,49,-9,4378,Win,,,,,,,,,,,,,3,9,5,11,10,875.6
+232,927,Champs,OpTic Chicago,New York Subliners,Control,Checkmate,Scump,3865,31,23,1.3478260869565217,54,8,5217,Win,,,,,,,,,,,,,2,13,9,18,10,1043.4
+232,927,Champs,OpTic Chicago,New York Subliners,Control,Checkmate,Dashy,4280,34,24,1.4166666666666667,58,10,6418,Win,,,,,,,,,,,,,1,9,5,25,16,1283.6
+232,927,Champs,New York Subliners,OpTic Chicago,Control,Checkmate,Clayster,2475,24,30,0.8,54,-6,4944,Loss,,,,,,,,,,,,,3,15,7,9,7,988.8
+232,927,Champs,New York Subliners,OpTic Chicago,Control,Checkmate,Hydra,2275,29,25,1.16,54,4,5706,Loss,,,,,,,,,,,,,1,16,12,13,11,1141.2
+232,927,Champs,New York Subliners,OpTic Chicago,Control,Checkmate,Mack,3000,24,26,0.9230769230769231,50,-2,4880,Loss,,,,,,,,,,,,,5,15,8,9,9,976
+232,927,Champs,New York Subliners,OpTic Chicago,Control,Checkmate,Asim,2525,27,36,0.75,63,-9,5143,Loss,,,,,,,,,,,,,2,8,6,19,14,1028.6
+232,928,Champs,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,FORMAL,1665,17,15,1.1333333333333333,32,2,3717,Win,45,13,28,0,0,4
+232,928,Champs,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Envoy,1785,17,16,1.0625,33,1,3473,Win,79,10,41,2,5,21
+232,928,Champs,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Scump,2385,29,16,1.8125,45,13,4123,Win,88,7,32,12,22,15
+232,928,Champs,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Dashy,2375,20,13,1.5384615384615385,33,7,3451,Win,84,2,16,26,0,40
+232,928,Champs,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Clayster,1365,18,21,0.8571428571428571,39,-3,3323,Loss,46,21,0,17,8,0
+232,928,Champs,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Hydra,850,14,19,0.7368421052631579,33,-5,2775,Loss,0,0,0,0,0,0
+232,928,Champs,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Mack,1395,14,21,0.6666666666666666,35,-7,2514,Loss,36,13,0,16,2,5
+232,928,Champs,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Asim,1255,14,22,0.6363636363636364,36,-8,2740,Loss,26,24,0,0,2,0
+232,929,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Raid,FORMAL,630,9,8,1.125,17,1,1940,Loss,,,,,,,2,1,0,0,0.9,194
+232,929,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Envoy,600,7,8,0.875,15,-1,1680,Loss,,,,,,,3,2,0,0,0.7,168
+232,929,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Scump,1850,9,6,1.5,15,3,1698,Loss,,,,,,,0,1,0,0,0.9,169.8
+232,929,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Dashy,830,6,8,0.75,14,-2,1550,Loss,,,,,,,1,0,2,0,0.6,155
+232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Clayster,150,3,8,0.375,11,-5,1370,Win,,,,,,,0,3,0,0,0.3,137
+232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Hydra,980,10,8,1.25,18,2,1822,Win,,,,,,,2,1,0,1,1,182.2
+232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Mack,440,6,8,0.75,14,-2,1506,Win,,,,,,,0,1,1,0,0.6,150.6
+232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Asim,1340,11,7,1.5714285714285714,18,4,1604,Win,,,,,,,2,1,4,0,1.1,160.4
