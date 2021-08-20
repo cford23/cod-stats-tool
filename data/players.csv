@@ -7367,107 +7367,139 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 230,921,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Raid,Cammy,,7,8,0.875,15,-1,,Loss
 230,921,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Raid,Insight,,7,7,1,14,0,,Loss
 230,921,Major 5,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Raid,CleanX,,4,7,0.5714285714285714,11,-3,,Loss
-231,922,Champs,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Vivid,4090,20,18,1.1111111111111112,38,2,3615,Win,100,21,37,38,4
-231,922,Champs,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Shotzzy,4525,25,10,2.5,35,15,4204,Win,38,20,7,0,11
-231,922,Champs,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,C6,1630,18,21,0.8571428571428571,39,-3,3510,Win,81,10,7,57,7
-231,922,Champs,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,iLLeY,1765,21,20,1.05,41,1,4476,Win,41,1,11,1,28
-231,922,Champs,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Priestahh,1345,20,24,0.8333333333333334,44,-4,3739,Loss,51,20,18,0,13
-231,922,Champs,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,majormaniak,1780,15,17,0.8823529411764706,32,-2,3742,Loss,69,39,9,0,21
-231,922,Champs,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Attach,1210,16,20,0.8,36,-4,2867,Loss,19,19,0,0,0
-231,922,Champs,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Standy,1685,18,23,0.782608695652174,41,-5,3770,Loss,52,19,33,0,0
-231,923,Champs,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,Vivid,550,7,3,2.3333333333333335,10,4,1452,Win,,,,,,,2,1,0,0,1,207.43
-231,923,Champs,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,Shotzzy,840,7,4,1.75,11,3,1150,Win,,,,,,,2,0,0,1,1,164.29
-231,923,Champs,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,C6,750,6,2,3,8,4,1226,Win,,,,,,,0,1,1,0,0.86,175.14
-231,923,Champs,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,iLLeY,1190,7,3,2.3333333333333335,10,4,1167,Win,,,,,,,1,0,0,0,1,166.71
-231,923,Champs,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Priestahh,175,1,7,0.14285714285714285,8,-6,1127,Loss,,,,,,,0,1,1,0,0.14,161
-231,923,Champs,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,majormaniak,315,6,7,0.8571428571428571,13,-1,1332,Loss,,,,,,,0,0,0,0,0.86,190.29
-231,923,Champs,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Attach,275,3,7,0.42857142857142855,10,-4,1181,Loss,,,,,,,1,3,0,0,0.43,168.71
-231,923,Champs,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Standy,225,2,6,0.3333333333333333,8,-4,678,Loss,,,,,,,1,1,0,0,0.29,96.86
-231,924,Champs,Dallas Empire,Minnesota ROKKR,Control,Raid,Vivid,4000,24,27,0.8888888888888888,51,-3,4087,Win,,,,,,,,,,,,,8,7,5,17,7,1021.75
-231,924,Champs,Dallas Empire,Minnesota ROKKR,Control,Raid,Shotzzy,3735,20,17,1.1764705882352942,37,3,4117,Win,,,,,,,,,,,,,7,10,4,10,5,1029.25
-231,924,Champs,Dallas Empire,Minnesota ROKKR,Control,Raid,C6,3075,27,18,1.5,45,9,4921,Win,,,,,,,,,,,,,7,15,6,12,3,1230.25
-231,924,Champs,Dallas Empire,Minnesota ROKKR,Control,Raid,iLLeY,5050,27,18,1.5,45,9,4806,Win,,,,,,,,,,,,,10,13,9,14,7,1201.5
-231,924,Champs,Minnesota ROKKR,Dallas Empire,Control,Raid,Priestahh,2295,20,28,0.7142857142857143,48,-8,4807,Loss,,,,,,,,,,,,,5,11,3,9,5,1201.75
-231,924,Champs,Minnesota ROKKR,Dallas Empire,Control,Raid,majormaniak,2150,16,30,0.5333333333333333,46,-14,3701,Loss,,,,,,,,,,,,,5,9,5,7,5,925.25
-231,924,Champs,Minnesota ROKKR,Dallas Empire,Control,Raid,Attach,3825,22,19,1.1578947368421053,41,3,4631,Loss,,,,,,,,,,,,,9,13,8,9,6,1157.75
-231,924,Champs,Minnesota ROKKR,Dallas Empire,Control,Raid,Standy,2925,21,21,1,42,0,3473,Loss,,,,,,,,,,,,,5,11,4,10,6,868.25
-232,925,Champs,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,FORMAL,1800,22,23,0.9565217391304348,45,-1,4199,Loss,18,2,7,2,6,1
-232,925,Champs,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Envoy,2400,16,25,0.64,41,-9,3927,Loss,72,2,0,21,49,0
-232,925,Champs,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Scump,2585,24,24,1,48,0,4468,Loss,14,10,0,0,0,4
-232,925,Champs,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Dashy,1485,22,28,0.7857142857142857,50,-6,3437,Loss,16,0,9,5,2,0
-232,925,Champs,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Clayster,2395,29,23,1.2608695652173914,52,6,5300,Win,61,8,9,14,18,12
-232,925,Champs,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Hydra,2810,28,20,1.4,48,8,5397,Win,56,26,4,23,0,3
-232,925,Champs,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Mack,2830,17,20,0.85,37,-3,3805,Win,117,12,71,1,20,13
-232,925,Champs,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Asim,2640,26,21,1.2380952380952381,47,5,3774,Win,49,19,13,0,15,2
-232,926,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Express,FORMAL,165,2,6,0.3333333333333333,8,-4,370,Loss,,,,,,,1,2,0,0,0.29,52.86
-232,926,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Express,Envoy,605,7,6,1.1666666666666667,13,1,985,Loss,,,,,,,0,2,0,0,1,140.71
-232,926,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Express,Scump,300,3,7,0.42857142857142855,10,-4,794,Loss,,,,,,,0,1,1,0,0.43,113.43
-232,926,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Express,Dashy,290,3,6,0.5,9,-3,863,Loss,,,,,,,1,0,0,0,0.43,123.29
-232,926,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Express,Clayster,1525,9,3,3,12,6,1646,Win,,,,,,,4,1,0,0,1.29,235.14
-232,926,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Express,Hydra,550,5,4,1.25,9,1,1519,Win,,,,,,,0,0,1,0,0.71,217
-232,926,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Express,Mack,375,4,4,1,8,0,672,Win,,,,,,,0,0,0,0,0.57,96
-232,926,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Express,Asim,1775,7,4,1.75,11,3,1248,Win,,,,,,,1,1,1,1,1,178.29
-232,927,Champs,OpTic Chicago,New York Subliners,Control,Checkmate,FORMAL,3490,32,28,1.1428571428571428,60,4,5307,Win,,,,,,,,,,,,,2,14,11,18,10,1061.4
-232,927,Champs,OpTic Chicago,New York Subliners,Control,Checkmate,Envoy,2290,20,29,0.6896551724137931,49,-9,4378,Win,,,,,,,,,,,,,3,9,5,11,10,875.6
-232,927,Champs,OpTic Chicago,New York Subliners,Control,Checkmate,Scump,3865,31,23,1.3478260869565217,54,8,5217,Win,,,,,,,,,,,,,2,13,9,18,10,1043.4
-232,927,Champs,OpTic Chicago,New York Subliners,Control,Checkmate,Dashy,4280,34,24,1.4166666666666667,58,10,6418,Win,,,,,,,,,,,,,1,9,5,25,16,1283.6
-232,927,Champs,New York Subliners,OpTic Chicago,Control,Checkmate,Clayster,2475,24,30,0.8,54,-6,4944,Loss,,,,,,,,,,,,,3,15,7,9,7,988.8
-232,927,Champs,New York Subliners,OpTic Chicago,Control,Checkmate,Hydra,2275,29,25,1.16,54,4,5706,Loss,,,,,,,,,,,,,1,16,12,13,11,1141.2
-232,927,Champs,New York Subliners,OpTic Chicago,Control,Checkmate,Mack,3000,24,26,0.9230769230769231,50,-2,4880,Loss,,,,,,,,,,,,,5,15,8,9,9,976
-232,927,Champs,New York Subliners,OpTic Chicago,Control,Checkmate,Asim,2525,27,36,0.75,63,-9,5143,Loss,,,,,,,,,,,,,2,8,6,19,14,1028.6
-232,928,Champs,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,FORMAL,1665,17,15,1.1333333333333333,32,2,3717,Win,45,13,28,0,0,4
-232,928,Champs,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Envoy,1785,17,16,1.0625,33,1,3473,Win,79,10,41,2,5,21
-232,928,Champs,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Scump,2385,29,16,1.8125,45,13,4123,Win,88,7,32,12,22,15
-232,928,Champs,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Dashy,2375,20,13,1.5384615384615385,33,7,3451,Win,84,2,16,26,0,40
-232,928,Champs,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Clayster,1365,18,21,0.8571428571428571,39,-3,3323,Loss,46,21,0,17,8,0
-232,928,Champs,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Hydra,850,14,19,0.7368421052631579,33,-5,2775,Loss,0,0,0,0,0,0
-232,928,Champs,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Mack,1395,14,21,0.6666666666666666,35,-7,2514,Loss,36,13,0,16,2,5
-232,928,Champs,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Asim,1255,14,22,0.6363636363636364,36,-8,2740,Loss,26,24,0,0,2,0
-232,929,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Raid,FORMAL,630,9,8,1.125,17,1,1940,Loss,,,,,,,2,1,0,0,0.9,194
-232,929,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Envoy,600,7,8,0.875,15,-1,1680,Loss,,,,,,,3,2,0,0,0.7,168
-232,929,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Scump,1850,9,6,1.5,15,3,1698,Loss,,,,,,,0,1,0,0,0.9,169.8
-232,929,Champs,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Dashy,830,6,8,0.75,14,-2,1550,Loss,,,,,,,1,0,2,0,0.6,155
-232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Clayster,150,3,8,0.375,11,-5,1370,Win,,,,,,,0,3,0,0,0.3,137
-232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Hydra,980,10,8,1.25,18,2,1822,Win,,,,,,,2,1,0,1,1,182.2
-232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Mack,440,6,8,0.75,14,-2,1506,Win,,,,,,,0,1,1,0,0.6,150.6
-232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Asim,1340,11,7,1.5714285714285714,18,4,1604,Win,,,,,,,2,1,4,0,1.1,160.4
-233,930,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Standy,2755,25,25,1,50,0,4367,Loss,62,9,19,11,23,0
-233,930,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Attach,3605,26,22,1.1818181818181819,48,4,5484,Loss,47,21,24,2,0,0
-233,930,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,majormaniak,2180,17,25,0.68,42,-8,3615,Loss,79,17,3,0,11,48
-233,930,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Priestahh,2340,27,28,0.9642857142857143,55,-1,5546,Loss,58,22,8,14,1,13
-233,930,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,SlasheR,3815,32,22,1.4545454545454546,54,10,6764,Win,64,16,19,0,29,0
-233,930,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,Kenny,3575,32,22,1.4545454545454546,54,10,5542,Win,66,22,31,0,4,9
-233,930,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,Drazah,3260,21,27,0.7777777777777778,48,-6,4683,Win,155,38,13,34,23,47
-233,930,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,John,1245,15,24,0.625,39,-9,3100,Win,47,12,5,3,24,3
-233,931,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Standy,945,8,7,1.1428571428571428,15,1,1526,Win,,,,,,,2,1,1,0,0.89,169.56
-233,931,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Attach,390,3,6,0.5,9,-3,783,Win,,,,,,,1,0,0,1,0.33,87
-233,931,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,majormaniak,670,8,6,1.3333333333333333,14,2,1627,Win,,,,,,,2,1,0,0,0.89,180.78
-233,931,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Priestahh,780,7,5,1.4,12,2,1463,Win,,,,,,,2,0,1,0,0.78,162.56
-233,931,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,SlasheR,680,5,6,0.8333333333333334,11,-1,1523,Loss,,,,,,,0,1,0,0,0.56,169.22
-233,931,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,Kenny,575,4,7,0.5714285714285714,11,-3,989,Loss,,,,,,,1,3,2,0,0.44,109.89
-233,931,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,Drazah,815,9,6,1.5,15,3,1954,Loss,,,,,,,1,2,0,0,1,217.11
-233,931,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,John,580,6,7,0.8571428571428571,13,-1,1476,Loss,,,,,,,0,1,1,0,0.67,164
-233,932,Champs,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Standy,4960,36,29,1.2413793103448276,65,7,6997,Win,,,,,,,,,,,,,5,16,5,20,10,1399.4
-233,932,Champs,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Attach,3280,27,26,1.0384615384615385,53,1,4960,Win,,,,,,,,,,,,,5,11,5,16,6,992
-233,932,Champs,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,majormaniak,3330,30,30,1,60,0,6140,Win,,,,,,,,,,,,,4,12,9,18,11,1228
-233,932,Champs,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Priestahh,4480,36,30,1.2,66,6,6990,Win,,,,,,,,,,,,,6,14,5,22,17,1398
-233,932,Champs,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,SlasheR,3780,28,28,1,56,0,5536,Loss,,,,,,,,,,,,,7,18,10,10,9,1107.2
-233,932,Champs,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,Kenny,3700,32,29,1.103448275862069,61,3,6093,Loss,,,,,,,,,,,,,7,16,7,16,10,1218.6
-233,932,Champs,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,Drazah,4750,36,34,1.0588235294117647,70,2,5783,Loss,,,,,,,,,,,,,8,17,5,19,7,1156.6
-233,932,Champs,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,John,3980,18,38,0.47368421052631576,56,-20,5220,Loss,,,,,,,,,,,,,10,7,4,11,6,1044
-233,933,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Standy,2790,22,25,0.88,47,-3,4537,Loss,59,11,2,26,7,13
-233,933,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Attach,1615,18,26,0.6923076923076923,44,-8,4023,Loss,70,27,0,42,1,0
-233,933,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,majormaniak,1900,21,22,0.9545454545454546,43,-1,4205,Loss,35,4,0,21,2,8
-233,933,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Priestahh,1985,23,24,0.9583333333333334,47,-1,4434,Loss,49,12,0,14,20,3
-233,933,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,SlasheR,3630,27,18,1.5,45,9,4699,Win,78,11,42,3,22,0
-233,933,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Kenny,2560,26,19,1.368421052631579,45,7,4729,Win,91,29,41,1,7,13
-233,933,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Drazah,2795,27,22,1.2272727272727273,49,5,4571,Win,60,2,25,4,8,21
-233,933,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,John,1460,17,25,0.68,42,-8,3265,Win,63,9,21,1,14,18
-233,934,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Standy,650,2,6,0.3333333333333333,8,-4,839,Win,,,,,,,0,3,3,0,0.22,93.22
-233,934,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Attach,535,6,5,1.2,11,1,1352,Win,,,,,,,1,0,0,0,0.67,150.22
-233,934,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,majormaniak,690,7,5,1.4,12,2,1308,Win,,,,,,,1,1,0,0,0.78,145.33
-233,934,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Priestahh,2580,13,5,2.6,18,8,2052,Win,,,,,,,3,1,1,1,1.44,228
-233,934,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,SlasheR,975,9,6,1.5,15,3,1660,Loss,,,,,,,0,0,0,1,1,184.44
-233,934,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Kenny,325,5,9,0.5555555555555556,14,-4,1430,Loss,,,,,,,3,1,0,0,0.56,158.89
-233,934,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Drazah,575,4,6,0.6666666666666666,10,-2,814,Loss,,,,,,,1,1,2,0,0.44,90.44
-233,934,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,John,355,3,7,0.42857142857142855,10,-4,711,Loss,,,,,,,1,3,0,0,0.33,79
+231,922,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Vivid,4090,20,18,1.1111111111111112,38,2,3615,Win,100,21,37,38,4
+231,922,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,Shotzzy,4525,25,10,2.5,35,15,4204,Win,38,20,7,0,11
+231,922,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,C6,1630,18,21,0.8571428571428571,39,-3,3510,Win,81,10,7,57,7
+231,922,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Hardpoint,Moscow,iLLeY,1765,21,20,1.05,41,1,4476,Win,41,1,11,1,28
+231,922,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Priestahh,1345,20,24,0.8333333333333334,44,-4,3739,Loss,51,20,18,0,13
+231,922,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,majormaniak,1780,15,17,0.8823529411764706,32,-2,3742,Loss,69,39,9,0,21
+231,922,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Attach,1210,16,20,0.8,36,-4,2867,Loss,19,19,0,0,0
+231,922,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Hardpoint,Moscow,Standy,1685,18,23,0.782608695652174,41,-5,3770,Loss,52,19,33,0,0
+231,923,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,Vivid,550,7,3,2.3333333333333335,10,4,1452,Win,,,,,,,2,1,0,0,1,207.43
+231,923,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,Shotzzy,840,7,4,1.75,11,3,1150,Win,,,,,,,2,0,0,1,1,164.29
+231,923,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,C6,750,6,2,3,8,4,1226,Win,,,,,,,0,1,1,0,0.86,175.14
+231,923,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Search and Destroy,Raid,iLLeY,1190,7,3,2.3333333333333335,10,4,1167,Win,,,,,,,1,0,0,0,1,166.71
+231,923,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Priestahh,175,1,7,0.14285714285714285,8,-6,1127,Loss,,,,,,,0,1,1,0,0.14,161
+231,923,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,majormaniak,315,6,7,0.8571428571428571,13,-1,1332,Loss,,,,,,,0,0,0,0,0.86,190.29
+231,923,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Attach,275,3,7,0.42857142857142855,10,-4,1181,Loss,,,,,,,1,3,0,0,0.43,168.71
+231,923,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Search and Destroy,Raid,Standy,225,2,6,0.3333333333333333,8,-4,678,Loss,,,,,,,1,1,0,0,0.29,96.86
+231,924,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Control,Raid,Vivid,4000,24,27,0.8888888888888888,51,-3,4087,Win,,,,,,,,,,,,,8,7,5,17,7,1021.75
+231,924,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Control,Raid,Shotzzy,3735,20,17,1.1764705882352942,37,3,4117,Win,,,,,,,,,,,,,7,10,4,10,5,1029.25
+231,924,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Control,Raid,C6,3075,27,18,1.5,45,9,4921,Win,,,,,,,,,,,,,7,15,6,12,3,1230.25
+231,924,CDL Champs 2021,Dallas Empire,Minnesota ROKKR,Control,Raid,iLLeY,5050,27,18,1.5,45,9,4806,Win,,,,,,,,,,,,,10,13,9,14,7,1201.5
+231,924,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Control,Raid,Priestahh,2295,20,28,0.7142857142857143,48,-8,4807,Loss,,,,,,,,,,,,,5,11,3,9,5,1201.75
+231,924,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Control,Raid,majormaniak,2150,16,30,0.5333333333333333,46,-14,3701,Loss,,,,,,,,,,,,,5,9,5,7,5,925.25
+231,924,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Control,Raid,Attach,3825,22,19,1.1578947368421053,41,3,4631,Loss,,,,,,,,,,,,,9,13,8,9,6,1157.75
+231,924,CDL Champs 2021,Minnesota ROKKR,Dallas Empire,Control,Raid,Standy,2925,21,21,1,42,0,3473,Loss,,,,,,,,,,,,,5,11,4,10,6,868.25
+232,925,CDL Champs 2021,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,FORMAL,1800,22,23,0.9565217391304348,45,-1,4199,Loss,18,2,7,2,6,1
+232,925,CDL Champs 2021,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Envoy,2400,16,25,0.64,41,-9,3927,Loss,72,2,0,21,49,0
+232,925,CDL Champs 2021,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Scump,2585,24,24,1,48,0,4468,Loss,14,10,0,0,0,4
+232,925,CDL Champs 2021,OpTic Chicago,New York Subliners,Hardpoint,Checkmate,Dashy,1485,22,28,0.7857142857142857,50,-6,3437,Loss,16,0,9,5,2,0
+232,925,CDL Champs 2021,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Clayster,2395,29,23,1.2608695652173914,52,6,5300,Win,61,8,9,14,18,12
+232,925,CDL Champs 2021,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Hydra,2810,28,20,1.4,48,8,5397,Win,56,26,4,23,0,3
+232,925,CDL Champs 2021,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Mack,2830,17,20,0.85,37,-3,3805,Win,117,12,71,1,20,13
+232,925,CDL Champs 2021,New York Subliners,OpTic Chicago,Hardpoint,Checkmate,Asim,2640,26,21,1.2380952380952381,47,5,3774,Win,49,19,13,0,15,2
+232,926,CDL Champs 2021,OpTic Chicago,New York Subliners,Search and Destroy,Express,FORMAL,165,2,6,0.3333333333333333,8,-4,370,Loss,,,,,,,1,2,0,0,0.29,52.86
+232,926,CDL Champs 2021,OpTic Chicago,New York Subliners,Search and Destroy,Express,Envoy,605,7,6,1.1666666666666667,13,1,985,Loss,,,,,,,0,2,0,0,1,140.71
+232,926,CDL Champs 2021,OpTic Chicago,New York Subliners,Search and Destroy,Express,Scump,300,3,7,0.42857142857142855,10,-4,794,Loss,,,,,,,0,1,1,0,0.43,113.43
+232,926,CDL Champs 2021,OpTic Chicago,New York Subliners,Search and Destroy,Express,Dashy,290,3,6,0.5,9,-3,863,Loss,,,,,,,1,0,0,0,0.43,123.29
+232,926,CDL Champs 2021,New York Subliners,OpTic Chicago,Search and Destroy,Express,Clayster,1525,9,3,3,12,6,1646,Win,,,,,,,4,1,0,0,1.29,235.14
+232,926,CDL Champs 2021,New York Subliners,OpTic Chicago,Search and Destroy,Express,Hydra,550,5,4,1.25,9,1,1519,Win,,,,,,,0,0,1,0,0.71,217
+232,926,CDL Champs 2021,New York Subliners,OpTic Chicago,Search and Destroy,Express,Mack,375,4,4,1,8,0,672,Win,,,,,,,0,0,0,0,0.57,96
+232,926,CDL Champs 2021,New York Subliners,OpTic Chicago,Search and Destroy,Express,Asim,1775,7,4,1.75,11,3,1248,Win,,,,,,,1,1,1,1,1,178.29
+232,927,CDL Champs 2021,OpTic Chicago,New York Subliners,Control,Checkmate,FORMAL,3490,32,28,1.1428571428571428,60,4,5307,Win,,,,,,,,,,,,,2,14,11,18,10,1061.4
+232,927,CDL Champs 2021,OpTic Chicago,New York Subliners,Control,Checkmate,Envoy,2290,20,29,0.6896551724137931,49,-9,4378,Win,,,,,,,,,,,,,3,9,5,11,10,875.6
+232,927,CDL Champs 2021,OpTic Chicago,New York Subliners,Control,Checkmate,Scump,3865,31,23,1.3478260869565217,54,8,5217,Win,,,,,,,,,,,,,2,13,9,18,10,1043.4
+232,927,CDL Champs 2021,OpTic Chicago,New York Subliners,Control,Checkmate,Dashy,4280,34,24,1.4166666666666667,58,10,6418,Win,,,,,,,,,,,,,1,9,5,25,16,1283.6
+232,927,CDL Champs 2021,New York Subliners,OpTic Chicago,Control,Checkmate,Clayster,2475,24,30,0.8,54,-6,4944,Loss,,,,,,,,,,,,,3,15,7,9,7,988.8
+232,927,CDL Champs 2021,New York Subliners,OpTic Chicago,Control,Checkmate,Hydra,2275,29,25,1.16,54,4,5706,Loss,,,,,,,,,,,,,1,16,12,13,11,1141.2
+232,927,CDL Champs 2021,New York Subliners,OpTic Chicago,Control,Checkmate,Mack,3000,24,26,0.9230769230769231,50,-2,4880,Loss,,,,,,,,,,,,,5,15,8,9,9,976
+232,927,CDL Champs 2021,New York Subliners,OpTic Chicago,Control,Checkmate,Asim,2525,27,36,0.75,63,-9,5143,Loss,,,,,,,,,,,,,2,8,6,19,14,1028.6
+232,928,CDL Champs 2021,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,FORMAL,1665,17,15,1.1333333333333333,32,2,3717,Win,45,13,28,0,0,4
+232,928,CDL Champs 2021,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Envoy,1785,17,16,1.0625,33,1,3473,Win,79,10,41,2,5,21
+232,928,CDL Champs 2021,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Scump,2385,29,16,1.8125,45,13,4123,Win,88,7,32,12,22,15
+232,928,CDL Champs 2021,OpTic Chicago,New York Subliners,Hardpoint,Apocalypse,Dashy,2375,20,13,1.5384615384615385,33,7,3451,Win,84,2,16,26,0,40
+232,928,CDL Champs 2021,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Clayster,1365,18,21,0.8571428571428571,39,-3,3323,Loss,46,21,0,17,8,0
+232,928,CDL Champs 2021,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Hydra,850,14,19,0.7368421052631579,33,-5,2775,Loss,0,0,0,0,0,0
+232,928,CDL Champs 2021,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Mack,1395,14,21,0.6666666666666666,35,-7,2514,Loss,36,13,0,16,2,5
+232,928,CDL Champs 2021,New York Subliners,OpTic Chicago,Hardpoint,Apocalypse,Asim,1255,14,22,0.6363636363636364,36,-8,2740,Loss,26,24,0,0,2,0
+232,929,CDL Champs 2021,OpTic Chicago,New York Subliners,Search and Destroy,Raid,FORMAL,630,9,8,1.125,17,1,1940,Loss,,,,,,,2,1,0,0,0.9,194
+232,929,CDL Champs 2021,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Envoy,600,7,8,0.875,15,-1,1680,Loss,,,,,,,3,2,0,0,0.7,168
+232,929,CDL Champs 2021,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Scump,1850,9,6,1.5,15,3,1698,Loss,,,,,,,0,1,0,0,0.9,169.8
+232,929,CDL Champs 2021,OpTic Chicago,New York Subliners,Search and Destroy,Raid,Dashy,830,6,8,0.75,14,-2,1550,Loss,,,,,,,1,0,2,0,0.6,155
+232,929,CDL Champs 2021,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Clayster,150,3,8,0.375,11,-5,1370,Win,,,,,,,0,3,0,0,0.3,137
+232,929,CDL Champs 2021,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Hydra,980,10,8,1.25,18,2,1822,Win,,,,,,,2,1,0,1,1,182.2
+232,929,CDL Champs 2021,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Mack,440,6,8,0.75,14,-2,1506,Win,,,,,,,0,1,1,0,0.6,150.6
+232,929,CDL Champs 2021,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Asim,1340,11,7,1.5714285714285714,18,4,1604,Win,,,,,,,2,1,4,0,1.1,160.4
+233,930,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Standy,2755,25,25,1,50,0,4367,Loss,62,9,19,11,23,0
+233,930,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Attach,3605,26,22,1.1818181818181819,48,4,5484,Loss,47,21,24,2,0,0
+233,930,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,majormaniak,2180,17,25,0.68,42,-8,3615,Loss,79,17,3,0,11,48
+233,930,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Priestahh,2340,27,28,0.9642857142857143,55,-1,5546,Loss,58,22,8,14,1,13
+233,930,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,SlasheR,3815,32,22,1.4545454545454546,54,10,6764,Win,64,16,19,0,29,0
+233,930,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,Kenny,3575,32,22,1.4545454545454546,54,10,5542,Win,66,22,31,0,4,9
+233,930,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,Drazah,3260,21,27,0.7777777777777778,48,-6,4683,Win,155,38,13,34,23,47
+233,930,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,John,1245,15,24,0.625,39,-9,3100,Win,47,12,5,3,24,3
+233,931,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Standy,945,8,7,1.1428571428571428,15,1,1526,Win,,,,,,,2,1,1,0,0.89,169.56
+233,931,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Attach,390,3,6,0.5,9,-3,783,Win,,,,,,,1,0,0,1,0.33,87
+233,931,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,majormaniak,670,8,6,1.3333333333333333,14,2,1627,Win,,,,,,,2,1,0,0,0.89,180.78
+233,931,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Priestahh,780,7,5,1.4,12,2,1463,Win,,,,,,,2,0,1,0,0.78,162.56
+233,931,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,SlasheR,680,5,6,0.8333333333333334,11,-1,1523,Loss,,,,,,,0,1,0,0,0.56,169.22
+233,931,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,Kenny,575,4,7,0.5714285714285714,11,-3,989,Loss,,,,,,,1,3,2,0,0.44,109.89
+233,931,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,Drazah,815,9,6,1.5,15,3,1954,Loss,,,,,,,1,2,0,0,1,217.11
+233,931,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,John,580,6,7,0.8571428571428571,13,-1,1476,Loss,,,,,,,0,1,1,0,0.67,164
+233,932,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Standy,4960,36,29,1.2413793103448276,65,7,6997,Win,,,,,,,,,,,,,5,16,5,20,10,1399.4
+233,932,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Attach,3280,27,26,1.0384615384615385,53,1,4960,Win,,,,,,,,,,,,,5,11,5,16,6,992
+233,932,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,majormaniak,3330,30,30,1,60,0,6140,Win,,,,,,,,,,,,,4,12,9,18,11,1228
+233,932,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Priestahh,4480,36,30,1.2,66,6,6990,Win,,,,,,,,,,,,,6,14,5,22,17,1398
+233,932,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,SlasheR,3780,28,28,1,56,0,5536,Loss,,,,,,,,,,,,,7,18,10,10,9,1107.2
+233,932,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,Kenny,3700,32,29,1.103448275862069,61,3,6093,Loss,,,,,,,,,,,,,7,16,7,16,10,1218.6
+233,932,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,Drazah,4750,36,34,1.0588235294117647,70,2,5783,Loss,,,,,,,,,,,,,8,17,5,19,7,1156.6
+233,932,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,John,3980,18,38,0.47368421052631576,56,-20,5220,Loss,,,,,,,,,,,,,10,7,4,11,6,1044
+233,933,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Standy,2790,22,25,0.88,47,-3,4537,Loss,59,11,2,26,7,13
+233,933,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Attach,1615,18,26,0.6923076923076923,44,-8,4023,Loss,70,27,0,42,1,0
+233,933,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,majormaniak,1900,21,22,0.9545454545454546,43,-1,4205,Loss,35,4,0,21,2,8
+233,933,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Priestahh,1985,23,24,0.9583333333333334,47,-1,4434,Loss,49,12,0,14,20,3
+233,933,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,SlasheR,3630,27,18,1.5,45,9,4699,Win,78,11,42,3,22,0
+233,933,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Kenny,2560,26,19,1.368421052631579,45,7,4729,Win,91,29,41,1,7,13
+233,933,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Drazah,2795,27,22,1.2272727272727273,49,5,4571,Win,60,2,25,4,8,21
+233,933,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,John,1460,17,25,0.68,42,-8,3265,Win,63,9,21,1,14,18
+233,934,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Standy,650,2,6,0.3333333333333333,8,-4,839,Win,,,,,,,0,3,3,0,0.22,93.22
+233,934,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Attach,535,6,5,1.2,11,1,1352,Win,,,,,,,1,0,0,0,0.67,150.22
+233,934,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,majormaniak,690,7,5,1.4,12,2,1308,Win,,,,,,,1,1,0,0,0.78,145.33
+233,934,CDL Champs 2021,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Priestahh,2580,13,5,2.6,18,8,2052,Win,,,,,,,3,1,1,1,1.44,228
+233,934,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,SlasheR,975,9,6,1.5,15,3,1660,Loss,,,,,,,0,0,0,1,1,184.44
+233,934,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Kenny,325,5,9,0.5555555555555556,14,-4,1430,Loss,,,,,,,3,1,0,0,0.56,158.89
+233,934,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Drazah,575,4,6,0.6666666666666666,10,-2,814,Loss,,,,,,,1,1,2,0,0.44,90.44
+233,934,CDL Champs 2021,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,John,355,3,7,0.42857142857142855,10,-4,711,Loss,,,,,,,1,3,0,0,0.33,79
+234,935,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Hardpoint,Moscow,FORMAL,1385,9,9,1,18,0,1904,Win,111,0,37,59,15
+234,935,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Hardpoint,Moscow,Envoy,1595,14,13,1.0769230769230769,27,1,3096,Win,55,10,16,0,29
+234,935,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Hardpoint,Moscow,Scump,2220,18,11,1.6363636363636365,29,7,3224,Win,54,52,0,0,2
+234,935,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Hardpoint,Moscow,Dashy,2285,21,12,1.75,33,9,3818,Win,57,4,42,0,11
+234,935,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Hardpoint,Moscow,Havok,785,10,17,0.5882352941176471,27,-7,2412,Loss,11,0,7,0,4
+234,935,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Hardpoint,Moscow,Owakening,1120,11,14,0.7857142857142857,25,-3,2561,Loss,49,19,1,29,0
+234,935,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Hardpoint,Moscow,Neptune,1475,15,16,0.9375,31,-1,2841,Loss,36,8,11,17,0
+234,935,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Hardpoint,Moscow,Skyz,745,9,15,0.6,24,-6,2374,Loss,25,18,0,0,7
+234,936,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Search and Destroy,Standoff,FORMAL,375,5,7,0.7142857142857143,12,-2,1277,Loss,,,,,,,1,1,0,0,0.63,159.63
+234,936,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Search and Destroy,Standoff,Envoy,300,3,8,0.375,11,-5,510,Loss,,,,,,,1,2,0,0,0.38,63.75
+234,936,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Search and Destroy,Standoff,Scump,1375,6,5,1.2,11,1,1449,Loss,,,,,,,0,0,1,0,0.75,181.13
+234,936,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Search and Destroy,Standoff,Dashy,500,7,7,1,14,0,1433,Loss,,,,,,,2,1,0,0,0.88,179.13
+234,936,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Search and Destroy,Standoff,Havok,600,8,4,2,12,4,1172,Win,,,,,,,1,2,0,1,1,146.5
+234,936,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Search and Destroy,Standoff,Owakening,625,5,4,1.25,9,1,1443,Win,,,,,,,1,1,1,0,0.63,180.38
+234,936,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Search and Destroy,Standoff,Neptune,600,7,7,1,14,0,1703,Win,,,,,,,1,1,0,0,0.88,212.88
+234,936,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Search and Destroy,Standoff,Skyz,625,7,6,1.1666666666666667,13,1,1714,Win,,,,,,,1,0,0,0,0.88,214.25
+234,937,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Control,Checkmate,FORMAL,6225,26,19,1.368421052631579,45,7,5265,Win,,,,,,,,,,,,,2,13,10,13,8,1316.25
+234,937,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Control,Checkmate,Envoy,2650,17,23,0.7391304347826086,40,-6,3269,Win,,,,,,,,,,,,,7,5,6,12,9,817.25
+234,937,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Control,Checkmate,Scump,1875,21,17,1.2352941176470589,38,4,4805,Win,,,,,,,,,,,,,2,8,4,13,9,1201.25
+234,937,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Control,Checkmate,Dashy,3200,22,16,1.375,38,6,4566,Win,,,,,,,,,,,,,6,8,7,14,7,1141.5
+234,937,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Control,Checkmate,Havok,3130,21,20,1.05,41,1,3931,Loss,,,,,,,,,,,,,6,14,13,7,5,982.75
+234,937,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Control,Checkmate,Owakening,2465,23,19,1.2105263157894737,42,4,4593,Loss,,,,,,,,,,,,,4,13,8,10,7,1148.25
+234,937,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Control,Checkmate,Neptune,1250,14,26,0.5384615384615384,40,-12,2929,Loss,,,,,,,,,,,,,2,10,5,4,2,732.25
+234,937,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Control,Checkmate,Skyz,1530,17,22,0.7727272727272727,39,-5,4097,Loss,,,,,,,,,,,,,3,9,5,8,6,1024.25
+234,938,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Hardpoint,Apocalypse,FORMAL,2845,20,17,1.1764705882352942,37,3,4292,Win,81,4,36,31,10,0
+234,938,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Hardpoint,Apocalypse,Envoy,2625,27,22,1.2272727272727273,49,5,4418,Win,80,33,10,9,4,24
+234,938,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Hardpoint,Apocalypse,Scump,2035,24,20,1.2,44,4,4196,Win,60,2,6,20,18,14
+234,938,CDL Champs 2021,OpTic Chicago,Florida Mutineers,Hardpoint,Apocalypse,Dashy,1720,20,18,1.1111111111111112,38,2,4576,Win,48,10,4,14,0,20
+234,938,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Hardpoint,Apocalypse,Havok,1205,14,24,0.5833333333333334,38,-10,3770,Loss,38,3,0,19,16,0
+234,938,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Hardpoint,Apocalypse,Owakening,2410,20,22,0.9090909090909091,42,-2,3567,Loss,50,21,16,0,13,0
+234,938,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Hardpoint,Apocalypse,Neptune,1575,17,26,0.6538461538461539,43,-9,4275,Loss,23,4,0,4,6,9
+234,938,CDL Champs 2021,Florida Mutineers,OpTic Chicago,Hardpoint,Apocalypse,Skyz,2085,26,19,1.368421052631579,45,7,3897,Loss,59,31,13,1,14,0
