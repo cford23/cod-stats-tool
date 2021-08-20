@@ -7431,3 +7431,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Hydra,980,10,8,1.25,18,2,1822,Win,,,,,,,2,1,0,1,1,182.2
 232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Mack,440,6,8,0.75,14,-2,1506,Win,,,,,,,0,1,1,0,0.6,150.6
 232,929,Champs,New York Subliners,OpTic Chicago,Search and Destroy,Raid,Asim,1340,11,7,1.5714285714285714,18,4,1604,Win,,,,,,,2,1,4,0,1.1,160.4
+233,930,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Standy,2755,25,25,1,50,0,4367,Loss,62,9,19,11,23,0
+233,930,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Attach,3605,26,22,1.1818181818181819,48,4,5484,Loss,47,21,24,2,0,0
+233,930,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,majormaniak,2180,17,25,0.68,42,-8,3615,Loss,79,17,3,0,11,48
+233,930,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Checkmate,Priestahh,2340,27,28,0.9642857142857143,55,-1,5546,Loss,58,22,8,14,1,13
+233,930,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,SlasheR,3815,32,22,1.4545454545454546,54,10,6764,Win,64,16,19,0,29,0
+233,930,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,Kenny,3575,32,22,1.4545454545454546,54,10,5542,Win,66,22,31,0,4,9
+233,930,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,Drazah,3260,21,27,0.7777777777777778,48,-6,4683,Win,155,38,13,34,23,47
+233,930,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Checkmate,John,1245,15,24,0.625,39,-9,3100,Win,47,12,5,3,24,3
+233,931,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Standy,945,8,7,1.1428571428571428,15,1,1526,Win,,,,,,,2,1,1,0,0.89,169.56
+233,931,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Attach,390,3,6,0.5,9,-3,783,Win,,,,,,,1,0,0,1,0.33,87
+233,931,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,majormaniak,670,8,6,1.3333333333333333,14,2,1627,Win,,,,,,,2,1,0,0,0.89,180.78
+233,931,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Standoff,Priestahh,780,7,5,1.4,12,2,1463,Win,,,,,,,2,0,1,0,0.78,162.56
+233,931,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,SlasheR,680,5,6,0.8333333333333334,11,-1,1523,Loss,,,,,,,0,1,0,0,0.56,169.22
+233,931,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,Kenny,575,4,7,0.5714285714285714,11,-3,989,Loss,,,,,,,1,3,2,0,0.44,109.89
+233,931,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,Drazah,815,9,6,1.5,15,3,1954,Loss,,,,,,,1,2,0,0,1,217.11
+233,931,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Standoff,John,580,6,7,0.8571428571428571,13,-1,1476,Loss,,,,,,,0,1,1,0,0.67,164
+233,932,Champs,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Standy,4960,36,29,1.2413793103448276,65,7,6997,Win,,,,,,,,,,,,,5,16,5,20,10,1399.4
+233,932,Champs,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Attach,3280,27,26,1.0384615384615385,53,1,4960,Win,,,,,,,,,,,,,5,11,5,16,6,992
+233,932,Champs,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,majormaniak,3330,30,30,1,60,0,6140,Win,,,,,,,,,,,,,4,12,9,18,11,1228
+233,932,Champs,Minnesota ROKKR,Los Angeles Thieves,Control,Raid,Priestahh,4480,36,30,1.2,66,6,6990,Win,,,,,,,,,,,,,6,14,5,22,17,1398
+233,932,Champs,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,SlasheR,3780,28,28,1,56,0,5536,Loss,,,,,,,,,,,,,7,18,10,10,9,1107.2
+233,932,Champs,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,Kenny,3700,32,29,1.103448275862069,61,3,6093,Loss,,,,,,,,,,,,,7,16,7,16,10,1218.6
+233,932,Champs,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,Drazah,4750,36,34,1.0588235294117647,70,2,5783,Loss,,,,,,,,,,,,,8,17,5,19,7,1156.6
+233,932,Champs,Los Angeles Thieves,Minnesota ROKKR,Control,Raid,John,3980,18,38,0.47368421052631576,56,-20,5220,Loss,,,,,,,,,,,,,10,7,4,11,6,1044
+233,933,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Standy,2790,22,25,0.88,47,-3,4537,Loss,59,11,2,26,7,13
+233,933,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Attach,1615,18,26,0.6923076923076923,44,-8,4023,Loss,70,27,0,42,1,0
+233,933,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,majormaniak,1900,21,22,0.9545454545454546,43,-1,4205,Loss,35,4,0,21,2,8
+233,933,Champs,Minnesota ROKKR,Los Angeles Thieves,Hardpoint,Garrison,Priestahh,1985,23,24,0.9583333333333334,47,-1,4434,Loss,49,12,0,14,20,3
+233,933,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,SlasheR,3630,27,18,1.5,45,9,4699,Win,78,11,42,3,22,0
+233,933,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Kenny,2560,26,19,1.368421052631579,45,7,4729,Win,91,29,41,1,7,13
+233,933,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,Drazah,2795,27,22,1.2272727272727273,49,5,4571,Win,60,2,25,4,8,21
+233,933,Champs,Los Angeles Thieves,Minnesota ROKKR,Hardpoint,Garrison,John,1460,17,25,0.68,42,-8,3265,Win,63,9,21,1,14,18
+233,934,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Standy,650,2,6,0.3333333333333333,8,-4,839,Win,,,,,,,0,3,3,0,0.22,93.22
+233,934,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Attach,535,6,5,1.2,11,1,1352,Win,,,,,,,1,0,0,0,0.67,150.22
+233,934,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,majormaniak,690,7,5,1.4,12,2,1308,Win,,,,,,,1,1,0,0,0.78,145.33
+233,934,Champs,Minnesota ROKKR,Los Angeles Thieves,Search and Destroy,Miami,Priestahh,2580,13,5,2.6,18,8,2052,Win,,,,,,,3,1,1,1,1.44,228
+233,934,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,SlasheR,975,9,6,1.5,15,3,1660,Loss,,,,,,,0,0,0,1,1,184.44
+233,934,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Kenny,325,5,9,0.5555555555555556,14,-4,1430,Loss,,,,,,,3,1,0,0,0.56,158.89
+233,934,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,Drazah,575,4,6,0.6666666666666666,10,-2,814,Loss,,,,,,,1,1,2,0,0.44,90.44
+233,934,Champs,Los Angeles Thieves,Minnesota ROKKR,Search and Destroy,Miami,John,355,3,7,0.42857142857142855,10,-4,711,Loss,,,,,,,1,3,0,0,0.33,79
