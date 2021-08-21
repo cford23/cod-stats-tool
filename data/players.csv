@@ -7599,3 +7599,35 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 237,950,CDL Champs 2021,OpTic Chicago,Toronto Ultra,Hardpoint,Raid,Scump,5980,27,15,1.8,42,12,4764,Loss,22,5,2,0,15,0
 237,950,CDL Champs 2021,OpTic Chicago,Toronto Ultra,Hardpoint,Raid,Envoy,1325,14,22,0.6363636363636364,36,-8,2312,Loss,87,31,32,0,23,1
 237,950,CDL Champs 2021,OpTic Chicago,Toronto Ultra,Hardpoint,Raid,FORMAL,2560,20,16,1.25,36,4,4114,Loss,159,54,0,58,47,0
+238,951,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Hardpoint,Garrison,Asim,1210,11,26,0.4230769230769231,37,-15,2953,Loss,20,0,19,0,1,0
+238,951,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Hardpoint,Garrison,Mack,1280,16,23,0.6956521739130435,39,-7,3554,Loss,28,8,8,0,12,0
+238,951,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Hardpoint,Garrison,Hydra,1170,16,18,0.8888888888888888,34,-2,2838,Loss,33,0,32,0,1,0
+238,951,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Hardpoint,Garrison,Clayster,1265,13,25,0.52,38,-12,2982,Loss,50,3,47,0,0,0
+238,951,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Garrison,Priestahh,3525,26,17,1.5294117647058822,43,9,3841,Win,104,21,0,4,33,46
+238,951,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Garrison,majormaniak,1930,20,12,1.6666666666666667,32,8,3724,Win,38,12,5,11,7,3
+238,951,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Garrison,Attach,2525,19,13,1.4615384615384615,32,6,3351,Win,45,23,0,7,15,0
+238,951,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Garrison,Standy,2935,27,15,1.8,42,12,5042,Win,83,10,0,71,2,0
+238,952,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Search and Destroy,Raid,Asim,955,8,8,1,16,0,1439,Win,,,,,,,1,2,3,0,0.8,143.9
+238,952,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Search and Destroy,Raid,Mack,405,5,6,0.8333333333333334,11,-1,1167,Win,,,,,,,2,1,0,0,0.5,116.7
+238,952,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Search and Destroy,Raid,Hydra,615,7,7,1,14,0,1707,Win,,,,,,,3,0,1,0,0.7,170.7
+238,952,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Search and Destroy,Raid,Clayster,1015,9,4,2.25,13,5,1687,Win,,,,,,,1,0,0,1,0.9,168.7
+238,952,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Search and Destroy,Raid,Priestahh,580,4,7,0.5714285714285714,11,-3,1104,Loss,,,,,,,0,3,2,0,0.4,110.4
+238,952,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Search and Destroy,Raid,majormaniak,780,9,6,1.5,15,3,1721,Loss,,,,,,,1,0,0,0,0.9,172.1
+238,952,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Search and Destroy,Raid,Attach,475,5,8,0.625,13,-3,1696,Loss,,,,,,,1,2,1,0,0.5,169.6
+238,952,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Search and Destroy,Raid,Standy,630,7,8,0.875,15,-1,1644,Loss,,,,,,,1,2,0,0,0.7,164.4
+238,953,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Control,Garrison,Asim,3205,22,32,0.6875,54,-10,4402,Loss,,,,,,,,,,,,,3,13,11,9,5,880.4
+238,953,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Control,Garrison,Mack,3890,23,27,0.8518518518518519,50,-4,4190,Loss,,,,,,,,,,,,,8,13,9,10,6,838
+238,953,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Control,Garrison,Hydra,3190,31,25,1.24,56,6,5146,Loss,,,,,,,,,,,,,3,17,11,14,8,1029.2
+238,953,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Control,Garrison,Clayster,2735,22,29,0.7586206896551724,51,-7,5610,Loss,,,,,,,,,,,,,4,13,11,9,8,1122
+238,953,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Control,Garrison,Priestahh,3170,23,25,0.92,48,-2,5241,Win,,,,,,,,,,,,,3,7,4,16,12,1048.2
+238,953,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Control,Garrison,majormaniak,5690,31,20,1.55,51,11,5314,Win,,,,,,,,,,,,,5,14,10,17,8,1062.8
+238,953,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Control,Garrison,Attach,3130,27,29,0.9310344827586207,56,-2,5770,Win,,,,,,,,,,,,,1,6,5,21,15,1154
+238,953,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Control,Garrison,Standy,4605,32,24,1.3333333333333333,56,8,5252,Win,,,,,,,,,,,,,3,7,5,25,17,1050.4
+238,954,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Hardpoint,Checkmate,Asim,2295,21,34,0.6176470588235294,55,-13,3680,Loss,70,37,5,14,9,5
+238,954,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Hardpoint,Checkmate,Mack,2730,22,21,1.0476190476190477,43,1,4257,Loss,80,0,16,6,18,40
+238,954,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Hardpoint,Checkmate,Hydra,1870,22,25,0.88,47,-3,4497,Loss,47,25,0,3,3,16
+238,954,CDL Champs 2021,New York Subliners,Minnesota ROKKR,Hardpoint,Checkmate,Clayster,2590,19,28,0.6785714285714286,47,-9,4308,Loss,71,7,5,11,26,22
+238,954,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Checkmate,Priestahh,2460,21,24,0.875,45,-3,3935,Win,76,39,8,3,14,12
+238,954,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Checkmate,majormaniak,3430,30,18,1.6666666666666667,48,12,4802,Win,71,44,0,6,17,4
+238,954,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Checkmate,Attach,3755,29,20,1.45,49,9,4804,Win,82,48,5,3,26,0
+238,954,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Checkmate,Standy,7100,28,22,1.2727272727272727,50,6,5921,Win,116,23,63,4,26,0
