@@ -7655,3 +7655,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 239,957,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,4450,33,22,1.5,55,11,5930,Win,,,,,,,,,,,,,6,16,6,17,7,1482.5
 239,957,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2900,21,23,0.9130434782608695,44,-2,3720,Win,,,,,,,,,,,,,7,9,5,12,8,930
 239,957,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Control,Raid,Cellium,3640,26,21,1.2380952380952381,47,5,4920,Win,,,,,,,,,,,,,7,13,9,13,4,1230
+240,958,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Hardpoint,Checkmate,Bance,3380,20,13,1.5384615384615385,33,7,3533,Win,96,33,36,0,19,8
+240,958,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Hardpoint,Checkmate,Cammy,1455,15,13,1.1538461538461537,28,2,2454,Win,78,5,23,0,0,50
+240,958,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Hardpoint,Checkmate,Insight,1015,10,13,0.7692307692307693,23,-3,2738,Win,72,10,30,31,0,1
+240,958,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Hardpoint,Checkmate,CleanX,3120,30,15,2,45,15,4786,Win,38,18,6,8,0,6
+240,958,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,Priestahh,965,8,19,0.42105263157894735,27,-11,2348,Loss,54,25,0,3,26,0
+240,958,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,majormaniak,1435,16,18,0.8888888888888888,34,-2,2630,Loss,22,12,10,0,0,0
+240,958,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,Attach,1100,13,21,0.6190476190476191,34,-8,2773,Loss,8,2,0,0,6,0
+240,958,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Hardpoint,Checkmate,Standy,1875,17,17,1,34,0,3428,Loss,15,13,0,2,0,0
+240,959,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Standoff,Bance,905,7,8,0.875,15,-1,1702,Loss,,,,,,,1,2,2,0,0.64,154.73
+240,959,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Standoff,Cammy,1415,8,7,1.1428571428571428,15,1,1620,Loss,,,,,,,3,1,0,0,0.73,147.27
+240,959,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Standoff,Insight,800,7,6,1.1666666666666667,13,1,1612,Loss,,,,,,,0,0,0,0,0.64,146.55
+240,959,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Standoff,CleanX,990,7,8,0.875,15,-1,1572,Loss,,,,,,,2,2,1,0,0.64,142.91
+240,959,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Standoff,Priestahh,725,2,8,0.25,10,-6,1771,Win,,,,,,,1,2,2,0,0.18,161
+240,959,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Standoff,majormaniak,1215,9,7,1.2857142857142858,16,2,1576,Win,,,,,,,1,1,0,0,0.82,143.27
+240,959,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Standoff,Attach,1465,10,8,1.25,18,2,2241,Win,,,,,,,2,1,0,1,0.91,203.73
+240,959,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Standoff,Standy,1350,8,7,1.1428571428571428,15,1,1461,Win,,,,,,,1,2,2,1,0.73,132.82
+240,960,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Control,Raid,Bance,4230,34,33,1.0303030303030303,67,1,6190,Win,,,,,,,,,,,,,7,11,9,23,7,1238
+240,960,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Control,Raid,Cammy,4500,29,24,1.2083333333333333,53,5,5595,Win,,,,,,,,,,,,,7,14,7,15,5,1119
+240,960,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Control,Raid,Insight,2955,25,22,1.1363636363636365,47,3,5654,Win,,,,,,,,,,,,,5,11,5,14,4,1130.8
+240,960,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Control,Raid,CleanX,4075,37,41,0.9024390243902439,78,-4,7230,Win,,,,,,,,,,,,,7,14,5,23,9,1446
+240,960,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Control,Raid,Priestahh,6700,37,30,1.2333333333333334,67,7,7062,Loss,,,,,,,,,,,,,10,18,5,19,18,1412.4
+240,960,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Control,Raid,majormaniak,3580,24,32,0.75,56,-8,4699,Loss,,,,,,,,,,,,,9,13,7,11,10,939.8
+240,960,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Control,Raid,Attach,5255,31,27,1.1481481481481481,58,4,5855,Loss,,,,,,,,,,,,,10,19,8,12,1,1171
+240,960,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Control,Raid,Standy,3125,28,36,0.7777777777777778,64,-8,6005,Loss,,,,,,,,,,,,,7,19,9,9,1,1201
+240,961,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Bance,1190,10,23,0.43478260869565216,33,-13,2425,Loss,57,11,0,0,31,15
+240,961,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Cammy,925,15,23,0.6521739130434783,38,-8,3226,Loss,39,36,3,0,0,0
+240,961,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,Insight,1660,15,15,1,30,0,3311,Loss,84,14,0,32,33,5
+240,961,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Hardpoint,Raid,CleanX,1955,25,23,1.0869565217391304,48,2,4393,Loss,34,13,3,0,1,17
+240,961,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Priestahh,1725,17,13,1.3076923076923077,30,4,3179,Win,71,5,13,24,29,0
+240,961,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,majormaniak,2200,22,17,1.2941176470588236,39,5,3633,Win,123,11,76,31,3,2
+240,961,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Attach,1890,20,18,1.1111111111111112,38,2,3880,Win,99,0,39,30,18,12
+240,961,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Hardpoint,Raid,Standy,4255,25,17,1.4705882352941178,42,8,4237,Win,52,9,41,0,2,0
+240,962,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Bance,940,8,7,1.1428571428571428,15,1,1652,Win,,,,,,,0,3,1,0,0.8,165.2
+240,962,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Cammy,550,7,6,1.1666666666666667,13,1,1266,Win,,,,,,,1,4,0,0,0.7,126.6
+240,962,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,Insight,710,8,7,1.1428571428571428,15,1,1731,Win,,,,,,,0,0,0,0,0.8,173.1
+240,962,CDL Champs 2021,Toronto Ultra,Minnesota ROKKR,Search and Destroy,Moscow,CleanX,1220,10,5,2,15,5,1528,Win,,,,,,,1,1,1,1,1,152.8
+240,962,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Priestahh,615,6,8,0.75,14,-2,2022,Loss,,,,,,,3,1,1,0,0.6,202.2
+240,962,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,majormaniak,1000,10,7,1.4285714285714286,17,3,1581,Loss,,,,,,,2,0,0,1,1,158.1
+240,962,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Attach,215,3,9,0.3333333333333333,12,-6,997,Loss,,,,,,,1,0,0,0,0.3,99.7
+240,962,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Standy,775,6,9,0.6666666666666666,15,-3,1289,Loss,,,,,,,2,1,2,0,0.6,128.9
