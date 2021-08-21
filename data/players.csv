@@ -7631,3 +7631,27 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 238,954,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Checkmate,majormaniak,3430,30,18,1.6666666666666667,48,12,4802,Win,71,44,0,6,17,4
 238,954,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Checkmate,Attach,3755,29,20,1.45,49,9,4804,Win,82,48,5,3,26,0
 238,954,CDL Champs 2021,Minnesota ROKKR,New York Subliners,Hardpoint,Checkmate,Standy,7100,28,22,1.2727272727272727,50,6,5921,Win,116,23,63,4,26,0
+239,955,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Vivid,2390,21,26,0.8076923076923077,47,-5,3993,Loss,30,0,2,17,1,10
+239,955,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,Shotzzy,1765,18,25,0.72,43,-7,3725,Loss,26,9,10,0,7,0
+239,955,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,C6,1130,13,23,0.5652173913043478,36,-10,2503,Loss,28,0,18,0,8,2
+239,955,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Hardpoint,Garrison,iLLeY,1695,19,23,0.8260869565217391,42,-4,3887,Loss,34,0,0,34,0,0
+239,955,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Simp,3660,23,12,1.9166666666666667,35,11,3762,Win,86,5,6,19,55,1
+239,955,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,aBeZy,1725,20,23,0.8695652173913043,43,-3,3562,Win,67,48,3,6,3,7
+239,955,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Arcitys,1890,25,23,1.0869565217391304,48,2,4333,Win,42,17,12,0,12,1
+239,955,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Hardpoint,Garrison,Cellium,5310,29,13,2.230769230769231,42,16,5421,Win,62,0,57,0,0,5
+239,956,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Vivid,715,9,10,0.9,19,-1,1700,Loss,,,,,,,1,1,0,0,0.82,154.55
+239,956,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,Shotzzy,775,6,8,0.75,14,-2,1608,Loss,,,,,,,4,3,0,1,0.55,146.18
+239,956,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,C6,1185,10,8,1.25,18,2,2061,Loss,,,,,,,1,0,1,0,0.91,187.36
+239,956,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Search and Destroy,Raid,iLLeY,880,7,6,1.1666666666666667,13,1,1833,Loss,,,,,,,1,0,1,0,0.64,166.64
+239,956,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Simp,925,10,7,1.4285714285714286,17,3,1655,Win,,,,,,,0,0,1,0,0.91,150.45
+239,956,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,aBeZy,575,6,8,0.75,14,-2,1692,Win,,,,,,,1,2,0,0,0.55,153.82
+239,956,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Arcitys,765,6,10,0.6,16,-4,1285,Win,,,,,,,0,3,3,0,0.55,116.82
+239,956,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Search and Destroy,Raid,Cellium,850,10,7,1.4285714285714286,17,3,2398,Win,,,,,,,3,2,0,0,0.91,218
+239,957,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Control,Raid,Vivid,1850,25,29,0.8620689655172413,54,-4,4801,Loss,,,,,,,,,,,,,2,16,4,9,4,1200.25
+239,957,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Control,Raid,Shotzzy,3890,28,24,1.1666666666666667,52,4,4909,Loss,,,,,,,,,,,,,4,12,4,16,10,1227.25
+239,957,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Control,Raid,C6,1745,15,26,0.5769230769230769,41,-11,3837,Loss,,,,,,,,,,,,,3,7,2,8,5,959.25
+239,957,CDL Champs 2021,Dallas Empire,Atlanta FaZe,Control,Raid,iLLeY,2575,21,31,0.6774193548387096,52,-10,4589,Loss,,,,,,,,,,,,,4,12,8,9,4,1147.25
+239,957,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Control,Raid,Simp,4600,30,23,1.3043478260869565,53,7,5094,Win,,,,,,,,,,,,,5,14,6,16,8,1273.5
+239,957,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Control,Raid,aBeZy,4450,33,22,1.5,55,11,5930,Win,,,,,,,,,,,,,6,16,6,17,7,1482.5
+239,957,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Control,Raid,Arcitys,2900,21,23,0.9130434782608695,44,-2,3720,Win,,,,,,,,,,,,,7,9,5,12,8,930
+239,957,CDL Champs 2021,Atlanta FaZe,Dallas Empire,Control,Raid,Cellium,3640,26,21,1.2380952380952381,47,5,4920,Win,,,,,,,,,,,,,7,13,9,13,4,1230
