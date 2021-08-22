@@ -7695,3 +7695,43 @@ Match ID,Map ID,Event,Team,Opponent,Mode,Map,Player,Score,Kills,Deaths,K/D,Engag
 240,962,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,majormaniak,1000,10,7,1.4285714285714286,17,3,1581,Loss,,,,,,,2,0,0,1,1,158.1
 240,962,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Attach,215,3,9,0.3333333333333333,12,-6,997,Loss,,,,,,,1,0,0,0,0.3,99.7
 240,962,CDL Champs 2021,Minnesota ROKKR,Toronto Ultra,Search and Destroy,Moscow,Standy,775,6,9,0.6666666666666666,15,-3,1289,Loss,,,,,,,2,1,2,0,0.6,128.9
+241,963,CDL Champs 2021,Toronto Ultra,Dallas Empire,Hardpoint,Garrison,Bance,2115,21,25,0.84,46,-4,4039,Loss,64,21,9,0,12,22
+241,963,CDL Champs 2021,Toronto Ultra,Dallas Empire,Hardpoint,Garrison,Cammy,1290,12,23,0.5217391304347826,35,-11,3361,Loss,61,0,53,0,8,0
+241,963,CDL Champs 2021,Toronto Ultra,Dallas Empire,Hardpoint,Garrison,Insight,1350,18,19,0.9473684210526315,37,-1,4252,Loss,8,0,4,3,0,1
+241,963,CDL Champs 2021,Toronto Ultra,Dallas Empire,Hardpoint,Garrison,CleanX,1960,25,24,1.0416666666666667,49,1,4421,Loss,16,0,4,2,2,8
+241,963,CDL Champs 2021,Dallas Empire,Toronto Ultra,Hardpoint,Garrison,Vivid,1500,17,25,0.68,42,-8,3832,Win,57,18,14,6,12,7
+241,963,CDL Champs 2021,Dallas Empire,Toronto Ultra,Hardpoint,Garrison,Shotzzy,4445,27,18,1.5,45,9,4276,Win,75,19,15,2,33,6
+241,963,CDL Champs 2021,Dallas Empire,Toronto Ultra,Hardpoint,Garrison,C6,2280,23,16,1.4375,39,7,4256,Win,83,17,8,46,8,4
+241,963,CDL Champs 2021,Dallas Empire,Toronto Ultra,Hardpoint,Garrison,iLLeY,2785,24,17,1.411764705882353,41,7,4323,Win,61,14,0,42,5,0
+241,964,CDL Champs 2021,Toronto Ultra,Dallas Empire,Search and Destroy,Standoff,Bance,1215,7,6,1.1666666666666667,13,1,1305,Win,,,,,,,3,0,3,0,0.78,145
+241,964,CDL Champs 2021,Toronto Ultra,Dallas Empire,Search and Destroy,Standoff,Cammy,750,7,3,2.3333333333333335,10,4,1731,Win,,,,,,,2,1,0,0,0.78,192.33
+241,964,CDL Champs 2021,Toronto Ultra,Dallas Empire,Search and Destroy,Standoff,Insight,450,4,4,1,8,0,1371,Win,,,,,,,0,0,0,0,0.44,152.33
+241,964,CDL Champs 2021,Toronto Ultra,Dallas Empire,Search and Destroy,Standoff,CleanX,1490,10,6,1.6666666666666667,16,4,1666,Win,,,,,,,2,1,0,0,1.11,185.11
+241,964,CDL Champs 2021,Dallas Empire,Toronto Ultra,Search and Destroy,Standoff,Vivid,675,8,6,1.3333333333333333,14,2,1633,Loss,,,,,,,0,0,0,1,0.89,181.44
+241,964,CDL Champs 2021,Dallas Empire,Toronto Ultra,Search and Destroy,Standoff,Shotzzy,205,2,8,0.25,10,-6,859,Loss,,,,,,,0,5,0,0,0.22,95.44
+241,964,CDL Champs 2021,Dallas Empire,Toronto Ultra,Search and Destroy,Standoff,C6,300,5,8,0.625,13,-3,1118,Loss,,,,,,,2,0,0,0,0.56,124.22
+241,964,CDL Champs 2021,Dallas Empire,Toronto Ultra,Search and Destroy,Standoff,iLLeY,550,4,6,0.6666666666666666,10,-2,1325,Loss,,,,,,,0,2,0,0,0.44,147.22
+241,965,CDL Champs 2021,Toronto Ultra,Dallas Empire,Control,Raid,Bance,4425,36,29,1.2413793103448276,65,7,5313,Win,,,,,,,,,,,,,6,22,8,14,9,1062.6
+241,965,CDL Champs 2021,Toronto Ultra,Dallas Empire,Control,Raid,Cammy,8975,33,29,1.1379310344827587,62,4,6124,Win,,,,,,,,,,,,,11,27,10,6,2,1224.8
+241,965,CDL Champs 2021,Toronto Ultra,Dallas Empire,Control,Raid,Insight,4615,25,26,0.9615384615384616,51,-1,4705,Win,,,,,,,,,,,,,13,17,10,8,5,941
+241,965,CDL Champs 2021,Toronto Ultra,Dallas Empire,Control,Raid,CleanX,4065,26,36,0.7222222222222222,62,-10,5840,Win,,,,,,,,,,,,,11,15,5,11,7,1168
+241,965,CDL Champs 2021,Dallas Empire,Toronto Ultra,Control,Raid,Vivid,3590,38,30,1.2666666666666666,68,8,6077,Loss,,,,,,,,,,,,,3,17,8,21,9,1215.4
+241,965,CDL Champs 2021,Dallas Empire,Toronto Ultra,Control,Raid,Shotzzy,4275,31,30,1.0333333333333334,61,1,5169,Loss,,,,,,,,,,,,,7,18,10,13,6,1033.8
+241,965,CDL Champs 2021,Dallas Empire,Toronto Ultra,Control,Raid,C6,2395,26,34,0.7647058823529411,60,-8,5751,Loss,,,,,,,,,,,,,4,10,5,16,6,1150.2
+241,965,CDL Champs 2021,Dallas Empire,Toronto Ultra,Control,Raid,iLLeY,4725,25,26,0.9615384615384616,51,-1,4977,Loss,,,,,,,,,,,,,9,14,7,11,8,995.4
+241,966,CDL Champs 2021,Toronto Ultra,Dallas Empire,Hardpoint,Raid,Bance,2385,23,29,0.7931034482758621,52,-6,4272,Loss,114,20,28,9,19,38
+241,966,CDL Champs 2021,Toronto Ultra,Dallas Empire,Hardpoint,Raid,Cammy,2530,32,31,1.032258064516129,63,1,5198,Loss,64,6,29,13,14,2
+241,966,CDL Champs 2021,Toronto Ultra,Dallas Empire,Hardpoint,Raid,Insight,3260,24,22,1.0909090909090908,46,2,5053,Loss,118,0,26,81,9,2
+241,966,CDL Champs 2021,Toronto Ultra,Dallas Empire,Hardpoint,Raid,CleanX,2855,26,35,0.7428571428571429,61,-9,5697,Loss,67,3,23,7,19,15
+241,966,CDL Champs 2021,Dallas Empire,Toronto Ultra,Hardpoint,Raid,Vivid,3310,29,23,1.2608695652173914,52,6,4789,Win,93,19,4,25,3,42
+241,966,CDL Champs 2021,Dallas Empire,Toronto Ultra,Hardpoint,Raid,Shotzzy,3660,31,27,1.1481481481481481,58,4,5304,Win,73,44,13,0,13,3
+241,966,CDL Champs 2021,Dallas Empire,Toronto Ultra,Hardpoint,Raid,C6,2245,26,28,0.9285714285714286,54,-2,4354,Win,42,31,4,1,6,0
+241,966,CDL Champs 2021,Dallas Empire,Toronto Ultra,Hardpoint,Raid,iLLeY,4100,31,27,1.1481481481481481,58,4,6611,Win,92,37,5,0,50,0
+241,967,CDL Champs 2021,Toronto Ultra,Dallas Empire,Search and Destroy,Express,Bance,1175,8,4,2,12,4,1113,Win,,,,,,,3,0,2,1,0.89,123.67
+241,967,CDL Champs 2021,Toronto Ultra,Dallas Empire,Search and Destroy,Express,Cammy,790,6,3,2,9,3,1065,Win,,,,,,,1,2,0,1,0.67,118.33
+241,967,CDL Champs 2021,Toronto Ultra,Dallas Empire,Search and Destroy,Express,Insight,1365,9,2,4.5,11,7,1670,Win,,,,,,,2,0,0,1,1,185.56
+241,967,CDL Champs 2021,Toronto Ultra,Dallas Empire,Search and Destroy,Express,CleanX,750,6,4,1.5,10,2,1403,Win,,,,,,,1,0,1,0,0.67,155.89
+241,967,CDL Champs 2021,Dallas Empire,Toronto Ultra,Search and Destroy,Express,Vivid,350,2,8,0.25,10,-6,863,Loss,,,,,,,0,3,2,0,0.22,95.89
+241,967,CDL Champs 2021,Dallas Empire,Toronto Ultra,Search and Destroy,Express,Shotzzy,750,8,7,1.1428571428571428,15,1,1506,Loss,,,,,,,1,1,2,0,0.89,167.33
+241,967,CDL Champs 2021,Dallas Empire,Toronto Ultra,Search and Destroy,Express,C6,260,3,7,0.42857142857142855,10,-4,1513,Loss,,,,,,,1,1,0,0,0.33,168.11
+241,967,CDL Champs 2021,Dallas Empire,Toronto Ultra,Search and Destroy,Express,iLLeY,150,0,7,0,7,-7,545,Loss,,,,,,,0,2,0,1,0,60.56
